@@ -11,6 +11,9 @@ Class MainController {
             case 'single':
                 self::single();
                 break;
+            case 'horario':
+                echod(date('Y-m-d H:i:s'));
+                break;
             default:
                 die('permissao bloqueada');
                 break;

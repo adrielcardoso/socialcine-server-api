@@ -11,7 +11,7 @@ header("Access-Control-Allow-Headers:origin, content-type, accept, api-key, api-
 header("Access-Control-Allow-Methods:POST, GET, PUT, DELETE, OPTIONS");
 header("Access-Control-Allow-Origin: *");
 header("Access-Control-Allow-Credentials: true");
-date_default_timezone_set("Brazil/East");
+date_default_timezone_set('UTC');
 set_time_limit(0);
 
 new MainController();
