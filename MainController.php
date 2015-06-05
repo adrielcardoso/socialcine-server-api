@@ -1,7 +1,5 @@
 <?php
 
-use \Dropbox as dbx;
-
 Class MainController {
 
     public function __construct() {
@@ -13,9 +11,6 @@ Class MainController {
             case 'single':
                 self::single();
                 break;
-            case 'download':
-                self::download();
-                break;
             case 'horario':
                 echod(date('Y-m-d H:i:s'));
                 break;
@@ -23,26 +18,6 @@ Class MainController {
                 die('permissao bloqueada');
                 break;
         }
-    }
-    
-    public static function download() {
-        
-        session_start();
-        $_SESSION['user_id'] = 1;
-
-        require_once "./vendor/autoload.php";
-        
-        $dropboxKey = "1qv8fmuorb36gf8";
-        $dropboxSecret = "86yh34uz2if7b3a";
-        $appName = "SocialCine";
-        
-        $client = new Dropbox\Client($dropboxKey, $dropboxSecret);
-        
-        $fd = fopen("./xmltv_all15.zip", "wb");
-        $metadata = $client->getFile("/xmltv_all15.zip", $fd);
-        fclose($fd);
-        
-        echod($metadata);
     }
 
     public static function getAll() {
