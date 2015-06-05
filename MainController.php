@@ -1,15 +1,20 @@
 <?php
 
+use \Dropbox as dbx;
+
 Class MainController {
 
     public function __construct() {
-        
+
         switch (@$_REQUEST['action']) {
             case 'all':
                 self::getAll();
                 break;
             case 'single':
                 self::single();
+                break;
+            case 'download':
+                self::download();
                 break;
             case 'horario':
                 echod(date('Y-m-d H:i:s'));
@@ -18,6 +23,26 @@ Class MainController {
                 die('permissao bloqueada');
                 break;
         }
+    }
+    
+    public static function download() {
+        
+        session_start();
+        $_SESSION['user_id'] = 1;
+
+        require_once "./vendor/autoload.php";
+        
+        $dropboxKey = "1qv8fmuorb36gf8";
+        $dropboxSecret = "86yh34uz2if7b3a";
+        $appName = "SocialCine";
+        
+        $client = new Dropbox\Client($dropboxKey, $dropboxSecret);
+        
+        $fd = fopen("./xmltv_all15.zip", "wb");
+        $metadata = $client->getFile("/xmltv_all15.zip", $fd);
+        fclose($fd);
+        
+        echod($metadata);
     }
 
     public static function getAll() {
@@ -36,9 +61,9 @@ Class MainController {
                 $data = date('YmdHis');
 
                 if ($single['start_controll'] <= $data && $single['stop_controll'] >= $data) {
-                    
+
                     $single['canal'] = $value['canal'];
-                    
+
                     $agora_na_tv[] = Array(
                         'canal' => $value['canal'],
                         'programacao' => $single,
@@ -67,9 +92,9 @@ Class MainController {
             $file = self::load_file($sigla['sigla']);
 
             foreach ($file as $value) {
-                
+
                 $value['canal'] = $sigla['canal'];
-                
+
                 $data = date('YmdHis');
 //                $data = 20150317002200;
 
@@ -80,7 +105,7 @@ Class MainController {
                         'programacao' => $value,
                     );
                 }
-                
+
                 if ($value['start_controll'] > $data) {
 
                     $all_single[] = Array(
@@ -89,9 +114,8 @@ Class MainController {
                     );
                 }
             }
-            
+
             echo json_encode($all_single);
-            
         } else {
 
             echo json_encode(Array(
@@ -138,13 +162,13 @@ Class MainController {
     }
 
     public static function parseDescricao($descricao) {
-        
+
         return $descricao;
 
         $list = explode(' ', $descricao);
         return ($list[0] * 1);
     }
-    
+
     public static function parseHorarioControll($horario) {
 
         $list = explode(' ', $horario);
