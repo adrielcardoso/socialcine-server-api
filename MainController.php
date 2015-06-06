@@ -38,6 +38,9 @@ Class MainController {
                 if ($single['start_controll'] <= $data && $single['stop_controll'] >= $data) {
 
                     $single['canal'] = $value['canal'];
+                    $single['percentual'] = self::parsePersentual($single['start_controll'], $single['stop_controll']);
+                    
+                    //'percentual' => self::parsePersentual(self::xml_attribute($item, 'start'), self::xml_attribute($item, 'stop')),
 
                     $agora_na_tv[] = Array(
                         'canal' => $value['canal'],
@@ -134,6 +137,37 @@ Class MainController {
         }
 
         return $array;
+    }
+
+    public static function parsePersentual($start, $stop) {
+
+        $start = explode(' ', $start);
+        $stop = explode(' ', $stop);
+
+        $iniciando['hora'] = substr($start[0], 8, 2);
+        $iniciando['minuto'] = substr($start[0], 10, 2);
+
+        $final['hora'] = substr($stop[0], 8, 2);
+        $final['minuto'] = substr($stop[0], 10, 2);
+
+        $tempo = (date('H') . date('i'));
+
+        $tempoEstimado = (($final['hora'] . $final['minuto']) - ($iniciando['hora'] . $iniciando['minuto']));
+        $tempoQueFaltaParaTerminar = (($final['hora'] . $final['minuto']) - $tempo);
+
+        if ($tempoEstimado > $tempoQueFaltaParaTerminar) {
+            $tempoquepassou = ($tempoEstimado - $tempoQueFaltaParaTerminar);
+        } else {
+            $tempoquepassou = ($tempoQueFaltaParaTerminar - $tempoEstimado);
+        }
+
+        $porcentagem = ((100 * $tempoquepassou) / $tempoEstimado);
+
+        if ($porcentagem < 0) {
+            $porcentagem = str_replace('-', '', $porcentagem);
+        }
+
+        return $porcentagem;
     }
 
     public static function parseDescricao($descricao) {
