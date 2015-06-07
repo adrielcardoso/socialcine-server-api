@@ -4,1729 +4,6 @@
 <display-name lang="pt">RCTV - João Pessoa</display-name>
 <icon src="rct.gif" />
 </channel>
-<programme start="20150603001000 -0300" stop="20150603004000 -0300" channel="RCT" program_id="0000294390" event_id="00000000000096634004" series_key="00000000073209000000">
-<title lang="pt">Jornal da Correio</title>
-<desc>Acontecimentos Paraibanos, registrados no Jornal da Correio.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000073209.jpg</image_name>
-<image_broadcast>00000000073209</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603004000 -0300" stop="20150603012000 -0300" channel="RCT" program_id="0000378989" event_id="00000000000096634005" series_key="00000000075062000000">
-<title lang="pt">Abelardo Jurema</title>
-<desc>Programa Abelardo Jurema é um programa de entrevistas que traz gente que faz e acontece no nosso estado. Curiosidades, detalhes, dicas e histórias de sucesso de pessoas que criaram uma forma única de se destacar dentro do mundo dos negócios.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075062.jpg</image_name>
-<image_broadcast>00000000075062</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603012000 -0300" stop="20150603022000 -0300" channel="RCT" program_id="0000376982" event_id="00000000000096634006" series_key="">
-<title lang="pt">Gerardo Rabello</title>
-<desc>Programa interativo e clean, que vai prender a atenção do telespectador.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">0000376982.jpg</image_name>
-<image_broadcast>0000376982</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603022000 -0300" stop="20150603032000 -0300" channel="RCT" program_id="0000327657" event_id="00000000000096634007" series_key="00000000073060000000">
-<title lang="pt">27 Segundos</title>
-<desc></desc>
-<credits>
-<actor>Hermes de Luna</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000073060.jpg</image_name>
-<image_broadcast>00000000073060</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603032000 -0300" stop="20150603034000 -0300" channel="RCT" program_id="0000327676" event_id="00000000000096634008" series_key="00000000075082000000">
-<title lang="pt">Rede Esporte</title>
-<desc>Apresentado por Paulo Neto, o Rede Esportes exibe matérias e notícias sobre diversas modalidades esportivas, entrevistas exclusivas com personalidades do esporte do cenário local e nacional.</desc>
-<date>2014</date>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000075082.jpg</image_name>
-<image_broadcast>00000000075082</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603034000 -0300" stop="20150603035000 -0300" channel="RCT" program_id="0000391549" event_id="00000000000096634009" series_key="00000000073680000000">
-<title lang="pt">Despertar</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000073680.jpg</image_name>
-<image_broadcast>00000000073680</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603035000 -0300" stop="20150603041000 -0300" channel="RCT" program_id="0000327671" event_id="00000000000096634010" series_key="00000000073210000000">
-<title lang="pt">Notícia Da Hora</title>
-<desc>Jornalismo em tempo real.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000073210.jpg</image_name>
-<image_broadcast>00000000073210</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603041000 -0300" stop="20150603044000 -0300" channel="RCT" program_id="0000327670" event_id="00000000000096634011" series_key="00000000075077000000">
-<title lang="pt">Happy Hour</title>
-<desc>Um programa dinâmico e alegre que recebe diariamente vários convidados para trocar ideias e conversar sobre temas como comportamento, eventos e atualidades.</desc>
-<credits>
-<actor>Erick von Sohsten</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000075077.jpg</image_name>
-<image_broadcast>00000000075077</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603044000 -0300" stop="20150603052000 -0300" channel="RCT" program_id="0000327664" event_id="00000000000096634012" series_key="00000000075059000000">
-<title lang="pt">Cá Entre Nós</title>
-<desc>O programa traz a cobertura das maiores festas e eventos da sociedade paraibana e conversa com as principais personalidades. Além de curiosidades, matérias sobre atualidades, saúde e comportamento.</desc>
-<credits>
-<actor>Rose Silveira</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000075059.jpg</image_name>
-<image_broadcast>00000000075059</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603052000 -0300" stop="20150603055900 -0300" channel="RCT" program_id="0000401169" event_id="00000000000096634013" series_key="00000000075078000000">
-<title lang="pt">Momento De Luz</title>
-<desc>É um programa voltado para evangelização, levando a mensagem do Cristo ressucitado para as famílias paraibanas.</desc>
-<credits>
-<actor>Pe. Nilson Nunes</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">00000000075078.jpg</image_name>
-<image_broadcast>00000000075078</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603055900 -0300" stop="20150603060000 -0300" channel="RCT" program_id="0000327667" event_id="00000000000096634014" series_key="00000000075065000000">
-<title lang="pt">Clip De Abertura</title>
-<desc>Programa Clip de Abertura.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000075065.jpg</image_name>
-<image_broadcast>00000000075065</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603060000 -0300" stop="20150603061500 -0300" channel="RCT" program_id="0000280763" event_id="00000000000096634015" series_key="00000000070993000000">
-<title lang="pt">Sinais do Sagrado</title>
-<desc>São 15 minutos promovendo um momento forte de oração, onde o Padre Reginaldo Manzotti, faz a leitura do Santo Evangelho.</desc>
-<date>2012</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">00000000070993.jpg</image_name>
-<image_broadcast>00000000070993</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603061500 -0300" stop="20150603071500 -0300" channel="RCT" program_id="0000327669" event_id="00000000000096634016" series_key="">
-<title lang="pt">Evangeliza Show</title>
-<desc>O padre Reginaldo Manzotti recebe músicos convidados e especialistas para debater diversos assuntos, esclarecendo dúvidas dos telespectadores sobre os pontos da fé cristã que muitas vezes geram o afastamento dos fiéis da Igreja.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000327669.jpg</image_name>
-<image_broadcast>0000327669</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603071500 -0300" stop="20150603073000 -0300" channel="RCT" program_id="0000376989" event_id="00000000000096634017" series_key="">
-<title lang="pt">Músicas Da Fé</title>
-<desc>Músicas religiosas, um programa diferente.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000376989.jpg</image_name>
-<image_broadcast>0000376989</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603073000 -0300" stop="20150603080000 -0300" channel="RCT" program_id="0000327668" event_id="00000000000096634018" series_key="">
-<title lang="pt">Contemporâneo</title>
-<desc>Com muita criatividade e experiência, o arquiteto e artista plástico, Jonas Lourenço apresenta os principais projetos de arquitetura, decoração, paisagismo e dicas com as tendências do mercado.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000327668.jpg</image_name>
-<image_broadcast>0000327668</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603080000 -0300" stop="20150603081500 -0300" channel="RCT" program_id="0000391549" event_id="00000000000096634019" series_key="00000000073680000000">
-<title lang="pt">Despertar</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000073680.jpg</image_name>
-<image_broadcast>00000000073680</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603081500 -0300" stop="20150603083000 -0300" channel="RCT" program_id="0000377017" event_id="00000000000096634020" series_key="00000000075079000000">
-<title lang="pt">Rc Mix</title>
-<desc>Programete onde o telespectador fica por dentro de tudo que acontece no mundo da música.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000075079.jpg</image_name>
-<image_broadcast>00000000075079</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603083000 -0300" stop="20150603090000 -0300" channel="RCT" program_id="0000327678" event_id="00000000000096634021" series_key="00000000075086000000">
-<title lang="pt">TPM</title>
-<desc>Amanda Melo, Milena Neves comandam um bate-papo pra lá de divertido sobre o dia-a-dia da sociedade paraibana com muito humor e irreverência.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000075086.jpg</image_name>
-<image_broadcast>00000000075086</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603090000 -0300" stop="20150603095000 -0300" channel="RCT" program_id="0000327664" event_id="00000000000096634022" series_key="00000000075059000000">
-<title lang="pt">Cá Entre Nós</title>
-<desc>O programa traz a cobertura das maiores festas e eventos da sociedade paraibana e conversa com as principais personalidades. Além de curiosidades, matérias sobre atualidades, saúde e comportamento.</desc>
-<credits>
-<actor>Rose Silveira</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000075059.jpg</image_name>
-<image_broadcast>00000000075059</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603095000 -0300" stop="20150603103000 -0300" channel="RCT" program_id="0000378989" event_id="00000000000096634023" series_key="00000000075062000000">
-<title lang="pt">Abelardo Jurema</title>
-<desc>Programa Abelardo Jurema é um programa de entrevistas que traz gente que faz e acontece no nosso estado. Curiosidades, detalhes, dicas e histórias de sucesso de pessoas que criaram uma forma única de se destacar dentro do mundo dos negócios.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075062.jpg</image_name>
-<image_broadcast>00000000075062</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603103000 -0300" stop="20150603110000 -0300" channel="RCT" program_id="0000327673" event_id="00000000000096634024" series_key="">
-<title lang="pt">Pensando Em Moda</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000327673.jpg</image_name>
-<image_broadcast>0000327673</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603110000 -0300" stop="20150603120000 -0300" channel="RCT" program_id="0000376982" event_id="00000000000096634025" series_key="">
-<title lang="pt">Gerardo Rabello</title>
-<desc>Programa interativo e clean, que vai prender a atenção do telespectador.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">0000376982.jpg</image_name>
-<image_broadcast>0000376982</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603120000 -0300" stop="20150603130000 -0300" channel="RCT" program_id="0000327657" event_id="00000000000096634026" series_key="00000000073060000000">
-<title lang="pt">27 Segundos</title>
-<desc></desc>
-<credits>
-<actor>Hermes de Luna</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000073060.jpg</image_name>
-<image_broadcast>00000000073060</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603130000 -0300" stop="20150603132000 -0300" channel="RCT" program_id="0000327676" event_id="00000000000096634027" series_key="00000000075082000000">
-<title lang="pt">Rede Esporte</title>
-<desc>Apresentado por Paulo Neto, o Rede Esportes exibe matérias e notícias sobre diversas modalidades esportivas, entrevistas exclusivas com personalidades do esporte do cenário local e nacional.</desc>
-<date>2014</date>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000075082.jpg</image_name>
-<image_broadcast>00000000075082</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603132000 -0300" stop="20150603133000 -0300" channel="RCT" program_id="0000377017" event_id="00000000000096634028" series_key="00000000075079000000">
-<title lang="pt">Rc Mix</title>
-<desc>Programete onde o telespectador fica por dentro de tudo que acontece no mundo da música.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000075079.jpg</image_name>
-<image_broadcast>00000000075079</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603133000 -0300" stop="20150603140000 -0300" channel="RCT" program_id="0000327681" event_id="00000000000096634029" series_key="00000000075087000000">
-<title lang="pt">Vida Arretada</title>
-<desc>Embarque no programa Vida Arretada e acompanhe viagens, histórias e relatos sobre aventuras ao redor do mundo. Dicas preciosas de um casal que ama viajar e que escolheu compartilhar tudo isso com você.</desc>
-<credits>
-<actor>José Vieira Neto</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Viagem</category>
-<image>
-<image_name position="1">00000000075087.jpg</image_name>
-<image_broadcast>00000000075087</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603140000 -0300" stop="20150603143000 -0300" channel="RCT" program_id="0000327668" event_id="00000000000096634030" series_key="">
-<title lang="pt">Contemporâneo</title>
-<desc>Com muita criatividade e experiência, o arquiteto e artista plástico, Jonas Lourenço apresenta os principais projetos de arquitetura, decoração, paisagismo e dicas com as tendências do mercado.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000327668.jpg</image_name>
-<image_broadcast>0000327668</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603143000 -0300" stop="20150603150000 -0300" channel="RCT" program_id="0000297332" event_id="00000000000096634031" series_key="00000000073673000000">
-<title lang="pt">PB Tem</title>
-<desc>O PB Tem é uma iniciativa da FIEP, com o apoio do SESI e SENAI, produzido e dirigido pela JTP Agência.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">00000000073673.jpg</image_name>
-<image_broadcast>00000000073673</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603150000 -0300" stop="20150603155000 -0300" channel="RCT" program_id="0000294394" event_id="00000000000096634032" series_key="00000000073671000000">
-<title lang="pt">Mulher Demais</title>
-<desc>Direcionado ao público feminino, o programa Mulher Demais aborda assuntos como: moda, sexo, comportamento, decoração, saúde, beleza, estética, turismo, celebridades e muito mais.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Moda e Estilo</category>
-<image>
-<image_name position="1">00000000073671.jpg</image_name>
-<image_broadcast>00000000073671</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603155000 -0300" stop="20150603160000 -0300" channel="RCT" program_id="0000391549" event_id="00000000000096634033" series_key="00000000073680000000">
-<title lang="pt">Despertar</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000073680.jpg</image_name>
-<image_broadcast>00000000073680</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603160000 -0300" stop="20150603163000 -0300" channel="RCT" program_id="0000294514" event_id="00000000000096634034" series_key="00000000073206000000">
-<title lang="pt">Correio Cidades</title>
-<desc>As notícias de sua cidade são destaque nesse telejornal.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000073206.jpg</image_name>
-<image_broadcast>00000000073206</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603163000 -0300" stop="20150603170000 -0300" channel="RCT" program_id="0000327678" event_id="00000000000096634035" series_key="00000000075086000000">
-<title lang="pt">TPM</title>
-<desc>Amanda Melo, Milena Neves comandam um bate-papo pra lá de divertido sobre o dia-a-dia da sociedade paraibana com muito humor e irreverência.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000075086.jpg</image_name>
-<image_broadcast>00000000075086</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603170000 -0300" stop="20150603171500 -0300" channel="RCT" program_id="0000376989" event_id="00000000000096634036" series_key="">
-<title lang="pt">Músicas Da Fé</title>
-<desc>Músicas religiosas, um programa diferente.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000376989.jpg</image_name>
-<image_broadcast>0000376989</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603171500 -0300" stop="20150603173000 -0300" channel="RCT" program_id="0000280763" event_id="00000000000096634037" series_key="00000000070993000000">
-<title lang="pt">Sinais do Sagrado</title>
-<desc>São 15 minutos promovendo um momento forte de oração, onde o Padre Reginaldo Manzotti, faz a leitura do Santo Evangelho.</desc>
-<date>2012</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">00000000070993.jpg</image_name>
-<image_broadcast>00000000070993</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603173000 -0300" stop="20150603180000 -0300" channel="RCT" program_id="0000334971" event_id="00000000000096634038" series_key="00000000073207000000">
-<title lang="pt">Correio da Tarde</title>
-<desc>Unindo jornalismo interativo à credibilidade e responsabilidade no tratamento da informação, a produção será o grande diferencial entre os programas já existentes na grade local por promover a interatividade com o público.</desc>
-<credits>
-<actor>Eugênia Victal</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000073207.jpg</image_name>
-<image_broadcast>00000000073207</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603180000 -0300" stop="20150603183000 -0300" channel="RCT" program_id="0000327670" event_id="00000000000096634039" series_key="00000000075077000000">
-<title lang="pt">Happy Hour</title>
-<desc>Um programa dinâmico e alegre que recebe diariamente vários convidados para trocar ideias e conversar sobre temas como comportamento, eventos e atualidades.</desc>
-<credits>
-<actor>Erick von Sohsten</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000075077.jpg</image_name>
-<image_broadcast>00000000075077</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603183000 -0300" stop="20150603184500 -0300" channel="RCT" program_id="0000327671" event_id="00000000000096634040" series_key="00000000073210000000">
-<title lang="pt">Notícia Da Hora</title>
-<desc>Jornalismo em tempo real.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000073210.jpg</image_name>
-<image_broadcast>00000000073210</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603184500 -0300" stop="20150603192500 -0300" channel="RCT" program_id="0000378989" event_id="00000000000096634041" series_key="00000000075062000000">
-<title lang="pt">Abelardo Jurema</title>
-<desc>Programa Abelardo Jurema é um programa de entrevistas que traz gente que faz e acontece no nosso estado. Curiosidades, detalhes, dicas e histórias de sucesso de pessoas que criaram uma forma única de se destacar dentro do mundo dos negócios.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075062.jpg</image_name>
-<image_broadcast>00000000075062</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603192500 -0300" stop="20150603194500 -0300" channel="RCT" program_id="0000327676" event_id="00000000000096634042" series_key="00000000075082000000">
-<title lang="pt">Rede Esporte</title>
-<desc>Apresentado por Paulo Neto, o Rede Esportes exibe matérias e notícias sobre diversas modalidades esportivas, entrevistas exclusivas com personalidades do esporte do cenário local e nacional.</desc>
-<date>2014</date>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000075082.jpg</image_name>
-<image_broadcast>00000000075082</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603194500 -0300" stop="20150603200000 -0300" channel="RCT" program_id="0000391549" event_id="00000000000096634043" series_key="00000000073680000000">
-<title lang="pt">Despertar</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000073680.jpg</image_name>
-<image_broadcast>00000000073680</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603200000 -0300" stop="20150603210000 -0300" channel="RCT" program_id="0000376982" event_id="00000000000096634044" series_key="">
-<title lang="pt">Gerardo Rabello</title>
-<desc>Programa interativo e clean, que vai prender a atenção do telespectador.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">0000376982.jpg</image_name>
-<image_broadcast>0000376982</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603210000 -0300" stop="20150603220000 -0300" channel="RCT" program_id="0000327657" event_id="00000000000096634045" series_key="00000000073060000000">
-<title lang="pt">27 Segundos</title>
-<desc></desc>
-<credits>
-<actor>Hermes de Luna</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000073060.jpg</image_name>
-<image_broadcast>00000000073060</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603220000 -0300" stop="20150603223000 -0300" channel="RCT" program_id="0000327665" event_id="00000000000096634046" series_key="00000000075064000000">
-<title lang="pt">Café Com Direito</title>
-<desc>O programa tem o objetivo de fomentar o comportamento cidadão a partir da divulgação de informações jurídicas de forma simples, utilizando uma linguagem clara e objetiva de modo a aproximar o mundo jurídico da população.</desc>
-<credits>
-<actor>Sheila Sodré</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">00000000075064.jpg</image_name>
-<image_broadcast>00000000075064</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603223000 -0300" stop="20150603230000 -0300" channel="RCT" program_id="0000327681" event_id="00000000000096634047" series_key="00000000075087000000">
-<title lang="pt">Vida Arretada</title>
-<desc>Embarque no programa Vida Arretada e acompanhe viagens, histórias e relatos sobre aventuras ao redor do mundo. Dicas preciosas de um casal que ama viajar e que escolheu compartilhar tudo isso com você.</desc>
-<credits>
-<actor>José Vieira Neto</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Viagem</category>
-<image>
-<image_name position="1">00000000075087.jpg</image_name>
-<image_broadcast>00000000075087</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603230000 -0300" stop="20150603232000 -0300" channel="RCT" program_id="0000391548" event_id="00000000000096634048" series_key="">
-<title lang="pt">Conta Mais</title>
-<desc>O programa Conta+ aborda tudo sobre o cenário econômico, administração financeira, consultoria e coaching empresarial. Tudo de uma maneira acessível para deixar o telespectador bem informado.</desc>
-<credits>
-<actor>Rodrigo Leone</actor>
-</credits>
-<category lang="pt">Variedades</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000391548.jpg</image_name>
-<image_broadcast>0000391548</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603232000 -0300" stop="20150603235000 -0300" channel="RCT" program_id="0000294390" event_id="00000000000096634049" series_key="00000000073209000000">
-<title lang="pt">Jornal da Correio</title>
-<desc>Acontecimentos Paraibanos, registrados no Jornal da Correio.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000073209.jpg</image_name>
-<image_broadcast>00000000073209</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603235000 -0300" stop="20150604003000 -0300" channel="RCT" program_id="0000378989" event_id="00000000000096634050" series_key="00000000075062000000">
-<title lang="pt">Abelardo Jurema</title>
-<desc>Programa Abelardo Jurema é um programa de entrevistas que traz gente que faz e acontece no nosso estado. Curiosidades, detalhes, dicas e histórias de sucesso de pessoas que criaram uma forma única de se destacar dentro do mundo dos negócios.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075062.jpg</image_name>
-<image_broadcast>00000000075062</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604003000 -0300" stop="20150604013000 -0300" channel="RCT" program_id="0000376982" event_id="00000000000096634051" series_key="">
-<title lang="pt">Gerardo Rabello</title>
-<desc>Programa interativo e clean, que vai prender a atenção do telespectador.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">0000376982.jpg</image_name>
-<image_broadcast>0000376982</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604013000 -0300" stop="20150604023000 -0300" channel="RCT" program_id="0000327657" event_id="00000000000096634052" series_key="00000000073060000000">
-<title lang="pt">27 Segundos</title>
-<desc></desc>
-<credits>
-<actor>Hermes de Luna</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000073060.jpg</image_name>
-<image_broadcast>00000000073060</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604023000 -0300" stop="20150604025000 -0300" channel="RCT" program_id="0000327676" event_id="00000000000096634053" series_key="00000000075082000000">
-<title lang="pt">Rede Esporte</title>
-<desc>Apresentado por Paulo Neto, o Rede Esportes exibe matérias e notícias sobre diversas modalidades esportivas, entrevistas exclusivas com personalidades do esporte do cenário local e nacional.</desc>
-<date>2014</date>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000075082.jpg</image_name>
-<image_broadcast>00000000075082</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604025000 -0300" stop="20150604030500 -0300" channel="RCT" program_id="0000391549" event_id="00000000000096634054" series_key="00000000073680000000">
-<title lang="pt">Despertar</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000073680.jpg</image_name>
-<image_broadcast>00000000073680</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604030500 -0300" stop="20150604032000 -0300" channel="RCT" program_id="0000327671" event_id="00000000000096634055" series_key="00000000073210000000">
-<title lang="pt">Notícia Da Hora</title>
-<desc>Jornalismo em tempo real.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000073210.jpg</image_name>
-<image_broadcast>00000000073210</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604032000 -0300" stop="20150604035000 -0300" channel="RCT" program_id="0000327670" event_id="00000000000096634056" series_key="00000000075077000000">
-<title lang="pt">Happy Hour</title>
-<desc>Um programa dinâmico e alegre que recebe diariamente vários convidados para trocar ideias e conversar sobre temas como comportamento, eventos e atualidades.</desc>
-<credits>
-<actor>Erick von Sohsten</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000075077.jpg</image_name>
-<image_broadcast>00000000075077</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604035000 -0300" stop="20150604042000 -0300" channel="RCT" program_id="0000327665" event_id="00000000000096634057" series_key="00000000075064000000">
-<title lang="pt">Café Com Direito</title>
-<desc>O programa tem o objetivo de fomentar o comportamento cidadão a partir da divulgação de informações jurídicas de forma simples, utilizando uma linguagem clara e objetiva de modo a aproximar o mundo jurídico da população.</desc>
-<credits>
-<actor>Sheila Sodré</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">00000000075064.jpg</image_name>
-<image_broadcast>00000000075064</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604042000 -0300" stop="20150604050000 -0300" channel="RCT" program_id="0000327664" event_id="00000000000096634058" series_key="00000000075059000000">
-<title lang="pt">Cá Entre Nós</title>
-<desc>O programa traz a cobertura das maiores festas e eventos da sociedade paraibana e conversa com as principais personalidades. Além de curiosidades, matérias sobre atualidades, saúde e comportamento.</desc>
-<credits>
-<actor>Rose Silveira</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000075059.jpg</image_name>
-<image_broadcast>00000000075059</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604050000 -0300" stop="20150604055900 -0300" channel="RCT" program_id="0000327666" event_id="00000000000096634059" series_key="00000000073675000000">
-<title lang="pt">Cantos E Contos</title>
-<desc>Entrevistas e muita música com a participação de vários artistas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000073675.jpg</image_name>
-<image_broadcast>00000000073675</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604055900 -0300" stop="20150604060000 -0300" channel="RCT" program_id="0000327667" event_id="00000000000096634060" series_key="00000000075065000000">
-<title lang="pt">Clip De Abertura</title>
-<desc>Programa Clip de Abertura.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000075065.jpg</image_name>
-<image_broadcast>00000000075065</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604060000 -0300" stop="20150604061500 -0300" channel="RCT" program_id="0000280763" event_id="00000000000096634061" series_key="00000000070993000000">
-<title lang="pt">Sinais do Sagrado</title>
-<desc>São 15 minutos promovendo um momento forte de oração, onde o Padre Reginaldo Manzotti, faz a leitura do Santo Evangelho.</desc>
-<date>2012</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">00000000070993.jpg</image_name>
-<image_broadcast>00000000070993</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604061500 -0300" stop="20150604071500 -0300" channel="RCT" program_id="0000327669" event_id="00000000000096634062" series_key="">
-<title lang="pt">Evangeliza Show</title>
-<desc>O padre Reginaldo Manzotti recebe músicos convidados e especialistas para debater diversos assuntos, esclarecendo dúvidas dos telespectadores sobre os pontos da fé cristã que muitas vezes geram o afastamento dos fiéis da Igreja.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000327669.jpg</image_name>
-<image_broadcast>0000327669</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604071500 -0300" stop="20150604073000 -0300" channel="RCT" program_id="0000377017" event_id="00000000000096634063" series_key="00000000075079000000">
-<title lang="pt">Rc Mix</title>
-<desc>Programete onde o telespectador fica por dentro de tudo que acontece no mundo da música.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000075079.jpg</image_name>
-<image_broadcast>00000000075079</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604073000 -0300" stop="20150604080000 -0300" channel="RCT" program_id="0000327678" event_id="00000000000096634064" series_key="00000000075086000000">
-<title lang="pt">TPM</title>
-<desc>Amanda Melo, Milena Neves comandam um bate-papo pra lá de divertido sobre o dia-a-dia da sociedade paraibana com muito humor e irreverência.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000075086.jpg</image_name>
-<image_broadcast>00000000075086</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604080000 -0300" stop="20150604081500 -0300" channel="RCT" program_id="0000391549" event_id="00000000000096634065" series_key="00000000073680000000">
-<title lang="pt">Despertar</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000073680.jpg</image_name>
-<image_broadcast>00000000073680</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604081500 -0300" stop="20150604083000 -0300" channel="RCT" program_id="0000376989" event_id="00000000000096634066" series_key="">
-<title lang="pt">Músicas Da Fé</title>
-<desc>Músicas religiosas, um programa diferente.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000376989.jpg</image_name>
-<image_broadcast>0000376989</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604083000 -0300" stop="20150604090000 -0300" channel="RCT" program_id="0000401169" event_id="00000000000096634067" series_key="00000000075078000000">
-<title lang="pt">Momento De Luz</title>
-<desc>É um programa voltado para evangelização, levando a mensagem do Cristo ressucitado para as famílias paraibanas.</desc>
-<credits>
-<actor>Pe. Nilson Nunes</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">00000000075078.jpg</image_name>
-<image_broadcast>00000000075078</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604090000 -0300" stop="20150604093000 -0300" channel="RCT" program_id="0000327665" event_id="00000000000096634068" series_key="00000000075064000000">
-<title lang="pt">Café Com Direito</title>
-<desc>O programa tem o objetivo de fomentar o comportamento cidadão a partir da divulgação de informações jurídicas de forma simples, utilizando uma linguagem clara e objetiva de modo a aproximar o mundo jurídico da população.</desc>
-<credits>
-<actor>Sheila Sodré</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">00000000075064.jpg</image_name>
-<image_broadcast>00000000075064</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604093000 -0300" stop="20150604095000 -0300" channel="RCT" program_id="0000391548" event_id="00000000000096634069" series_key="">
-<title lang="pt">Conta Mais</title>
-<desc>O programa Conta+ aborda tudo sobre o cenário econômico, administração financeira, consultoria e coaching empresarial. Tudo de uma maneira acessível para deixar o telespectador bem informado.</desc>
-<credits>
-<actor>Rodrigo Leone</actor>
-</credits>
-<category lang="pt">Variedades</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000391548.jpg</image_name>
-<image_broadcast>0000391548</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604095000 -0300" stop="20150604103000 -0300" channel="RCT" program_id="0000378989" event_id="00000000000096634070" series_key="00000000075062000000">
-<title lang="pt">Abelardo Jurema</title>
-<desc>Programa Abelardo Jurema é um programa de entrevistas que traz gente que faz e acontece no nosso estado. Curiosidades, detalhes, dicas e histórias de sucesso de pessoas que criaram uma forma única de se destacar dentro do mundo dos negócios.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075062.jpg</image_name>
-<image_broadcast>00000000075062</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604103000 -0300" stop="20150604110000 -0300" channel="RCT" program_id="0000327668" event_id="00000000000096634071" series_key="">
-<title lang="pt">Contemporâneo</title>
-<desc>Com muita criatividade e experiência, o arquiteto e artista plástico, Jonas Lourenço apresenta os principais projetos de arquitetura, decoração, paisagismo e dicas com as tendências do mercado.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000327668.jpg</image_name>
-<image_broadcast>0000327668</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604110000 -0300" stop="20150604120000 -0300" channel="RCT" program_id="0000376982" event_id="00000000000096634072" series_key="">
-<title lang="pt">Gerardo Rabello</title>
-<desc>Programa interativo e clean, que vai prender a atenção do telespectador.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">0000376982.jpg</image_name>
-<image_broadcast>0000376982</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604120000 -0300" stop="20150604130000 -0300" channel="RCT" program_id="0000327657" event_id="00000000000096634073" series_key="00000000073060000000">
-<title lang="pt">27 Segundos</title>
-<desc></desc>
-<credits>
-<actor>Hermes de Luna</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000073060.jpg</image_name>
-<image_broadcast>00000000073060</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604130000 -0300" stop="20150604132000 -0300" channel="RCT" program_id="0000327676" event_id="00000000000096634074" series_key="00000000075082000000">
-<title lang="pt">Rede Esporte</title>
-<desc>Apresentado por Paulo Neto, o Rede Esportes exibe matérias e notícias sobre diversas modalidades esportivas, entrevistas exclusivas com personalidades do esporte do cenário local e nacional.</desc>
-<date>2014</date>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000075082.jpg</image_name>
-<image_broadcast>00000000075082</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604132000 -0300" stop="20150604143000 -0300" channel="RCT" program_id="0000327666" event_id="00000000000096634075" series_key="00000000073675000000">
-<title lang="pt">Cantos E Contos</title>
-<desc>Entrevistas e muita música com a participação de vários artistas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000073675.jpg</image_name>
-<image_broadcast>00000000073675</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604143000 -0300" stop="20150604150000 -0300" channel="RCT" program_id="0000327678" event_id="00000000000096634076" series_key="00000000075086000000">
-<title lang="pt">TPM</title>
-<desc>Amanda Melo, Milena Neves comandam um bate-papo pra lá de divertido sobre o dia-a-dia da sociedade paraibana com muito humor e irreverência.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000075086.jpg</image_name>
-<image_broadcast>00000000075086</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604150000 -0300" stop="20150604155000 -0300" channel="RCT" program_id="0000294394" event_id="00000000000096634077" series_key="00000000073671000000">
-<title lang="pt">Mulher Demais</title>
-<desc>Direcionado ao público feminino, o programa Mulher Demais aborda assuntos como: moda, sexo, comportamento, decoração, saúde, beleza, estética, turismo, celebridades e muito mais.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Moda e Estilo</category>
-<image>
-<image_name position="1">00000000073671.jpg</image_name>
-<image_broadcast>00000000073671</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604155000 -0300" stop="20150604160000 -0300" channel="RCT" program_id="0000391549" event_id="00000000000096634078" series_key="00000000073680000000">
-<title lang="pt">Despertar</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000073680.jpg</image_name>
-<image_broadcast>00000000073680</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604160000 -0300" stop="20150604170000 -0300" channel="RCT" program_id="0000294511" event_id="00000000000096634079" series_key="00000000073103000000">
-<title lang="pt">Correio Espetacular</title>
-<desc>O Correio Espetacular vai além de um programa de entretenimento, é uma revista eletrônica que leva aos seus telespectadores temas atuais, através de entrevistas, matérias jornalísticas e muita diversão.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000073103.jpg</image_name>
-<image_broadcast>00000000073103</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604170000 -0300" stop="20150604171500 -0300" channel="RCT" program_id="0000376989" event_id="00000000000096634080" series_key="">
-<title lang="pt">Músicas Da Fé</title>
-<desc>Músicas religiosas, um programa diferente.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000376989.jpg</image_name>
-<image_broadcast>0000376989</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604171500 -0300" stop="20150604173000 -0300" channel="RCT" program_id="0000280763" event_id="00000000000096634081" series_key="00000000070993000000">
-<title lang="pt">Sinais do Sagrado</title>
-<desc>São 15 minutos promovendo um momento forte de oração, onde o Padre Reginaldo Manzotti, faz a leitura do Santo Evangelho.</desc>
-<date>2012</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">00000000070993.jpg</image_name>
-<image_broadcast>00000000070993</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604173000 -0300" stop="20150604180000 -0300" channel="RCT" program_id="0000334971" event_id="00000000000096634082" series_key="00000000073207000000">
-<title lang="pt">Correio da Tarde</title>
-<desc>Unindo jornalismo interativo à credibilidade e responsabilidade no tratamento da informação, a produção será o grande diferencial entre os programas já existentes na grade local por promover a interatividade com o público.</desc>
-<credits>
-<actor>Eugênia Victal</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000073207.jpg</image_name>
-<image_broadcast>00000000073207</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604180000 -0300" stop="20150604183000 -0300" channel="RCT" program_id="0000327670" event_id="00000000000096634083" series_key="00000000075077000000">
-<title lang="pt">Happy Hour</title>
-<desc>Um programa dinâmico e alegre que recebe diariamente vários convidados para trocar ideias e conversar sobre temas como comportamento, eventos e atualidades.</desc>
-<credits>
-<actor>Erick von Sohsten</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000075077.jpg</image_name>
-<image_broadcast>00000000075077</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604183000 -0300" stop="20150604184500 -0300" channel="RCT" program_id="0000327671" event_id="00000000000096634084" series_key="00000000073210000000">
-<title lang="pt">Notícia Da Hora</title>
-<desc>Jornalismo em tempo real.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000073210.jpg</image_name>
-<image_broadcast>00000000073210</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604184500 -0300" stop="20150604192500 -0300" channel="RCT" program_id="0000378989" event_id="00000000000096634085" series_key="00000000075062000000">
-<title lang="pt">Abelardo Jurema</title>
-<desc>Programa Abelardo Jurema é um programa de entrevistas que traz gente que faz e acontece no nosso estado. Curiosidades, detalhes, dicas e histórias de sucesso de pessoas que criaram uma forma única de se destacar dentro do mundo dos negócios.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075062.jpg</image_name>
-<image_broadcast>00000000075062</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604192500 -0300" stop="20150604194500 -0300" channel="RCT" program_id="0000327676" event_id="00000000000096634086" series_key="00000000075082000000">
-<title lang="pt">Rede Esporte</title>
-<desc>Apresentado por Paulo Neto, o Rede Esportes exibe matérias e notícias sobre diversas modalidades esportivas, entrevistas exclusivas com personalidades do esporte do cenário local e nacional.</desc>
-<date>2014</date>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000075082.jpg</image_name>
-<image_broadcast>00000000075082</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604194500 -0300" stop="20150604200000 -0300" channel="RCT" program_id="0000391549" event_id="00000000000096634087" series_key="00000000073680000000">
-<title lang="pt">Despertar</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000073680.jpg</image_name>
-<image_broadcast>00000000073680</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604200000 -0300" stop="20150604210000 -0300" channel="RCT" program_id="0000376982" event_id="00000000000096634088" series_key="">
-<title lang="pt">Gerardo Rabello</title>
-<desc>Programa interativo e clean, que vai prender a atenção do telespectador.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">0000376982.jpg</image_name>
-<image_broadcast>0000376982</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604210000 -0300" stop="20150604220000 -0300" channel="RCT" program_id="0000327657" event_id="00000000000096634089" series_key="00000000073060000000">
-<title lang="pt">27 Segundos</title>
-<desc></desc>
-<credits>
-<actor>Hermes de Luna</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000073060.jpg</image_name>
-<image_broadcast>00000000073060</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604220000 -0300" stop="20150604223000 -0300" channel="RCT" program_id="0000327681" event_id="00000000000096634090" series_key="00000000075087000000">
-<title lang="pt">Vida Arretada</title>
-<desc>Embarque no programa Vida Arretada e acompanhe viagens, histórias e relatos sobre aventuras ao redor do mundo. Dicas preciosas de um casal que ama viajar e que escolheu compartilhar tudo isso com você.</desc>
-<credits>
-<actor>José Vieira Neto</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Viagem</category>
-<image>
-<image_name position="1">00000000075087.jpg</image_name>
-<image_broadcast>00000000075087</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604223000 -0300" stop="20150604230000 -0300" channel="RCT" program_id="0000327673" event_id="00000000000096634091" series_key="">
-<title lang="pt">Pensando Em Moda</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000327673.jpg</image_name>
-<image_broadcast>0000327673</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604230000 -0300" stop="20150604234000 -0300" channel="RCT" program_id="0000327664" event_id="00000000000096634092" series_key="00000000075059000000">
-<title lang="pt">Cá Entre Nós</title>
-<desc>O programa traz a cobertura das maiores festas e eventos da sociedade paraibana e conversa com as principais personalidades. Além de curiosidades, matérias sobre atualidades, saúde e comportamento.</desc>
-<credits>
-<actor>Rose Silveira</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000075059.jpg</image_name>
-<image_broadcast>00000000075059</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604234000 -0300" stop="20150605001000 -0300" channel="RCT" program_id="0000294390" event_id="00000000000096634093" series_key="00000000073209000000">
-<title lang="pt">Jornal da Correio</title>
-<desc>Acontecimentos Paraibanos, registrados no Jornal da Correio.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000073209.jpg</image_name>
-<image_broadcast>00000000073209</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
 <programme start="20150605001000 -0300" stop="20150605005000 -0300" channel="RCT" program_id="0000378989" event_id="00000000000096634094" series_key="00000000075062000000">
 <title lang="pt">Abelardo Jurema</title>
 <desc>Programa Abelardo Jurema é um programa de entrevistas que traz gente que faz e acontece no nosso estado. Curiosidades, detalhes, dicas e histórias de sucesso de pessoas que criaram uma forma única de se destacar dentro do mundo dos negócios.</desc>
@@ -15280,6 +13557,1613 @@
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
 <country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622000000 -0300" stop="20150622010000 -0300" channel="RCT" program_id="0000376982" event_id="00000000000096634793" series_key="">
+<title lang="pt">Gerardo Rabello</title>
+<desc>Programa interativo e clean, que vai prender a atenção do telespectador.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">0000376982.jpg</image_name>
+<image_broadcast>0000376982</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622010000 -0300" stop="20150622013000 -0300" channel="RCT" program_id="0000327678" event_id="00000000000096634794" series_key="00000000075086000000">
+<title lang="pt">TPM</title>
+<desc>Amanda Melo, Milena Neves comandam um bate-papo pra lá de divertido sobre o dia-a-dia da sociedade paraibana com muito humor e irreverência.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000075086.jpg</image_name>
+<image_broadcast>00000000075086</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622013000 -0300" stop="20150622021000 -0300" channel="RCT" program_id="0000378989" event_id="00000000000096634795" series_key="00000000075062000000">
+<title lang="pt">Abelardo Jurema</title>
+<desc>Programa Abelardo Jurema é um programa de entrevistas que traz gente que faz e acontece no nosso estado. Curiosidades, detalhes, dicas e histórias de sucesso de pessoas que criaram uma forma única de se destacar dentro do mundo dos negócios.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075062.jpg</image_name>
+<image_broadcast>00000000075062</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622021000 -0300" stop="20150622024000 -0300" channel="RCT" program_id="0000327670" event_id="00000000000096634796" series_key="00000000075077000000">
+<title lang="pt">Happy Hour</title>
+<desc>Um programa dinâmico e alegre que recebe diariamente vários convidados para trocar ideias e conversar sobre temas como comportamento, eventos e atualidades.</desc>
+<credits>
+<actor>Erick von Sohsten</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000075077.jpg</image_name>
+<image_broadcast>00000000075077</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622024000 -0300" stop="20150622031000 -0300" channel="RCT" program_id="0000327665" event_id="00000000000096634797" series_key="00000000075064000000">
+<title lang="pt">Café Com Direito</title>
+<desc>O programa tem o objetivo de fomentar o comportamento cidadão a partir da divulgação de informações jurídicas de forma simples, utilizando uma linguagem clara e objetiva de modo a aproximar o mundo jurídico da população.</desc>
+<credits>
+<actor>Sheila Sodré</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">00000000075064.jpg</image_name>
+<image_broadcast>00000000075064</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622031000 -0300" stop="20150622034000 -0300" channel="RCT" program_id="0000297332" event_id="00000000000096634798" series_key="00000000073673000000">
+<title lang="pt">PB Tem</title>
+<desc>O PB Tem é uma iniciativa da FIEP, com o apoio do SESI e SENAI, produzido e dirigido pela JTP Agência.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">00000000073673.jpg</image_name>
+<image_broadcast>00000000073673</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622034000 -0300" stop="20150622044000 -0300" channel="RCT" program_id="0000294511" event_id="00000000000096634799" series_key="00000000073103000000">
+<title lang="pt">Correio Espetacular</title>
+<desc>O Correio Espetacular vai além de um programa de entretenimento, é uma revista eletrônica que leva aos seus telespectadores temas atuais, através de entrevistas, matérias jornalísticas e muita diversão.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000073103.jpg</image_name>
+<image_broadcast>00000000073103</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622044000 -0300" stop="20150622052000 -0300" channel="RCT" program_id="0000327664" event_id="00000000000096634800" series_key="00000000075059000000">
+<title lang="pt">Cá Entre Nós</title>
+<desc>O programa traz a cobertura das maiores festas e eventos da sociedade paraibana e conversa com as principais personalidades. Além de curiosidades, matérias sobre atualidades, saúde e comportamento.</desc>
+<credits>
+<actor>Rose Silveira</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000075059.jpg</image_name>
+<image_broadcast>00000000075059</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622052000 -0300" stop="20150622055900 -0300" channel="RCT" program_id="0000327681" event_id="00000000000096634801" series_key="00000000075087000000">
+<title lang="pt">Vida Arretada</title>
+<desc>Embarque no programa Vida Arretada e acompanhe viagens, histórias e relatos sobre aventuras ao redor do mundo. Dicas preciosas de um casal que ama viajar e que escolheu compartilhar tudo isso com você.</desc>
+<credits>
+<actor>José Vieira Neto</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Viagem</category>
+<image>
+<image_name position="1">00000000075087.jpg</image_name>
+<image_broadcast>00000000075087</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622055900 -0300" stop="20150622060000 -0300" channel="RCT" program_id="0000327667" event_id="00000000000096634802" series_key="00000000075065000000">
+<title lang="pt">Clip De Abertura</title>
+<desc>Programa Clip de Abertura.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">00000000075065.jpg</image_name>
+<image_broadcast>00000000075065</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622060000 -0300" stop="20150622061500 -0300" channel="RCT" program_id="0000280763" event_id="00000000000096634803" series_key="00000000070993000000">
+<title lang="pt">Sinais do Sagrado</title>
+<desc>São 15 minutos promovendo um momento forte de oração, onde o Padre Reginaldo Manzotti, faz a leitura do Santo Evangelho.</desc>
+<date>2012</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">00000000070993.jpg</image_name>
+<image_broadcast>00000000070993</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622061500 -0300" stop="20150622071500 -0300" channel="RCT" program_id="0000327669" event_id="00000000000096634804" series_key="">
+<title lang="pt">Evangeliza Show</title>
+<desc>O padre Reginaldo Manzotti recebe músicos convidados e especialistas para debater diversos assuntos, esclarecendo dúvidas dos telespectadores sobre os pontos da fé cristã que muitas vezes geram o afastamento dos fiéis da Igreja.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000327669.jpg</image_name>
+<image_broadcast>0000327669</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622071500 -0300" stop="20150622073000 -0300" channel="RCT" program_id="0000376989" event_id="00000000000096634805" series_key="">
+<title lang="pt">Músicas Da Fé</title>
+<desc>Músicas religiosas, um programa diferente.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000376989.jpg</image_name>
+<image_broadcast>0000376989</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622073000 -0300" stop="20150622080000 -0300" channel="RCT" program_id="0000327678" event_id="00000000000096634806" series_key="00000000075086000000">
+<title lang="pt">TPM</title>
+<desc>Amanda Melo, Milena Neves comandam um bate-papo pra lá de divertido sobre o dia-a-dia da sociedade paraibana com muito humor e irreverência.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000075086.jpg</image_name>
+<image_broadcast>00000000075086</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622080000 -0300" stop="20150622081500 -0300" channel="RCT" program_id="0000391549" event_id="00000000000096634807" series_key="00000000073680000000">
+<title lang="pt">Despertar</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000073680.jpg</image_name>
+<image_broadcast>00000000073680</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622081500 -0300" stop="20150622083000 -0300" channel="RCT" program_id="0000377017" event_id="00000000000096634808" series_key="00000000075079000000">
+<title lang="pt">Rc Mix</title>
+<desc>Programete onde o telespectador fica por dentro de tudo que acontece no mundo da música.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">00000000075079.jpg</image_name>
+<image_broadcast>00000000075079</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622083000 -0300" stop="20150622090000 -0300" channel="RCT" program_id="0000327665" event_id="00000000000096634809" series_key="00000000075064000000">
+<title lang="pt">Café Com Direito</title>
+<desc>O programa tem o objetivo de fomentar o comportamento cidadão a partir da divulgação de informações jurídicas de forma simples, utilizando uma linguagem clara e objetiva de modo a aproximar o mundo jurídico da população.</desc>
+<credits>
+<actor>Sheila Sodré</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">00000000075064.jpg</image_name>
+<image_broadcast>00000000075064</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622090000 -0300" stop="20150622095000 -0300" channel="RCT" program_id="0000327664" event_id="00000000000096634810" series_key="00000000075059000000">
+<title lang="pt">Cá Entre Nós</title>
+<desc>O programa traz a cobertura das maiores festas e eventos da sociedade paraibana e conversa com as principais personalidades. Além de curiosidades, matérias sobre atualidades, saúde e comportamento.</desc>
+<credits>
+<actor>Rose Silveira</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000075059.jpg</image_name>
+<image_broadcast>00000000075059</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622095000 -0300" stop="20150622103000 -0300" channel="RCT" program_id="0000378989" event_id="00000000000096634811" series_key="00000000075062000000">
+<title lang="pt">Abelardo Jurema</title>
+<desc>Programa Abelardo Jurema é um programa de entrevistas que traz gente que faz e acontece no nosso estado. Curiosidades, detalhes, dicas e histórias de sucesso de pessoas que criaram uma forma única de se destacar dentro do mundo dos negócios.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075062.jpg</image_name>
+<image_broadcast>00000000075062</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622103000 -0300" stop="20150622110000 -0300" channel="RCT" program_id="0000327681" event_id="00000000000096634812" series_key="00000000075087000000">
+<title lang="pt">Vida Arretada</title>
+<desc>Embarque no programa Vida Arretada e acompanhe viagens, histórias e relatos sobre aventuras ao redor do mundo. Dicas preciosas de um casal que ama viajar e que escolheu compartilhar tudo isso com você.</desc>
+<credits>
+<actor>José Vieira Neto</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Viagem</category>
+<image>
+<image_name position="1">00000000075087.jpg</image_name>
+<image_broadcast>00000000075087</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622110000 -0300" stop="20150622120000 -0300" channel="RCT" program_id="0000376982" event_id="00000000000096634813" series_key="">
+<title lang="pt">Gerardo Rabello</title>
+<desc>Programa interativo e clean, que vai prender a atenção do telespectador.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">0000376982.jpg</image_name>
+<image_broadcast>0000376982</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622120000 -0300" stop="20150622123000 -0300" channel="RCT" program_id="0000294514" event_id="00000000000096634814" series_key="00000000073206000000">
+<title lang="pt">Correio Cidades</title>
+<desc>As notícias de sua cidade são destaque nesse telejornal.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000073206.jpg</image_name>
+<image_broadcast>00000000073206</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622123000 -0300" stop="20150622130000 -0300" channel="RCT" program_id="0000327678" event_id="00000000000096634815" series_key="00000000075086000000">
+<title lang="pt">TPM</title>
+<desc>Amanda Melo, Milena Neves comandam um bate-papo pra lá de divertido sobre o dia-a-dia da sociedade paraibana com muito humor e irreverência.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000075086.jpg</image_name>
+<image_broadcast>00000000075086</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622130000 -0300" stop="20150622133000 -0300" channel="RCT" program_id="0000327670" event_id="00000000000096634816" series_key="00000000075077000000">
+<title lang="pt">Happy Hour</title>
+<desc>Um programa dinâmico e alegre que recebe diariamente vários convidados para trocar ideias e conversar sobre temas como comportamento, eventos e atualidades.</desc>
+<credits>
+<actor>Erick von Sohsten</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000075077.jpg</image_name>
+<image_broadcast>00000000075077</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622133000 -0300" stop="20150622140000 -0300" channel="RCT" program_id="0000297332" event_id="00000000000096634817" series_key="00000000073673000000">
+<title lang="pt">PB Tem</title>
+<desc>O PB Tem é uma iniciativa da FIEP, com o apoio do SESI e SENAI, produzido e dirigido pela JTP Agência.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">00000000073673.jpg</image_name>
+<image_broadcast>00000000073673</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622140000 -0300" stop="20150622150000 -0300" channel="RCT" program_id="0000327666" event_id="00000000000096634818" series_key="00000000073675000000">
+<title lang="pt">Cantos E Contos</title>
+<desc>Entrevistas e muita música com a participação de vários artistas.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">00000000073675.jpg</image_name>
+<image_broadcast>00000000073675</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622150000 -0300" stop="20150622155000 -0300" channel="RCT" program_id="0000294394" event_id="00000000000096634819" series_key="00000000073671000000">
+<title lang="pt">Mulher Demais</title>
+<desc>Direcionado ao público feminino, o programa Mulher Demais aborda assuntos como: moda, sexo, comportamento, decoração, saúde, beleza, estética, turismo, celebridades e muito mais.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Moda e Estilo</category>
+<image>
+<image_name position="1">00000000073671.jpg</image_name>
+<image_broadcast>00000000073671</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622155000 -0300" stop="20150622160000 -0300" channel="RCT" program_id="0000391549" event_id="00000000000096634820" series_key="00000000073680000000">
+<title lang="pt">Despertar</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000073680.jpg</image_name>
+<image_broadcast>00000000073680</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622160000 -0300" stop="20150622163000 -0300" channel="RCT" program_id="0000327673" event_id="00000000000096634821" series_key="">
+<title lang="pt">Pensando Em Moda</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000327673.jpg</image_name>
+<image_broadcast>0000327673</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622163000 -0300" stop="20150622170000 -0300" channel="RCT" program_id="0000327678" event_id="00000000000096634822" series_key="00000000075086000000">
+<title lang="pt">TPM</title>
+<desc>Amanda Melo, Milena Neves comandam um bate-papo pra lá de divertido sobre o dia-a-dia da sociedade paraibana com muito humor e irreverência.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000075086.jpg</image_name>
+<image_broadcast>00000000075086</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622170000 -0300" stop="20150622171500 -0300" channel="RCT" program_id="0000376989" event_id="00000000000096634823" series_key="">
+<title lang="pt">Músicas Da Fé</title>
+<desc>Músicas religiosas, um programa diferente.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000376989.jpg</image_name>
+<image_broadcast>0000376989</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622171500 -0300" stop="20150622173000 -0300" channel="RCT" program_id="0000280763" event_id="00000000000096634824" series_key="00000000070993000000">
+<title lang="pt">Sinais do Sagrado</title>
+<desc>São 15 minutos promovendo um momento forte de oração, onde o Padre Reginaldo Manzotti, faz a leitura do Santo Evangelho.</desc>
+<date>2012</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">00000000070993.jpg</image_name>
+<image_broadcast>00000000070993</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622173000 -0300" stop="20150622180000 -0300" channel="RCT" program_id="0000334971" event_id="00000000000096634825" series_key="00000000073207000000">
+<title lang="pt">Correio da Tarde</title>
+<desc>Unindo jornalismo interativo à credibilidade e responsabilidade no tratamento da informação, a produção será o grande diferencial entre os programas já existentes na grade local por promover a interatividade com o público.</desc>
+<credits>
+<actor>Eugênia Victal</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000073207.jpg</image_name>
+<image_broadcast>00000000073207</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622180000 -0300" stop="20150622183000 -0300" channel="RCT" program_id="0000327670" event_id="00000000000096634826" series_key="00000000075077000000">
+<title lang="pt">Happy Hour</title>
+<desc>Um programa dinâmico e alegre que recebe diariamente vários convidados para trocar ideias e conversar sobre temas como comportamento, eventos e atualidades.</desc>
+<credits>
+<actor>Erick von Sohsten</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000075077.jpg</image_name>
+<image_broadcast>00000000075077</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622183000 -0300" stop="20150622184000 -0300" channel="RCT" program_id="0000327671" event_id="00000000000096634827" series_key="00000000073210000000">
+<title lang="pt">Notícia Da Hora</title>
+<desc>Jornalismo em tempo real.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000073210.jpg</image_name>
+<image_broadcast>00000000073210</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622184000 -0300" stop="20150622192000 -0300" channel="RCT" program_id="0000378989" event_id="00000000000096634828" series_key="00000000075062000000">
+<title lang="pt">Abelardo Jurema</title>
+<desc>Programa Abelardo Jurema é um programa de entrevistas que traz gente que faz e acontece no nosso estado. Curiosidades, detalhes, dicas e histórias de sucesso de pessoas que criaram uma forma única de se destacar dentro do mundo dos negócios.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075062.jpg</image_name>
+<image_broadcast>00000000075062</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622192000 -0300" stop="20150622194500 -0300" channel="RCT" program_id="0000327677" event_id="00000000000096634829" series_key="00000000075083000000">
+<title lang="pt">Rede Futebol Clube</title>
+<desc>Apresentado por Paulo Neto, o Rede Esportes exibe matérias e notícias sobre diversas modalidades esportivas, entrevistas exclusivas com personalidades do esporte do cenário local e nacional.</desc>
+<date>2014</date>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000075083.jpg</image_name>
+<image_broadcast>00000000075083</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622194500 -0300" stop="20150622200000 -0300" channel="RCT" program_id="0000391549" event_id="00000000000096634830" series_key="00000000073680000000">
+<title lang="pt">Despertar</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000073680.jpg</image_name>
+<image_broadcast>00000000073680</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622200000 -0300" stop="20150622210000 -0300" channel="RCT" program_id="0000376982" event_id="00000000000096634831" series_key="">
+<title lang="pt">Gerardo Rabello</title>
+<desc>Programa interativo e clean, que vai prender a atenção do telespectador.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">0000376982.jpg</image_name>
+<image_broadcast>0000376982</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622210000 -0300" stop="20150622231000 -0300" channel="RCT" program_id="0000327675" event_id="00000000000096634832" series_key="00000000075080000000">
+<title lang="pt">Rede Debate</title>
+<desc>Nas noites de segunda, os mais destacados jornalistas recebem lideranças políticas da Paraíba para um dinâmico e interativo debate com participação dos telespectadores pelas redes sociais.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">00000000075080.jpg</image_name>
+<image_broadcast>00000000075080</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622231000 -0300" stop="20150622233000 -0300" channel="RCT" program_id="0000391548" event_id="00000000000096634833" series_key="">
+<title lang="pt">Conta Mais</title>
+<desc>O programa Conta+ aborda tudo sobre o cenário econômico, administração financeira, consultoria e coaching empresarial. Tudo de uma maneira acessível para deixar o telespectador bem informado.</desc>
+<credits>
+<actor>Rodrigo Leone</actor>
+</credits>
+<category lang="pt">Variedades</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000391548.jpg</image_name>
+<image_broadcast>0000391548</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622233000 -0300" stop="20150623000000 -0300" channel="RCT" program_id="0000327665" event_id="00000000000096634834" series_key="00000000075064000000">
+<title lang="pt">Café Com Direito</title>
+<desc>O programa tem o objetivo de fomentar o comportamento cidadão a partir da divulgação de informações jurídicas de forma simples, utilizando uma linguagem clara e objetiva de modo a aproximar o mundo jurídico da população.</desc>
+<credits>
+<actor>Sheila Sodré</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">00000000075064.jpg</image_name>
+<image_broadcast>00000000075064</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623000000 -0300" stop="20150623003000 -0300" channel="RCT" program_id="0000294390" event_id="00000000000096634835" series_key="00000000073209000000">
+<title lang="pt">Jornal da Correio</title>
+<desc>Acontecimentos Paraibanos, registrados no Jornal da Correio.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000073209.jpg</image_name>
+<image_broadcast>00000000073209</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623003000 -0300" stop="20150623011000 -0300" channel="RCT" program_id="0000378989" event_id="00000000000096634836" series_key="00000000075062000000">
+<title lang="pt">Abelardo Jurema</title>
+<desc>Programa Abelardo Jurema é um programa de entrevistas que traz gente que faz e acontece no nosso estado. Curiosidades, detalhes, dicas e histórias de sucesso de pessoas que criaram uma forma única de se destacar dentro do mundo dos negócios.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075062.jpg</image_name>
+<image_broadcast>00000000075062</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623011000 -0300" stop="20150623021000 -0300" channel="RCT" program_id="0000376982" event_id="00000000000096634837" series_key="">
+<title lang="pt">Gerardo Rabello</title>
+<desc>Programa interativo e clean, que vai prender a atenção do telespectador.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">0000376982.jpg</image_name>
+<image_broadcast>0000376982</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623021000 -0300" stop="20150623041000 -0300" channel="RCT" program_id="0000327675" event_id="00000000000096634838" series_key="00000000075080000000">
+<title lang="pt">Rede Debate</title>
+<desc>Nas noites de segunda, os mais destacados jornalistas recebem lideranças políticas da Paraíba para um dinâmico e interativo debate com participação dos telespectadores pelas redes sociais.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">00000000075080.jpg</image_name>
+<image_broadcast>00000000075080</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623041000 -0300" stop="20150623043500 -0300" channel="RCT" program_id="0000327677" event_id="00000000000096634839" series_key="00000000075083000000">
+<title lang="pt">Rede Futebol Clube</title>
+<desc>Apresentado por Paulo Neto, o Rede Esportes exibe matérias e notícias sobre diversas modalidades esportivas, entrevistas exclusivas com personalidades do esporte do cenário local e nacional.</desc>
+<date>2014</date>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000075083.jpg</image_name>
+<image_broadcast>00000000075083</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623043500 -0300" stop="20150623045000 -0300" channel="RCT" program_id="0000391549" event_id="00000000000096634840" series_key="00000000073680000000">
+<title lang="pt">Despertar</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000073680.jpg</image_name>
+<image_broadcast>00000000073680</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623045000 -0300" stop="20150623050000 -0300" channel="RCT" program_id="0000327671" event_id="00000000000096634841" series_key="00000000073210000000">
+<title lang="pt">Notícia Da Hora</title>
+<desc>Jornalismo em tempo real.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000073210.jpg</image_name>
+<image_broadcast>00000000073210</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623050000 -0300" stop="20150623053000 -0300" channel="RCT" program_id="0000327670" event_id="00000000000096634842" series_key="00000000075077000000">
+<title lang="pt">Happy Hour</title>
+<desc>Um programa dinâmico e alegre que recebe diariamente vários convidados para trocar ideias e conversar sobre temas como comportamento, eventos e atualidades.</desc>
+<credits>
+<actor>Erick von Sohsten</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000075077.jpg</image_name>
+<image_broadcast>00000000075077</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623053000 -0300" stop="20150623055900 -0300" channel="RCT" program_id="0000327678" event_id="00000000000096634843" series_key="00000000075086000000">
+<title lang="pt">TPM</title>
+<desc>Amanda Melo, Milena Neves comandam um bate-papo pra lá de divertido sobre o dia-a-dia da sociedade paraibana com muito humor e irreverência.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000075086.jpg</image_name>
+<image_broadcast>00000000075086</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623055900 -0300" stop="20150623060000 -0300" channel="RCT" program_id="0000327667" event_id="00000000000096634844" series_key="00000000075065000000">
+<title lang="pt">Clip De Abertura</title>
+<desc>Programa Clip de Abertura.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">00000000075065.jpg</image_name>
+<image_broadcast>00000000075065</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623060000 -0300" stop="20150623061500 -0300" channel="RCT" program_id="0000280763" event_id="00000000000096634845" series_key="00000000070993000000">
+<title lang="pt">Sinais do Sagrado</title>
+<desc>São 15 minutos promovendo um momento forte de oração, onde o Padre Reginaldo Manzotti, faz a leitura do Santo Evangelho.</desc>
+<date>2012</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">00000000070993.jpg</image_name>
+<image_broadcast>00000000070993</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623061500 -0300" stop="20150623071500 -0300" channel="RCT" program_id="0000327669" event_id="00000000000096634846" series_key="">
+<title lang="pt">Evangeliza Show</title>
+<desc>O padre Reginaldo Manzotti recebe músicos convidados e especialistas para debater diversos assuntos, esclarecendo dúvidas dos telespectadores sobre os pontos da fé cristã que muitas vezes geram o afastamento dos fiéis da Igreja.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000327669.jpg</image_name>
+<image_broadcast>0000327669</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623071500 -0300" stop="20150623073000 -0300" channel="RCT" program_id="0000377017" event_id="00000000000096634847" series_key="00000000075079000000">
+<title lang="pt">Rc Mix</title>
+<desc>Programete onde o telespectador fica por dentro de tudo que acontece no mundo da música.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">00000000075079.jpg</image_name>
+<image_broadcast>00000000075079</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623073000 -0300" stop="20150623080000 -0300" channel="RCT" program_id="0000327681" event_id="00000000000096634848" series_key="00000000075087000000">
+<title lang="pt">Vida Arretada</title>
+<desc>Embarque no programa Vida Arretada e acompanhe viagens, histórias e relatos sobre aventuras ao redor do mundo. Dicas preciosas de um casal que ama viajar e que escolheu compartilhar tudo isso com você.</desc>
+<credits>
+<actor>José Vieira Neto</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Viagem</category>
+<image>
+<image_name position="1">00000000075087.jpg</image_name>
+<image_broadcast>00000000075087</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623080000 -0300" stop="20150623081500 -0300" channel="RCT" program_id="0000391549" event_id="00000000000096634849" series_key="00000000073680000000">
+<title lang="pt">Despertar</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000073680.jpg</image_name>
+<image_broadcast>00000000073680</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623081500 -0300" stop="20150623083000 -0300" channel="RCT" program_id="0000376989" event_id="00000000000096634850" series_key="">
+<title lang="pt">Músicas Da Fé</title>
+<desc>Músicas religiosas, um programa diferente.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000376989.jpg</image_name>
+<image_broadcast>0000376989</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623083000 -0300" stop="20150623090000 -0300" channel="RCT" program_id="0000401169" event_id="00000000000096634851" series_key="00000000075078000000">
+<title lang="pt">Momento De Luz</title>
+<desc>É um programa voltado para evangelização, levando a mensagem do Cristo ressucitado para as famílias paraibanas.</desc>
+<credits>
+<actor>Pe. Nilson Nunes</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">00000000075078.jpg</image_name>
+<image_broadcast>00000000075078</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623090000 -0300" stop="20150623093000 -0300" channel="RCT" program_id="0000327665" event_id="00000000000096634852" series_key="00000000075064000000">
+<title lang="pt">Café Com Direito</title>
+<desc>O programa tem o objetivo de fomentar o comportamento cidadão a partir da divulgação de informações jurídicas de forma simples, utilizando uma linguagem clara e objetiva de modo a aproximar o mundo jurídico da população.</desc>
+<credits>
+<actor>Sheila Sodré</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">00000000075064.jpg</image_name>
+<image_broadcast>00000000075064</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623093000 -0300" stop="20150623095000 -0300" channel="RCT" program_id="0000391548" event_id="00000000000096634853" series_key="">
+<title lang="pt">Conta Mais</title>
+<desc>O programa Conta+ aborda tudo sobre o cenário econômico, administração financeira, consultoria e coaching empresarial. Tudo de uma maneira acessível para deixar o telespectador bem informado.</desc>
+<credits>
+<actor>Rodrigo Leone</actor>
+</credits>
+<category lang="pt">Variedades</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000391548.jpg</image_name>
+<image_broadcast>0000391548</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623095000 -0300" stop="20150623103000 -0300" channel="RCT" program_id="0000378989" event_id="00000000000096634854" series_key="00000000075062000000">
+<title lang="pt">Abelardo Jurema</title>
+<desc>Programa Abelardo Jurema é um programa de entrevistas que traz gente que faz e acontece no nosso estado. Curiosidades, detalhes, dicas e histórias de sucesso de pessoas que criaram uma forma única de se destacar dentro do mundo dos negócios.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075062.jpg</image_name>
+<image_broadcast>00000000075062</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623103000 -0300" stop="20150623110000 -0300" channel="RCT" program_id="0000327673" event_id="00000000000096634855" series_key="">
+<title lang="pt">Pensando Em Moda</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000327673.jpg</image_name>
+<image_broadcast>0000327673</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623110000 -0300" stop="20150623120000 -0300" channel="RCT" program_id="0000376982" event_id="00000000000096634856" series_key="">
+<title lang="pt">Gerardo Rabello</title>
+<desc>Programa interativo e clean, que vai prender a atenção do telespectador.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">0000376982.jpg</image_name>
+<image_broadcast>0000376982</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623120000 -0300" stop="20150623140000 -0300" channel="RCT" program_id="0000327675" event_id="00000000000096634857" series_key="00000000075080000000">
+<title lang="pt">Rede Debate</title>
+<desc>Nas noites de segunda, os mais destacados jornalistas recebem lideranças políticas da Paraíba para um dinâmico e interativo debate com participação dos telespectadores pelas redes sociais.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">00000000075080.jpg</image_name>
+<image_broadcast>00000000075080</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623140000 -0300" stop="20150623143000 -0300" channel="RCT" program_id="0000327677" event_id="00000000000096634858" series_key="00000000075083000000">
+<title lang="pt">Rede Futebol Clube</title>
+<desc>Apresentado por Paulo Neto, o Rede Esportes exibe matérias e notícias sobre diversas modalidades esportivas, entrevistas exclusivas com personalidades do esporte do cenário local e nacional.</desc>
+<date>2014</date>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000075083.jpg</image_name>
+<image_broadcast>00000000075083</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623143000 -0300" stop="20150623150000 -0300" channel="RCT" program_id="0000297332" event_id="00000000000096634859" series_key="00000000073673000000">
+<title lang="pt">PB Tem</title>
+<desc>O PB Tem é uma iniciativa da FIEP, com o apoio do SESI e SENAI, produzido e dirigido pela JTP Agência.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">00000000073673.jpg</image_name>
+<image_broadcast>00000000073673</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623150000 -0300" stop="20150623155000 -0300" channel="RCT" program_id="0000294394" event_id="00000000000096634860" series_key="00000000073671000000">
+<title lang="pt">Mulher Demais</title>
+<desc>Direcionado ao público feminino, o programa Mulher Demais aborda assuntos como: moda, sexo, comportamento, decoração, saúde, beleza, estética, turismo, celebridades e muito mais.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Moda e Estilo</category>
+<image>
+<image_name position="1">00000000073671.jpg</image_name>
+<image_broadcast>00000000073671</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623155000 -0300" stop="20150623160000 -0300" channel="RCT" program_id="0000391549" event_id="00000000000096634861" series_key="00000000073680000000">
+<title lang="pt">Despertar</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000073680.jpg</image_name>
+<image_broadcast>00000000073680</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623160000 -0300" stop="20150623170000 -0300" channel="RCT" program_id="0000294511" event_id="00000000000096634862" series_key="00000000073103000000">
+<title lang="pt">Correio Espetacular</title>
+<desc>O Correio Espetacular vai além de um programa de entretenimento, é uma revista eletrônica que leva aos seus telespectadores temas atuais, através de entrevistas, matérias jornalísticas e muita diversão.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000073103.jpg</image_name>
+<image_broadcast>00000000073103</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623170000 -0300" stop="20150623171500 -0300" channel="RCT" program_id="0000376989" event_id="00000000000096634863" series_key="">
+<title lang="pt">Músicas Da Fé</title>
+<desc>Músicas religiosas, um programa diferente.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000376989.jpg</image_name>
+<image_broadcast>0000376989</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623171500 -0300" stop="20150623173000 -0300" channel="RCT" program_id="0000280763" event_id="00000000000096634864" series_key="00000000070993000000">
+<title lang="pt">Sinais do Sagrado</title>
+<desc>São 15 minutos promovendo um momento forte de oração, onde o Padre Reginaldo Manzotti, faz a leitura do Santo Evangelho.</desc>
+<date>2012</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">00000000070993.jpg</image_name>
+<image_broadcast>00000000070993</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623173000 -0300" stop="20150623180000 -0300" channel="RCT" program_id="0000334971" event_id="00000000000096634865" series_key="00000000073207000000">
+<title lang="pt">Correio da Tarde</title>
+<desc>Unindo jornalismo interativo à credibilidade e responsabilidade no tratamento da informação, a produção será o grande diferencial entre os programas já existentes na grade local por promover a interatividade com o público.</desc>
+<credits>
+<actor>Eugênia Victal</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000073207.jpg</image_name>
+<image_broadcast>00000000073207</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623180000 -0300" stop="20150623183000 -0300" channel="RCT" program_id="0000327670" event_id="00000000000096634866" series_key="00000000075077000000">
+<title lang="pt">Happy Hour</title>
+<desc>Um programa dinâmico e alegre que recebe diariamente vários convidados para trocar ideias e conversar sobre temas como comportamento, eventos e atualidades.</desc>
+<credits>
+<actor>Erick von Sohsten</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000075077.jpg</image_name>
+<image_broadcast>00000000075077</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623183000 -0300" stop="20150623184500 -0300" channel="RCT" program_id="0000327671" event_id="00000000000096634867" series_key="00000000073210000000">
+<title lang="pt">Notícia Da Hora</title>
+<desc>Jornalismo em tempo real.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000073210.jpg</image_name>
+<image_broadcast>00000000073210</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623184500 -0300" stop="20150623192500 -0300" channel="RCT" program_id="0000378989" event_id="00000000000096634868" series_key="00000000075062000000">
+<title lang="pt">Abelardo Jurema</title>
+<desc>Programa Abelardo Jurema é um programa de entrevistas que traz gente que faz e acontece no nosso estado. Curiosidades, detalhes, dicas e histórias de sucesso de pessoas que criaram uma forma única de se destacar dentro do mundo dos negócios.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075062.jpg</image_name>
+<image_broadcast>00000000075062</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623192500 -0300" stop="20150623194500 -0300" channel="RCT" program_id="0000327676" event_id="00000000000096634869" series_key="00000000075082000000">
+<title lang="pt">Rede Esporte</title>
+<desc>Apresentado por Paulo Neto, o Rede Esportes exibe matérias e notícias sobre diversas modalidades esportivas, entrevistas exclusivas com personalidades do esporte do cenário local e nacional.</desc>
+<date>2014</date>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000075082.jpg</image_name>
+<image_broadcast>00000000075082</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623194500 -0300" stop="20150623200000 -0300" channel="RCT" program_id="0000391549" event_id="00000000000096634870" series_key="00000000073680000000">
+<title lang="pt">Despertar</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000073680.jpg</image_name>
+<image_broadcast>00000000073680</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623200000 -0300" stop="20150623210000 -0300" channel="RCT" program_id="0000376982" event_id="00000000000096634871" series_key="">
+<title lang="pt">Gerardo Rabello</title>
+<desc>Programa interativo e clean, que vai prender a atenção do telespectador.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">0000376982.jpg</image_name>
+<image_broadcast>0000376982</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623210000 -0300" stop="20150623220000 -0300" channel="RCT" program_id="0000327657" event_id="00000000000096634872" series_key="00000000073060000000">
+<title lang="pt">27 Segundos</title>
+<desc></desc>
+<credits>
+<actor>Hermes de Luna</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000073060.jpg</image_name>
+<image_broadcast>00000000073060</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623220000 -0300" stop="20150623224000 -0300" channel="RCT" program_id="0000327664" event_id="00000000000096634873" series_key="00000000075059000000">
+<title lang="pt">Cá Entre Nós</title>
+<desc>O programa traz a cobertura das maiores festas e eventos da sociedade paraibana e conversa com as principais personalidades. Além de curiosidades, matérias sobre atualidades, saúde e comportamento.</desc>
+<credits>
+<actor>Rose Silveira</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000075059.jpg</image_name>
+<image_broadcast>00000000075059</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623224000 -0300" stop="20150623231000 -0300" channel="RCT" program_id="0000327678" event_id="00000000000096634874" series_key="00000000075086000000">
+<title lang="pt">TPM</title>
+<desc>Amanda Melo, Milena Neves comandam um bate-papo pra lá de divertido sobre o dia-a-dia da sociedade paraibana com muito humor e irreverência.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000075086.jpg</image_name>
+<image_broadcast>00000000075086</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623231000 -0300" stop="20150623234000 -0300" channel="RCT" program_id="0000327668" event_id="00000000000096634875" series_key="">
+<title lang="pt">Contemporâneo</title>
+<desc>Com muita criatividade e experiência, o arquiteto e artista plástico, Jonas Lourenço apresenta os principais projetos de arquitetura, decoração, paisagismo e dicas com as tendências do mercado.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000327668.jpg</image_name>
+<image_broadcast>0000327668</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623234000 -0300" stop="20150624001000 -0300" channel="RCT" program_id="0000327673" event_id="00000000000096634876" series_key="">
+<title lang="pt">Pensando Em Moda</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000327673.jpg</image_name>
+<image_broadcast>0000327673</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
 <video>
 <colour>yes</colour>
 </video>

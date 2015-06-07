@@ -4,1609 +4,6 @@
 <display-name lang="pt">Discovery Turbo</display-name>
 <icon src="dtu.gif" />
 </channel>
-<programme start="20150603000400 -0300" stop="20150603002900 -0300" channel="DTU" program_id="0000320315" event_id="00000000000097431438" series_key="00000000069291000002">
-<title lang="pt">Zona di Palma</title>
-<title lang="en">Zona di Palma - Ep. 02</title>
-<sub-title lang="pt">Ep. 2</sub-title>
-<desc>Conheça os Di Palma, uma família tradicional do automobilismo argentino. Acompanhe a rotina de 3 irmãos, todos pilotos e rivais entre si. Eles competem na categoria Turismo Carretera em escuderias distintas.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000069291.jpg</image_name>
-<image_broadcast>00000000069291</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.2.</episode-num>
-<episode-num system="onscreen">2</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603002900 -0300" stop="20150603011900 -0300" channel="DTU" program_id="0000313996" event_id="00000000000097431439" series_key="00000000068901000002">
-<title lang="pt">Batalha sobre Rodas</title>
-<sub-title lang="pt">Ep. 2</sub-title>
-<desc>Uma equipe de bombeiros de Norfolk enfrenta três jovens pilotos de kart numa corrida impressionante, na qual os carros são controlados por controle remoto.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000068901.jpg</image_name>
-<image_broadcast>00000000068901</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.2.</episode-num>
-<episode-num system="onscreen">2</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603011900 -0300" stop="20150603020900 -0300" channel="DTU" program_id="0000433766" event_id="00000000000097431440" series_key="00000000064701011009">
-<title lang="pt">Joias Sobre Rodas</title>
-<sub-title lang="pt">Temp. 11 - Ep. 9</sub-title>
-<desc>Acompanhe o entusiasta de automóveis Mike Brewer e o mecânico Edd China enquanto reformam os carros mais clássicos da História. Eles fazem o melhor que podem para consertar essas joias.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000064701.jpg</image_name>
-<image_broadcast>00000000064701</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">11.9.</episode-num>
-<episode-num system="onscreen">9</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603020900 -0300" stop="20150603023400 -0300" channel="DTU" program_id="0000286106" event_id="00000000000097431441" series_key="00000000064701003007">
-<title lang="pt">Joias Sobre Rodas</title>
-<sub-title lang="pt">Temp. 3 - Ep. 7</sub-title>
-<desc>Mike Brewer seleciona uma Kombi Volkswagen que precisa dos cuidados de Edd China. Ele vai precisar trocar o escapamento e arrumar o motor a diesel.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000064701.jpg</image_name>
-<image_broadcast>00000000064701</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">3.7.</episode-num>
-<episode-num system="onscreen">7</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603023400 -0300" stop="20150603030500 -0300" channel="DTU" program_id="0000420662" event_id="00000000000097431442" series_key="00000000074841004031">
-<title lang="pt">Cliptomaníacos</title>
-<sub-title lang="pt">Temp. 4 - Ep. 31</sub-title>
-<desc>Essa é possivelmente a série de videoclipes mais maluca do planeta. Em cada episódio, Adam Gendle e Tim Warwood apresentam seus achados mais espetaculares do mundo de esportes radicais, ação e diversão.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Aventura</category>
-<image>
-<image_name position="1">00000000074841.jpg</image_name>
-<image_broadcast>00000000074841</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">4.31.</episode-num>
-<episode-num system="onscreen">31</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 14 anos</value>
-</rating>
-</programme>
-<programme start="20150603030500 -0300" stop="20150603035500 -0300" channel="DTU" program_id="0000387150" event_id="00000000000097431443" series_key="00000000073773001003">
-<title lang="pt">FantomWorks</title>
-<sub-title lang="pt">Temp. 1 - Ep. 3</sub-title>
-<desc>Dan e sua equipe trabalham em um Ford Mustang 65, para um amigo com planos bem maiores que seu orçamento, e em uma caminhonete Studebaker 51, que precisa de um projeto único.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Reality Show</category>
-<image>
-<image_name position="1">00000000073773.jpg</image_name>
-<image_broadcast>00000000073773</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.3.</episode-num>
-<episode-num system="onscreen">3</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603035500 -0300" stop="20150603042000 -0300" channel="DTU" program_id="0000199795" event_id="00000000000097431444" series_key="00000000056324000001">
-<title lang="pt">Em Busca de Carros Clássicos</title>
-<sub-title lang="pt">Ep. 1</sub-title>
-<desc>Um colecionador entra em contato com Wayne para vender sua coleção de antigos carros de corrida, Cobras, que valem mais de 5,5 milhões de dólares.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000056324.jpg</image_name>
-<image_broadcast>00000000056324</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603042000 -0300" stop="20150603044500 -0300" channel="DTU" program_id="0000199796" event_id="00000000000097431445" series_key="00000000056324000002">
-<title lang="pt">Em Busca de Carros Clássicos</title>
-<sub-title lang="pt">Ep. 2</sub-title>
-<desc>Wayne participa de seu primeiro evento na temporada de leilões, o Concurso de Elegância da Ilha Amelia e o Leilão RM, no norte da Flórida.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000056324.jpg</image_name>
-<image_broadcast>00000000056324</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.2.</episode-num>
-<episode-num system="onscreen">2</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603044500 -0300" stop="20150603053500 -0300" channel="DTU" program_id="0000442776" event_id="00000000000097431446" series_key="00000000069300000011">
-<title lang="pt">Quinta Marcha</title>
-<sub-title lang="pt">Ep. 11</sub-title>
-<desc>Acompanhe os especialistas em automóveis Tiff Needell e Jason Plato, pilotos profissionais muito respeitados no meio automobilístico, em suas peripécias automotivas.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000069300.jpg</image_name>
-<image_broadcast>00000000069300</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.11.</episode-num>
-<episode-num system="onscreen">11</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150603053500 -0300" stop="20150603062500 -0300" channel="DTU" program_id="0000387149" event_id="00000000000097431447" series_key="00000000068213003013">
-<title lang="pt">Cemitério de Carros</title>
-<sub-title lang="pt">Temp. 3 - Ep. 13</sub-title>
-<desc>Para concluir o Daytona Charger 69 de Tom Partridge a tempo, a equipe se une para fazer o que for necessário e cumprir a promessa de Mark.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000068213.jpg</image_name>
-<image_broadcast>00000000068213</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">3.13.</episode-num>
-<episode-num system="onscreen">13</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 14 anos</value>
-</rating>
-</programme>
-<programme start="20150603062500 -0300" stop="20150603071500 -0300" channel="DTU" program_id="0000398995" event_id="00000000000097431448" series_key="00000000074578001010">
-<title lang="pt">Campeonato Britânico de Superbikes</title>
-<sub-title lang="pt">Temp. 1 - Ep. 10</sub-title>
-<desc>O circuito de Assen, na Holanda, está mergulhado na história da corrida de motos. Ele é uma pista icônica para fãs de toda a Europa e é conhecido como "a catedral".</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Competição</category>
-<image>
-<image_name position="1">00000000074578.jpg</image_name>
-<image_broadcast>00000000074578</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.10.</episode-num>
-<episode-num system="onscreen">10</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 14 anos</value>
-</rating>
-</programme>
-<programme start="20150603071500 -0300" stop="20150603080500 -0300" channel="DTU" program_id="0000230163" event_id="00000000000097431449" series_key="00000000064091000004">
-<title lang="pt">Noites Velozes</title>
-<sub-title lang="pt">Ep. 4</sub-title>
-<desc>Os pilotos partem para a Central Missouri Speedway para enfrentar seus rivais. Esta pista é curta, porém, perigosa. Tom e Dan não concordam em suas decisões e o clima fica tenso entre eles.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Reality Show</category>
-<image>
-<image_name position="1">00000000064091.jpg</image_name>
-<image_broadcast>00000000064091</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.4.</episode-num>
-<episode-num system="onscreen">4</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150603080500 -0300" stop="20150603083000 -0300" channel="DTU" program_id="0000199797" event_id="00000000000097431450" series_key="00000000056324000003">
-<title lang="pt">Em Busca de Carros Clássicos</title>
-<sub-title lang="pt">Ep. 3</sub-title>
-<desc>Um velho amigo de Wayne o convida para um projeto. Na garagem da casa de sua família, ele esconde um clássico Duesenberg que vale mais de um milhão de dólares. Ele quer que Wayne o prepare para o Concurso de Elegância Newport.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000056324.jpg</image_name>
-<image_broadcast>00000000056324</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.3.</episode-num>
-<episode-num system="onscreen">3</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603083000 -0300" stop="20150603085500 -0300" channel="DTU" program_id="0000199799" event_id="00000000000097431451" series_key="00000000056324000004">
-<title lang="pt">Em Busca de Carros Clássicos</title>
-<sub-title lang="pt">Ep. 4</sub-title>
-<desc>Junho chegou, e Wayne planeja vender dois Jaguares no exclusivo leilão de Bonhams' em Greenwich, Connecticut.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000056324.jpg</image_name>
-<image_broadcast>00000000056324</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.4.</episode-num>
-<episode-num system="onscreen">4</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603085500 -0300" stop="20150603092000 -0300" channel="DTU" program_id="0000392816" event_id="00000000000097431452" series_key="00000000069908002012">
-<title lang="pt">Mestres da Mecânica</title>
-<sub-title lang="pt">Temp. 2 - Ep. 12</sub-title>
-<desc>Depois de passar a noite em uma pista de corrida, Jared e Lou querem potência. Eles pegam um Corvette C6 de um amigo e o equipam com um supercompressor novo.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000069908.jpg</image_name>
-<image_broadcast>00000000069908</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">2.12.</episode-num>
-<episode-num system="onscreen">12</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150603092000 -0300" stop="20150603094500 -0300" channel="DTU" program_id="0000383040" event_id="00000000000097431453" series_key="00000000069705002012">
-<title lang="pt">As Mecânicas</title>
-<sub-title lang="pt">Temp. 2 - Ep. 12</sub-title>
-<desc>As meninas ajudam na restauração de uma caminhonete Chevy 1967.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000069705.jpg</image_name>
-<image_broadcast>00000000069705</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">2.12.</episode-num>
-<episode-num system="onscreen">12</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150603094500 -0300" stop="20150603101000 -0300" channel="DTU" program_id="0000369625" event_id="00000000000097431454" series_key="00000000072590001003">
-<title lang="pt">O Caçador de Motocicletas</title>
-<sub-title lang="pt">Temp. 1 - Ep. 3</sub-title>
-<desc>Neste episódio, vamos conhecer a terrível história de um duplo homicídio por causa de dinheiro e motos.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000072590.jpg</image_name>
-<image_broadcast>00000000072590</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.3.</episode-num>
-<episode-num system="onscreen">3</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 14 anos</value>
-</rating>
-</programme>
-<programme start="20150603101000 -0300" stop="20150603103500 -0300" channel="DTU" program_id="0000433768" event_id="00000000000097431455" series_key="00000000042963002009">
-<title lang="pt">O Segredo das Coisas - Supercarros</title>
-<sub-title lang="pt">Temp. 2 - Ep. 9</sub-title>
-<desc>Imagine o carro dos sonhos, um Maserati, ou talvez um Audi R8. Você já se perguntou como essas máquinas incríveis foram feitas?</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000042963.jpg</image_name>
-<image_broadcast>00000000042963</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">2.9.</episode-num>
-<episode-num system="onscreen">9</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603103500 -0300" stop="20150603110000 -0300" channel="DTU" program_id="0000397099" event_id="00000000000097431456" series_key="00000000074581001009">
-<title lang="pt">Carros Lendários</title>
-<sub-title lang="pt">Temp. 1 - Ep. 9</sub-title>
-<desc>A história de Smokey Yunick, o mecânico mais inovador da NASCAR que, nos anos 60, vendeu o caminhão que transportava equipamentos e carros de corrida pelas pistas do país para uma família da Virgínia.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Reality Show</category>
-<image>
-<image_name position="1">00000000074581.jpg</image_name>
-<image_broadcast>00000000074581</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.9.</episode-num>
-<episode-num system="onscreen">9</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603110000 -0300" stop="20150603112500 -0300" channel="DTU" program_id="0000433754" event_id="00000000000097431457" series_key="00000000056324007010">
-<title lang="pt">Em Busca de Carros Clássicos</title>
-<sub-title lang="pt">Temp. 7 - Ep. 10</sub-title>
-<desc>Enquanto a oficina reforma um Corvette 1967, Wayne viaja para o Maine atrás de um Packard 1931 que pertence a uma família há gerações.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000056324.jpg</image_name>
-<image_broadcast>00000000056324</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">7.10.</episode-num>
-<episode-num system="onscreen">10</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603112500 -0300" stop="20150603121500 -0300" channel="DTU" program_id="0000442753" event_id="00000000000097431458" series_key="00000000070798002002">
-<title lang="pt">Por Dentro da West Coast Customs</title>
-<sub-title lang="pt">Temp. 2 - Ep. 2</sub-title>
-<desc>Mergulhe de cabeça nos projetos mais desafiadores da West Coast Customs. Neste episódio, a fusão de um Corvette 1958 com os recursos modernos de um 2008, um projeto do produtor e rapper Will.i.am.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000070798.jpg</image_name>
-<image_broadcast>00000000070798</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">2.2.</episode-num>
-<episode-num system="onscreen">2</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603121500 -0300" stop="20150603130500 -0300" channel="DTU" program_id="0000387150" event_id="00000000000097431459" series_key="00000000073773001003">
-<title lang="pt">FantomWorks</title>
-<sub-title lang="pt">Temp. 1 - Ep. 3</sub-title>
-<desc>Dan e sua equipe trabalham em um Ford Mustang 65, para um amigo com planos bem maiores que seu orçamento, e em uma caminhonete Studebaker 51, que precisa de um projeto único.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Reality Show</category>
-<image>
-<image_name position="1">00000000073773.jpg</image_name>
-<image_broadcast>00000000073773</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.3.</episode-num>
-<episode-num system="onscreen">3</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603130500 -0300" stop="20150603133000 -0300" channel="DTU" program_id="0000199795" event_id="00000000000097431460" series_key="00000000056324000001">
-<title lang="pt">Em Busca de Carros Clássicos</title>
-<sub-title lang="pt">Ep. 1</sub-title>
-<desc>Um colecionador entra em contato com Wayne para vender sua coleção de antigos carros de corrida, Cobras, que valem mais de 5,5 milhões de dólares.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000056324.jpg</image_name>
-<image_broadcast>00000000056324</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603133000 -0300" stop="20150603135500 -0300" channel="DTU" program_id="0000199796" event_id="00000000000097431461" series_key="00000000056324000002">
-<title lang="pt">Em Busca de Carros Clássicos</title>
-<sub-title lang="pt">Ep. 2</sub-title>
-<desc>Wayne participa de seu primeiro evento na temporada de leilões, o Concurso de Elegância da Ilha Amelia e o Leilão RM, no norte da Flórida.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000056324.jpg</image_name>
-<image_broadcast>00000000056324</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.2.</episode-num>
-<episode-num system="onscreen">2</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603135500 -0300" stop="20150603144500 -0300" channel="DTU" program_id="0000442776" event_id="00000000000097431462" series_key="00000000069300000011">
-<title lang="pt">Quinta Marcha</title>
-<sub-title lang="pt">Ep. 11</sub-title>
-<desc>Acompanhe os especialistas em automóveis Tiff Needell e Jason Plato, pilotos profissionais muito respeitados no meio automobilístico, em suas peripécias automotivas.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000069300.jpg</image_name>
-<image_broadcast>00000000069300</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.11.</episode-num>
-<episode-num system="onscreen">11</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150603144500 -0300" stop="20150603153500 -0300" channel="DTU" program_id="0000387149" event_id="00000000000097431463" series_key="00000000068213003013">
-<title lang="pt">Cemitério de Carros</title>
-<sub-title lang="pt">Temp. 3 - Ep. 13</sub-title>
-<desc>Para concluir o Daytona Charger 69 de Tom Partridge a tempo, a equipe se une para fazer o que for necessário e cumprir a promessa de Mark.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000068213.jpg</image_name>
-<image_broadcast>00000000068213</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">3.13.</episode-num>
-<episode-num system="onscreen">13</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 14 anos</value>
-</rating>
-</programme>
-<programme start="20150603153500 -0300" stop="20150603162500 -0300" channel="DTU" program_id="0000199790" event_id="00000000000097431464" series_key="00000000022288005000">
-<title lang="pt">A Guerra do Ferro Velho</title>
-<sub-title lang="pt">Temp. 5</sub-title>
-<desc>Neste episódio de "A Guerra do Ferro-Velho" os grupos estão encarregados de construir armas de artilharia pesada.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000022288.jpg</image_name>
-<image_broadcast>00000000022288</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">5..</episode-num>
-<episode-num system="onscreen"></episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603162500 -0300" stop="20150603171500 -0300" channel="DTU" program_id="0000349020" event_id="00000000000097431465" series_key="00000000071269000002">
-<title lang="pt">Corridas Proibidas</title>
-<sub-title lang="pt">Ep. 2</sub-title>
-<desc>Varley, uma lenda das corridas locais, fica arrasado quando pedem para abandonar as corridas de rua. Enquanto isso, depois de uma briga, Chuck implora para que Big Chief o coloque de volta na lista.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000071269.jpg</image_name>
-<image_broadcast>00000000071269</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.2.</episode-num>
-<episode-num system="onscreen">2</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 14 anos</value>
-</rating>
-</programme>
-<programme start="20150603171500 -0300" stop="20150603180500 -0300" channel="DTU" program_id="0000162550" event_id="00000000000097431466" series_key="00000000023479001000">
-<title lang="pt">American Hot Rod</title>
-<title lang="en">American Hot Rod: 65 Mustang Part 2</title>
-<sub-title lang="pt">Temp. 1</sub-title>
-<desc>A equipe discorda sobre a reforma do Mustang 1965 e Boyd adota seus próprios métodos para encorajar os rapazes. Com a proximidade do prazo de entrega, Boyd deixará Charlie levar a culpa por todos os atrasos ou demitirá mais alguém?</desc>
-<credits>
-<actor>Boyd Coddington</actor>
-</credits>
-<date>2004</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000023479.jpg</image_name>
-<image_broadcast>00000000023479</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<episode-num system="xmltv_ns">1..</episode-num>
-<episode-num system="onscreen"></episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>2/5</value>
-</star-rating>
-</programme>
-<programme start="20150603180500 -0300" stop="20150603185100 -0300" channel="DTU" program_id="0000392797" event_id="00000000000097431467" series_key="00000000074580001004">
-<title lang="pt">Carros Alucinantes com Brian Johnson</title>
-<sub-title lang="pt">Temp. 1 - Ep. 4</sub-title>
-<desc>Brian viaja para a Itália para descobrir a história colorida por trás desta marca épico, e ao fazer isso ele aprende sobre a paixão que inflama nas pessoas em todo o país.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000074580.jpg</image_name>
-<image_broadcast>00000000074580</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.4.</episode-num>
-<episode-num system="onscreen">4</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150603185100 -0300" stop="20150603194100 -0300" channel="DTU" program_id="0000245038" event_id="00000000000097431468" series_key="00000000064561000010">
-<title lang="pt">Os Reis dos Carros Clássicos</title>
-<sub-title lang="pt">Ep. 10</sub-title>
-<desc>A equipe da Desert Valley restaura um Dodge Charger 69, o muscle car considerado uma obra-prima da indústria automobilística americana, que teve papel de destaque no filme "Os Gatões".</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000064561.jpg</image_name>
-<image_broadcast>00000000064561</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.10.</episode-num>
-<episode-num system="onscreen">10</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150603194100 -0300" stop="20150603203000 -0300" channel="DTU" program_id="0000430718" event_id="00000000000097431469" series_key="00000000071351001005">
-<title lang="pt">Fanáticos por Carros</title>
-<sub-title lang="pt">Temp. 1 - Ep. 5</sub-title>
-<desc>O 1945 MGTC é o compacto que abriu caminho para a exportação de esportivos britânicos de dois lugares durante os próximos trinta anos.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Reality Show</category>
-<image>
-<image_name position="1">00000000071351.jpg</image_name>
-<image_broadcast>00000000071351</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.5.</episode-num>
-<episode-num system="onscreen">5</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603203000 -0300" stop="20150603211900 -0300" channel="DTU" program_id="0000442840" event_id="00000000000097431470" series_key="00000000076066001009">
-<title lang="pt">Relíquias sobre Rodas</title>
-<sub-title lang="pt">Temp. 1 - Ep. 9</sub-title>
-<desc>Bernie Fineman e Mario Pacione trabalham com prazo curto e orçamento apertado para restaurar uma Kombi em más condições e deixá-la nova em folha.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Reality Show</category>
-<image>
-<image_name position="1">00000000076066.jpg</image_name>
-<image_broadcast>00000000076066</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.9.</episode-num>
-<episode-num system="onscreen">9</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603211900 -0300" stop="20150603214300 -0300" channel="DTU" program_id="0000403871" event_id="00000000000097431471" series_key="00000000065517005010">
-<title lang="pt">Quanto Vale Meu Carro?</title>
-<sub-title lang="pt">Temp. 5 - Ep. 10</sub-title>
-<desc>Um especialista em carros de colecionador e um jornalista da revista Sports Car Market, avaliam o verdadeiro valor de mercado dos carros clássicos, e desafiam os proprietários a competir.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000065517.jpg</image_name>
-<image_broadcast>00000000065517</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">5.10.</episode-num>
-<episode-num system="onscreen">10</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603214300 -0300" stop="20150603220600 -0300" channel="DTU" program_id="0000403872" event_id="00000000000097431472" series_key="00000000065517005011">
-<title lang="pt">Quanto Vale Meu Carro?</title>
-<sub-title lang="pt">Temp. 5 - Ep. 11</sub-title>
-<desc>Um especialista em carros de colecionador e um jornalista da revista Sports Car Market, avaliam o verdadeiro valor de mercado dos carros clássicos, e desafiam os proprietários a competir.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000065517.jpg</image_name>
-<image_broadcast>00000000065517</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">5.11.</episode-num>
-<episode-num system="onscreen">11</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603220600 -0300" stop="20150603225300 -0300" channel="DTU" program_id="0000383037" event_id="00000000000097431473" series_key="">
-<title lang="pt">A Vida de Evel Knievel</title>
-<desc>Usando imagens de arquivo e entrevistas de parentes, amigos e colegas, o Discovery Channel revela a verdadeira história do homem por trás do mito, contada por aqueles que mais conheciam Evel Knievel.</desc>
-<category lang="pt">Documentário</category>
-<category lang="pt">Biografia</category>
-<image>
-<image_name position="1">0000383037.jpg</image_name>
-<image_broadcast>0000383037</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 14 anos</value>
-</rating>
-</programme>
-<programme start="20150603225300 -0300" stop="20150603234000 -0300" channel="DTU" program_id="0000397104" event_id="00000000000097431474" series_key="00000000056324007001">
-<title lang="pt">Em Busca de Carros Clássicos</title>
-<sub-title lang="pt">Temp. 7 - Ep. 1</sub-title>
-<desc>De carros de ídolos do rock e de estrelas de cinema, até a incrível venda das Ferraris mais raras do mundo, a sétima temporada desta série mostra tudo.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000056324.jpg</image_name>
-<image_broadcast>00000000056324</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">7.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603234000 -0300" stop="20150604000400 -0300" channel="DTU" program_id="0000373954" event_id="00000000000097431475" series_key="00000000056324006020">
-<title lang="pt">Em Busca de Carros Clássicos</title>
-<sub-title lang="pt">Temp. 6 - Ep. 20</sub-title>
-<desc>Wayne vai atrás de mais carros sofisticados explorando antigos campos de caça, onde descobre vários Mopar, um Cadillac 1905 e uma Ferrari 330.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000056324.jpg</image_name>
-<image_broadcast>00000000056324</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">6.20.</episode-num>
-<episode-num system="onscreen">20</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604000400 -0300" stop="20150604002900 -0300" channel="DTU" program_id="0000373959" event_id="00000000000097431476" series_key="00000000072590001005">
-<title lang="pt">O Caçador de Motocicletas</title>
-<sub-title lang="pt">Temp. 1 - Ep. 5</sub-title>
-<desc>O colecionador de motos clássicas Dale Walksler explora a região de Davenport, no Iowa, onde milhares de choppers, bobbers e motos antigas são exibidas. Será que ele vai comprar alguma?</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000072590.jpg</image_name>
-<image_broadcast>00000000072590</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.5.</episode-num>
-<episode-num system="onscreen">5</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 14 anos</value>
-</rating>
-</programme>
-<programme start="20150604002900 -0300" stop="20150604011900 -0300" channel="DTU" program_id="0000282200" event_id="00000000000097431477" series_key="00000000064753000004">
-<title lang="pt">Robocars</title>
-<sub-title lang="pt">Ep. 4</sub-title>
-<desc>A corrida de robôs mais difícil do mundo está de volta: 80 equipes tentam ganhar o prêmio de 2 milhões de dólares.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000064753.jpg</image_name>
-<image_broadcast>00000000064753</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.4.</episode-num>
-<episode-num system="onscreen">4</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604011900 -0300" stop="20150604014400 -0300" channel="DTU" program_id="0000427547" event_id="00000000000097431478" series_key="00000000076455000002">
-<title lang="pt">Cacá Bueno</title>
-<sub-title lang="pt">Ep. 2</sub-title>
-<desc>Primeiro programa da série com o piloto brasileiro Cacá Bueno na FIA GT.FIA GT é uma competição entre as montadoras Mercedes, BMW, Audi, Ferrari, e outras ao redor do mundo.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Reality Show</category>
-<image>
-<image_name position="1">00000000076455.jpg</image_name>
-<image_broadcast>00000000076455</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.2.</episode-num>
-<episode-num system="onscreen">2</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150604014400 -0300" stop="20150604020900 -0300" channel="DTU" program_id="0000430622" event_id="00000000000097431479" series_key="00000000076455000003">
-<title lang="pt">Cacá Bueno</title>
-<sub-title lang="pt">Ep. 3</sub-title>
-<desc>Primeiro programa da série com o piloto brasileiro Cacá Bueno na FIA GT.FIA GT é uma competição entre as montadoras Mercedes, BMW, Audi, Ferrari, e outras ao redor do mundo.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Reality Show</category>
-<image>
-<image_name position="1">00000000076455.jpg</image_name>
-<image_broadcast>00000000076455</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.3.</episode-num>
-<episode-num system="onscreen">3</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150604020900 -0300" stop="20150604023400 -0300" channel="DTU" program_id="0000286107" event_id="00000000000097431480" series_key="00000000064701003008">
-<title lang="pt">Joias Sobre Rodas</title>
-<sub-title lang="pt">Temp. 3 - Ep. 8</sub-title>
-<desc>Depois que Edd termina seu trabalho, Mike dá uma volta com o Range Rover e o coloca a venda, mas será que conseguirá o valor que espera?</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000064701.jpg</image_name>
-<image_broadcast>00000000064701</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">3.8.</episode-num>
-<episode-num system="onscreen">8</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604023400 -0300" stop="20150604030500 -0300" channel="DTU" program_id="0000420663" event_id="00000000000097431481" series_key="00000000074841004032">
-<title lang="pt">Cliptomaníacos</title>
-<sub-title lang="pt">Temp. 4 - Ep. 32</sub-title>
-<desc>Essa é possivelmente a série de videoclipes mais maluca do planeta. Em cada episódio, Adam Gendle e Tim Warwood apresentam seus achados mais espetaculares do mundo de esportes radicais, ação e diversão.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Aventura</category>
-<image>
-<image_name position="1">00000000074841.jpg</image_name>
-<image_broadcast>00000000074841</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">4.32.</episode-num>
-<episode-num system="onscreen">32</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 14 anos</value>
-</rating>
-</programme>
-<programme start="20150604030500 -0300" stop="20150604033000 -0300" channel="DTU" program_id="0000403871" event_id="00000000000097431482" series_key="00000000065517005010">
-<title lang="pt">Quanto Vale Meu Carro?</title>
-<sub-title lang="pt">Temp. 5 - Ep. 10</sub-title>
-<desc>Um especialista em carros de colecionador e um jornalista da revista Sports Car Market, avaliam o verdadeiro valor de mercado dos carros clássicos, e desafiam os proprietários a competir.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000065517.jpg</image_name>
-<image_broadcast>00000000065517</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">5.10.</episode-num>
-<episode-num system="onscreen">10</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604033000 -0300" stop="20150604035500 -0300" channel="DTU" program_id="0000403872" event_id="00000000000097431483" series_key="00000000065517005011">
-<title lang="pt">Quanto Vale Meu Carro?</title>
-<sub-title lang="pt">Temp. 5 - Ep. 11</sub-title>
-<desc>Um especialista em carros de colecionador e um jornalista da revista Sports Car Market, avaliam o verdadeiro valor de mercado dos carros clássicos, e desafiam os proprietários a competir.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000065517.jpg</image_name>
-<image_broadcast>00000000065517</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">5.11.</episode-num>
-<episode-num system="onscreen">11</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604035500 -0300" stop="20150604044500 -0300" channel="DTU" program_id="0000383037" event_id="00000000000097431484" series_key="">
-<title lang="pt">A Vida de Evel Knievel</title>
-<desc>Usando imagens de arquivo e entrevistas de parentes, amigos e colegas, o Discovery Channel revela a verdadeira história do homem por trás do mito, contada por aqueles que mais conheciam Evel Knievel.</desc>
-<category lang="pt">Documentário</category>
-<category lang="pt">Biografia</category>
-<image>
-<image_name position="1">0000383037.jpg</image_name>
-<image_broadcast>0000383037</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 14 anos</value>
-</rating>
-</programme>
-<programme start="20150604044500 -0300" stop="20150604053500 -0300" channel="DTU" program_id="0000397104" event_id="00000000000097431485" series_key="00000000056324007001">
-<title lang="pt">Em Busca de Carros Clássicos</title>
-<sub-title lang="pt">Temp. 7 - Ep. 1</sub-title>
-<desc>De carros de ídolos do rock e de estrelas de cinema, até a incrível venda das Ferraris mais raras do mundo, a sétima temporada desta série mostra tudo.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000056324.jpg</image_name>
-<image_broadcast>00000000056324</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">7.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604053500 -0300" stop="20150604062500 -0300" channel="DTU" program_id="0000291539" event_id="00000000000097431486" series_key="00000000023479000000">
-<title lang="pt">American Hot Rod</title>
-<title lang="en">American Hot Rod</title>
-<desc>Boyd e sua equipe tentam ressuscitar um Chevy 1956 de duas portas que já teve dias melhores.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000023479.jpg</image_name>
-<image_broadcast>00000000023479</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604062500 -0300" stop="20150604071500 -0300" channel="DTU" program_id="0000344167" event_id="00000000000097431487" series_key="00000000068439001005">
-<title lang="pt">Os Carvottas</title>
-<sub-title lang="pt">Temp. 1 - Ep. 5</sub-title>
-<desc>Chega a hora do grande desafio: trabalhar por um mês na camionete Apache de Charly Alberti, uma Chevrolet C10 1963.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000068439.jpg</image_name>
-<image_broadcast>00000000068439</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.5.</episode-num>
-<episode-num system="onscreen">5</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604071500 -0300" stop="20150604074000 -0300" channel="DTU" program_id="0000096021" event_id="00000000000097431488" series_key="00000000059687000001">
-<title lang="pt">Le Mans</title>
-<sub-title lang="pt">Arte e Técnica - Ep. 1</sub-title>
-<desc>Faltam 142 dias para a corrida de Le Mans, mas para o Creation Team ela começa agora. Este pequeno grupo privado joga todas as suas cartas numa chance para vencer os gigantes do mundo das corridas.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000059687.jpg</image_name>
-<image_broadcast>00000000059687</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604074000 -0300" stop="20150604080500 -0300" channel="DTU" program_id="0000117097" event_id="00000000000097431489" series_key="00000000059687000002">
-<title lang="pt">Le Mans - Arte e Técnica</title>
-<sub-title lang="pt">Ep. 2</sub-title>
-<desc>No início de abril, o Creation Team tem sua primeira chance de se mostrar à altura dos rivais. Estes têm mais experiência e muito mais dinheiro, mas o Creation tem se esforçado muito. Quem se tornará o favorito da temporada?</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000059687.jpg</image_name>
-<image_broadcast>00000000059687</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.2.</episode-num>
-<episode-num system="onscreen">2</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604080500 -0300" stop="20150604083000 -0300" channel="DTU" program_id="0000199801" event_id="00000000000097431490" series_key="00000000056324000005">
-<title lang="pt">Em Busca de Carros Clássicos</title>
-<sub-title lang="pt">Ep. 5</sub-title>
-<desc>Wayne recebe uma ligação de uma viúva que pretende vender um Chevy Impala 1960. Comprado do segundo proprietário, em 1981, o carro foi guardado em uma garagem projetada para ele, mas ninguém nunca o dirigiu.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000056324.jpg</image_name>
-<image_broadcast>00000000056324</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.5.</episode-num>
-<episode-num system="onscreen">5</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604083000 -0300" stop="20150604085500 -0300" channel="DTU" program_id="0000202542" event_id="00000000000097431491" series_key="00000000056324000006">
-<title lang="pt">Em Busca de Carros Clássicos</title>
-<sub-title lang="pt">Ep. 6</sub-title>
-<desc>Vendido como um carro para "pré-adolescentes e mulheres distintas", o Bimbo é um carro de brinquedo movido a uma bateria de 12 volts. Sua natureza eclética e ecológica chama a atenção de Wayne.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000056324.jpg</image_name>
-<image_broadcast>00000000056324</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.6.</episode-num>
-<episode-num system="onscreen">6</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604085500 -0300" stop="20150604092000 -0300" channel="DTU" program_id="0000392817" event_id="00000000000097431492" series_key="00000000069908003001">
-<title lang="pt">Mestres da Mecânica</title>
-<sub-title lang="pt">Temp. 3 - Ep. 1</sub-title>
-<desc>Jared tem a oportunidade de construir o projeto de seus sonhos, mas não terá muito tempo para concluir o trabalho.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000069908.jpg</image_name>
-<image_broadcast>00000000069908</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">3.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150604092000 -0300" stop="20150604094500 -0300" channel="DTU" program_id="0000397079" event_id="00000000000097431493" series_key="00000000069705003001">
-<title lang="pt">As Mecânicas</title>
-<sub-title lang="pt">Temp. 3 - Ep. 1</sub-title>
-<desc>Velocidade, dirigibilidade, aparência. O Lotus Elise tem tudo isso. Neste episódio, um Lotus recebe uma traseira customizada e as meninas trabalham em seu motor de 1,8 litros.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000069705.jpg</image_name>
-<image_broadcast>00000000069705</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">3.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150604094500 -0300" stop="20150604103500 -0300" channel="DTU" program_id="0000245038" event_id="00000000000097431494" series_key="00000000064561000010">
-<title lang="pt">Os Reis dos Carros Clássicos</title>
-<sub-title lang="pt">Ep. 10</sub-title>
-<desc>A equipe da Desert Valley restaura um Dodge Charger 69, o muscle car considerado uma obra-prima da indústria automobilística americana, que teve papel de destaque no filme "Os Gatões".</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000064561.jpg</image_name>
-<image_broadcast>00000000064561</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.10.</episode-num>
-<episode-num system="onscreen">10</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150604103500 -0300" stop="20150604112500 -0300" channel="DTU" program_id="0000430718" event_id="00000000000097431495" series_key="00000000071351001005">
-<title lang="pt">Fanáticos por Carros</title>
-<sub-title lang="pt">Temp. 1 - Ep. 5</sub-title>
-<desc>O 1945 MGTC é o compacto que abriu caminho para a exportação de esportivos britânicos de dois lugares durante os próximos trinta anos.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Reality Show</category>
-<image>
-<image_name position="1">00000000071351.jpg</image_name>
-<image_broadcast>00000000071351</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.5.</episode-num>
-<episode-num system="onscreen">5</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604112500 -0300" stop="20150604121500 -0300" channel="DTU" program_id="0000442840" event_id="00000000000097431496" series_key="00000000076066001009">
-<title lang="pt">Relíquias sobre Rodas</title>
-<sub-title lang="pt">Temp. 1 - Ep. 9</sub-title>
-<desc>Bernie Fineman e Mario Pacione trabalham com prazo curto e orçamento apertado para restaurar uma Kombi em más condições e deixá-la nova em folha.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Reality Show</category>
-<image>
-<image_name position="1">00000000076066.jpg</image_name>
-<image_broadcast>00000000076066</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.9.</episode-num>
-<episode-num system="onscreen">9</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604121500 -0300" stop="20150604124000 -0300" channel="DTU" program_id="0000403871" event_id="00000000000097431497" series_key="00000000065517005010">
-<title lang="pt">Quanto Vale Meu Carro?</title>
-<sub-title lang="pt">Temp. 5 - Ep. 10</sub-title>
-<desc>Um especialista em carros de colecionador e um jornalista da revista Sports Car Market, avaliam o verdadeiro valor de mercado dos carros clássicos, e desafiam os proprietários a competir.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000065517.jpg</image_name>
-<image_broadcast>00000000065517</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">5.10.</episode-num>
-<episode-num system="onscreen">10</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604124000 -0300" stop="20150604130500 -0300" channel="DTU" program_id="0000403872" event_id="00000000000097431498" series_key="00000000065517005011">
-<title lang="pt">Quanto Vale Meu Carro?</title>
-<sub-title lang="pt">Temp. 5 - Ep. 11</sub-title>
-<desc>Um especialista em carros de colecionador e um jornalista da revista Sports Car Market, avaliam o verdadeiro valor de mercado dos carros clássicos, e desafiam os proprietários a competir.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000065517.jpg</image_name>
-<image_broadcast>00000000065517</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">5.11.</episode-num>
-<episode-num system="onscreen">11</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604130500 -0300" stop="20150604135500 -0300" channel="DTU" program_id="0000383037" event_id="00000000000097431499" series_key="">
-<title lang="pt">A Vida de Evel Knievel</title>
-<desc>Usando imagens de arquivo e entrevistas de parentes, amigos e colegas, o Discovery Channel revela a verdadeira história do homem por trás do mito, contada por aqueles que mais conheciam Evel Knievel.</desc>
-<category lang="pt">Documentário</category>
-<category lang="pt">Biografia</category>
-<image>
-<image_name position="1">0000383037.jpg</image_name>
-<image_broadcast>0000383037</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 14 anos</value>
-</rating>
-</programme>
-<programme start="20150604135500 -0300" stop="20150604144500 -0300" channel="DTU" program_id="0000397104" event_id="00000000000097431500" series_key="00000000056324007001">
-<title lang="pt">Em Busca de Carros Clássicos</title>
-<sub-title lang="pt">Temp. 7 - Ep. 1</sub-title>
-<desc>De carros de ídolos do rock e de estrelas de cinema, até a incrível venda das Ferraris mais raras do mundo, a sétima temporada desta série mostra tudo.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000056324.jpg</image_name>
-<image_broadcast>00000000056324</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">7.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604144500 -0300" stop="20150604153500 -0300" channel="DTU" program_id="0000293570" event_id="00000000000097431501" series_key="00000000068213000001">
-<title lang="pt">Cemitério de Carros</title>
-<sub-title lang="pt">Ep. 1</sub-title>
-<desc>Uma equipe de mecânicos tem o desafio de dar nova vida a alguns dos carros mais detonados do planeta.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000068213.jpg</image_name>
-<image_broadcast>00000000068213</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 14 anos</value>
-</rating>
-</programme>
-<programme start="20150604153500 -0300" stop="20150604162500 -0300" channel="DTU" program_id="0000359062" event_id="00000000000097431502" series_key="00000000071572001002">
-<title lang="pt">Os Reis da Destruição</title>
-<sub-title lang="pt">Temp. 1 - Ep. 2</sub-title>
-<desc>Os corpos e egos dos motoristas sentem a dor da temporada de corridas quando os irmãos Sweat disputam para ver quem é o mais louco. Um dos motoristas vai parar numa ambulância.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000071572.jpg</image_name>
-<image_broadcast>00000000071572</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.2.</episode-num>
-<episode-num system="onscreen">2</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 14 anos</value>
-</rating>
-</programme>
-<programme start="20150604162500 -0300" stop="20150604165000 -0300" channel="DTU" program_id="0000293587" event_id="00000000000097431503" series_key="00000000068214000001">
-<title lang="pt">Loucos... Por Carros</title>
-<sub-title lang="pt">Ep. 1</sub-title>
-<desc>Tommie vai para o Brooklyn analisar uma coleção impressionante de carros clássicos, enquanto Mikey e Mário chamam especialistas para ajudá-los a avaliar um Camaro de 1968.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000068214.jpg</image_name>
-<image_broadcast>00000000068214</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604165000 -0300" stop="20150604171500 -0300" channel="DTU" program_id="0000293588" event_id="00000000000097431504" series_key="00000000068214000002">
-<title lang="pt">Loucos... Por Carros</title>
-<sub-title lang="pt">Ep. 2</sub-title>
-<desc>Um Mustang 1968 impressionante deixa Mikey nostálgico e põe à prova sua habilidade de barganha. Tommie se apaixona por uma bela cliente que quer vender um carro destruído.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000068214.jpg</image_name>
-<image_broadcast>00000000068214</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.2.</episode-num>
-<episode-num system="onscreen">2</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604171500 -0300" stop="20150604180500 -0300" channel="DTU" program_id="0000162549" event_id="00000000000097431505" series_key="00000000023479001000">
-<title lang="pt">American Hot Rod</title>
-<title lang="en">American Hot Rod</title>
-<sub-title lang="pt">Temp. 1</sub-title>
-<desc>Restando sete dias para finalizar o Mustang 65, com menos membros na equipe e sem peças essenciais, Dwayne sucumbe à pressão. Charlie é novamente colocado à prova quando a pintura do motor racha e precisa ter alguém para trabalhar noite adentro.</desc>
-<credits>
-<actor>Boyd Coddington</actor>
-</credits>
-<date>2004</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000023479.jpg</image_name>
-<image_broadcast>00000000023479</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<episode-num system="xmltv_ns">1..</episode-num>
-<episode-num system="onscreen"></episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>2/5</value>
-</star-rating>
-</programme>
-<programme start="20150604180500 -0300" stop="20150604185500 -0300" channel="DTU" program_id="0000187472" event_id="00000000000097431506" series_key="00000000055594000000">
-<title lang="pt">Paixão sobre Rodas</title>
-<desc>Todos conhecem a logomarca azul e branca da BMW, sinônimo de carros de luxo, mas poucos sabem que a empresa começou como fabricante de motores de aviões.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000055594.jpg</image_name>
-<image_broadcast>00000000055594</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150604185500 -0300" stop="20150604192000 -0300" channel="DTU" program_id="0000403912" event_id="00000000000097431507" series_key="00000000074843001010">
-<title lang="pt">Negócio Sobre Rodas</title>
-<sub-title lang="pt">Temp. 1 - Ep. 10</sub-title>
-<desc>Quando um colecionador decide procurar a Legendary para vender um Healy, Peter não fica muito empolgado. Mas quando vai avaliar o carro, ele fica surpreso com o dono e com sua coleção.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Competição</category>
-<image>
-<image_name position="1">00000000074843.jpg</image_name>
-<image_broadcast>00000000074843</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.10.</episode-num>
-<episode-num system="onscreen">10</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150604192000 -0300" stop="20150604194500 -0300" channel="DTU" program_id="0000403914" event_id="00000000000097431508" series_key="00000000074843001011">
-<title lang="pt">Negócio Sobre Rodas</title>
-<sub-title lang="pt">Temp. 1 - Ep. 11</sub-title>
-<desc>Gary está trabalhando na Legendary em um sábado e recebe um telefonema sobre uma picape Dodge 1940. Negociar este carro pode levar a uma transação maior, de um Ford GT?</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Competição</category>
-<image>
-<image_name position="1">00000000074843.jpg</image_name>
-<image_broadcast>00000000074843</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.11.</episode-num>
-<episode-num system="onscreen">11</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150604194500 -0300" stop="20150604203200 -0300" channel="DTU" program_id="0000398997" event_id="00000000000097431509" series_key="00000000074579001010">
-<title lang="pt">Campeonato Europeu de Rali FIA</title>
-<sub-title lang="pt">Temp. 1 - Ep. 10</sub-title>
-<desc>Vamos ver os melhores momentos da Croácia. Este evento é famoso por seu asfalto escorregadio e grande público. Em 2013, o rali será feito em uma cidade turística, com uma rota de 14 estágios.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Competição</category>
-<image>
-<image_name position="1">00000000074579.jpg</image_name>
-<image_broadcast>00000000074579</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.10.</episode-num>
-<episode-num system="onscreen">10</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 14 anos</value>
-</rating>
-</programme>
-<programme start="20150604203200 -0300" stop="20150604205600 -0300" channel="DTU" program_id="0000378086" event_id="00000000000097431510" series_key="00000000069705002010">
-<title lang="pt">As Mecânicas</title>
-<sub-title lang="pt">Temp. 2 - Ep. 10</sub-title>
-<desc>As meninas transformam um motor moderno LS1 para que ele pareça uma peça de fábrica de um Corvette 1969.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000069705.jpg</image_name>
-<image_broadcast>00000000069705</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">2.10.</episode-num>
-<episode-num system="onscreen">10</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150604205600 -0300" stop="20150604211900 -0300" channel="DTU" program_id="0000442730" event_id="00000000000097431511" series_key="00000000042963002010">
-<title lang="pt">O Segredo das Coisas - Supercarros</title>
-<sub-title lang="pt">Temp. 2 - Ep. 10</sub-title>
-<desc>Você já se perguntou como um Tesla Modelo S é feito? Conheça a cidade onde ele é fabricado e os detalhes de seu belo acabamento.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000042963.jpg</image_name>
-<image_broadcast>00000000042963</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">2.10.</episode-num>
-<episode-num system="onscreen">10</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604211900 -0300" stop="20150604214300 -0300" channel="DTU" program_id="0000397096" event_id="00000000000097431512" series_key="00000000074581001010">
-<title lang="pt">Carros Lendários</title>
-<sub-title lang="pt">Temp. 1 - Ep. 10</sub-title>
-<desc>Os convidados deste episódio são Don Prudhomme, John Force, o diretor de cinema Ron Howard e Mike Love, da banda Beach Boy. Vamos dar uma olhada nas corridas de rua e no roadster de Tom Cobb.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Reality Show</category>
-<image>
-<image_name position="1">00000000074581.jpg</image_name>
-<image_broadcast>00000000074581</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.10.</episode-num>
-<episode-num system="onscreen">10</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604214300 -0300" stop="20150604220600 -0300" channel="DTU" program_id="0000433754" event_id="00000000000097431513" series_key="00000000056324007010">
-<title lang="pt">Em Busca de Carros Clássicos</title>
-<sub-title lang="pt">Temp. 7 - Ep. 10</sub-title>
-<desc>Enquanto a oficina reforma um Corvette 1967, Wayne viaja para o Maine atrás de um Packard 1931 que pertence a uma família há gerações.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000056324.jpg</image_name>
-<image_broadcast>00000000056324</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">7.10.</episode-num>
-<episode-num system="onscreen">10</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604220600 -0300" stop="20150604225300 -0300" channel="DTU" program_id="0000442666" event_id="00000000000097431514" series_key="00000000064701011010">
-<title lang="pt">Joias Sobre Rodas</title>
-<sub-title lang="pt">Temp. 11 - Ep. 10</sub-title>
-<desc>Mike procura o Audi TT Quattro mais barato que puder encontrar - o que só acontece depois de uma viagem de quase 500 quilômetros para Cornwall. Edd tenta achar uma caixa de câmbio e garantir a revenda com lucro.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000064701.jpg</image_name>
-<image_broadcast>00000000064701</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">11.10.</episode-num>
-<episode-num system="onscreen">10</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604225300 -0300" stop="20150604231700 -0300" channel="DTU" program_id="0000410360" event_id="00000000000097431515" series_key="00000000075282001010">
-<title lang="pt">Lowrider Brasil</title>
-<sub-title lang="pt">Temp. 1 - Ep. 10</sub-title>
-<desc>Tatá, Japonês e Alemão viajam para Phoenix, cidade com uma das maiores cenas lowriders do mundo. Alemão conhece o car club Otra Vida, nascido a partir do seu bike club que tem o mesmo nome.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000075282.jpg</image_name>
-<image_broadcast>00000000075282</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.10.</episode-num>
-<episode-num system="onscreen">10</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150604231700 -0300" stop="20150604234000 -0300" channel="DTU" program_id="0000410361" event_id="00000000000097431516" series_key="00000000075282001011">
-<title lang="pt">Lowrider Brasil</title>
-<sub-title lang="pt">Temp. 1 - Ep. 11</sub-title>
-<desc>Em Phoenix, Tatá, Alemão e Japonês continuam aceitando desafios. Tatá ajuda a pintar o Impala de Bear, um jovem campeão de MMA. Mas para isso ele precisa fazer pinturas especiais e o carro tem que ficar pronto antes da luta.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000075282.jpg</image_name>
-<image_broadcast>00000000075282</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.11.</episode-num>
-<episode-num system="onscreen">11</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150604234000 -0300" stop="20150605000400 -0300" channel="DTU" program_id="0000373955" event_id="00000000000097431517" series_key="00000000056324006021">
-<title lang="pt">Em Busca de Carros Clássicos</title>
-<sub-title lang="pt">Temp. 6 - Ep. 21</sub-title>
-<desc>Wayne recebe os espectadores no mundo da coleção de carros sofisticados. Testemunhe sua habilidade para descobrir joias ocultas, que quase foram consideradas extintas.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000056324.jpg</image_name>
-<image_broadcast>00000000056324</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">6.21.</episode-num>
-<episode-num system="onscreen">21</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
 <programme start="20150605000400 -0300" stop="20150605002900 -0300" channel="DTU" program_id="0000213022" event_id="00000000000097431518" series_key="00000000061437000010">
 <title lang="pt">Só para Milionários</title>
 <sub-title lang="pt">Ep. 10</sub-title>
@@ -15366,6 +13763,1535 @@
 </image>
 <episode-num system="xmltv_ns">6.14.</episode-num>
 <episode-num system="onscreen">14</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622000400 -0300" stop="20150622002900 -0300" channel="DTU" program_id="0000344166" event_id="00000000000097432199" series_key="00000000042963001008">
+<title lang="pt">O Segredo das Coisas - Supercarros</title>
+<sub-title lang="pt">Temp. 1 - Ep. 8</sub-title>
+<desc>Imagine seu carro dos sonhos: ele deve parecer um Lamborghini Aventador. Já pensou em como esta máquina foi feita? Vamos até o local de nascimento do carro, revelando todos os detalhes.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000042963.jpg</image_name>
+<image_broadcast>00000000042963</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.8.</episode-num>
+<episode-num system="onscreen">8</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622002900 -0300" stop="20150622011900 -0300" channel="DTU" program_id="0000222180" event_id="00000000000097432200" series_key="00000000054402000000">
+<title lang="pt">Detonadores</title>
+<desc>Um prédio danificado por raios em Lagos, na Nigéria, precisa ser demolido.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000054402.jpg</image_name>
+<image_broadcast>00000000054402</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622011900 -0300" stop="20150622020900 -0300" channel="DTU" program_id="0000442778" event_id="00000000000097432201" series_key="00000000069300000013">
+<title lang="pt">Quinta Marcha</title>
+<sub-title lang="pt">Ep. 13</sub-title>
+<desc>Acompanhe os especialistas em automóveis Tiff Needell e Jason Plato, pilotos profissionais muito respeitados no meio automobilístico, em suas peripécias automotivas.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000069300.jpg</image_name>
+<image_broadcast>00000000069300</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.13.</episode-num>
+<episode-num system="onscreen">13</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150622020900 -0300" stop="20150622023400 -0300" channel="DTU" program_id="0000362296" event_id="00000000000097432202" series_key="00000000064701000002">
+<title lang="pt">Joias Sobre Rodas</title>
+<sub-title lang="pt">Ep. 2</sub-title>
+<desc>A reforma mecânica do Porsche 924 continua, e a equipe de especialistas formada por Mike Brewer e Edd China tenta devolver este modelo clássico às ruas.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000064701.jpg</image_name>
+<image_broadcast>00000000064701</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.2.</episode-num>
+<episode-num system="onscreen">2</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622023400 -0300" stop="20150622030500 -0300" channel="DTU" program_id="0000403961" event_id="00000000000097432203" series_key="00000000074841004010">
+<title lang="pt">Cliptomaníacos</title>
+<sub-title lang="pt">Temp. 4 - Ep. 10</sub-title>
+<desc>Neste episódio, levamos o menor velódromo do mundo ao Canadá. Vamos ver uma corrida de canoas na competição XRow e esquiar na República Tcheca.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Aventura</category>
+<image>
+<image_name position="1">00000000074841.jpg</image_name>
+<image_broadcast>00000000074841</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">4.10.</episode-num>
+<episode-num system="onscreen">10</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150622030500 -0300" stop="20150622035500 -0300" channel="DTU" program_id="0000378119" event_id="00000000000097432204" series_key="00000000064926002003">
+<title lang="pt">Missão Avião</title>
+<sub-title lang="pt">Temp. 2 - Ep. 3</sub-title>
+<desc>Mike Kennedy encara uma missão potencialmente suicida na Califórnia em busca de muito dinheiro. Kevin Lacey e seu pagamento de 25 mil dólares ficam nas mãos de um mecânico vingativo, no Colorado.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000064926.jpg</image_name>
+<image_broadcast>00000000064926</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">2.3.</episode-num>
+<episode-num system="onscreen">3</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150622035500 -0300" stop="20150622044500 -0300" channel="DTU" program_id="0000378120" event_id="00000000000097432205" series_key="00000000064926002005">
+<title lang="pt">Missão Avião</title>
+<sub-title lang="pt">Temp. 2 - Ep. 5</sub-title>
+<desc>Mike Kennedy enfrenta os aligatores dos pântanos da Flórida para pegar um hidroavião Cessna. Kevin Lacey convoca uma ex-mulher vingativa para uma apreensão de alto risco no Colorado.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000064926.jpg</image_name>
+<image_broadcast>00000000064926</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">2.5.</episode-num>
+<episode-num system="onscreen">5</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150622044500 -0300" stop="20150622053500 -0300" channel="DTU" program_id="0000442556" event_id="00000000000097432206" series_key="00000000077015000001">
+<title lang="pt">Demônios do Asfalto</title>
+<sub-title lang="pt">Ep. 1</sub-title>
+<desc>A vida em um dos maiores clubes de motociclistas da Califórnia não é fácil. Pela primeira vez, os Laffing Devils permitem que as câmeras revelem um universo desconhecido e fascinante.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000077015.jpg</image_name>
+<image_broadcast>00000000077015</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.1.</episode-num>
+<episode-num system="onscreen">1</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150622053500 -0300" stop="20150622062500 -0300" channel="DTU" program_id="0000119034" event_id="00000000000097432207" series_key="00000000023479001000">
+<title lang="pt">American Hot Rod</title>
+<sub-title lang="pt">Temp. 1</sub-title>
+<desc>Enquanto a tensão cresce entre Boyd e Bluebear, Boyd tenta deixar as coisas mais leves, mas sem sucesso. Numa discussão pesada, os dois se confrontam e o futuro de Bluebear é finalmente decidido.</desc>
+<credits>
+<actor>Chad Geary</actor>
+<actor>Body Coddington</actor>
+</credits>
+<date>2004</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000023479.jpg</image_name>
+<image_broadcast>00000000023479</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<episode-num system="xmltv_ns">1..</episode-num>
+<episode-num system="onscreen"></episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622062500 -0300" stop="20150622071500 -0300" channel="DTU" program_id="0000145030" event_id="00000000000097432208" series_key="00000000065902000002">
+<title lang="pt">Hard Shine</title>
+<sub-title lang="pt">Ep. 2</sub-title>
+<desc>Uma semana na escola Hard Shine e um dos candidates já foi eliminado. Os outros candidatos ainda estão aprendendo a trabalhar com a caixa de ferramentas e a coisa está esquentando.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Reality Show</category>
+<image>
+<image_name position="1">00000000065902.jpg</image_name>
+<image_broadcast>00000000065902</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.2.</episode-num>
+<episode-num system="onscreen">2</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150622071500 -0300" stop="20150622074000 -0300" channel="DTU" program_id="0000277102" event_id="00000000000097432209" series_key="00000000022959000006">
+<title lang="pt">Aeroporto 24/7</title>
+<sub-title lang="pt">São Paulo - Ep. 6</sub-title>
+<desc>Esta é uma série de 6 episódios que mostra os bastidores do Aeroporto Internacional de São Paulo, a complexidade de sua organização e as experiências das pessoas que passam por ele todos os dias.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000022959.jpg</image_name>
+<image_broadcast>00000000022959</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.6.</episode-num>
+<episode-num system="onscreen">6</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622074000 -0300" stop="20150622080500 -0300" channel="DTU" program_id="0000282145" event_id="00000000000097432210" series_key="00000000022959000006">
+<title lang="pt">Aeroporto 24/7, México D.F.</title>
+<sub-title lang="pt">Ep. 6</sub-title>
+<desc>Conheça os bastidores do Aeroporto Internacional da Cidade do México.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000022959.jpg</image_name>
+<image_broadcast>00000000022959</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.6.</episode-num>
+<episode-num system="onscreen">6</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622080500 -0300" stop="20150622083000 -0300" channel="DTU" program_id="0000349023" event_id="00000000000097432211" series_key="00000000056324006001">
+<title lang="pt">Em Busca de Carros Clássicos</title>
+<sub-title lang="pt">Temp. 6 - Ep. 1</sub-title>
+<desc>Wayne caçou um Hudson Italia por 38 anos antes de um anjo chamado Hazel vender o carro para ele, em 2006. Acontece que Hazel tem outras surpresas, incluindo um Hudson Hornet.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000056324.jpg</image_name>
+<image_broadcast>00000000056324</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">6.1.</episode-num>
+<episode-num system="onscreen">1</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622083000 -0300" stop="20150622085500 -0300" channel="DTU" program_id="0000349022" event_id="00000000000097432212" series_key="00000000056324006002">
+<title lang="pt">Em Busca de Carros Clássicos</title>
+<sub-title lang="pt">Temp. 6 - Ep. 2</sub-title>
+<desc>Todo ano, o leilão da ilha Amelia inicia a temporada americana de leilões. Wayne vai à cidade para vender uma Mercedes-Benz 190sl 1955 e um Cabriolet 280se. Um deles será vendido por um preço recorde.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000056324.jpg</image_name>
+<image_broadcast>00000000056324</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">6.2.</episode-num>
+<episode-num system="onscreen">2</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622085500 -0300" stop="20150622094500 -0300" channel="DTU" program_id="0000344172" event_id="00000000000097432213" series_key="00000000070798001001">
+<title lang="pt">Por Dentro da West Coast Customs</title>
+<sub-title lang="pt">Temp. 1 - Ep. 1</sub-title>
+<desc>No lançamento do novo site da Virgin Gaming, Sir Richard Branson se une à West Coast Customs para transformar um carro blindado em um "videogamemóvel".</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000070798.jpg</image_name>
+<image_broadcast>00000000070798</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.1.</episode-num>
+<episode-num system="onscreen">1</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622094500 -0300" stop="20150622103500 -0300" channel="DTU" program_id="0000442470" event_id="00000000000097432214" series_key="00000000076723000006">
+<title lang="pt">A Gangue da Velocidade</title>
+<sub-title lang="pt">Ep. 6</sub-title>
+<desc>Uma corrida lendária acontece em San Remo enquanto acompanhamos Walter Röhrl em um Lancia 037, que já foi o carro de rali mais rápido do mundo. E vamos conferir outro clássico: a Ferrari 250 GTO.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Reality Show</category>
+<image>
+<image_name position="1">00000000076723.jpg</image_name>
+<image_broadcast>00000000076723</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.6.</episode-num>
+<episode-num system="onscreen">6</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622103500 -0300" stop="20150622112500 -0300" channel="DTU" program_id="0000373956" event_id="00000000000097432215" series_key="00000000064926002001">
+<title lang="pt">Missão Avião</title>
+<sub-title lang="pt">Temp. 2 - Ep. 1</sub-title>
+<desc>Três agentes de cobrança que adoram adrenalina caçam aviões de luxo pelos Estados Unidos para ganhar muito dinheiro. Com inteligência, habilidade e pura coragem, eles se sujeitam a altos riscos.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000064926.jpg</image_name>
+<image_broadcast>00000000064926</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">2.1.</episode-num>
+<episode-num system="onscreen">1</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150622112500 -0300" stop="20150622121500 -0300" channel="DTU" program_id="0000373957" event_id="00000000000097432216" series_key="00000000064926002002">
+<title lang="pt">Missão Avião</title>
+<sub-title lang="pt">Temp. 2 - Ep. 2</sub-title>
+<desc>Os agentes de cobrança encaram mecânicos ameaçadores, pântanos perigosos e seis policiais armados para tentar confiscar aviões de luxo.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000064926.jpg</image_name>
+<image_broadcast>00000000064926</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">2.2.</episode-num>
+<episode-num system="onscreen">2</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150622121500 -0300" stop="20150622130500 -0300" channel="DTU" program_id="0000378119" event_id="00000000000097432217" series_key="00000000064926002003">
+<title lang="pt">Missão Avião</title>
+<sub-title lang="pt">Temp. 2 - Ep. 3</sub-title>
+<desc>Mike Kennedy encara uma missão potencialmente suicida na Califórnia em busca de muito dinheiro. Kevin Lacey e seu pagamento de 25 mil dólares ficam nas mãos de um mecânico vingativo, no Colorado.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000064926.jpg</image_name>
+<image_broadcast>00000000064926</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">2.3.</episode-num>
+<episode-num system="onscreen">3</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150622130500 -0300" stop="20150622135500 -0300" channel="DTU" program_id="0000378120" event_id="00000000000097432218" series_key="00000000064926002005">
+<title lang="pt">Missão Avião</title>
+<sub-title lang="pt">Temp. 2 - Ep. 5</sub-title>
+<desc>Mike Kennedy enfrenta os aligatores dos pântanos da Flórida para pegar um hidroavião Cessna. Kevin Lacey convoca uma ex-mulher vingativa para uma apreensão de alto risco no Colorado.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000064926.jpg</image_name>
+<image_broadcast>00000000064926</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">2.5.</episode-num>
+<episode-num system="onscreen">5</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150622135500 -0300" stop="20150622144500 -0300" channel="DTU" program_id="0000442556" event_id="00000000000097432219" series_key="00000000077015000001">
+<title lang="pt">Demônios do Asfalto</title>
+<sub-title lang="pt">Ep. 1</sub-title>
+<desc>A vida em um dos maiores clubes de motociclistas da Califórnia não é fácil. Pela primeira vez, os Laffing Devils permitem que as câmeras revelem um universo desconhecido e fascinante.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000077015.jpg</image_name>
+<image_broadcast>00000000077015</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.1.</episode-num>
+<episode-num system="onscreen">1</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150622144500 -0300" stop="20150622153500 -0300" channel="DTU" program_id="0000334013" event_id="00000000000097432220" series_key="00000000068213002013">
+<title lang="pt">Cemitério de Carros</title>
+<sub-title lang="pt">Temp. 2 - Ep. 13</sub-title>
+<desc>Os rapazes desta série fazem parte de uma equipe de mecânicos que enfrenta o desafio de reformar alguns dos carros de alto desempenho, os "muscle cars," mais destruídos do mundo.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000068213.jpg</image_name>
+<image_broadcast>00000000068213</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">2.13.</episode-num>
+<episode-num system="onscreen">13</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150622153500 -0300" stop="20150622160000 -0300" channel="DTU" program_id="0000353469" event_id="00000000000097432221" series_key="00000000071571001003">
+<title lang="pt">Negócio em Marcha</title>
+<sub-title lang="pt">Temp. 1 - Ep. 3</sub-title>
+<desc>Nada mais atraente do que um carro com personalidade. Tommy é seduzido por um Prowler 99, Ash conhece o lado teimoso de um Camaro SS 69 e JD é provocado por uma BMW série 3.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000071571.jpg</image_name>
+<image_broadcast>00000000071571</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.3.</episode-num>
+<episode-num system="onscreen">3</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150622160000 -0300" stop="20150622162500 -0300" channel="DTU" program_id="0000353470" event_id="00000000000097432222" series_key="00000000071571001004">
+<title lang="pt">Negócio em Marcha</title>
+<sub-title lang="pt">Temp. 1 - Ep. 4</sub-title>
+<desc>Martha aposta alto numa Harley vintage com um grande ponto de interrogação. Ash compra uma Mercedes 380SL 84 roadster que esvazia sua carteira e JD vai para casa com um belo clássico.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000071571.jpg</image_name>
+<image_broadcast>00000000071571</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.4.</episode-num>
+<episode-num system="onscreen">4</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150622162500 -0300" stop="20150622165000 -0300" channel="DTU" program_id="0000403963" event_id="00000000000097432223" series_key="00000000074841004012">
+<title lang="pt">Cliptomaníacos</title>
+<sub-title lang="pt">Temp. 4 - Ep. 12</sub-title>
+<desc>Neste episódio, a Polônia cedia um evento de ciclismo extremamente difícil. O mundo bizarro e maravilhoso do flugtag faz uma visita à Tampa, na Flórida.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Aventura</category>
+<image>
+<image_name position="1">00000000074841.jpg</image_name>
+<image_broadcast>00000000074841</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">4.12.</episode-num>
+<episode-num system="onscreen">12</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150622165000 -0300" stop="20150622171500 -0300" channel="DTU" program_id="0000403964" event_id="00000000000097432224" series_key="00000000074841004013">
+<title lang="pt">Cliptomaníacos</title>
+<sub-title lang="pt">Temp. 4 - Ep. 13</sub-title>
+<desc>Essa é possivelmente a série de videoclipes mais maluca do planeta. Em cada episódio, Adam Gendle e Tim Warwood apresentam seus achados mais espetaculares do mundo de esportes radicais, ação e diversão.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Aventura</category>
+<image>
+<image_name position="1">00000000074841.jpg</image_name>
+<image_broadcast>00000000074841</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">4.13.</episode-num>
+<episode-num system="onscreen">13</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150622171500 -0300" stop="20150622180500 -0300" channel="DTU" program_id="0000318321" event_id="00000000000097432225" series_key="00000000023479002000">
+<title lang="pt">American Hot Rod</title>
+<title lang="en">American Hot Rod</title>
+<sub-title lang="pt">Chevy Low Rider 59 II - Temp. 2</sub-title>
+<desc>Boyd e sua equipe continuam reformando o Impala chamado de "Princesa do Gueto". Além disso, eles criam uma moto para combinar com ele.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000023479.jpg</image_name>
+<image_broadcast>00000000023479</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<episode-num system="xmltv_ns">2..</episode-num>
+<episode-num system="onscreen"></episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150622180500 -0300" stop="20150622183000 -0300" channel="DTU" program_id="0000404244" event_id="00000000000097432226" series_key="00000000075282001003">
+<title lang="pt">Lowrider Brasil</title>
+<sub-title lang="pt">Temp. 1 - Ep. 3</sub-title>
+<desc>O car club Vida Real vai participar do maior evento lowrider do país no Memorial da América Latina. O evento acontecerá em poucos dias e contará com a presença de car clubs rivais que também estarão ali expondo seus carros.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000075282.jpg</image_name>
+<image_broadcast>00000000075282</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.3.</episode-num>
+<episode-num system="onscreen">3</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150622183000 -0300" stop="20150622185500 -0300" channel="DTU" program_id="0000426524" event_id="00000000000097432227" series_key="00000000076455000001">
+<title lang="pt">Cacá Bueno</title>
+<sub-title lang="pt">Ep. 1</sub-title>
+<desc>Primeiro programa da série com o piloto brasileiro Cacá Bueno na FIA GT.FIA GT é uma competição entre as montadoras Mercedes, BMW, Audi, Ferrari, e outras ao redor do mundo.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Reality Show</category>
+<image>
+<image_name position="1">00000000076455.jpg</image_name>
+<image_broadcast>00000000076455</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.1.</episode-num>
+<episode-num system="onscreen">1</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150622185500 -0300" stop="20150622194500 -0300" channel="DTU" program_id="0000397108" event_id="00000000000097432228" series_key="00000000074842001002">
+<title lang="pt">Máquinas Muito Loucas</title>
+<sub-title lang="pt">Temp. 1 - Ep. 2</sub-title>
+<desc>Steve volta às suas raízes em Montana e constrói uma caminhonete de fazenda para seu amigo caubói unindo duas caminhonetes Dodge vintage.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Reality Show</category>
+<image>
+<image_name position="1">00000000074842.jpg</image_name>
+<image_broadcast>00000000074842</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.2.</episode-num>
+<episode-num system="onscreen">2</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622194500 -0300" stop="20150622203200 -0300" channel="DTU" program_id="0000426475" event_id="00000000000097432229" series_key="00000000076066001004">
+<title lang="pt">Relíquias sobre Rodas</title>
+<sub-title lang="pt">Temp. 1 - Ep. 4</sub-title>
+<desc>O Ford Mustang inspirava uma nova visão de liberdade e juventude, fazendo muito barulho à sua passagem. Confiável, acessível e esportivo, era o oposto do carro de família.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Reality Show</category>
+<image>
+<image_name position="1">00000000076066.jpg</image_name>
+<image_broadcast>00000000076066</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.4.</episode-num>
+<episode-num system="onscreen">4</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622203200 -0300" stop="20150622211900 -0300" channel="DTU" program_id="0000430719" event_id="00000000000097432230" series_key="00000000071351001003">
+<title lang="pt">Fanáticos por Carros</title>
+<sub-title lang="pt">Temp. 1 - Ep. 3</sub-title>
+<desc>O Triumph Stag representa o melhor e o pior do carro britânico: bonito e potente, mas tende a superaquecer e deixar o motorista na mão. Philip e Ant deixam um Stag novo em folha.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Reality Show</category>
+<image>
+<image_name position="1">00000000071351.jpg</image_name>
+<image_broadcast>00000000071351</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.3.</episode-num>
+<episode-num system="onscreen">3</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622211900 -0300" stop="20150622220600 -0300" channel="DTU" program_id="0000401192" event_id="00000000000097432231" series_key="00000000075098001001">
+<title lang="pt">Patrick Dempsey Corre Le Mans</title>
+<sub-title lang="pt">Temp. 1 - Ep. 1</sub-title>
+<desc>O ator Patrick Dempsey tem um objetivo ambicioso: correr nas 24 horas de Le Mans. Ele precisa atingir um equilíbrio entre estar no estúdio gravando Grey's Anatomy e treinando nas pistas.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Competição</category>
+<image>
+<image_name position="1">00000000075098.jpg</image_name>
+<image_broadcast>00000000075098</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.1.</episode-num>
+<episode-num system="onscreen">1</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150622220600 -0300" stop="20150622225300 -0300" channel="DTU" program_id="0000442689" event_id="00000000000097432232" series_key="00000000077024000001">
+<title lang="pt">Megaspeed</title>
+<sub-title lang="pt">Ep. 1</sub-title>
+<desc>Você conhecerá o mundo dos pilotos e seus esforços para se tornar cada vez mais velozes. Num universo em que reina a velocidade, veja como ela é gerada, como é usada e o alto preço que ela cobra dos pilotos mais ousados.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Competição</category>
+<image>
+<image_name position="1">00000000077024.jpg</image_name>
+<image_broadcast>00000000077024</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.1.</episode-num>
+<episode-num system="onscreen">1</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622225300 -0300" stop="20150622231700 -0300" channel="DTU" program_id="0000387176" event_id="00000000000097432233" series_key="00000000071270001019">
+<title lang="pt">Turbinados</title>
+<sub-title lang="pt">Temp. 1 - Ep. 19</sub-title>
+<desc>Neste episódio, nossos apresentadores vão conhecer tipos diferentes de colecionadores. Caju visita Rodrigo Gomes, que é especialista em motos clássicas Honda.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000071270.jpg</image_name>
+<image_broadcast>00000000071270</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.19.</episode-num>
+<episode-num system="onscreen">19</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150622231700 -0300" stop="20150622234000 -0300" channel="DTU" program_id="0000387177" event_id="00000000000097432234" series_key="00000000071270001020">
+<title lang="pt">Turbinados</title>
+<sub-title lang="pt">Temp. 1 - Ep. 20</sub-title>
+<desc>Neste episódio, nossos apresentadores exploram o mundo da drag race, ou corrida de largada.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000071270.jpg</image_name>
+<image_broadcast>00000000071270</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.20.</episode-num>
+<episode-num system="onscreen">20</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150622234000 -0300" stop="20150623000400 -0300" channel="DTU" program_id="0000366172" event_id="00000000000097432235" series_key="00000000056324006015">
+<title lang="pt">Em Busca de Carros Clássicos</title>
+<sub-title lang="pt">Temp. 6 - Ep. 15</sub-title>
+<desc>Após perder o marido e o filho em um acidente de avião, uma mulher pede a ajuda de Wayne para vender um Cobra S/C 427 1965. Wayne descobre que, 20 anos atrás, pintou o Porsche que acabou de comprar.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000056324.jpg</image_name>
+<image_broadcast>00000000056324</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">6.15.</episode-num>
+<episode-num system="onscreen">15</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623000400 -0300" stop="20150623002900 -0300" channel="DTU" program_id="0000373981" event_id="00000000000097432236" series_key="00000000072965001002">
+<title lang="pt">Os Reis da Serra Elétrica</title>
+<sub-title lang="pt">Temp. 1 - Ep. 2</sub-title>
+<desc>Os escultores se esforçam para mesclar estilos diferentes em um bar enorme para uma vinícola exclusiva.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000072965.jpg</image_name>
+<image_broadcast>00000000072965</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.2.</episode-num>
+<episode-num system="onscreen">2</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150623002900 -0300" stop="20150623011900 -0300" channel="DTU" program_id="0000426376" event_id="00000000000097432237" series_key="00000000022288000007">
+<title lang="pt">A Guerra do Ferro Velho</title>
+<sub-title lang="pt">Ep. 7</sub-title>
+<desc>A missão? Construir um míssil. Uma das equipes deve fabricá-lo com vários motores e a outra, em forma de pirâmide, com apenas um possante motor. Vencerá a equipe que atingir a maior altitude.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Competição</category>
+<image>
+<image_name position="1">00000000022288.jpg</image_name>
+<image_broadcast>00000000022288</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.7.</episode-num>
+<episode-num system="onscreen">7</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623011900 -0300" stop="20150623020900 -0300" channel="DTU" program_id="0000426475" event_id="00000000000097432238" series_key="00000000076066001004">
+<title lang="pt">Relíquias sobre Rodas</title>
+<sub-title lang="pt">Temp. 1 - Ep. 4</sub-title>
+<desc>O Ford Mustang inspirava uma nova visão de liberdade e juventude, fazendo muito barulho à sua passagem. Confiável, acessível e esportivo, era o oposto do carro de família.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Reality Show</category>
+<image>
+<image_name position="1">00000000076066.jpg</image_name>
+<image_broadcast>00000000076066</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.4.</episode-num>
+<episode-num system="onscreen">4</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623020900 -0300" stop="20150623023400 -0300" channel="DTU" program_id="0000362297" event_id="00000000000097432239" series_key="00000000064701000003">
+<title lang="pt">Joias Sobre Rodas</title>
+<sub-title lang="pt">Ep. 3</sub-title>
+<desc>Mike Brewer trabalha com o mecânico Edd China para fazer um Saab 900 Turbo voltar a rodar.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000064701.jpg</image_name>
+<image_broadcast>00000000064701</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.3.</episode-num>
+<episode-num system="onscreen">3</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623023400 -0300" stop="20150623030500 -0300" channel="DTU" program_id="0000403962" event_id="00000000000097432240" series_key="00000000074841004011">
+<title lang="pt">Cliptomaníacos</title>
+<sub-title lang="pt">Temp. 4 - Ep. 11</sub-title>
+<desc>O piloto Kirby Chambliss leva estudantes de aviação para dar uma volta. Conhecemos o novo talento do surfe Leonardo Fioravanti nas ondas de Sardenha, na Itália.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Aventura</category>
+<image>
+<image_name position="1">00000000074841.jpg</image_name>
+<image_broadcast>00000000074841</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">4.11.</episode-num>
+<episode-num system="onscreen">11</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150623030500 -0300" stop="20150623035500 -0300" channel="DTU" program_id="0000401192" event_id="00000000000097432241" series_key="00000000075098001001">
+<title lang="pt">Patrick Dempsey Corre Le Mans</title>
+<sub-title lang="pt">Temp. 1 - Ep. 1</sub-title>
+<desc>O ator Patrick Dempsey tem um objetivo ambicioso: correr nas 24 horas de Le Mans. Ele precisa atingir um equilíbrio entre estar no estúdio gravando Grey's Anatomy e treinando nas pistas.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Competição</category>
+<image>
+<image_name position="1">00000000075098.jpg</image_name>
+<image_broadcast>00000000075098</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.1.</episode-num>
+<episode-num system="onscreen">1</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150623035500 -0300" stop="20150623044500 -0300" channel="DTU" program_id="0000442689" event_id="00000000000097432242" series_key="00000000077024000001">
+<title lang="pt">Megaspeed</title>
+<sub-title lang="pt">Ep. 1</sub-title>
+<desc>Você conhecerá o mundo dos pilotos e seus esforços para se tornar cada vez mais velozes. Num universo em que reina a velocidade, veja como ela é gerada, como é usada e o alto preço que ela cobra dos pilotos mais ousados.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Competição</category>
+<image>
+<image_name position="1">00000000077024.jpg</image_name>
+<image_broadcast>00000000077024</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.1.</episode-num>
+<episode-num system="onscreen">1</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623044500 -0300" stop="20150623051000 -0300" channel="DTU" program_id="0000387176" event_id="00000000000097432243" series_key="00000000071270001019">
+<title lang="pt">Turbinados</title>
+<sub-title lang="pt">Temp. 1 - Ep. 19</sub-title>
+<desc>Neste episódio, nossos apresentadores vão conhecer tipos diferentes de colecionadores. Caju visita Rodrigo Gomes, que é especialista em motos clássicas Honda.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000071270.jpg</image_name>
+<image_broadcast>00000000071270</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.19.</episode-num>
+<episode-num system="onscreen">19</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150623051000 -0300" stop="20150623053500 -0300" channel="DTU" program_id="0000387177" event_id="00000000000097432244" series_key="00000000071270001020">
+<title lang="pt">Turbinados</title>
+<sub-title lang="pt">Temp. 1 - Ep. 20</sub-title>
+<desc>Neste episódio, nossos apresentadores exploram o mundo da drag race, ou corrida de largada.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000071270.jpg</image_name>
+<image_broadcast>00000000071270</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.20.</episode-num>
+<episode-num system="onscreen">20</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150623053500 -0300" stop="20150623062500 -0300" channel="DTU" program_id="0000119086" event_id="00000000000097432245" series_key="00000000023479001000">
+<title lang="pt">American Hot Rod</title>
+<title lang="en">"American Hot Rod"</title>
+<sub-title lang="pt">Temp. 1</sub-title>
+<desc>Está tudo pronto e agora a corrida vai determinar o "hot rod" vencedor. Entre desertos, bosques e montanhas, as equipes competem enfrentando todo tipo de desafio. Finalmente, o vencedor é coroado, mas não sem uma grande surpresa.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000023479.jpg</image_name>
+<image_broadcast>00000000023479</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<episode-num system="xmltv_ns">1..</episode-num>
+<episode-num system="onscreen"></episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623062500 -0300" stop="20150623065000 -0300" channel="DTU" program_id="0000426402" event_id="00000000000097432246" series_key="00000000075946001012">
+<title lang="pt">Curva do S</title>
+<sub-title lang="pt">Temp. 1 - Ep. 12</sub-title>
+<desc>Série apresentada por Roberto Figueroa. Curva do S mostra as maiores categorias de corridas de carros e motocicletas brasileiros, assim como pilotos brasileiros que competem em categorias americanas diferentes.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Reality Show</category>
+<image>
+<image_name position="1">00000000075946.jpg</image_name>
+<image_broadcast>00000000075946</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.12.</episode-num>
+<episode-num system="onscreen">12</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623065000 -0300" stop="20150623071500 -0300" channel="DTU" program_id="0000426403" event_id="00000000000097432247" series_key="00000000075946001013">
+<title lang="pt">Curva do S</title>
+<sub-title lang="pt">Temp. 1 - Ep. 13</sub-title>
+<desc>Série apresentada por Roberto Figueroa. Curva do S mostra as maiores categorias de corridas de carros e motocicletas brasileiros, assim como pilotos brasileiros que competem em categorias americanas diferentes.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Reality Show</category>
+<image>
+<image_name position="1">00000000075946.jpg</image_name>
+<image_broadcast>00000000075946</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.13.</episode-num>
+<episode-num system="onscreen">13</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623071500 -0300" stop="20150623080500 -0300" channel="DTU" program_id="0000213030" event_id="00000000000097432248" series_key="00000000049053002012">
+<title lang="pt">Supermáquinas</title>
+<sub-title lang="pt">Temp. 2 - Ep. 12</sub-title>
+<desc>Craig Breedlove e Richard Noble tentam superar o recorde de velocidade terrestre disputando uma corrida em Blackrock. Além do recorde, eles pretendem quebrar a barreira do som.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000049053.jpg</image_name>
+<image_broadcast>00000000049053</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">2.12.</episode-num>
+<episode-num system="onscreen">12</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623080500 -0300" stop="20150623083000 -0300" channel="DTU" program_id="0000349022" event_id="00000000000097432249" series_key="00000000056324006002">
+<title lang="pt">Em Busca de Carros Clássicos</title>
+<sub-title lang="pt">Temp. 6 - Ep. 2</sub-title>
+<desc>Todo ano, o leilão da ilha Amelia inicia a temporada americana de leilões. Wayne vai à cidade para vender uma Mercedes-Benz 190sl 1955 e um Cabriolet 280se. Um deles será vendido por um preço recorde.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000056324.jpg</image_name>
+<image_broadcast>00000000056324</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">6.2.</episode-num>
+<episode-num system="onscreen">2</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623083000 -0300" stop="20150623085500 -0300" channel="DTU" program_id="0000353440" event_id="00000000000097432250" series_key="00000000056324006003">
+<title lang="pt">Em Busca de Carros Clássicos</title>
+<sub-title lang="pt">Temp. 6 - Ep. 3</sub-title>
+<desc>A beleza vende, e o museu Bruce Weiner não é exceção. De olho em uma BMW Isetta para sua filha recém-casada, Wayne vê alguns dos carros mais bonitos já lançados.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000056324.jpg</image_name>
+<image_broadcast>00000000056324</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">6.3.</episode-num>
+<episode-num system="onscreen">3</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623085500 -0300" stop="20150623094500 -0300" channel="DTU" program_id="0000344171" event_id="00000000000097432251" series_key="00000000070798001002">
+<title lang="pt">Por Dentro da West Coast Customs</title>
+<sub-title lang="pt">Temp. 1 - Ep. 2</sub-title>
+<desc>A caminhonete Hummer é conhecida por sua performance off road. Com o toque da West Coast Customs, ela também fará sucesso na Comic Con.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000070798.jpg</image_name>
+<image_broadcast>00000000070798</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.2.</episode-num>
+<episode-num system="onscreen">2</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623094500 -0300" stop="20150623103500 -0300" channel="DTU" program_id="0000397108" event_id="00000000000097432252" series_key="00000000074842001002">
+<title lang="pt">Máquinas Muito Loucas</title>
+<sub-title lang="pt">Temp. 1 - Ep. 2</sub-title>
+<desc>Steve volta às suas raízes em Montana e constrói uma caminhonete de fazenda para seu amigo caubói unindo duas caminhonetes Dodge vintage.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Reality Show</category>
+<image>
+<image_name position="1">00000000074842.jpg</image_name>
+<image_broadcast>00000000074842</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.2.</episode-num>
+<episode-num system="onscreen">2</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623103500 -0300" stop="20150623112500 -0300" channel="DTU" program_id="0000426475" event_id="00000000000097432253" series_key="00000000076066001004">
+<title lang="pt">Relíquias sobre Rodas</title>
+<sub-title lang="pt">Temp. 1 - Ep. 4</sub-title>
+<desc>O Ford Mustang inspirava uma nova visão de liberdade e juventude, fazendo muito barulho à sua passagem. Confiável, acessível e esportivo, era o oposto do carro de família.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Reality Show</category>
+<image>
+<image_name position="1">00000000076066.jpg</image_name>
+<image_broadcast>00000000076066</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.4.</episode-num>
+<episode-num system="onscreen">4</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623112500 -0300" stop="20150623121500 -0300" channel="DTU" program_id="0000430719" event_id="00000000000097432254" series_key="00000000071351001003">
+<title lang="pt">Fanáticos por Carros</title>
+<sub-title lang="pt">Temp. 1 - Ep. 3</sub-title>
+<desc>O Triumph Stag representa o melhor e o pior do carro britânico: bonito e potente, mas tende a superaquecer e deixar o motorista na mão. Philip e Ant deixam um Stag novo em folha.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Reality Show</category>
+<image>
+<image_name position="1">00000000071351.jpg</image_name>
+<image_broadcast>00000000071351</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.3.</episode-num>
+<episode-num system="onscreen">3</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623121500 -0300" stop="20150623130500 -0300" channel="DTU" program_id="0000401192" event_id="00000000000097432255" series_key="00000000075098001001">
+<title lang="pt">Patrick Dempsey Corre Le Mans</title>
+<sub-title lang="pt">Temp. 1 - Ep. 1</sub-title>
+<desc>O ator Patrick Dempsey tem um objetivo ambicioso: correr nas 24 horas de Le Mans. Ele precisa atingir um equilíbrio entre estar no estúdio gravando Grey's Anatomy e treinando nas pistas.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Competição</category>
+<image>
+<image_name position="1">00000000075098.jpg</image_name>
+<image_broadcast>00000000075098</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.1.</episode-num>
+<episode-num system="onscreen">1</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150623130500 -0300" stop="20150623135500 -0300" channel="DTU" program_id="0000442689" event_id="00000000000097432256" series_key="00000000077024000001">
+<title lang="pt">Megaspeed</title>
+<sub-title lang="pt">Ep. 1</sub-title>
+<desc>Você conhecerá o mundo dos pilotos e seus esforços para se tornar cada vez mais velozes. Num universo em que reina a velocidade, veja como ela é gerada, como é usada e o alto preço que ela cobra dos pilotos mais ousados.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Competição</category>
+<image>
+<image_name position="1">00000000077024.jpg</image_name>
+<image_broadcast>00000000077024</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.1.</episode-num>
+<episode-num system="onscreen">1</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623135500 -0300" stop="20150623142000 -0300" channel="DTU" program_id="0000387176" event_id="00000000000097432257" series_key="00000000071270001019">
+<title lang="pt">Turbinados</title>
+<sub-title lang="pt">Temp. 1 - Ep. 19</sub-title>
+<desc>Neste episódio, nossos apresentadores vão conhecer tipos diferentes de colecionadores. Caju visita Rodrigo Gomes, que é especialista em motos clássicas Honda.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000071270.jpg</image_name>
+<image_broadcast>00000000071270</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.19.</episode-num>
+<episode-num system="onscreen">19</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150623142000 -0300" stop="20150623144500 -0300" channel="DTU" program_id="0000387177" event_id="00000000000097432258" series_key="00000000071270001020">
+<title lang="pt">Turbinados</title>
+<sub-title lang="pt">Temp. 1 - Ep. 20</sub-title>
+<desc>Neste episódio, nossos apresentadores exploram o mundo da drag race, ou corrida de largada.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000071270.jpg</image_name>
+<image_broadcast>00000000071270</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.20.</episode-num>
+<episode-num system="onscreen">20</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150623144500 -0300" stop="20150623153500 -0300" channel="DTU" program_id="0000373948" event_id="00000000000097432259" series_key="00000000068213003001">
+<title lang="pt">Cemitério de Carros</title>
+<sub-title lang="pt">Temp. 3 - Ep. 1</sub-title>
+<desc>Mark e sua equipe correm para completar o Barracuda 71 em homenagem ao Fantasma. Don Coscarelli e Michael Baldwin, diretor e ator do filme, vão à oficina para checar o carro, e esperam dar uma volta.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000068213.jpg</image_name>
+<image_broadcast>00000000068213</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">3.1.</episode-num>
+<episode-num system="onscreen">1</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150623153500 -0300" stop="20150623160000 -0300" channel="DTU" program_id="0000442526" event_id="00000000000097432260" series_key="00000000074581001011">
+<title lang="pt">Carros Lendários</title>
+<sub-title lang="pt">Temp. 1 - Ep. 11</sub-title>
+<desc>Junior Johnson, Bill Elliott e outros convidados exploram as mudanças feitas no Ford 1940 durante o pós-guerra. Eles explicam como usaram criatividade para criar um negócio que virou esporte.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Reality Show</category>
+<image>
+<image_name position="1">00000000074581.jpg</image_name>
+<image_broadcast>00000000074581</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.11.</episode-num>
+<episode-num system="onscreen">11</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623160000 -0300" stop="20150623162500 -0300" channel="DTU" program_id="0000392802" event_id="00000000000097432261" series_key="00000000074581001002">
+<title lang="pt">Carros Lendários</title>
+<sub-title lang="pt">Temp. 1 - Ep. 2</sub-title>
+<desc>Nashville, música country e automóveis. Músico respeitado e piloto de corridas, Marty Robbins fez fama como cantor e entrou no mundo do stock car sem problema algum.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Reality Show</category>
+<image>
+<image_name position="1">00000000074581.jpg</image_name>
+<image_broadcast>00000000074581</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.2.</episode-num>
+<episode-num system="onscreen">2</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623162500 -0300" stop="20150623165000 -0300" channel="DTU" program_id="0000311096" event_id="00000000000097432262" series_key="00000000068626000011">
+<title lang="pt">Clássicos de South Beach</title>
+<sub-title lang="pt">Os Golfinhos - Ep. 11</sub-title>
+<desc>Dois jogadores de futebol Americano do Miami Dolphins procuram carros fortes. Julio Iglesias Jr. quer vender seu Camaro. Robin tenta convencer Ted a comprar uma lancha.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000068626.jpg</image_name>
+<image_broadcast>00000000068626</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.11.</episode-num>
+<episode-num system="onscreen">11</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150623165000 -0300" stop="20150623171500 -0300" channel="DTU" program_id="0000313998" event_id="00000000000097432263" series_key="00000000068626000012">
+<title lang="pt">Clássicos de South Beach</title>
+<sub-title lang="pt">A Vida é um Zoológico - Ep. 12</sub-title>
+<desc>Ted e Robin mostram sua casa repleta de animais - vivos e empalhados. Ted viaja ao interior para conhecer Kenny, que é apaixonado por animais. Mas será que eles conseguirão chegar a um acordo quanto ao valor dos carros?</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000068626.jpg</image_name>
+<image_broadcast>00000000068626</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.12.</episode-num>
+<episode-num system="onscreen">12</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150623171500 -0300" stop="20150623180500 -0300" channel="DTU" program_id="0000318322" event_id="00000000000097432264" series_key="00000000023479002000">
+<title lang="pt">American Hot Rod</title>
+<title lang="en">American Hot Rod</title>
+<sub-title lang="pt">Chevy Low Rider 59 III - Temp. 2</sub-title>
+<desc>Boyd e sua equipe continuam reformando o Impala chamado de "Princesa do Gueto". Além disso, eles criam uma moto para combinar com ele.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000023479.jpg</image_name>
+<image_broadcast>00000000023479</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<episode-num system="xmltv_ns">2..</episode-num>
+<episode-num system="onscreen"></episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623180500 -0300" stop="20150623185500 -0300" channel="DTU" program_id="0000430625" event_id="00000000000097432265" series_key="00000000068624005006">
+<title lang="pt">Café Racer</title>
+<sub-title lang="pt">Temp. 5 - Ep. 6</sub-title>
+<desc>Os rapazes da Dime City Cycles são construtores talentosos que reformam uma Triumph com uma história. Com apenas doze anos, Zeke Dezeeu tem talento para construir motos mais leves e rápidas.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000068624.jpg</image_name>
+<image_broadcast>00000000068624</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">5.6.</episode-num>
+<episode-num system="onscreen">6</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623185500 -0300" stop="20150623192000 -0300" channel="DTU" program_id="0000383040" event_id="00000000000097432266" series_key="00000000069705002012">
+<title lang="pt">As Mecânicas</title>
+<sub-title lang="pt">Temp. 2 - Ep. 12</sub-title>
+<desc>As meninas ajudam na restauração de uma caminhonete Chevy 1967.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000069705.jpg</image_name>
+<image_broadcast>00000000069705</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">2.12.</episode-num>
+<episode-num system="onscreen">12</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150623192000 -0300" stop="20150623194500 -0300" channel="DTU" program_id="0000442742" event_id="00000000000097432267" series_key="00000000042963002012">
+<title lang="pt">O Segredo das Coisas - Supercarros</title>
+<sub-title lang="pt">Temp. 2 - Ep. 12</sub-title>
+<desc>Imagine o carro dos sonhos: ele provavelmente se parece com um Koenigsegg One:1. Este episódio mostra onde ele foi criado, seu funcionamento interno e o design elegante.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000042963.jpg</image_name>
+<image_broadcast>00000000042963</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">2.12.</episode-num>
+<episode-num system="onscreen">12</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623194500 -0300" stop="20150623200900 -0300" channel="DTU" program_id="0000442533" event_id="00000000000097432268" series_key="00000000074581002002">
+<title lang="pt">Carros Lendários</title>
+<sub-title lang="pt">Temp. 2 - Ep. 2</sub-title>
+<desc>Esta série traz programas sobre a cultura de carros apresentados por Ray Evernham e por seu amigo e mentor Rick Hendrick, conhecido simplesmente como Sr. H.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Reality Show</category>
+<image>
+<image_name position="1">00000000074581.jpg</image_name>
+<image_broadcast>00000000074581</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">2.2.</episode-num>
+<episode-num system="onscreen">2</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623200900 -0300" stop="20150623203200 -0300" channel="DTU" program_id="0000433758" event_id="00000000000097432269" series_key="00000000056324007013">
+<title lang="pt">Em Busca de Carros Clássicos</title>
+<sub-title lang="pt">Temp. 7 - Ep. 13</sub-title>
+<desc>Wayne Carini é um mestre restaurador para os ricos e famosos. ElW é o Indiana Jones do mundo da coleção de carros e viaja a todos os cantos da Terra para encontrar um carro em particular.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000056324.jpg</image_name>
+<image_broadcast>00000000056324</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">7.13.</episode-num>
+<episode-num system="onscreen">13</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623203200 -0300" stop="20150623211900 -0300" channel="DTU" program_id="0000442760" event_id="00000000000097432270" series_key="00000000070798002005">
+<title lang="pt">Por Dentro da West Coast Customs</title>
+<sub-title lang="pt">Temp. 2 - Ep. 5</sub-title>
+<desc>Mark Wahlberg, a General Motors e a West Coast Customs se preparam para criar um arrojado escritório sobre rodas. Prepare-se para conhecer um carro digno do astro de O Vencedor e Boogie Nights.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000070798.jpg</image_name>
+<image_broadcast>00000000070798</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">2.5.</episode-num>
+<episode-num system="onscreen">5</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623211900 -0300" stop="20150623220600 -0300" channel="DTU" program_id="0000387153" event_id="00000000000097432271" series_key="00000000073773001006">
+<title lang="pt">FantomWorks</title>
+<sub-title lang="pt">Temp. 1 - Ep. 6</sub-title>
+<desc>Dan e seu time trabalham em um Cadillac DeVille 1965 e em um Chevrolet Monte Carlo 1984. O Cadillac tem tantas folhas e fezes de rato que chega a ser um risco para a saúde.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Reality Show</category>
+<image>
+<image_name position="1">00000000073773.jpg</image_name>
+<image_broadcast>00000000073773</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.6.</episode-num>
+<episode-num system="onscreen">6</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623220600 -0300" stop="20150623225300 -0300" channel="DTU" program_id="0000387148" event_id="00000000000097432272" series_key="00000000068213003012">
+<title lang="pt">Cemitério de Carros</title>
+<sub-title lang="pt">Temp. 3 - Ep. 12</sub-title>
+<desc>Mark está atrasado para cumprir a promessa de que deixará o Daytona Charger 69 de Tom Partridge pronto até o final do mês. A equipe acelera para realizar o trabalho a tempo.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000068213.jpg</image_name>
+<image_broadcast>00000000068213</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">3.12.</episode-num>
+<episode-num system="onscreen">12</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150623225300 -0300" stop="20150623234000 -0300" channel="DTU" program_id="0000442779" event_id="00000000000097432273" series_key="00000000069300000014">
+<title lang="pt">Quinta Marcha</title>
+<sub-title lang="pt">Ep. 14</sub-title>
+<desc>Acompanhe os especialistas em automóveis Tiff Needell e Jason Plato, pilotos profissionais muito respeitados no meio automobilístico, em suas peripécias automotivas.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000069300.jpg</image_name>
+<image_broadcast>00000000069300</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.14.</episode-num>
+<episode-num system="onscreen">14</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150623234000 -0300" stop="20150624000400 -0300" channel="DTU" program_id="0000369613" event_id="00000000000097432274" series_key="00000000056324006016">
+<title lang="pt">Em Busca de Carros Clássicos</title>
+<sub-title lang="pt">Temp. 6 - Ep. 16</sub-title>
+<desc>Wayne Carini recebe os espectadores no mundo dos supercolecionadores de carros. Ele consegue chegar bem perto da última Ferrari 275 GTB/4 N.A.R.T. Spyder 1967 original.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000056324.jpg</image_name>
+<image_broadcast>00000000056324</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">6.16.</episode-num>
+<episode-num system="onscreen">16</episode-num>
 <video>
 <colour>yes</colour>
 </video>

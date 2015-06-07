@@ -4,1645 +4,6 @@
 <display-name lang="pt">TV5 Monde</display-name>
 <icon src="tv5.gif" />
 </channel>
-<programme start="20150603004200 -0300" stop="20150603010400 -0300" channel="TV5" program_id="0000082203" event_id="00000000000097654288" series_key="00000000075074000000">
-<title lang="pt">TV5Monde Le Journal</title>
-<title lang="en">TV5Monde Le Journal</title>
-<desc>O jornalismo da TV5MONDE.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075074.jpg</image_name>
-<image_broadcast>00000000075074</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603010400 -0300" stop="20150603010700 -0300" channel="TV5" program_id="0000432320" event_id="00000000000097654289" series_key="">
-<title lang="pt">Météo</title>
-<desc>O boletim meteorológico internacional.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Meteorologia</category>
-<image>
-<image_name position="1">0000432320.jpg</image_name>
-<image_broadcast>0000432320</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603010700 -0300" stop="20150603024400 -0300" channel="TV5" program_id="0000437682" event_id="00000000000097654290" series_key="">
-<title lang="pt">Grigris</title>
-<title lang="en">Grigris</title>
-<desc>Apesar de uma perna paralisada, Grigris de 25 anos, sonha em ser uma bailarina. Mas seus sonhos são frustradas quando seu tio cai gravemente doente. Para salvá-lo, Grigris resolve trabalhar para os traficantes de gasolina.</desc>
-<credits>
-<director>Mahamat-Saleh Haroun</director>
-<actor>Souleymane Démé</actor>
-<actor>Anaïs Monory</actor>
-<actor>Cyril Guei</actor>
-<actor>Marius Yelolo</actor>
-<actor>Hadje Fatime N'Goua</actor>
-<actor>Youssouf Djaoro</actor>
-</credits>
-<date>2013</date>
-<category lang="pt">Filme</category>
-<category lang="pt">Drama</category>
-<image>
-<image_name position="1">0000437682.jpg</image_name>
-<image_broadcast>0000437682</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>França</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-<star-rating>
-<value>3/5</value>
-</star-rating>
-</programme>
-<programme start="20150603024400 -0300" stop="20150603042400 -0300" channel="TV5" program_id="0000443573" event_id="00000000000097654291" series_key="">
-<title lang="pt">Run</title>
-<title lang="en">Run</title>
-<desc>Run foge. Ele acaba de matar o Primeiro ministro do país. Sua vida lhe volta em flashes: a infância com o mestre Tourou, Gladys, a comedora, o passado de miliciano. São vidas que ele não escolheu e se deixou, a cada vez, fisgar por elas.</desc>
-<credits>
-<director>Philippe Lacôte</director>
-<actor>Isaach De Bankolé</actor>
-<actor>Abdoul Karim Konaté</actor>
-<actor>Rasmané Ouédraogo</actor>
-<actor>Reine Sali Coulibaly</actor>
-<actor>Adelaïde Ouattara</actor>
-</credits>
-<date>2013</date>
-<category lang="pt">Filme</category>
-<category lang="pt">Policial</category>
-<image>
-<image_name position="1">0000443573.jpg</image_name>
-<image_broadcast>0000443573</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>França</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>3/5</value>
-</star-rating>
-</programme>
-<programme start="20150603042400 -0300" stop="20150603060000 -0300" channel="TV5" program_id="0000084365" event_id="00000000000097654292" series_key="">
-<title lang="pt">As Invasões Bárbaras</title>
-<title lang="en">Les Invasions Barbares</title>
-<desc>O reencontro dos amigos de O Declínio do Império Americano, 18 anos depois, juntos para se despedir do divorciado Rémy, abatido por um câncer raro.</desc>
-<credits>
-<director>Denys Arcand</director>
-<actor>Rémy Girard</actor>
-<actor>Stéphane Rousseau</actor>
-<actor>Marie-Josée Croze</actor>
-<actor>Marina Hands</actor>
-<actor>Dorothée Berryman</actor>
-<actor>Louise Portal</actor>
-<actor>Dominique Michel</actor>
-<actor>Yves Jacques</actor>
-<actor>Pierre Curzi</actor>
-<actor>Denis Bouchard</actor>
-</credits>
-<date>2003</date>
-<category lang="pt">Filme</category>
-<category lang="pt">Drama</category>
-<image>
-<image_name position="1">0000084365.jpg</image_name>
-<image_broadcast>0000084365</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Canadá/França</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 16 anos</value>
-</rating>
-<star-rating>
-<value>4/5</value>
-</star-rating>
-</programme>
-<programme start="20150603060000 -0300" stop="20150603062500 -0300" channel="TV5" program_id="0000186752" event_id="00000000000097654293" series_key="00000000071399000000">
-<title lang="pt">Le Journal De Radio-canada</title>
-<desc>O telejornal da redação da Radio-Canada.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071399.jpg</image_name>
-<image_broadcast>00000000071399</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603062500 -0300" stop="20150603071900 -0300" channel="TV5" program_id="0000006063" event_id="00000000000097654294" series_key="00000000074389000000">
-<title lang="pt">Télématin</title>
-<desc>William Leymergie e seus comentaristas estão a postos para dar uma panorâmica da vida cotidiana: moda, saúde, emprego, consumo, gastronomia, cultura... Bom humor garantido!</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000074389.jpg</image_name>
-<image_broadcast>00000000074389</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603071900 -0300" stop="20150603073200 -0300" channel="TV5" program_id="0000082203" event_id="00000000000097654295" series_key="00000000075074000000">
-<title lang="pt">TV5Monde Le Journal</title>
-<title lang="en">TV5Monde Le Journal</title>
-<desc>O jornalismo da TV5MONDE.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075074.jpg</image_name>
-<image_broadcast>00000000075074</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603073200 -0300" stop="20150603080000 -0300" channel="TV5" program_id="0000432383" event_id="00000000000097654296" series_key="">
-<title lang="pt">Challenge</title>
-<desc>Um mergulho nas sensações de um grande feito esportivo! Os protagonistas relatam seus desafios e as tentativas de recorde.</desc>
-<date>2014</date>
-<category lang="pt">Documentário</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">0000432383.jpg</image_name>
-<image_broadcast>0000432383</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603080000 -0300" stop="20150603080400 -0300" channel="TV5" program_id="0000254094" event_id="00000000000097654297" series_key="">
-<title lang="pt">Flash Info</title>
-<desc>Todas as notícias em dois minutos.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000254094.jpg</image_name>
-<image_broadcast>0000254094</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603080400 -0300" stop="20150603090200 -0300" channel="TV5" program_id="0000010355" event_id="00000000000097654298" series_key="00000000075095000000">
-<title lang="pt">Le Point</title>
-<title lang="en">Le Point</title>
-<desc>Com sua vasta equipe de correspondentes cobrindo todo o território canadense e os quatro cantos do mundo, o programa Le point oferece um contato direto com a notícia, onde quer que ela esteja.</desc>
-<date>2014</date>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075095.jpg</image_name>
-<image_broadcast>00000000075095</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603090200 -0300" stop="20150603093000 -0300" channel="TV5" program_id="0000035227" event_id="00000000000097654299" series_key="00000000072939000000">
-<title lang="pt">Chroniques D'En Haut</title>
-<desc>Todas as semanas, Laurent sai explorando as montanhas. Um maciço, um vale, a atividade característica do local, seja ela tradicional ou moderna.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000072939.jpg</image_name>
-<image_broadcast>00000000072939</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603093000 -0300" stop="20150603100000 -0300" channel="TV5" program_id="0000254095" event_id="00000000000097654300" series_key="00000000071398000000">
-<title lang="pt">Le Journal de La RTBF</title>
-<desc>Todas as notícias da atualidade internacional, editadas e apresentadas pela redação de jornalismo da RTBF.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071398.jpg</image_name>
-<image_broadcast>00000000071398</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603100000 -0300" stop="20150603103000 -0300" channel="TV5" program_id="0000082203" event_id="00000000000097654301" series_key="00000000075074000000">
-<title lang="pt">TV5Monde Le Journal</title>
-<title lang="en">TV5Monde Le Journal</title>
-<desc>O jornalismo da TV5MONDE.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075074.jpg</image_name>
-<image_broadcast>00000000075074</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603103000 -0300" stop="20150603105400 -0300" channel="TV5" program_id="0000347440" event_id="00000000000097654302" series_key="00000000071181000000">
-<title lang="pt">Le Design Est Partout</title>
-<title lang="en">Le Design Est Partout</title>
-<desc>Panorâmica do design através do dia a dia dos quebequenses. Na companhia de Kurt Hibchen, grande especialista no assunto, e de convidados especiais, vamos descobrir o design que surpreende e se revela em locais públicos.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000071181.jpg</image_name>
-<image_broadcast>00000000071181</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603105400 -0300" stop="20150603112000 -0300" channel="TV5" program_id="0000324017" event_id="00000000000097654303" series_key="00000000069523000000">
-<title lang="pt">Les P'tits Plats De Babette</title>
-<title lang="en">Les P'tits Plats De Babette</title>
-<desc>Do mercado aos fogões, uma viagem culinária salpicada de dicas instrutivas, engraçadas e sábias.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Culinária</category>
-<image>
-<image_name position="1">00000000069523.jpg</image_name>
-<image_broadcast>00000000069523</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603112000 -0300" stop="20150603114900 -0300" channel="TV5" program_id="0000356454" event_id="00000000000097654304" series_key="">
-<title lang="pt">CUT</title>
-<title lang="en">CUT</title>
-<desc>Dezessete anos atrás, Laura fugiu da ilha de La Réunion, depois da morte do companheiro. Hoje, ela é obrigada a voltar a morar na ilha, junto à família do marido, que lhe quer mal.</desc>
-<credits>
-<director>Stéphane Meunier</director>
-<actor>Julie Boulanger</actor>
-<actor>Antoine Stip</actor>
-<actor>Sébastien Capgras</actor>
-</credits>
-<date>2013</date>
-<category lang="pt">Filme</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">0000356454.jpg</image_name>
-<image_broadcast>0000356454</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>França</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603114900 -0300" stop="20150603120300 -0300" channel="TV5" program_id="0000316102" event_id="00000000000097654305" series_key="00000000069124000000">
-<title lang="pt">Itineris</title>
-<title lang="en">Itineris</title>
-<desc>Mali, Rússia, Espanha... "Itineris" nos convida para descobrirmos o patrimônio, a história, a cultura e a arte de viver de cada região visitada.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Viagem</category>
-<image>
-<image_name position="1">00000000069124.jpg</image_name>
-<image_broadcast>00000000069124</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603120300 -0300" stop="20150603123000 -0300" channel="TV5" program_id="0000111942" event_id="00000000000097654306" series_key="00000000073798000000">
-<title lang="pt">Littoral</title>
-<desc>Littoral, o programa para as pessoas que amam o mar, convida a todos para um passeio marítimo ao longo da costa do Atlântico, em busca de descobertas, de encontros inesperados e emoções intensas.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000073798.jpg</image_name>
-<image_broadcast>00000000073798</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603123000 -0300" stop="20150603130000 -0300" channel="TV5" program_id="0000123579" event_id="00000000000097654307" series_key="00000000067684000000">
-<title lang="pt">Plus Belle La Vie</title>
-<title lang="en">Plus belle la vie</title>
-<desc>Crônicas do dia-a-dia do Mistral, bairro popular de Marselha. Suas alegrias, dramas, segredos, histórias de amor e ódio.</desc>
-<credits>
-<director>Charli Beléteau</director>
-<actor>Michel Cordes</actor>
-<actor>Laurent Kerusore</actor>
-<actor>Anne Decis</actor>
-<actor>Virgile Bayle</actor>
-<actor>Amalric Gérard</actor>
-<actor>Ambroise Michel</actor>
-<actor>Thibault Vaneck</actor>
-<actor>Hélène Médigue</actor>
-<actor>Pierre Martot</actor>
-<actor>Serge Dupire</actor>
-<actor>Cécile Auclert</actor>
-</credits>
-<date>2004</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Drama</category>
-<image>
-<image_name position="1">00000000067684.jpg</image_name>
-<image_broadcast>00000000067684</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>França</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>1/5</value>
-</star-rating>
-</programme>
-<programme start="20150603130000 -0300" stop="20150603140000 -0300" channel="TV5" program_id="0000347410" event_id="00000000000097654308" series_key="">
-<title lang="pt">Asmahan, Une Diva Orientale</title>
-<title lang="en">Asmahan, Une Diva Orientale</title>
-<desc>Amal El Atrach, conhecida como Asmahan, é uma princesa síria de origem druza que faz parte das figuras alegóricas do século XX. Protagonista das grandes comédias musicais egípcias dos anos 1930.</desc>
-<credits>
-<director>Silvano Castano</director>
-<director>Silvano Castano</director>
-</credits>
-<date>2013</date>
-<category lang="pt">Documentário</category>
-<category lang="pt">Biografia</category>
-<image>
-<image_name position="1">0000347410.jpg</image_name>
-<image_broadcast>0000347410</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>França</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603140000 -0300" stop="20150603142400 -0300" channel="TV5" program_id="0000356114" event_id="00000000000097654309" series_key="">
-<title lang="pt">64' Le Monde En Français</title>
-<desc>O novo encontro diário do jornalismo apresentado pela redação de TV5MONDE.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000356114.jpg</image_name>
-<image_broadcast>0000356114</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603142400 -0300" stop="20150603142700 -0300" channel="TV5" program_id="0000065453" event_id="00000000000097654310" series_key="00000000071407000000">
-<title lang="pt">Le Journal de L'économie</title>
-<desc>Três minutos para explicar e analisar as notícias econômicas.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071407.jpg</image_name>
-<image_broadcast>00000000071407</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603142700 -0300" stop="20150603145000 -0300" channel="TV5" program_id="0000356114" event_id="00000000000097654311" series_key="">
-<title lang="pt">64' Le Monde En Français</title>
-<desc>O novo encontro diário do jornalismo apresentado pela redação de TV5MONDE.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000356114.jpg</image_name>
-<image_broadcast>0000356114</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603145000 -0300" stop="20150603145600 -0300" channel="TV5" program_id="0000410954" event_id="00000000000097654312" series_key="">
-<title lang="pt">L'invité</title>
-<desc>Entrevista com um convidado que está no centro dos acontecimentos político, econômico, cultural.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">0000410954.jpg</image_name>
-<image_broadcast>0000410954</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603145600 -0300" stop="20150603150200 -0300" channel="TV5" program_id="0000385224" event_id="00000000000097654313" series_key="00000000073969000000">
-<title lang="pt">64' L'essentiel</title>
-<desc>O noticiário internacional analisado pelo mundo francófono.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000073969.jpg</image_name>
-<image_broadcast>00000000073969</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603150200 -0300" stop="20150603170000 -0300" channel="TV5" program_id="0000084365" event_id="00000000000097654314" series_key="">
-<title lang="pt">As Invasões Bárbaras</title>
-<title lang="en">Les Invasions Barbares</title>
-<desc>O reencontro dos amigos de O Declínio do Império Americano, 18 anos depois, juntos para se despedir do divorciado Rémy, abatido por um câncer raro.</desc>
-<credits>
-<director>Denys Arcand</director>
-<actor>Rémy Girard</actor>
-<actor>Stéphane Rousseau</actor>
-<actor>Marie-Josée Croze</actor>
-<actor>Marina Hands</actor>
-<actor>Dorothée Berryman</actor>
-<actor>Louise Portal</actor>
-<actor>Dominique Michel</actor>
-<actor>Yves Jacques</actor>
-<actor>Pierre Curzi</actor>
-<actor>Denis Bouchard</actor>
-</credits>
-<date>2003</date>
-<category lang="pt">Filme</category>
-<category lang="pt">Drama</category>
-<image>
-<image_name position="1">0000084365.jpg</image_name>
-<image_broadcast>0000084365</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Canadá/França</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 16 anos</value>
-</rating>
-<star-rating>
-<value>4/5</value>
-</star-rating>
-</programme>
-<programme start="20150603170000 -0300" stop="20150603173100 -0300" channel="TV5" program_id="0000280594" event_id="00000000000097654315" series_key="00000000071397000000">
-<title lang="pt">Le Journal De La RTS</title>
-<desc></desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071397.jpg</image_name>
-<image_broadcast>00000000071397</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603173100 -0300" stop="20150603180000 -0300" channel="TV5" program_id="0000082239" event_id="00000000000097654316" series_key="">
-<title lang="pt">Acoustic</title>
-<title lang="en">Acoustic</title>
-<desc>Encontro imperdível com a música, Acoustic recebe todas as semanas um artista do cenário da música francófona.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000082239.jpg</image_name>
-<image_broadcast>0000082239</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603180000 -0300" stop="20150603182900 -0300" channel="TV5" program_id="0000072901" event_id="00000000000097654317" series_key="00000000075074000000">
-<title lang="pt">TV5Monde Le Journal Afrique</title>
-<title lang="en">TV5Monde Le Journal Afrique</title>
-<desc>Toda a atualidade africana apresentada pela redação da TV5MONDE.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075074.jpg</image_name>
-<image_broadcast>00000000075074</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603182900 -0300" stop="20150603185800 -0300" channel="TV5" program_id="0000387013" event_id="00000000000097654318" series_key="00000000074403000000">
-<title lang="pt">Épicerie Fine</title>
-<desc>Épicerie Fine nos convida para uma viagem iniciática à descoberta dos principais produtos da gastronomia francesa e internacional, na companhia do chef estrelado Guy Martin.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000074403.jpg</image_name>
-<image_broadcast>00000000074403</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603185800 -0300" stop="20150603200000 -0300" channel="TV5" program_id="0000082208" event_id="00000000000097654319" series_key="">
-<title lang="pt">Arte Reportagem</title>
-<title lang="en">Arte Reportage</title>
-<desc>Programa jornalístico do canal Arte de reportagens pautadas na atualidade internacional.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000082208.jpg</image_name>
-<image_broadcast>0000082208</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603200000 -0300" stop="20150603203000 -0300" channel="TV5" program_id="0000261042" event_id="00000000000097654320" series_key="00000000071395000000">
-<title lang="pt">Le Journal de France 2</title>
-<desc>O telejornal do canal France 2.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071395.jpg</image_name>
-<image_broadcast>00000000071395</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603203000 -0300" stop="20150603223000 -0300" channel="TV5" program_id="0000104240" event_id="00000000000097654321" series_key="00000000073281000000">
-<title lang="pt">Boulevard Du Palais</title>
-<title lang="en">Boulevard Du Palais</title>
-<desc>Três membros de uma família são assassinados em um conjunto habitacional. Só o filho mais velho, ausente, escapa ao massacre. Um estranho símbolo pintado com sangue numa parede sugere um crime ritual.</desc>
-<credits>
-<director>Philippe Venault</director>
-<actor>Anne Richard</actor>
-<actor>Jean-François Balmer</actor>
-<actor>Philippe Ambrosini</actor>
-</credits>
-<date>2005</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Policial</category>
-<image>
-<image_name position="1">00000000073281.jpg</image_name>
-<image_broadcast>00000000073281</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>França</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603223000 -0300" stop="20150603225100 -0300" channel="TV5" program_id="0000082203" event_id="00000000000097654322" series_key="00000000075074000000">
-<title lang="pt">TV5Monde Le Journal</title>
-<title lang="en">TV5Monde Le Journal</title>
-<desc>O jornalismo da TV5MONDE.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075074.jpg</image_name>
-<image_broadcast>00000000075074</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603225100 -0300" stop="20150603225400 -0300" channel="TV5" program_id="0000432320" event_id="00000000000097654323" series_key="">
-<title lang="pt">Météo</title>
-<desc>O boletim meteorológico internacional.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Meteorologia</category>
-<image>
-<image_name position="1">0000432320.jpg</image_name>
-<image_broadcast>0000432320</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603225400 -0300" stop="20150603230000 -0300" channel="TV5" program_id="0000065453" event_id="00000000000097654324" series_key="00000000071407000000">
-<title lang="pt">Le Journal de L'économie</title>
-<desc>Três minutos para explicar e analisar as notícias econômicas.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071407.jpg</image_name>
-<image_broadcast>00000000071407</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603230000 -0300" stop="20150603234600 -0300" channel="TV5" program_id="0000443602" event_id="00000000000097654325" series_key="">
-<title lang="pt">Hôtel de la Plage</title>
-<title lang="en">Hôtel de la Plage</title>
-<desc>Como acontece todos os verões, os habitués do Hôtel de la Plage se reveem durante as férias. Victor, em plena crise conjugal, chega só com o filho.</desc>
-<credits>
-<director>Christian Merret-Palmair</director>
-<actor>Bruno Solo</actor>
-<actor>Jonathan Zaccaï</actor>
-<actor>Yvon Back</actor>
-<actor>Annick Blancheteau</actor>
-<actor>Sophie-Charlotte Husson</actor>
-<actor>Arnaud Henriet</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Filme</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">0000443602.jpg</image_name>
-<image_broadcast>0000443602</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>França</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>3/5</value>
-</star-rating>
-</programme>
-<programme start="20150603234600 -0300" stop="20150604003800 -0300" channel="TV5" program_id="0000443602" event_id="00000000000097654326" series_key="">
-<title lang="pt">Hôtel de la Plage</title>
-<title lang="en">Hôtel de la Plage</title>
-<desc>Como acontece todos os verões, os habitués do Hôtel de la Plage se reveem durante as férias. Victor, em plena crise conjugal, chega só com o filho.</desc>
-<credits>
-<director>Christian Merret-Palmair</director>
-<actor>Bruno Solo</actor>
-<actor>Jonathan Zaccaï</actor>
-<actor>Yvon Back</actor>
-<actor>Annick Blancheteau</actor>
-<actor>Sophie-Charlotte Husson</actor>
-<actor>Arnaud Henriet</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Filme</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">0000443602.jpg</image_name>
-<image_broadcast>0000443602</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>França</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>3/5</value>
-</star-rating>
-</programme>
-<programme start="20150604003800 -0300" stop="20150604005900 -0300" channel="TV5" program_id="0000082203" event_id="00000000000097654327" series_key="00000000075074000000">
-<title lang="pt">TV5Monde Le Journal</title>
-<title lang="en">TV5Monde Le Journal</title>
-<desc>O jornalismo da TV5MONDE.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075074.jpg</image_name>
-<image_broadcast>00000000075074</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604005900 -0300" stop="20150604010200 -0300" channel="TV5" program_id="0000432320" event_id="00000000000097654328" series_key="">
-<title lang="pt">Météo</title>
-<desc>O boletim meteorológico internacional.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Meteorologia</category>
-<image>
-<image_name position="1">0000432320.jpg</image_name>
-<image_broadcast>0000432320</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604010200 -0300" stop="20150604023900 -0300" channel="TV5" program_id="0000285397" event_id="00000000000097654329" series_key="">
-<title lang="pt">Os Robins dos Pobres</title>
-<title lang="en">Les Robins des Pauvres</title>
-<desc>Dois irmãos assaltam bancos e redistribuem o dinheiro aos mais pobres. Eles se fazem chamar "Robins dos pobres", não têm o perfil usual dos criminosos e são apoiados pela população.</desc>
-<credits>
-<director>Frédéric Tellier</director>
-<actor>Nicolas Giraud</actor>
-<actor>Aurélien Wiik</actor>
-<actor>Hippolyte Girardot</actor>
-<actor>Michel Duchaussoy</actor>
-<actor>Clémentine Poidatz</actor>
-</credits>
-<date>2011</date>
-<category lang="pt">Filme</category>
-<category lang="pt">Policial</category>
-<image>
-<image_name position="1">0000285397.jpg</image_name>
-<image_broadcast>0000285397</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>França</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>4/5</value>
-</star-rating>
-</programme>
-<programme start="20150604023900 -0300" stop="20150604043100 -0300" channel="TV5" program_id="0000221026" event_id="00000000000097654330" series_key="">
-<title lang="pt">Les Femmes de L'ombre</title>
-<desc></desc>
-<credits>
-<director>Jean-Paul Salomé</director>
-<actor>Sophie Marceau</actor>
-<actor>Julie Depardieu</actor>
-<actor>Marie Gillain</actor>
-<actor>Déborah François</actor>
-<actor>Maya Sansa</actor>
-<actor>Julien Boisselier</actor>
-<actor>Moritz Bleibtreu</actor>
-</credits>
-<date>2008</date>
-<category lang="pt">Filme</category>
-<category lang="pt">Drama</category>
-<image>
-<image_name position="1">0000221026.jpg</image_name>
-<image_broadcast>0000221026</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>França</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-<star-rating>
-<value>3/5</value>
-</star-rating>
-</programme>
-<programme start="20150604043100 -0300" stop="20150604060000 -0300" channel="TV5" program_id="0000437699" event_id="00000000000097654331" series_key="">
-<title lang="pt">La Clef Des Champs</title>
-<title lang="en">La Clef Des Champs</title>
-<desc>Fred, célebre colunista gastronômico parisiense, arrogante e introvertido, volta a Lyon para encontrar a mãe que fugiu do lar para idosos. É um retorno que se impôs a ele, associado à humilhação profissional.</desc>
-<credits>
-<director>Bertrand Van Effenterre</director>
-<actor>Florence Pernel</actor>
-<actor>Nathalie Besançon</actor>
-<actor>Jackie Berroyer</actor>
-<actor>François Berléand</actor>
-<actor>Rémy Adriaens</actor>
-<actor>Jackie Berroyer</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Filme</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">0000437699.jpg</image_name>
-<image_broadcast>0000437699</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>França</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604060000 -0300" stop="20150604062500 -0300" channel="TV5" program_id="0000186752" event_id="00000000000097654332" series_key="00000000071399000000">
-<title lang="pt">Le Journal De Radio-canada</title>
-<desc>O telejornal da redação da Radio-Canada.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071399.jpg</image_name>
-<image_broadcast>00000000071399</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604062500 -0300" stop="20150604071900 -0300" channel="TV5" program_id="0000006063" event_id="00000000000097654333" series_key="00000000074389000000">
-<title lang="pt">Télématin</title>
-<desc>William Leymergie e seus comentaristas estão a postos para dar uma panorâmica da vida cotidiana: moda, saúde, emprego, consumo, gastronomia, cultura... Bom humor garantido!</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000074389.jpg</image_name>
-<image_broadcast>00000000074389</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604071900 -0300" stop="20150604073300 -0300" channel="TV5" program_id="0000082203" event_id="00000000000097654334" series_key="00000000075074000000">
-<title lang="pt">TV5Monde Le Journal</title>
-<title lang="en">TV5Monde Le Journal</title>
-<desc>O jornalismo da TV5MONDE.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075074.jpg</image_name>
-<image_broadcast>00000000075074</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604073300 -0300" stop="20150604080000 -0300" channel="TV5" program_id="0000419735" event_id="00000000000097654335" series_key="">
-<title lang="pt">Les Escapades de Petitrenaud</title>
-<desc>"Serpenteando a França, Jean-Luc Petitrenaud passeia por uma cidade ou por região, celebrando com os moradores o convívio, a tradição e a autenticidade.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Culinária</category>
-<image>
-<image_name position="1">0000419735.jpg</image_name>
-<image_broadcast>0000419735</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604080000 -0300" stop="20150604080400 -0300" channel="TV5" program_id="0000254094" event_id="00000000000097654336" series_key="">
-<title lang="pt">Flash Info</title>
-<desc>Todas as notícias em dois minutos.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000254094.jpg</image_name>
-<image_broadcast>0000254094</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604080400 -0300" stop="20150604090100 -0300" channel="TV5" program_id="0000082208" event_id="00000000000097654337" series_key="">
-<title lang="pt">Arte Reportagem</title>
-<title lang="en">Arte Reportage</title>
-<desc>Programa jornalístico do canal Arte de reportagens pautadas na atualidade internacional.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000082208.jpg</image_name>
-<image_broadcast>0000082208</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604090100 -0300" stop="20150604093000 -0300" channel="TV5" program_id="0000099833" event_id="00000000000097654338" series_key="00000000075072000000">
-<title lang="pt">Une Brique Dans Le Ventre</title>
-<title lang="en">Une Brique Dans Le Ventre</title>
-<desc>Além das casas, apartamentos e lofts de todos os estilos e preços que Cédric Wautier visita, o programa dedicado à moradia dá conselhos jurídicos, práticos, técnicos, energéticos e estéticos, sem esquecer das imprescindíveis dicas de bricolagem.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000075072.jpg</image_name>
-<image_broadcast>00000000075072</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604093000 -0300" stop="20150604100000 -0300" channel="TV5" program_id="0000254095" event_id="00000000000097654339" series_key="00000000071398000000">
-<title lang="pt">Le Journal de La RTBF</title>
-<desc>Todas as notícias da atualidade internacional, editadas e apresentadas pela redação de jornalismo da RTBF.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071398.jpg</image_name>
-<image_broadcast>00000000071398</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604100000 -0300" stop="20150604102800 -0300" channel="TV5" program_id="0000082203" event_id="00000000000097654340" series_key="00000000075074000000">
-<title lang="pt">TV5Monde Le Journal</title>
-<title lang="en">TV5Monde Le Journal</title>
-<desc>O jornalismo da TV5MONDE.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075074.jpg</image_name>
-<image_broadcast>00000000075074</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604102800 -0300" stop="20150604105300 -0300" channel="TV5" program_id="0000309662" event_id="00000000000097654341" series_key="00000000074386000000">
-<title lang="pt">Jardins &amp; Loisirs</title>
-<desc>Luc Noël partilha com o telespectador sua paixão pela jardinagem e dá conselhos práticos para cultivar, embelezar e decorar os jardins.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000074386.jpg</image_name>
-<image_broadcast>00000000074386</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604105300 -0300" stop="20150604112000 -0300" channel="TV5" program_id="0000247576" event_id="00000000000097654342" series_key="00000000075096000000">
-<title lang="pt">L'épicerie</title>
-<desc>L'Epicerie, o encontro daqueles e daquelas que se interessam pelo conteúdo de seu prato e por tudo que diz respeito à alimentação.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000075096.jpg</image_name>
-<image_broadcast>00000000075096</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604112000 -0300" stop="20150604114900 -0300" channel="TV5" program_id="0000356454" event_id="00000000000097654343" series_key="">
-<title lang="pt">CUT</title>
-<title lang="en">CUT</title>
-<desc>Dezessete anos atrás, Laura fugiu da ilha de La Réunion, depois da morte do companheiro. Hoje, ela é obrigada a voltar a morar na ilha, junto à família do marido, que lhe quer mal.</desc>
-<credits>
-<director>Stéphane Meunier</director>
-<actor>Julie Boulanger</actor>
-<actor>Antoine Stip</actor>
-<actor>Sébastien Capgras</actor>
-</credits>
-<date>2013</date>
-<category lang="pt">Filme</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">0000356454.jpg</image_name>
-<image_broadcast>0000356454</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>França</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604114900 -0300" stop="20150604120400 -0300" channel="TV5" program_id="0000316102" event_id="00000000000097654344" series_key="00000000069124000000">
-<title lang="pt">Itineris</title>
-<title lang="en">Itineris</title>
-<desc>Mali, Rússia, Espanha... "Itineris" nos convida para descobrirmos o patrimônio, a história, a cultura e a arte de viver de cada região visitada.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Viagem</category>
-<image>
-<image_name position="1">00000000069124.jpg</image_name>
-<image_broadcast>00000000069124</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604120400 -0300" stop="20150604123000 -0300" channel="TV5" program_id="0000035227" event_id="00000000000097654345" series_key="00000000072939000000">
-<title lang="pt">Chroniques D'En Haut</title>
-<desc>Todas as semanas, Laurent sai explorando as montanhas. Um maciço, um vale, a atividade característica do local, seja ela tradicional ou moderna.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000072939.jpg</image_name>
-<image_broadcast>00000000072939</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604123000 -0300" stop="20150604130000 -0300" channel="TV5" program_id="0000123579" event_id="00000000000097654346" series_key="00000000067684000000">
-<title lang="pt">Plus Belle La Vie</title>
-<title lang="en">Plus belle la vie</title>
-<desc>Crônicas do dia-a-dia do Mistral, bairro popular de Marselha. Suas alegrias, dramas, segredos, histórias de amor e ódio.</desc>
-<credits>
-<director>Charli Beléteau</director>
-<actor>Michel Cordes</actor>
-<actor>Laurent Kerusore</actor>
-<actor>Anne Decis</actor>
-<actor>Virgile Bayle</actor>
-<actor>Amalric Gérard</actor>
-<actor>Ambroise Michel</actor>
-<actor>Thibault Vaneck</actor>
-<actor>Hélène Médigue</actor>
-<actor>Pierre Martot</actor>
-<actor>Serge Dupire</actor>
-<actor>Cécile Auclert</actor>
-</credits>
-<date>2004</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Drama</category>
-<image>
-<image_name position="1">00000000067684.jpg</image_name>
-<image_broadcast>00000000067684</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>França</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>1/5</value>
-</star-rating>
-</programme>
-<programme start="20150604130000 -0300" stop="20150604140000 -0300" channel="TV5" program_id="0000443592" event_id="00000000000097654347" series_key="">
-<title lang="pt">Là-bas, Les Kerguelen</title>
-<title lang="en">Là-bas, Les Kerguelen</title>
-<desc>As ilhas Kerguelen ficam no coração das Terras austrais e antárticas francesas, ao sul do Oceano Índico. No país dos pinguins, dos elefantes-marinhos e das paisagens sublimes, uma viagem de 28 dias ao encontro de apaixonados.</desc>
-<credits>
-<director>Marjorie Cauwel</director>
-<director>Marjorie Cauwel</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Documentário</category>
-<category lang="pt">Viagem</category>
-<image>
-<image_name position="1">0000443592.jpg</image_name>
-<image_broadcast>0000443592</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>França</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604140000 -0300" stop="20150604142400 -0300" channel="TV5" program_id="0000356114" event_id="00000000000097654348" series_key="">
-<title lang="pt">64' Le Monde En Français</title>
-<desc>O novo encontro diário do jornalismo apresentado pela redação de TV5MONDE.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000356114.jpg</image_name>
-<image_broadcast>0000356114</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604142400 -0300" stop="20150604142700 -0300" channel="TV5" program_id="0000065453" event_id="00000000000097654349" series_key="00000000071407000000">
-<title lang="pt">Le Journal de L'économie</title>
-<desc>Três minutos para explicar e analisar as notícias econômicas.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071407.jpg</image_name>
-<image_broadcast>00000000071407</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604142700 -0300" stop="20150604145000 -0300" channel="TV5" program_id="0000356114" event_id="00000000000097654350" series_key="">
-<title lang="pt">64' Le Monde En Français</title>
-<desc>O novo encontro diário do jornalismo apresentado pela redação de TV5MONDE.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000356114.jpg</image_name>
-<image_broadcast>0000356114</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604145000 -0300" stop="20150604145600 -0300" channel="TV5" program_id="0000410954" event_id="00000000000097654351" series_key="">
-<title lang="pt">L'invité</title>
-<desc>Entrevista com um convidado que está no centro dos acontecimentos político, econômico, cultural.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">0000410954.jpg</image_name>
-<image_broadcast>0000410954</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604145600 -0300" stop="20150604150200 -0300" channel="TV5" program_id="0000385224" event_id="00000000000097654352" series_key="00000000073969000000">
-<title lang="pt">64' L'essentiel</title>
-<desc>O noticiário internacional analisado pelo mundo francófono.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000073969.jpg</image_name>
-<image_broadcast>00000000073969</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604150200 -0300" stop="20150604154600 -0300" channel="TV5" program_id="0000337562" event_id="00000000000097654353" series_key="00000000070332001003">
-<title lang="pt">Les Rescapés</title>
-<title lang="en">Les Rescapés: Question d'identité</title>
-<sub-title lang="pt">Temp. 1 - Ep. 3</sub-title>
-<desc>A família instala-se num camping e quer recuperar, na casa antiga, os ''títulos do Tesouro'' que datam de 1964. Durante a investida, Gérald e o filho  Charles brigam.</desc>
-<credits>
-<director>Claude Desrosiers</director>
-<actor>Roy Dupuis</actor>
-<actor>Serge Houde</actor>
-<actor>Franco Montesano</actor>
-<actor>Guylaine Tremblay</actor>
-</credits>
-<date>2010</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Drama</category>
-<image>
-<image_name position="1">00000000070332.jpg</image_name>
-<image_broadcast>00000000070332</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Canadá</country>
-<episode-num system="xmltv_ns">1.3.</episode-num>
-<episode-num system="onscreen">3</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604154600 -0300" stop="20150604163000 -0300" channel="TV5" program_id="0000337562" event_id="00000000000097654354" series_key="00000000070332001003">
-<title lang="pt">Les Rescapés</title>
-<title lang="en">Les Rescapés: Question d'identité</title>
-<sub-title lang="pt">Temp. 1 - Ep. 3</sub-title>
-<desc>A família instala-se num camping e quer recuperar, na casa antiga, os ''títulos do Tesouro'' que datam de 1964. Durante a investida, Gérald e o filho  Charles brigam.</desc>
-<credits>
-<director>Claude Desrosiers</director>
-<actor>Roy Dupuis</actor>
-<actor>Serge Houde</actor>
-<actor>Franco Montesano</actor>
-<actor>Guylaine Tremblay</actor>
-</credits>
-<date>2010</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Drama</category>
-<image>
-<image_name position="1">00000000070332.jpg</image_name>
-<image_broadcast>00000000070332</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Canadá</country>
-<episode-num system="xmltv_ns">1.3.</episode-num>
-<episode-num system="onscreen">3</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604163000 -0300" stop="20150604170000 -0300" channel="TV5" program_id="0000288716" event_id="00000000000097654355" series_key="">
-<title lang="pt">Mystères Maritimes, Affaires Classées</title>
-<desc>Se algumas catástrofes marítimas ficaram famosas, como a do "Titanic", outras, ao contrário, caíram no esquecimento. Naufrágios, incêndios, desparecimentos: "Mystères maritimes" faz uma retrospectiva de tragédias.</desc>
-<credits>
-<director>F. Reinhardt</director>
-<director>F. Reinhardt</director>
-</credits>
-<date>2011</date>
-<category lang="pt">Documentário</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">0000288716.jpg</image_name>
-<image_broadcast>0000288716</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>França</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604170000 -0300" stop="20150604173000 -0300" channel="TV5" program_id="0000280594" event_id="00000000000097654356" series_key="00000000071397000000">
-<title lang="pt">Le Journal De La RTS</title>
-<desc></desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071397.jpg</image_name>
-<image_broadcast>00000000071397</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604173000 -0300" stop="20150604180000 -0300" channel="TV5" program_id="0000108194" event_id="00000000000097654357" series_key="">
-<title lang="pt">Questions Pour Un Champion</title>
-<title lang="en">Questions Pour Un Champion</title>
-<desc>Concurso de cultura geral apresentado por Julien Lepers.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Game Show</category>
-<image>
-<image_name position="1">0000108194.jpg</image_name>
-<image_broadcast>0000108194</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604180000 -0300" stop="20150604183000 -0300" channel="TV5" program_id="0000072901" event_id="00000000000097654358" series_key="00000000075074000000">
-<title lang="pt">TV5Monde Le Journal Afrique</title>
-<title lang="en">TV5Monde Le Journal Afrique</title>
-<desc>Toda a atualidade africana apresentada pela redação da TV5MONDE.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075074.jpg</image_name>
-<image_broadcast>00000000075074</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604183000 -0300" stop="20150604185900 -0300" channel="TV5" program_id="0000324017" event_id="00000000000097654359" series_key="00000000069523000000">
-<title lang="pt">Les P'tits Plats De Babette</title>
-<title lang="en">Les P'tits Plats De Babette</title>
-<desc>Do mercado aos fogões, uma viagem culinária salpicada de dicas instrutivas, engraçadas e sábias.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Culinária</category>
-<image>
-<image_name position="1">00000000069523.jpg</image_name>
-<image_broadcast>00000000069523</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604185900 -0300" stop="20150604200000 -0300" channel="TV5" program_id="0000006055" event_id="00000000000097654360" series_key="">
-<title lang="pt">Tempo Presente</title>
-<title lang="en">Temps Présent</title>
-<desc>Com investigações minuciosas e olhar crítico, o programa joga luz sobre as crises e os conflitos de nossa época, denunciando as disfunções da sociedade.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000006055.jpg</image_name>
-<image_broadcast>0000006055</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604200000 -0300" stop="20150604203000 -0300" channel="TV5" program_id="0000261042" event_id="00000000000097654361" series_key="00000000071395000000">
-<title lang="pt">Le Journal de France 2</title>
-<desc>O telejornal do canal France 2.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071395.jpg</image_name>
-<image_broadcast>00000000071395</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604203000 -0300" stop="20150604215700 -0300" channel="TV5" program_id="0000025925" event_id="00000000000097654362" series_key="">
-<title lang="pt">Acossado</title>
-<title lang="en">À bout de souffle</title>
-<desc>Homem rouba carro em Marselha e segue para Paris. No caminho, atropela um motoqueiro. Procurado pela polícia, ele se refugia na casa de Patricia.</desc>
-<credits>
-<director>Jean-Luc Godard</director>
-<actor>Jean-Paul Belmondo</actor>
-<actor>Jean Seberg</actor>
-<actor>Daniel Boulanger</actor>
-<actor>Roger Hanin</actor>
-<actor>Jean-Pierre Melville</actor>
-<actor>Henri-Jacques Huet</actor>
-<actor>Van Doude</actor>
-<actor>Jean-Luc Godard</actor>
-<actor>Liliane David</actor>
-<actor>Claude Mansard</actor>
-</credits>
-<date>1960</date>
-<category lang="pt">Filme</category>
-<category lang="pt">Drama</category>
-<image>
-<image_name position="1">0000025925.jpg</image_name>
-<image_broadcast>0000025925</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>França</country>
-<video>
-<colour>no</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 14 anos</value>
-</rating>
-<star-rating>
-<value>4/5</value>
-</star-rating>
-</programme>
-<programme start="20150604215700 -0300" stop="20150604223000 -0300" channel="TV5" program_id="0000443625" event_id="00000000000097654363" series_key="">
-<title lang="pt">Du Plomb Dans L'aile</title>
-<desc>Jacky, um burquinense clandestino e deficiente físico, passa do inferno ao paraíso...  por alguns dias, enquanto dura uma mentira.</desc>
-<credits>
-<director>Uriel Jaouen Zrehen</director>
-<actor>Lucien Yerbanga</actor>
-<actor>Lety Pardalis</actor>
-<actor>Rodolphe Poulain</actor>
-<actor>Jean-Marc Lesieur</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Filme</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">0000443625.jpg</image_name>
-<image_broadcast>0000443625</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>França</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604223000 -0300" stop="20150604225100 -0300" channel="TV5" program_id="0000082203" event_id="00000000000097654364" series_key="00000000075074000000">
-<title lang="pt">TV5Monde Le Journal</title>
-<title lang="en">TV5Monde Le Journal</title>
-<desc>O jornalismo da TV5MONDE.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075074.jpg</image_name>
-<image_broadcast>00000000075074</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604225100 -0300" stop="20150604225400 -0300" channel="TV5" program_id="0000432320" event_id="00000000000097654365" series_key="">
-<title lang="pt">Météo</title>
-<desc>O boletim meteorológico internacional.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Meteorologia</category>
-<image>
-<image_name position="1">0000432320.jpg</image_name>
-<image_broadcast>0000432320</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604225400 -0300" stop="20150604230100 -0300" channel="TV5" program_id="0000065453" event_id="00000000000097654366" series_key="00000000071407000000">
-<title lang="pt">Le Journal de L'économie</title>
-<desc>Três minutos para explicar e analisar as notícias econômicas.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071407.jpg</image_name>
-<image_broadcast>00000000071407</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604230100 -0300" stop="20150605003400 -0300" channel="TV5" program_id="0000104240" event_id="00000000000097654367" series_key="00000000073281000000">
-<title lang="pt">Boulevard Du Palais</title>
-<title lang="en">Boulevard Du Palais</title>
-<desc>Três membros de uma família são assassinados em um conjunto habitacional. Só o filho mais velho, ausente, escapa ao massacre. Um estranho símbolo pintado com sangue numa parede sugere um crime ritual.</desc>
-<credits>
-<director>Philippe Venault</director>
-<actor>Anne Richard</actor>
-<actor>Jean-François Balmer</actor>
-<actor>Philippe Ambrosini</actor>
-</credits>
-<date>2005</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Policial</category>
-<image>
-<image_name position="1">00000000073281.jpg</image_name>
-<image_broadcast>00000000073281</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>França</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
 <programme start="20150605003400 -0300" stop="20150605005400 -0300" channel="TV5" program_id="0000082203" event_id="00000000000097654368" series_key="00000000075074000000">
 <title lang="pt">TV5Monde Le Journal</title>
 <title lang="en">TV5Monde Le Journal</title>
@@ -2088,7 +449,7 @@
 <value>1/5</value>
 </star-rating>
 </programme>
-<programme start="20150605130000 -0300" stop="20150605140000 -0300" channel="TV5" program_id="0000443904" event_id="000000100321400" series_key="00000000064521000000">
+<programme start="20150605130000 -0300" stop="20150605140000 -0300" channel="TV5" program_id="0000443904" event_id="00000000000097654389" series_key="00000000064521000000">
 <title lang="pt">360° - Geo</title>
 <sub-title lang="pt">Forte McMurray, a Corrida do Outro Negro</sub-title>
 <desc>O Canadá torna-se um dos principais países produtores de petróleo graças às areias betuminosas. Tomada de assalto, a cidade de Fort McMurray encarna essa corrida do outro negro. O salários batem recordes, mas as florestas desaparecem.</desc>
@@ -2316,7 +677,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605202500 -0300" stop="20150605215600 -0300" channel="TV5" program_id="0000443570" event_id="000000100321403" series_key="">
+<programme start="20150605202500 -0300" stop="20150605215600 -0300" channel="TV5" program_id="0000443570" event_id="00000000000097654402" series_key="">
 <title lang="pt">Meu Tio, Minha Babá</title>
 <title lang="en">Un Homme Au Pair</title>
 <desc>Maxime, quarentão, há muito tempo desempregado, vive na casa da irmã, alta executiva dinâmica e brilhante, que dirige uma agência de empregos e cria sozinha o filho de 9 anos.</desc>
@@ -3211,7 +1572,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606203000 -0300" stop="20150606215000 -0300" channel="TV5" program_id="0000443620" event_id="000000100321411" series_key="">
+<programme start="20150606203000 -0300" stop="20150606215000 -0300" channel="TV5" program_id="0000443620" event_id="00000000000097654448" series_key="">
 <title lang="pt">Morte ao Árbitro</title>
 <title lang="en">À Mort L'arbitre</title>
 <desc>Rico não aceita a derrota do seu time de futebol do coração. Para ele, o responsável é Maurice, o árbitro, que apitou um pênalti inexistente. Resolvido a acertar contas, ele e sua turma começam uma perseguição que logo logo vai virar um pesadelo.</desc>
@@ -3942,7 +2303,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607150000 -0300" stop="20150607153000 -0300" channel="TV5" program_id="0000444017" event_id="000000100321418" series_key="00000000070559000000">
+<programme start="20150607150000 -0300" stop="20150607153000 -0300" channel="TV5" program_id="0000444017" event_id="00000000000097654484" series_key="00000000070559000000">
 <title lang="pt">Acoustic</title>
 <sub-title lang="pt">Mademoiselle K</sub-title>
 <desc>Liderada por Katerine Gierak, a banda francesa Mademoiselle K lança novo álbum e mergulha nas fontes do rock. Melodias trabalhadas, riffs inspirados, clima elétrico: o novo álbum depurado é autoproduzido, selo Kravache.</desc>
@@ -4120,7 +2481,7 @@
 </rating>
 </programme>
 <programme start="20150607203000 -0300" stop="20150607215000 -0300" channel="TV5" program_id="0000443586" event_id="00000000000097654495" series_key="">
-<title lang="pt">Les Rayures Du Zèbre</title>
+<title lang="pt">As Listas da Zebra</title>
 <title lang="en">Les Rayures Du Zèbre</title>
 <desc>José é agente de jogadores de futebol. Sua especialidade é detectar na África jovens talentos. Quando acha Yaya, ele o leva para a Bélgica para fazer de Yaya um campeão. José está convencido de ter encontrado a galinha dos ovos de ouro.</desc>
 <credits>
@@ -4786,7 +3147,8 @@
 </rating>
 </programme>
 <programme start="20150608150200 -0300" stop="20150608155500 -0300" channel="TV5" program_id="0000437715" event_id="00000000000097654528" series_key="">
-<title lang="pt">P'tit Quinquin</title>
+<title lang="pt">O Pequeno Quinquin</title>
+<title lang="en">Le p'tit Quinquin</title>
 <desc>Um misterioso assassinato que se abre com a descoberta de partes do corpo humano dentro de uma vaca, nos arredores de uma pequena cidade no norte da França.</desc>
 <credits>
 <director>Bruno Dumont</director>
@@ -15523,5 +13885,1539 @@
 <rating system="Advisory">
 <value>Programa livre para todas as idades</value>
 </rating>
+</programme>
+<programme start="20150622010000 -0300" stop="20150622011100 -0300" channel="TV5" program_id="0000082203" event_id="00000000000097655076" series_key="00000000075074000000">
+<title lang="pt">TV5Monde Le Journal</title>
+<title lang="en">TV5Monde Le Journal</title>
+<desc>O jornalismo da TV5MONDE.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075074.jpg</image_name>
+<image_broadcast>00000000075074</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622011100 -0300" stop="20150622011400 -0300" channel="TV5" program_id="0000432320" event_id="00000000000097655077" series_key="">
+<title lang="pt">Météo</title>
+<desc>O boletim meteorológico internacional.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Meteorologia</category>
+<image>
+<image_name position="1">0000432320.jpg</image_name>
+<image_broadcast>0000432320</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622011400 -0300" stop="20150622024900 -0300" channel="TV5" program_id="0000178249" event_id="00000000000097655078" series_key="">
+<title lang="pt">A Culpa é do Fidel!</title>
+<title lang="en">Blame It On Fidel</title>
+<desc>Em 1970, Anna, de nove anos, mora em Paris com os pais e seu irmão. Com a influência de seu tio e uma viagem ao Chile, seus pais mudam sua perspectiva sobre o mundo e tudo o que Anna conhecia.</desc>
+<credits>
+<director>Julie Gavras</director>
+<actor>Nina Kervel-Bey</actor>
+<actor>Julie Depardieu</actor>
+<actor>Stefano Accorsi</actor>
+<actor>Benjamin Feuillet</actor>
+<actor>Martine Chevallier</actor>
+<actor>Olivier Perrier</actor>
+</credits>
+<date>2006</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Drama</category>
+<image>
+<image_name position="1">0000178249.jpg</image_name>
+<image_broadcast>0000178249</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Itália/França</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+<star-rating>
+<value>4/5</value>
+</star-rating>
+</programme>
+<programme start="20150622024900 -0300" stop="20150622041500 -0300" channel="TV5" program_id="0000437707" event_id="00000000000097655079" series_key="">
+<title lang="pt">La Vallée Des Mensonges</title>
+<title lang="en">La Vallée Des Mensonges</title>
+<desc>Laura é uma brilhante chef de cozinha em Paris. Ela decide voltar para a sua cidade onde nasceu. Infelizmente uma série de assassinatos muda os seus planos.</desc>
+<credits>
+<director>Stanislas Graziani</director>
+<actor>Julie de Bona</actor>
+<actor>Andréa Ferréol</actor>
+<actor>Stéphane Rideau</actor>
+<actor>Augustin Legrand</actor>
+<actor>Xavier Lemaître</actor>
+<actor>Hubert Koundé</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Policial</category>
+<image>
+<image_name position="1">0000437707.jpg</image_name>
+<image_broadcast>0000437707</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>França</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+<star-rating>
+<value>2/5</value>
+</star-rating>
+</programme>
+<programme start="20150622041500 -0300" stop="20150622050800 -0300" channel="TV5" program_id="0000226551" event_id="00000000000097655080" series_key="">
+<title lang="pt">Le Bonheur Est Dans Le Lait</title>
+<desc>Todos começamos nossa vida bebendo leite. Nem vegetal, nem mineral, este é o único alimento provindo de um ser humano ou animal que consumimos. Em menos de um século, o leite tornou-se a segunda indústria alimentar do mundo.</desc>
+<credits>
+<director>Pierre Bourgeois</director>
+<director>Pierre Bourgeois</director>
+</credits>
+<date>2010</date>
+<category lang="pt">Documentário</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000226551.jpg</image_name>
+<image_broadcast>0000226551</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>França</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622050800 -0300" stop="20150622060000 -0300" channel="TV5" program_id="0000400741" event_id="00000000000097655081" series_key="">
+<title lang="pt">200 Millions De Critiques</title>
+<desc>Primeiro grande programa francófono do mundo, uma criação 100% TV5MONDE, 200 Milhões de Críticos faz um balanço da atualidade cultural francófona através do olhar de jornalistas belgas, suíços, canadenses e franceses.</desc>
+<date>2014</date>
+<category lang="pt">Documentário</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000400741.jpg</image_name>
+<image_broadcast>0000400741</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622060000 -0300" stop="20150622062500 -0300" channel="TV5" program_id="0000186752" event_id="00000000000097655082" series_key="00000000071399000000">
+<title lang="pt">Le Journal De Radio-canada</title>
+<desc>O telejornal da redação da Radio-Canada.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000071399.jpg</image_name>
+<image_broadcast>00000000071399</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622062500 -0300" stop="20150622071900 -0300" channel="TV5" program_id="0000006063" event_id="00000000000097655083" series_key="00000000074389000000">
+<title lang="pt">Télématin</title>
+<desc>William Leymergie e seus comentaristas estão a postos para dar uma panorâmica da vida cotidiana: moda, saúde, emprego, consumo, gastronomia, cultura... Bom humor garantido!</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000074389.jpg</image_name>
+<image_broadcast>00000000074389</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622071900 -0300" stop="20150622073000 -0300" channel="TV5" program_id="0000082203" event_id="00000000000097655084" series_key="00000000075074000000">
+<title lang="pt">TV5Monde Le Journal</title>
+<title lang="en">TV5Monde Le Journal</title>
+<desc>O jornalismo da TV5MONDE.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075074.jpg</image_name>
+<image_broadcast>00000000075074</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622073000 -0300" stop="20150622080000 -0300" channel="TV5" program_id="0000432496" event_id="00000000000097655085" series_key="">
+<title lang="pt">Tendance XXI</title>
+<desc>O dinamismo da criação francesa nos campos da moda, do artesanato, do design, da beleza, da cozinha... Tendance XXI destaca o savoir-faire que se reinventa, sempre antenado na atualidade, ou até além dela.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Moda</category>
+<image>
+<image_name position="1">0000432496.jpg</image_name>
+<image_broadcast>0000432496</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622080000 -0300" stop="20150622080400 -0300" channel="TV5" program_id="0000254094" event_id="00000000000097655086" series_key="">
+<title lang="pt">Flash Info</title>
+<desc>Todas as notícias em dois minutos.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000254094.jpg</image_name>
+<image_broadcast>0000254094</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622080400 -0300" stop="20150622090400 -0300" channel="TV5" program_id="0000176547" event_id="00000000000097655087" series_key="">
+<title lang="pt">Foot!</title>
+<desc>O resumo dos jogos e os comentários após cada rodada do Campeonato Francês de Futebol.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000176547.jpg</image_name>
+<image_broadcast>0000176547</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622090400 -0300" stop="20150622093000 -0300" channel="TV5" program_id="0000006066" event_id="00000000000097655088" series_key="00000000071404000000">
+<title lang="pt">Télétourisme</title>
+<title lang="en">Télétourisme</title>
+<desc>Um programa turístico que nos levará a descobrir inúmeros lugares e manifestações deslumbrantes. Guy Lemaire propõe assuntos da atualidade, agrupando as questões por temas.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000071404.jpg</image_name>
+<image_broadcast>00000000071404</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622093000 -0300" stop="20150622100000 -0300" channel="TV5" program_id="0000254095" event_id="00000000000097655089" series_key="00000000071398000000">
+<title lang="pt">Le Journal de La RTBF</title>
+<desc>Todas as notícias da atualidade internacional, editadas e apresentadas pela redação de jornalismo da RTBF.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000071398.jpg</image_name>
+<image_broadcast>00000000071398</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622100000 -0300" stop="20150622102600 -0300" channel="TV5" program_id="0000082203" event_id="00000000000097655090" series_key="00000000075074000000">
+<title lang="pt">TV5Monde Le Journal</title>
+<title lang="en">TV5Monde Le Journal</title>
+<desc>O jornalismo da TV5MONDE.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075074.jpg</image_name>
+<image_broadcast>00000000075074</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622102600 -0300" stop="20150622105400 -0300" channel="TV5" program_id="0000347471" event_id="00000000000097655091" series_key="00000000071185000000">
+<title lang="pt">C'est Dans Ma Nature</title>
+<title lang="en">C'est Dans Ma Nature</title>
+<desc>"C'est dans ma nature", o programa de como viver ecologicamente correto. Jérôme Bonaldi visita moradias que respeitam o meio ambiente.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000071185.jpg</image_name>
+<image_broadcast>00000000071185</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622105400 -0300" stop="20150622112000 -0300" channel="TV5" program_id="0000377271" event_id="00000000000097655092" series_key="00000000073244000000">
+<title lang="pt">Pique-assiette Invite Les Chefs</title>
+<desc>Annick Jeanmairet recebe grandes chefs em sua pequena cozinha.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Culinária</category>
+<image>
+<image_name position="1">00000000073244.jpg</image_name>
+<image_broadcast>00000000073244</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622112000 -0300" stop="20150622120600 -0300" channel="TV5" program_id="0000356454" event_id="00000000000097655093" series_key="">
+<title lang="pt">CUT</title>
+<title lang="en">CUT</title>
+<desc>Dezessete anos atrás, Laura fugiu da ilha de La Réunion, depois da morte do companheiro. Hoje, ela é obrigada a voltar a morar na ilha, junto à família do marido, que lhe quer mal.</desc>
+<credits>
+<director>Stéphane Meunier</director>
+<actor>Julie Boulanger</actor>
+<actor>Antoine Stip</actor>
+<actor>Sébastien Capgras</actor>
+</credits>
+<date>2013</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">0000356454.jpg</image_name>
+<image_broadcast>0000356454</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>França</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622120600 -0300" stop="20150622123000 -0300" channel="TV5" program_id="0000382077" event_id="00000000000097655094" series_key="00000000073603000000">
+<title lang="pt">En Voyage!</title>
+<title lang="en">En Voyage!</title>
+<desc>Guy Lemaire nos convida para acompanhá-lo em suas viagens. Uma ocasião única para conhecermos uma região através de sua gastronomia, seus produtos e seu patrimônio turístico.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000073603.jpg</image_name>
+<image_broadcast>00000000073603</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Bélgica</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622123000 -0300" stop="20150622125900 -0300" channel="TV5" program_id="0000123579" event_id="00000000000097655095" series_key="00000000067684000000">
+<title lang="pt">Plus Belle La Vie</title>
+<title lang="en">Plus belle la vie</title>
+<desc>Crônicas do dia-a-dia do Mistral, bairro popular de Marselha. Suas alegrias, dramas, segredos, histórias de amor e ódio.</desc>
+<credits>
+<director>Charli Beléteau</director>
+<actor>Michel Cordes</actor>
+<actor>Laurent Kerusore</actor>
+<actor>Anne Decis</actor>
+<actor>Virgile Bayle</actor>
+<actor>Amalric Gérard</actor>
+<actor>Ambroise Michel</actor>
+<actor>Thibault Vaneck</actor>
+<actor>Hélène Médigue</actor>
+<actor>Pierre Martot</actor>
+<actor>Serge Dupire</actor>
+<actor>Cécile Auclert</actor>
+</credits>
+<date>2004</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Drama</category>
+<image>
+<image_name position="1">00000000067684.jpg</image_name>
+<image_broadcast>00000000067684</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>França</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>1/5</value>
+</star-rating>
+</programme>
+<programme start="20150622125900 -0300" stop="20150622140000 -0300" channel="TV5" program_id="0000443604" event_id="00000000000097655096" series_key="">
+<title lang="pt">Émirats, Les Mirages de la Puissance</title>
+<desc>A conquista do Golfo. No início do século XX, os emirados são terras sem fronteiras, povoadas por tribos nômades. Seus habitantes dependem, já então, de um recurso raro e cobiçado: pérolas.</desc>
+<credits>
+<director>Frédéric Compain</director>
+<director>Frédéric Compain</director>
+</credits>
+<date>2013</date>
+<category lang="pt">Documentário</category>
+<category lang="pt">Histórico</category>
+<image>
+<image_name position="1">0000443604.jpg</image_name>
+<image_broadcast>0000443604</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>França</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622140000 -0300" stop="20150622142400 -0300" channel="TV5" program_id="0000356114" event_id="00000000000097655097" series_key="">
+<title lang="pt">64' Le Monde En Français</title>
+<desc>O novo encontro diário do jornalismo apresentado pela redação de TV5MONDE.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000356114.jpg</image_name>
+<image_broadcast>0000356114</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622142400 -0300" stop="20150622142700 -0300" channel="TV5" program_id="0000065453" event_id="00000000000097655098" series_key="00000000071407000000">
+<title lang="pt">Le Journal de L'économie</title>
+<desc>Três minutos para explicar e analisar as notícias econômicas.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000071407.jpg</image_name>
+<image_broadcast>00000000071407</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622142700 -0300" stop="20150622145000 -0300" channel="TV5" program_id="0000356114" event_id="00000000000097655099" series_key="">
+<title lang="pt">64' Le Monde En Français</title>
+<desc>O novo encontro diário do jornalismo apresentado pela redação de TV5MONDE.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000356114.jpg</image_name>
+<image_broadcast>0000356114</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622145000 -0300" stop="20150622145600 -0300" channel="TV5" program_id="0000410954" event_id="00000000000097655100" series_key="">
+<title lang="pt">L'invité</title>
+<desc>Entrevista com um convidado que está no centro dos acontecimentos político, econômico, cultural.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">0000410954.jpg</image_name>
+<image_broadcast>0000410954</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622145600 -0300" stop="20150622150300 -0300" channel="TV5" program_id="0000385224" event_id="00000000000097655101" series_key="00000000073969000000">
+<title lang="pt">64' L'essentiel</title>
+<desc>O noticiário internacional analisado pelo mundo francófono.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000073969.jpg</image_name>
+<image_broadcast>00000000073969</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622150300 -0300" stop="20150622155400 -0300" channel="TV5" program_id="0000443602" event_id="00000000000097655102" series_key="">
+<title lang="pt">Hôtel de la Plage</title>
+<title lang="en">Hôtel de la Plage</title>
+<desc>Como acontece todos os verões, os habitués do Hôtel de la Plage se reveem durante as férias. Victor, em plena crise conjugal, chega só com o filho.</desc>
+<credits>
+<director>Christian Merret-Palmair</director>
+<actor>Bruno Solo</actor>
+<actor>Jonathan Zaccaï</actor>
+<actor>Yvon Back</actor>
+<actor>Annick Blancheteau</actor>
+<actor>Sophie-Charlotte Husson</actor>
+<actor>Arnaud Henriet</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">0000443602.jpg</image_name>
+<image_broadcast>0000443602</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>França</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150622155400 -0300" stop="20150622164100 -0300" channel="TV5" program_id="0000443602" event_id="00000000000097655103" series_key="">
+<title lang="pt">Hôtel de la Plage</title>
+<title lang="en">Hôtel de la Plage</title>
+<desc>Como acontece todos os verões, os habitués do Hôtel de la Plage se reveem durante as férias. Victor, em plena crise conjugal, chega só com o filho.</desc>
+<credits>
+<director>Christian Merret-Palmair</director>
+<actor>Bruno Solo</actor>
+<actor>Jonathan Zaccaï</actor>
+<actor>Yvon Back</actor>
+<actor>Annick Blancheteau</actor>
+<actor>Sophie-Charlotte Husson</actor>
+<actor>Arnaud Henriet</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">0000443602.jpg</image_name>
+<image_broadcast>0000443602</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>França</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150622164100 -0300" stop="20150622170000 -0300" channel="TV5" program_id="0000328157" event_id="00000000000097655104" series_key="">
+<title lang="pt">Écho-logis</title>
+<title lang="en">Écho-logis</title>
+<desc>Panorâmica mundial de soluções ambientais espetaculares, inovadoras e geniais para o habitat, "Écho-logis" sai ao encontro de homens e mulheres que abrem as portas de suas casas.</desc>
+<credits>
+<director>Cécile Nicouleaud</director>
+<director>Cécile Nicouleaud</director>
+</credits>
+<date>2011</date>
+<category lang="pt">Documentário</category>
+<category lang="pt">Meio Ambiente</category>
+<image>
+<image_name position="1">0000328157.jpg</image_name>
+<image_broadcast>0000328157</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>França</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622170000 -0300" stop="20150622173000 -0300" channel="TV5" program_id="0000280594" event_id="00000000000097655105" series_key="00000000071397000000">
+<title lang="pt">Le Journal De La RTS</title>
+<desc></desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000071397.jpg</image_name>
+<image_broadcast>00000000071397</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622173000 -0300" stop="20150622180000 -0300" channel="TV5" program_id="0000108194" event_id="00000000000097655106" series_key="">
+<title lang="pt">Questions Pour Un Champion</title>
+<title lang="en">Questions Pour Un Champion</title>
+<desc>Concurso de cultura geral apresentado por Julien Lepers.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Game Show</category>
+<image>
+<image_name position="1">0000108194.jpg</image_name>
+<image_broadcast>0000108194</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622180000 -0300" stop="20150622183000 -0300" channel="TV5" program_id="0000072901" event_id="00000000000097655107" series_key="00000000075074000000">
+<title lang="pt">TV5Monde Le Journal Afrique</title>
+<title lang="en">TV5Monde Le Journal Afrique</title>
+<desc>Toda a atualidade africana apresentada pela redação da TV5MONDE.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075074.jpg</image_name>
+<image_broadcast>00000000075074</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622183000 -0300" stop="20150622185900 -0300" channel="TV5" program_id="0000419735" event_id="00000000000097655108" series_key="">
+<title lang="pt">Les Escapades de Petitrenaud</title>
+<desc>"Serpenteando a França, Jean-Luc Petitrenaud passeia por uma cidade ou por região, celebrando com os moradores o convívio, a tradição e a autenticidade.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Culinária</category>
+<image>
+<image_name position="1">0000419735.jpg</image_name>
+<image_broadcast>0000419735</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622185900 -0300" stop="20150622200000 -0300" channel="TV5" program_id="0000411030" event_id="00000000000097655109" series_key="">
+<title lang="pt">Programa</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000411030.jpg</image_name>
+<image_broadcast>0000411030</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622200000 -0300" stop="20150622202900 -0300" channel="TV5" program_id="0000261042" event_id="00000000000097655110" series_key="00000000071395000000">
+<title lang="pt">Le Journal de France 2</title>
+<desc>O telejornal do canal France 2.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000071395.jpg</image_name>
+<image_broadcast>00000000071395</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622202900 -0300" stop="20150622223000 -0300" channel="TV5" program_id="0000443597" event_id="00000000000097655111" series_key="">
+<title lang="pt">Le Monde de Jamy</title>
+<title lang="en">Le Monde de Jamy</title>
+<desc>Jamy Gourmaud explora os lugares mais espetaculares do planeta. Com ele, o conhecimento torna-se uma aventura que exprime certa visão do mundo e alimenta nossa reflexão sobre os grandes desafios do século XXI. Apresentação: Jamy Gourmaud.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Ciência</category>
+<image>
+<image_name position="1">0000443597.jpg</image_name>
+<image_broadcast>0000443597</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622223000 -0300" stop="20150622225100 -0300" channel="TV5" program_id="0000082203" event_id="00000000000097655112" series_key="00000000075074000000">
+<title lang="pt">TV5Monde Le Journal</title>
+<title lang="en">TV5Monde Le Journal</title>
+<desc>O jornalismo da TV5MONDE.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075074.jpg</image_name>
+<image_broadcast>00000000075074</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622225100 -0300" stop="20150622225400 -0300" channel="TV5" program_id="0000432320" event_id="00000000000097655113" series_key="">
+<title lang="pt">Météo</title>
+<desc>O boletim meteorológico internacional.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Meteorologia</category>
+<image>
+<image_name position="1">0000432320.jpg</image_name>
+<image_broadcast>0000432320</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622225400 -0300" stop="20150622230000 -0300" channel="TV5" program_id="0000065453" event_id="00000000000097655114" series_key="00000000071407000000">
+<title lang="pt">Le Journal de L'économie</title>
+<desc>Três minutos para explicar e analisar as notícias econômicas.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000071407.jpg</image_name>
+<image_broadcast>00000000071407</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622230000 -0300" stop="20150623011300 -0300" channel="TV5" program_id="0000443563" event_id="00000000000097655115" series_key="">
+<title lang="pt">Violette</title>
+<title lang="en">Violette</title>
+<desc>A vida da romancista francesa Violette Leduc entre 1943 e 1964. Filha ilegítima de um grande burguês provinciano, ela cresceu como rebelde. Apaixonada por literatura, Violette Leduc descobre o mundo dos escritores parisienses.</desc>
+<credits>
+<director>Martin Provost</director>
+<actor>Emmanuelle Devos</actor>
+<actor>Sandrine Kiberlain</actor>
+<actor>Olivier Gourmet</actor>
+</credits>
+<date>2013</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Biografia</category>
+<image>
+<image_name position="1">0000443563.jpg</image_name>
+<image_broadcast>0000443563</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>França</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150623011300 -0300" stop="20150623012300 -0300" channel="TV5" program_id="0000082203" event_id="00000000000097655116" series_key="00000000075074000000">
+<title lang="pt">TV5Monde Le Journal</title>
+<title lang="en">TV5Monde Le Journal</title>
+<desc>O jornalismo da TV5MONDE.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075074.jpg</image_name>
+<image_broadcast>00000000075074</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623012300 -0300" stop="20150623013000 -0300" channel="TV5" program_id="0000432320" event_id="00000000000097655117" series_key="">
+<title lang="pt">Météo</title>
+<desc>O boletim meteorológico internacional.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Meteorologia</category>
+<image>
+<image_name position="1">0000432320.jpg</image_name>
+<image_broadcast>0000432320</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623013000 -0300" stop="20150623032700 -0300" channel="TV5" program_id="0000411030" event_id="00000000000097655118" series_key="">
+<title lang="pt">Programa</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000411030.jpg</image_name>
+<image_broadcast>0000411030</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623032700 -0300" stop="20150623050500 -0300" channel="TV5" program_id="0000289151" event_id="00000000000097655119" series_key="">
+<title lang="pt">O Amor Fraternal</title>
+<title lang="en">L'amour Fraternel</title>
+<desc>Marc e Henri se reencontram dez anos depois da morte da mãe. O primeiro levara uma vida em grande estilo em Paris, enquanto o segundo contentara-se com uma vida solitária na Provença, na casa da família.</desc>
+<credits>
+<director>Gérard Vergez</director>
+<actor>Andy Gillet</actor>
+<actor>Grégory Fitoussi</actor>
+<actor>Maurice Benichou</actor>
+<actor>Maryline Even</actor>
+<actor>Alexandre Carrière</actor>
+</credits>
+<date>2011</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Drama</category>
+<image>
+<image_name position="1">0000289151.jpg</image_name>
+<image_broadcast>0000289151</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>França</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623050500 -0300" stop="20150623060000 -0300" channel="TV5" program_id="0000268731" event_id="00000000000097655120" series_key="">
+<title lang="pt">L'incroyable Voyage</title>
+<title lang="en">L'incroyable Voyage</title>
+<desc>Kevin, Laure, Mohamed e Chérile: quatro adolescentes cuja vida nunca foi fácil. Até o dia em que foram escolhidos para participar de uma expedição científica nas terras austrais, às margens da Antártica.</desc>
+<credits>
+<director>Pascal Créségut</director>
+<director>Pascal Créségut</director>
+</credits>
+<date>2010</date>
+<category lang="pt">Documentário</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">0000268731.jpg</image_name>
+<image_broadcast>0000268731</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>França</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623060000 -0300" stop="20150623062500 -0300" channel="TV5" program_id="0000186752" event_id="00000000000097655121" series_key="00000000071399000000">
+<title lang="pt">Le Journal De Radio-canada</title>
+<desc>O telejornal da redação da Radio-Canada.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000071399.jpg</image_name>
+<image_broadcast>00000000071399</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623062500 -0300" stop="20150623071900 -0300" channel="TV5" program_id="0000006063" event_id="00000000000097655122" series_key="00000000074389000000">
+<title lang="pt">Télématin</title>
+<desc>William Leymergie e seus comentaristas estão a postos para dar uma panorâmica da vida cotidiana: moda, saúde, emprego, consumo, gastronomia, cultura... Bom humor garantido!</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000074389.jpg</image_name>
+<image_broadcast>00000000074389</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623071900 -0300" stop="20150623073000 -0300" channel="TV5" program_id="0000082203" event_id="00000000000097655123" series_key="00000000075074000000">
+<title lang="pt">TV5Monde Le Journal</title>
+<title lang="en">TV5Monde Le Journal</title>
+<desc>O jornalismo da TV5MONDE.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075074.jpg</image_name>
+<image_broadcast>00000000075074</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623073000 -0300" stop="20150623080000 -0300" channel="TV5" program_id="0000432366" event_id="00000000000097655124" series_key="">
+<title lang="pt">Les Vingt Chefs-d'oeuvre de La Nature</title>
+<desc>Ao encontro de pessoas que dedicam a vida à preservação dos mais belos parques nacionais do mundo, e da fauna que os ocupa. Guardiões, veterinários ou cientistas, são todos animados pela mesma paixão.</desc>
+<date>2013</date>
+<category lang="pt">Documentário</category>
+<category lang="pt">Ecologia</category>
+<image>
+<image_name position="1">0000432366.jpg</image_name>
+<image_broadcast>0000432366</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623080000 -0300" stop="20150623080500 -0300" channel="TV5" program_id="0000254094" event_id="00000000000097655125" series_key="">
+<title lang="pt">Flash Info</title>
+<desc>Todas as notícias em dois minutos.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000254094.jpg</image_name>
+<image_broadcast>0000254094</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623080500 -0300" stop="20150623090300 -0300" channel="TV5" program_id="0000432472" event_id="00000000000097655126" series_key="00000000076667000000">
+<title lang="pt">Questions à La Une</title>
+<desc>Um programa jornalístico semanal que questiona, investiga, interpela e vai além das simples constatações dos acontecimentos da atualidade. Sempre em interação com o público.</desc>
+<date>2014</date>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000076667.jpg</image_name>
+<image_broadcast>00000000076667</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623090300 -0300" stop="20150623093000 -0300" channel="TV5" program_id="0000342776" event_id="00000000000097655127" series_key="00000000070544000000">
+<title lang="pt">Les Animaux Stars Des Zoos</title>
+<title lang="en">Les Animaux Stars Des Zoos</title>
+<desc>Assim como  o pinguim Nils Olav, o orangotango Nonja ou o elefante Kandula, superdotado, alguns animais tornaram-se os símbolos do zoológico que os abrigam.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000070544.jpg</image_name>
+<image_broadcast>00000000070544</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623093000 -0300" stop="20150623100000 -0300" channel="TV5" program_id="0000254095" event_id="00000000000097655128" series_key="00000000071398000000">
+<title lang="pt">Le Journal de La RTBF</title>
+<desc>Todas as notícias da atualidade internacional, editadas e apresentadas pela redação de jornalismo da RTBF.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000071398.jpg</image_name>
+<image_broadcast>00000000071398</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623100000 -0300" stop="20150623102900 -0300" channel="TV5" program_id="0000082203" event_id="00000000000097655129" series_key="00000000075074000000">
+<title lang="pt">TV5Monde Le Journal</title>
+<title lang="en">TV5Monde Le Journal</title>
+<desc>O jornalismo da TV5MONDE.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075074.jpg</image_name>
+<image_broadcast>00000000075074</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623102900 -0300" stop="20150623105400 -0300" channel="TV5" program_id="0000099833" event_id="00000000000097655130" series_key="00000000075072000000">
+<title lang="pt">Une Brique Dans Le Ventre</title>
+<title lang="en">Une Brique Dans Le Ventre</title>
+<desc>Além das casas, apartamentos e lofts de todos os estilos e preços que Cédric Wautier visita, o programa dedicado à moradia dá conselhos jurídicos, práticos, técnicos, energéticos e estéticos, sem esquecer das imprescindíveis dicas de bricolagem.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000075072.jpg</image_name>
+<image_broadcast>00000000075072</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623105400 -0300" stop="20150623112000 -0300" channel="TV5" program_id="0000387013" event_id="00000000000097655131" series_key="00000000074403000000">
+<title lang="pt">Épicerie Fine</title>
+<desc>Épicerie Fine nos convida para uma viagem iniciática à descoberta dos principais produtos da gastronomia francesa e internacional, na companhia do chef estrelado Guy Martin.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000074403.jpg</image_name>
+<image_broadcast>00000000074403</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623112000 -0300" stop="20150623120300 -0300" channel="TV5" program_id="0000356454" event_id="00000000000097655132" series_key="">
+<title lang="pt">CUT</title>
+<title lang="en">CUT</title>
+<desc>Dezessete anos atrás, Laura fugiu da ilha de La Réunion, depois da morte do companheiro. Hoje, ela é obrigada a voltar a morar na ilha, junto à família do marido, que lhe quer mal.</desc>
+<credits>
+<director>Stéphane Meunier</director>
+<actor>Julie Boulanger</actor>
+<actor>Antoine Stip</actor>
+<actor>Sébastien Capgras</actor>
+</credits>
+<date>2013</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">0000356454.jpg</image_name>
+<image_broadcast>0000356454</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>França</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623120300 -0300" stop="20150623123000 -0300" channel="TV5" program_id="0000006066" event_id="00000000000097655133" series_key="00000000071404000000">
+<title lang="pt">Télétourisme</title>
+<title lang="en">Télétourisme</title>
+<desc>Um programa turístico que nos levará a descobrir inúmeros lugares e manifestações deslumbrantes. Guy Lemaire propõe assuntos da atualidade, agrupando as questões por temas.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000071404.jpg</image_name>
+<image_broadcast>00000000071404</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623123000 -0300" stop="20150623125900 -0300" channel="TV5" program_id="0000123579" event_id="00000000000097655134" series_key="00000000067684000000">
+<title lang="pt">Plus Belle La Vie</title>
+<title lang="en">Plus belle la vie</title>
+<desc>Crônicas do dia-a-dia do Mistral, bairro popular de Marselha. Suas alegrias, dramas, segredos, histórias de amor e ódio.</desc>
+<credits>
+<director>Charli Beléteau</director>
+<actor>Michel Cordes</actor>
+<actor>Laurent Kerusore</actor>
+<actor>Anne Decis</actor>
+<actor>Virgile Bayle</actor>
+<actor>Amalric Gérard</actor>
+<actor>Ambroise Michel</actor>
+<actor>Thibault Vaneck</actor>
+<actor>Hélène Médigue</actor>
+<actor>Pierre Martot</actor>
+<actor>Serge Dupire</actor>
+<actor>Cécile Auclert</actor>
+</credits>
+<date>2004</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Drama</category>
+<image>
+<image_name position="1">00000000067684.jpg</image_name>
+<image_broadcast>00000000067684</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>França</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>1/5</value>
+</star-rating>
+</programme>
+<programme start="20150623125900 -0300" stop="20150623140000 -0300" channel="TV5" program_id="0000392681" event_id="00000000000097655135" series_key="00000000074573000000">
+<title lang="pt">Bienvenue Aux Pâquis!</title>
+<title lang="en">Bienvenue Aux Pâquis!</title>
+<desc>Em Genebra, no bairro de Pâquis, prostitutas, traficantes e farristas são os reis do pedaço. Neste documentário-novela, uma jovem policial, um gerente de inferninho e uma família falam abertamente sobre o seu dia a dia.</desc>
+<credits>
+<director>Jean-Paul Mudry</director>
+<director>Jean-Paul Mudry</director>
+</credits>
+<date>2013</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000074573.jpg</image_name>
+<image_broadcast>00000000074573</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Suiça</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150623140000 -0300" stop="20150623142400 -0300" channel="TV5" program_id="0000356114" event_id="00000000000097655136" series_key="">
+<title lang="pt">64' Le Monde En Français</title>
+<desc>O novo encontro diário do jornalismo apresentado pela redação de TV5MONDE.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000356114.jpg</image_name>
+<image_broadcast>0000356114</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623142400 -0300" stop="20150623142700 -0300" channel="TV5" program_id="0000065453" event_id="00000000000097655137" series_key="00000000071407000000">
+<title lang="pt">Le Journal de L'économie</title>
+<desc>Três minutos para explicar e analisar as notícias econômicas.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000071407.jpg</image_name>
+<image_broadcast>00000000071407</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623142700 -0300" stop="20150623144700 -0300" channel="TV5" program_id="0000356114" event_id="00000000000097655138" series_key="">
+<title lang="pt">64' Le Monde En Français</title>
+<desc>O novo encontro diário do jornalismo apresentado pela redação de TV5MONDE.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000356114.jpg</image_name>
+<image_broadcast>0000356114</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623144700 -0300" stop="20150623145500 -0300" channel="TV5" program_id="0000410954" event_id="00000000000097655139" series_key="">
+<title lang="pt">L'invité</title>
+<desc>Entrevista com um convidado que está no centro dos acontecimentos político, econômico, cultural.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">0000410954.jpg</image_name>
+<image_broadcast>0000410954</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623145500 -0300" stop="20150623150000 -0300" channel="TV5" program_id="0000385224" event_id="00000000000097655140" series_key="00000000073969000000">
+<title lang="pt">64' L'essentiel</title>
+<desc>O noticiário internacional analisado pelo mundo francófono.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000073969.jpg</image_name>
+<image_broadcast>00000000073969</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623150000 -0300" stop="20150623163500 -0300" channel="TV5" program_id="0000104240" event_id="00000000000097655141" series_key="00000000073281000000">
+<title lang="pt">Boulevard Du Palais</title>
+<title lang="en">Boulevard Du Palais</title>
+<desc>Três membros de uma família são assassinados em um conjunto habitacional. Só o filho mais velho, ausente, escapa ao massacre. Um estranho símbolo pintado com sangue numa parede sugere um crime ritual.</desc>
+<credits>
+<director>Philippe Venault</director>
+<actor>Anne Richard</actor>
+<actor>Jean-François Balmer</actor>
+<actor>Philippe Ambrosini</actor>
+</credits>
+<date>2005</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Policial</category>
+<image>
+<image_name position="1">00000000073281.jpg</image_name>
+<image_broadcast>00000000073281</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>França</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623163500 -0300" stop="20150623170000 -0300" channel="TV5" program_id="0000288716" event_id="00000000000097655142" series_key="">
+<title lang="pt">Mystères Maritimes, Affaires Classées</title>
+<desc>Se algumas catástrofes marítimas ficaram famosas, como a do "Titanic", outras, ao contrário, caíram no esquecimento. Naufrágios, incêndios, desparecimentos: "Mystères maritimes" faz uma retrospectiva de tragédias.</desc>
+<credits>
+<director>F. Reinhardt</director>
+<director>F. Reinhardt</director>
+</credits>
+<date>2011</date>
+<category lang="pt">Documentário</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">0000288716.jpg</image_name>
+<image_broadcast>0000288716</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>França</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623170000 -0300" stop="20150623173000 -0300" channel="TV5" program_id="0000280594" event_id="00000000000097655143" series_key="00000000071397000000">
+<title lang="pt">Le Journal De La RTS</title>
+<desc></desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000071397.jpg</image_name>
+<image_broadcast>00000000071397</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623173000 -0300" stop="20150623180000 -0300" channel="TV5" program_id="0000108194" event_id="00000000000097655144" series_key="">
+<title lang="pt">Questions Pour Un Champion</title>
+<title lang="en">Questions Pour Un Champion</title>
+<desc>Concurso de cultura geral apresentado por Julien Lepers.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Game Show</category>
+<image>
+<image_name position="1">0000108194.jpg</image_name>
+<image_broadcast>0000108194</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623180000 -0300" stop="20150623183000 -0300" channel="TV5" program_id="0000072901" event_id="00000000000097655145" series_key="00000000075074000000">
+<title lang="pt">TV5Monde Le Journal Afrique</title>
+<title lang="en">TV5Monde Le Journal Afrique</title>
+<desc>Toda a atualidade africana apresentada pela redação da TV5MONDE.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075074.jpg</image_name>
+<image_broadcast>00000000075074</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623183000 -0300" stop="20150623190100 -0300" channel="TV5" program_id="0000377271" event_id="00000000000097655146" series_key="00000000073244000000">
+<title lang="pt">Pique-assiette Invite Les Chefs</title>
+<desc>Annick Jeanmairet recebe grandes chefs em sua pequena cozinha.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Culinária</category>
+<image>
+<image_name position="1">00000000073244.jpg</image_name>
+<image_broadcast>00000000073244</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623190100 -0300" stop="20150623200000 -0300" channel="TV5" program_id="0000010355" event_id="00000000000097655147" series_key="00000000075095000000">
+<title lang="pt">Le Point</title>
+<title lang="en">Le Point</title>
+<desc>Com sua vasta equipe de correspondentes cobrindo todo o território canadense e os quatro cantos do mundo, o programa Le point oferece um contato direto com a notícia, onde quer que ela esteja.</desc>
+<date>2014</date>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075095.jpg</image_name>
+<image_broadcast>00000000075095</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623200000 -0300" stop="20150623203000 -0300" channel="TV5" program_id="0000261042" event_id="00000000000097655148" series_key="00000000071395000000">
+<title lang="pt">Le Journal de France 2</title>
+<desc>O telejornal do canal France 2.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000071395.jpg</image_name>
+<image_broadcast>00000000071395</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623203000 -0300" stop="20150623212300 -0300" channel="TV5" program_id="0000443611" event_id="00000000000097655149" series_key="">
+<title lang="pt">Canada Plus Grand Que Nature</title>
+<desc>Um longo passeio pelo Canadá, entre rios e florestas, montanhas e riachos, Pacífico e Atlântico, é essa a proposta de Patrick Hivon. A pé, em caiaque de mar, de canoa ou de bicicleta, todos os meios são válidos para descobrir os diferentes parques</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Viagem</category>
+<image>
+<image_name position="1">0000443611.jpg</image_name>
+<image_broadcast>0000443611</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623212300 -0300" stop="20150623223000 -0300" channel="TV5" program_id="0000443611" event_id="00000000000097655150" series_key="">
+<title lang="pt">Canada Plus Grand Que Nature</title>
+<desc>Um longo passeio pelo Canadá, entre rios e florestas, montanhas e riachos, Pacífico e Atlântico, é essa a proposta de Patrick Hivon. A pé, em caiaque de mar, de canoa ou de bicicleta, todos os meios são válidos para descobrir os diferentes parques</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Viagem</category>
+<image>
+<image_name position="1">0000443611.jpg</image_name>
+<image_broadcast>0000443611</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623223000 -0300" stop="20150623225100 -0300" channel="TV5" program_id="0000082203" event_id="00000000000097655151" series_key="00000000075074000000">
+<title lang="pt">TV5Monde Le Journal</title>
+<title lang="en">TV5Monde Le Journal</title>
+<desc>O jornalismo da TV5MONDE.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075074.jpg</image_name>
+<image_broadcast>00000000075074</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623225100 -0300" stop="20150623225400 -0300" channel="TV5" program_id="0000432320" event_id="00000000000097655152" series_key="">
+<title lang="pt">Météo</title>
+<desc>O boletim meteorológico internacional.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Meteorologia</category>
+<image>
+<image_name position="1">0000432320.jpg</image_name>
+<image_broadcast>0000432320</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623225400 -0300" stop="20150623230100 -0300" channel="TV5" program_id="0000065453" event_id="00000000000097655153" series_key="00000000071407000000">
+<title lang="pt">Le Journal de L'économie</title>
+<desc>Três minutos para explicar e analisar as notícias econômicas.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000071407.jpg</image_name>
+<image_broadcast>00000000071407</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623230100 -0300" stop="20150624002200 -0300" channel="TV5" program_id="0000443620" event_id="00000000000097655154" series_key="">
+<title lang="pt">À Mort L'arbitre</title>
+<title lang="en">À Mort L'arbitre</title>
+<desc>Rico não aceita a derrota do seu time de futebol do coração. Para ele, o responsável é Maurice, o árbitro, que apitou um pênalti inexistente. Resolvido a acertar contas, ele e sua turma começam uma perseguição que logo logo vai virar um pesadelo.</desc>
+<credits>
+<director>Jean-Pierre Mocky</director>
+<actor>Michel Serrault</actor>
+<actor>Eddy Mitchell</actor>
+<actor>Carole Laure</actor>
+<actor>Laurent Malet</actor>
+<actor>Claude Brosset</actor>
+<actor>Jean-Pierre Mocky</actor>
+<actor>Nathalie Colas</actor>
+</credits>
+<date>1984</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Drama</category>
+<image>
+<image_name position="1">0000443620.jpg</image_name>
+<image_broadcast>0000443620</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>França</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
 </programme>
 </tv>

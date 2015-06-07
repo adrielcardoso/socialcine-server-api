@@ -4,573 +4,6 @@
 <display-name lang="pt">SporTV Alternativo - Mediaroom OiTV 701</display-name>
 <icon src="7b7.gif" />
 </channel>
-<programme start="20150603010000 -0300" stop="20150603030000 -0300" channel="7B7" program_id="0000442284" event_id="00000000000097275856" series_key="">
-<title lang="pt">Copa do Mundo Sub-20: México x Uruguai - Vivo</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000442284.jpg</image_name>
-<image_broadcast>0000442284</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603030000 -0300" stop="20150603040000 -0300" channel="7B7" program_id="0000009496" event_id="00000000000097275857" series_key="">
-<title lang="pt">VT - Corinthians x Palmeiras</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000009496.jpg</image_name>
-<image_broadcast>0000009496</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603040000 -0300" stop="20150603050000 -0300" channel="7B7" program_id="0000009841" event_id="00000000000097275858" series_key="">
-<title lang="pt">VT - Flamengo x Fluminense</title>
-<title lang="en">VT - Flamengo x Fluminense</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000009841.jpg</image_name>
-<image_broadcast>0000009841</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603050000 -0300" stop="20150603070000 -0300" channel="7B7" program_id="0000092846" event_id="00000000000097338000" series_key="">
-<title lang="pt">VT - Vitória x Criciúma</title>
-<title lang="en">VT - Vitória x Criciúma</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000092846.jpg</image_name>
-<image_broadcast>0000092846</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603070000 -0300" stop="20150603090000 -0300" channel="7B7" program_id="0000105169" event_id="00000000000097275859" series_key="">
-<title lang="pt">VT - Paraná x Botafogo</title>
-<title lang="en">VT - Paraná x Botafogo</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000105169.jpg</image_name>
-<image_broadcast>0000105169</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603090000 -0300" stop="20150603100000 -0300" channel="7B7" program_id="0000215116" event_id="00000000000097275860" series_key="00000000071215000000">
-<title lang="pt">SporTV News - Edição Manhã</title>
-<desc>Principal telejornal da programação do SporTV, o 'SporTV News' informa todos os acontecimentos diários do cenário esportivo nacional e internacional com a ajuda dos correspondentes espalhados pelo mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000071215.jpg</image_name>
-<image_broadcast>00000000071215</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603100000 -0300" stop="20150603120000 -0300" channel="7B7" program_id="0000076428" event_id="00000000000097275861" series_key="00000000071216000000">
-<title lang="pt">Redação SporTV</title>
-<title lang="en">Redação Sportv</title>
-<desc>Apresentado por André Rizek, o 'Redação SporTV' recebe jornalistas e convidados de todo o país para comentar as notícias de esportes dos principais veículos de comunicação do Brasil e do mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000071216.jpg</image_name>
-<image_broadcast>00000000071216</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603120000 -0300" stop="20150603124000 -0300" channel="7B7" program_id="0000187701" event_id="00000000000097275862" series_key="00000000071217000000">
-<title lang="pt">É Gol!</title>
-<desc>De segunda à sexta, Domitila Becker apresenta no 'É Gol!!!' um resumo completo da rodada do futebol brasileiro e internacional, em que os  gols, os artilheiros e os assinantes são os grandes protagonistas.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000071217.jpg</image_name>
-<image_broadcast>00000000071217</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603124000 -0300" stop="20150603154500 -0300" channel="7B7" program_id="0000361864" event_id="00000000000097275863" series_key="00000000074034000000">
-<title lang="pt">Seleção SporTV</title>
-<desc></desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000074034.jpg</image_name>
-<image_broadcast>00000000074034</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603154500 -0300" stop="20150603163000 -0300" channel="7B7" program_id="0000426936" event_id="00000000000097275864" series_key="00000000076466000000">
-<title lang="pt">Planeta Sportv</title>
-<desc>O 'Planeta SporTV' traz para o telespectador as principais notícias esportivas do momento, com a participação dos nossos repórteres no Brasil e dos correspondentes nas cidades de Nova York, Londres e Tóquio.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000076466.jpg</image_name>
-<image_broadcast>00000000076466</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603163000 -0300" stop="20150603183000 -0300" channel="7B7" program_id="0000005107" event_id="00000000000097275865" series_key="00000000073321000000">
-<title lang="pt">Tá na Área</title>
-<desc>Thiago Oliveira e Barbara Coelho abrem o horário nobre do SporTV com o 'Tá na Área'. O programa traz informação através de entrevistas e matérias divertidas, lances inusitados e as notícias mais quentes do mundo esportivo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000073321.jpg</image_name>
-<image_broadcast>00000000073321</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603183000 -0300" stop="20150603193000 -0300" channel="7B7" program_id="0000005041" event_id="00000000000097275866" series_key="">
-<title lang="pt">Pré Jogo - Vivo</title>
-<desc>Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">0000005041.jpg</image_name>
-<image_broadcast>0000005041</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603193000 -0300" stop="20150603213000 -0300" channel="7B7" program_id="0000014131" event_id="00000000000097275867" series_key="">
-<title lang="pt">Vasco x Ponte Preta - Vivo</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000014131.jpg</image_name>
-<image_broadcast>0000014131</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603213000 -0300" stop="20150603220000 -0300" channel="7B7" program_id="0000005042" event_id="00000000000097275868" series_key="00000000074036000000">
-<title lang="pt">Pós Jogo - Vivo</title>
-<desc>Só aqui no seu Canal Campeão você confere toda a repercussão do evento transmitido pelo SporTV, com comentários, entrevistas e a opinião de alguns dos maiores cronistas esportivos da TV brasileira.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000074036.jpg</image_name>
-<image_broadcast>00000000074036</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603220000 -0300" stop="20150604000000 -0300" channel="7B7" program_id="0000441949" event_id="00000000000097547656" series_key="">
-<title lang="pt">Amistoso Internacional de Futebol: Peru x México - Vivo</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000441949.jpg</image_name>
-<image_broadcast>0000441949</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604000000 -0300" stop="20150604010000 -0300" channel="7B7" program_id="0000215118" event_id="00000000000097275870" series_key="00000000071215000000">
-<title lang="pt">SporTV News - Edição Noite</title>
-<desc>Principal telejornal da programação do SporTV, o 'SporTV News' informa todos os acontecimentos diários do cenário esportivo nacional e internacional com a ajuda dos correspondentes espalhados pelo mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000071215.jpg</image_name>
-<image_broadcast>00000000071215</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604010000 -0300" stop="20150604030000 -0300" channel="7B7" program_id="0000007047" event_id="00000000000097275871" series_key="">
-<title lang="pt">VT - Grêmio x Corinthians</title>
-<title lang="en">VT - Grêmio x Corinthians</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000007047.jpg</image_name>
-<image_broadcast>0000007047</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604030000 -0300" stop="20150604040000 -0300" channel="7B7" program_id="0000017660" event_id="00000000000097275872" series_key="">
-<title lang="pt">VT - Vasco x Ponte Preta</title>
-<title lang="en">VT - Vasco x Ponte Preta</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000017660.jpg</image_name>
-<image_broadcast>0000017660</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604040000 -0300" stop="20150604060000 -0300" channel="7B7" program_id="0000442283" event_id="00000000000097275873" series_key="">
-<title lang="pt">Copa do Mundo Sub-20: Hungria x Brasil - Vivo</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000442283.jpg</image_name>
-<image_broadcast>0000442283</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604060000 -0300" stop="20150604063000 -0300" channel="7B7" program_id="0000151891" event_id="00000000000097547657" series_key="">
-<title lang="pt">Sensei SporTV</title>
-<title lang="en">Sensei SporTV</title>
-<desc>Apresentado por Flávio Canto é o programa para os apaixonados por lutas. Traz entrevistas e quadros com personalidades das artes marciais, além de mostrar as novidades do mundo dos esportes de combate.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">0000151891.jpg</image_name>
-<image_broadcast>0000151891</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604063000 -0300" stop="20150604070000 -0300" channel="7B7" program_id="0000129296" event_id="00000000000097547658" series_key="00000000076334000000">
-<title lang="pt">Momento Pan</title>
-<title lang="en">Momento Pan</title>
-<desc>O "Momento Pan" é o programa sobre os jogos Pan-Americanos do SporTV. A nossa equipe foi até Toronto mostrar as instalações esportivas, as curiosidades da cidade sede, a história dos jogos e os personagens de um evento único.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000076334.jpg</image_name>
-<image_broadcast>00000000076334</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604070000 -0300" stop="20150604090000 -0300" channel="7B7" program_id="0000007047" event_id="00000000000097275874" series_key="">
-<title lang="pt">VT - Grêmio x Corinthians</title>
-<title lang="en">VT - Grêmio x Corinthians</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000007047.jpg</image_name>
-<image_broadcast>0000007047</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604090000 -0300" stop="20150604100000 -0300" channel="7B7" program_id="0000215116" event_id="00000000000097275875" series_key="00000000071215000000">
-<title lang="pt">SporTV News - Edição Manhã</title>
-<desc>Principal telejornal da programação do SporTV, o 'SporTV News' informa todos os acontecimentos diários do cenário esportivo nacional e internacional com a ajuda dos correspondentes espalhados pelo mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000071215.jpg</image_name>
-<image_broadcast>00000000071215</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604100000 -0300" stop="20150604120000 -0300" channel="7B7" program_id="0000076428" event_id="00000000000097275876" series_key="00000000071216000000">
-<title lang="pt">Redação SporTV</title>
-<title lang="en">Redação Sportv</title>
-<desc>Apresentado por André Rizek, o 'Redação SporTV' recebe jornalistas e convidados de todo o país para comentar as notícias de esportes dos principais veículos de comunicação do Brasil e do mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000071216.jpg</image_name>
-<image_broadcast>00000000071216</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604120000 -0300" stop="20150604124000 -0300" channel="7B7" program_id="0000187701" event_id="00000000000097275877" series_key="00000000071217000000">
-<title lang="pt">É Gol!</title>
-<desc>De segunda à sexta, Domitila Becker apresenta no 'É Gol!!!' um resumo completo da rodada do futebol brasileiro e internacional, em que os  gols, os artilheiros e os assinantes são os grandes protagonistas.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000071217.jpg</image_name>
-<image_broadcast>00000000071217</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604124000 -0300" stop="20150604154500 -0300" channel="7B7" program_id="0000361864" event_id="00000000000097275878" series_key="00000000074034000000">
-<title lang="pt">Seleção SporTV</title>
-<desc></desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000074034.jpg</image_name>
-<image_broadcast>00000000074034</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604154500 -0300" stop="20150604163000 -0300" channel="7B7" program_id="0000426936" event_id="00000000000097275879" series_key="00000000076466000000">
-<title lang="pt">Planeta Sportv</title>
-<desc>O 'Planeta SporTV' traz para o telespectador as principais notícias esportivas do momento, com a participação dos nossos repórteres no Brasil e dos correspondentes nas cidades de Nova York, Londres e Tóquio.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000076466.jpg</image_name>
-<image_broadcast>00000000076466</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604163000 -0300" stop="20150604183000 -0300" channel="7B7" program_id="0000005107" event_id="00000000000097275880" series_key="00000000073321000000">
-<title lang="pt">Tá na Área</title>
-<desc>Thiago Oliveira e Barbara Coelho abrem o horário nobre do SporTV com o 'Tá na Área'. O programa traz informação através de entrevistas e matérias divertidas, lances inusitados e as notícias mais quentes do mundo esportivo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000073321.jpg</image_name>
-<image_broadcast>00000000073321</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604183000 -0300" stop="20150604201500 -0300" channel="7B7" program_id="0000443512" event_id="00000000000097275881" series_key="">
-<title lang="pt">Liga Nacional de Futsal: São José x Minas - Vivo</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol de Salão</category>
-<image>
-<image_name position="1">0000443512.jpg</image_name>
-<image_broadcast>0000443512</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604201500 -0300" stop="20150604210000 -0300" channel="7B7" program_id="0000005041" event_id="00000000000097275882" series_key="">
-<title lang="pt">Pré Jogo - Vivo</title>
-<desc>Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">0000005041.jpg</image_name>
-<image_broadcast>0000005041</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604210000 -0300" stop="20150604230000 -0300" channel="7B7" program_id="0000183206" event_id="00000000000097275883" series_key="">
-<title lang="pt">Palmeiras x Internacional - Vivo</title>
-<title lang="en">Palmeiras x Internacional - Vivo</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000183206.jpg</image_name>
-<image_broadcast>0000183206</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604230000 -0300" stop="20150605000000 -0300" channel="7B7" program_id="0000215118" event_id="00000000000097275884" series_key="00000000071215000000">
-<title lang="pt">SporTV News - Edição Noite</title>
-<desc>Principal telejornal da programação do SporTV, o 'SporTV News' informa todos os acontecimentos diários do cenário esportivo nacional e internacional com a ajuda dos correspondentes espalhados pelo mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000071215.jpg</image_name>
-<image_broadcast>00000000071215</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
 <programme start="20150605000000 -0300" stop="20150605010000 -0300" channel="7B7" program_id="0000046053" event_id="00000000000097275885" series_key="">
 <title lang="pt">VT - Fluminense x Coritiba</title>
 <desc></desc>
@@ -743,7 +176,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605153000 -0300" stop="20150605173000 -0300" channel="7B7" program_id="0000441947" event_id="000000100177091" series_key="">
+<programme start="20150605153000 -0300" stop="20150605173000 -0300" channel="7B7" program_id="0000441947" event_id="00000000000097275894" series_key="">
 <title lang="pt">Amistoso Internacional de Futebol: Holanda x EUA - Vivo</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -898,7 +331,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606060500 -0300" stop="20150606080500 -0300" channel="7B7" program_id="0000443522" event_id="000000100177095" series_key="">
+<programme start="20150606060500 -0300" stop="20150606080500 -0300" channel="7B7" program_id="0000443522" event_id="00000000000097275906" series_key="">
 <title lang="pt">Amistoso Internacional de Futebol: Peru x México</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -1122,21 +555,21 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606220000 -0300" stop="20150607003000 -0300" channel="7B7" program_id="0000443565" event_id="00000000000097275919" series_key="">
-<title lang="pt">Boxe Internacional: Yamaguchi Falcão x Everton Lopes - Vivo</title>
+<programme start="20150606220000 -0300" stop="20150607003000 -0300" channel="7B7" program_id="0000007974" event_id="000000100459453" series_key="">
+<title lang="pt">Boxe Internacional - Ao Vivo</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
-<category lang="pt">Boxe</category>
+<category lang="pt">Luta</category>
 <image>
-<image_name position="1">0000443565.jpg</image_name>
-<image_broadcast>0000443565</image_broadcast>
+<image_name position="1">0000007974.jpg</image_name>
+<image_broadcast>0000007974</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
 <colour>yes</colour>
 </video>
 <rating system="Advisory">
-<value>Programa livre para todas as idades</value>
+<value>Programa impróprio para menores de 14 anos</value>
 </rating>
 </programme>
 <programme start="20150607003000 -0300" stop="20150607010000 -0300" channel="7B7" program_id="0000215118" event_id="00000000000097275921" series_key="00000000071215000000">
@@ -1209,16 +642,18 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607040000 -0300" stop="20150607050000 -0300" channel="7B7" program_id="0000441913" event_id="00000000000097275924" series_key="00000000074626000000">
-<title lang="pt">Revista Combate</title>
+<programme start="20150607040000 -0300" stop="20150607060000 -0300" channel="7B7" program_id="0000006673" event_id="000000100459456" series_key="">
+<title lang="pt">VT - São Paulo x Grêmio</title>
+<title lang="en">VT - São Paulo x Grêmio</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
-<category lang="pt">Luta</category>
+<category lang="pt">Futebol</category>
 <image>
-<image_name position="1">00000000074626.jpg</image_name>
-<image_broadcast>00000000074626</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
+<image_name position="1">0000006673.jpg</image_name>
+<image_broadcast>0000006673</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
+<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -1226,14 +661,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607050000 -0300" stop="20150607070000 -0300" channel="7B7" program_id="0000195838" event_id="00000000000097275926" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<programme start="20150607060000 -0300" stop="20150607070000 -0300" channel="7B7" program_id="0000408841" event_id="000000100459458" series_key="">
+<title lang="pt">VT - Flamengo x Chapecoense</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
+<image_name position="1">0000408841.jpg</image_name>
+<image_broadcast>0000408841</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
@@ -1262,14 +697,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607090000 -0300" stop="20150607110000 -0300" channel="7B7" program_id="0000441947" event_id="000000100177104" series_key="">
-<title lang="pt">Amistoso Internacional de Futebol: Holanda x EUA - Vivo</title>
+<programme start="20150607090000 -0300" stop="20150607110000 -0300" channel="7B7" program_id="0000443930" event_id="000000100459459" series_key="">
+<title lang="pt">Amistoso Internacional de Futebol: Irlanda x Inglaterra - Vivo</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000441947.jpg</image_name>
-<image_broadcast>0000441947</image_broadcast>
+<image_name position="1">0000443930.jpg</image_name>
+<image_broadcast>0000443930</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
@@ -1279,7 +714,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607110000 -0300" stop="20150607113000 -0300" channel="7B7" program_id="0000215116" event_id="000000100177105" series_key="00000000071215000000">
+<programme start="20150607110000 -0300" stop="20150607113000 -0300" channel="7B7" program_id="0000215116" event_id="00000000000097275930" series_key="00000000071215000000">
 <title lang="pt">SporTV News - Edição Manhã</title>
 <desc>Principal telejornal da programação do SporTV, o 'SporTV News' informa todos os acontecimentos diários do cenário esportivo nacional e internacional com a ajuda dos correspondentes espalhados pelo mundo.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1297,16 +732,18 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607113000 -0300" stop="20150607130000 -0300" channel="7B7" program_id="0000195838" event_id="000000100177107" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<programme start="20150607113000 -0300" stop="20150607130000 -0300" channel="7B7" program_id="0000014917" event_id="000000100459462" series_key="">
+<title lang="pt">VT - Atlético MG x Cruzeiro</title>
+<title lang="en">VT - Atlético MG x Cruzeiro</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
+<image_name position="1">0000014917.jpg</image_name>
+<image_broadcast>0000014917</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
+<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -1490,14 +927,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608010000 -0300" stop="20150608030000 -0300" channel="7B7" program_id="0000195838" event_id="00000000000097275941" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<programme start="20150608010000 -0300" stop="20150608030000 -0300" channel="7B7" program_id="0000443963" event_id="000000100459467" series_key="">
+<title lang="pt">Amistoso Internacional de Futebol: Brasil x México</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
+<image_name position="1">0000443963.jpg</image_name>
+<image_broadcast>0000443963</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
@@ -1507,16 +944,18 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608030000 -0300" stop="20150608040000 -0300" channel="7B7" program_id="0000195838" event_id="00000000000097275942" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<programme start="20150608030000 -0300" stop="20150608050000 -0300" channel="7B7" program_id="0000094182" event_id="000000100459468" series_key="">
+<title lang="pt">VT - Internacional x Coritiba</title>
+<title lang="en">VT - Internacional x Coritiba</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
+<image_name position="1">0000094182.jpg</image_name>
+<image_broadcast>0000094182</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
+<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -1524,14 +963,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608040000 -0300" stop="20150608053000 -0300" channel="7B7" program_id="0000195838" event_id="00000000000097275943" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<programme start="20150608050000 -0300" stop="20150608070000 -0300" channel="7B7" program_id="0000442025" event_id="000000100459469" series_key="">
+<title lang="pt">Liga Mundial de Vôlei: Brasil x Austrália</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<category lang="pt">Vôlei</category>
 <image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
+<image_name position="1">0000442025.jpg</image_name>
+<image_broadcast>0000442025</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
@@ -1541,25 +980,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608053000 -0300" stop="20150608070000 -0300" channel="7B7" program_id="0000151891" event_id="00000000000097275944" series_key="">
-<title lang="pt">Sensei SporTV</title>
-<title lang="en">Sensei SporTV</title>
-<desc>Apresentado por Flávio Canto é o programa para os apaixonados por lutas. Traz entrevistas e quadros com personalidades das artes marciais, além de mostrar as novidades do mundo dos esportes de combate.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">0000151891.jpg</image_name>
-<image_broadcast>0000151891</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150608070000 -0300" stop="20150608080000 -0300" channel="7B7" program_id="0000006673" event_id="000000100177113" series_key="">
+<programme start="20150608070000 -0300" stop="20150608080000 -0300" channel="7B7" program_id="0000006673" event_id="00000000000097275945" series_key="">
 <title lang="pt">VT - São Paulo x Grêmio</title>
 <title lang="en">VT - São Paulo x Grêmio</title>
 <desc></desc>
@@ -1578,7 +999,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608080000 -0300" stop="20150608090000 -0300" channel="7B7" program_id="0000014917" event_id="000000100177115" series_key="">
+<programme start="20150608080000 -0300" stop="20150608090000 -0300" channel="7B7" program_id="0000014917" event_id="00000000000097741023" series_key="">
 <title lang="pt">VT - Atlético MG x Cruzeiro</title>
 <title lang="en">VT - Atlético MG x Cruzeiro</title>
 <desc></desc>
@@ -1597,7 +1018,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608090000 -0300" stop="20150608100000 -0300" channel="7B7" program_id="0000215116" event_id="000000100177116" series_key="00000000071215000000">
+<programme start="20150608090000 -0300" stop="20150608100000 -0300" channel="7B7" program_id="0000215116" event_id="00000000000097275946" series_key="00000000071215000000">
 <title lang="pt">SporTV News - Edição Manhã</title>
 <desc>Principal telejornal da programação do SporTV, o 'SporTV News' informa todos os acontecimentos diários do cenário esportivo nacional e internacional com a ajuda dos correspondentes espalhados pelo mundo.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1754,7 +1175,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608230000 -0300" stop="20150609000000 -0300" channel="7B7" program_id="0000215118" event_id="000000100177121" series_key="00000000071215000000">
+<programme start="20150608230000 -0300" stop="20150609000000 -0300" channel="7B7" program_id="0000215118" event_id="00000000000097275955" series_key="00000000071215000000">
 <title lang="pt">SporTV News - Edição Noite</title>
 <desc>Principal telejornal da programação do SporTV, o 'SporTV News' informa todos os acontecimentos diários do cenário esportivo nacional e internacional com a ajuda dos correspondentes espalhados pelo mundo.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1772,7 +1193,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609000000 -0300" stop="20150609023000 -0300" channel="7B7" program_id="0000443577" event_id="000000100177122" series_key="00000000067245000000">
+<programme start="20150609000000 -0300" stop="20150609023000 -0300" channel="7B7" program_id="0000443577" event_id="00000000000097275957" series_key="00000000067245000000">
 <title lang="pt">NBA: G. S. Warriors x Cleveland Cavaliers</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -1789,7 +1210,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609023000 -0300" stop="20150609033000 -0300" channel="7B7" program_id="0000443963" event_id="000000100177123" series_key="">
+<programme start="20150609023000 -0300" stop="20150609033000 -0300" channel="7B7" program_id="0000443963" event_id="00000000000097275958" series_key="">
 <title lang="pt">Amistoso Internacional de Futebol: Brasil x México</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -1806,7 +1227,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609033000 -0300" stop="20150609043000 -0300" channel="7B7" program_id="0000014917" event_id="000000100177124" series_key="">
+<programme start="20150609033000 -0300" stop="20150609043000 -0300" channel="7B7" program_id="0000014917" event_id="00000000000097275959" series_key="">
 <title lang="pt">VT - Atlético MG x Cruzeiro</title>
 <title lang="en">VT - Atlético MG x Cruzeiro</title>
 <desc></desc>
@@ -1825,7 +1246,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609043000 -0300" stop="20150609053000 -0300" channel="7B7" program_id="0000092842" event_id="000000100177126" series_key="">
+<programme start="20150609043000 -0300" stop="20150609053000 -0300" channel="7B7" program_id="0000092842" event_id="00000000000097275960" series_key="">
 <title lang="pt">VT - Figueirense x Palmeiras</title>
 <title lang="en">VT - Figueirense x Palmeiras</title>
 <desc></desc>
@@ -1844,7 +1265,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609053000 -0300" stop="20150609073000 -0300" channel="7B7" program_id="0000134766" event_id="000000100177127" series_key="">
+<programme start="20150609053000 -0300" stop="20150609073000 -0300" channel="7B7" program_id="0000134766" event_id="00000000000097275961" series_key="">
 <title lang="pt">VT - Atlético PR x Vasco</title>
 <title lang="en">VT - Atlético PR x Vasco</title>
 <desc></desc>
@@ -1880,16 +1301,17 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609090000 -0300" stop="20150609100000 -0300" channel="7B7" program_id="0000333231" event_id="00000000000097275963" series_key="">
-<title lang="pt">SporTV News</title>
-<desc>O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<programme start="20150609090000 -0300" stop="20150609100000 -0300" channel="7B7" program_id="0000215116" event_id="000000100459481" series_key="00000000071215000000">
+<title lang="pt">SporTV News - Edição Manhã</title>
+<desc>Principal telejornal da programação do SporTV, o 'SporTV News' informa todos os acontecimentos diários do cenário esportivo nacional e internacional com a ajuda dos correspondentes espalhados pelo mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
 <image>
-<image_name position="1">0000333231.jpg</image_name>
-<image_broadcast>0000333231</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
+<image_name position="1">00000000071215.jpg</image_name>
+<image_broadcast>00000000071215</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
+<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -2002,14 +1424,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609193000 -0300" stop="20150609213000 -0300" channel="7B7" program_id="0000342116" event_id="00000000000097275970" series_key="">
-<title lang="pt">ABC x Paysandu - Vivo</title>
+<programme start="20150609193000 -0300" stop="20150609213000 -0300" channel="7B7" program_id="0000387168" event_id="000000100459485" series_key="">
+<title lang="pt">Paraná x Luverdense - Vivo</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000342116.jpg</image_name>
-<image_broadcast>0000342116</image_broadcast>
+<image_name position="1">0000387168.jpg</image_name>
+<image_broadcast>0000387168</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
@@ -2053,16 +1475,17 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609235000 -0300" stop="20150610010000 -0300" channel="7B7" program_id="0000333231" event_id="00000000000097275973" series_key="">
-<title lang="pt">SporTV News</title>
-<desc>O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<programme start="20150609235000 -0300" stop="20150610010000 -0300" channel="7B7" program_id="0000215118" event_id="000000100459487" series_key="00000000071215000000">
+<title lang="pt">SporTV News - Edição Noite</title>
+<desc>Principal telejornal da programação do SporTV, o 'SporTV News' informa todos os acontecimentos diários do cenário esportivo nacional e internacional com a ajuda dos correspondentes espalhados pelo mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
 <image>
-<image_name position="1">0000333231.jpg</image_name>
-<image_broadcast>0000333231</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
+<image_name position="1">00000000071215.jpg</image_name>
+<image_broadcast>00000000071215</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
+<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -2155,16 +1578,17 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610090000 -0300" stop="20150610100000 -0300" channel="7B7" program_id="0000333231" event_id="00000000000097275979" series_key="">
-<title lang="pt">SporTV News</title>
-<desc>O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<programme start="20150610090000 -0300" stop="20150610100000 -0300" channel="7B7" program_id="0000215116" event_id="000000100459489" series_key="00000000071215000000">
+<title lang="pt">SporTV News - Edição Manhã</title>
+<desc>Principal telejornal da programação do SporTV, o 'SporTV News' informa todos os acontecimentos diários do cenário esportivo nacional e internacional com a ajuda dos correspondentes espalhados pelo mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
 <image>
-<image_name position="1">0000333231.jpg</image_name>
-<image_broadcast>0000333231</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
+<image_name position="1">00000000071215.jpg</image_name>
+<image_broadcast>00000000071215</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
+<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -2225,15 +1649,15 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610154500 -0300" stop="20150610174500 -0300" channel="7B7" program_id="0000442195" event_id="00000000000097275984" series_key="">
-<title lang="pt">Amistoso Internacional de Futebol: Alemanha x EUA - Vivo</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
+<programme start="20150610154500 -0300" stop="20150610163000 -0300" channel="7B7" program_id="0000426936" event_id="000000100459492" series_key="00000000076466000000">
+<title lang="pt">Planeta Sportv</title>
+<desc>O 'Planeta SporTV' traz para o telespectador as principais notícias esportivas do momento, com a participação dos nossos repórteres no Brasil e dos correspondentes nas cidades de Nova York, Londres e Tóquio.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
 <image>
-<image_name position="1">0000442195.jpg</image_name>
-<image_broadcast>0000442195</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
+<image_name position="1">00000000076466.jpg</image_name>
+<image_broadcast>00000000076466</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
 <video>
 <colour>yes</colour>
@@ -2242,7 +1666,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610174500 -0300" stop="20150610183000 -0300" channel="7B7" program_id="0000005107" event_id="00000000000097275985" series_key="00000000073321000000">
+<programme start="20150610163000 -0300" stop="20150610183000 -0300" channel="7B7" program_id="0000005107" event_id="00000000000097275985" series_key="00000000073321000000">
 <title lang="pt">Tá na Área</title>
 <desc>Thiago Oliveira e Barbara Coelho abrem o horário nobre do SporTV com o 'Tá na Área'. O programa traz informação através de entrevistas e matérias divertidas, lances inusitados e as notícias mais quentes do mundo esportivo.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2329,16 +1753,17 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611000000 -0300" stop="20150611010000 -0300" channel="7B7" program_id="0000333231" event_id="00000000000097275990" series_key="">
-<title lang="pt">SporTV News</title>
-<desc>O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<programme start="20150611000000 -0300" stop="20150611010000 -0300" channel="7B7" program_id="0000215118" event_id="000000100459496" series_key="00000000071215000000">
+<title lang="pt">SporTV News - Edição Noite</title>
+<desc>Principal telejornal da programação do SporTV, o 'SporTV News' informa todos os acontecimentos diários do cenário esportivo nacional e internacional com a ajuda dos correspondentes espalhados pelo mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
 <image>
-<image_name position="1">0000333231.jpg</image_name>
-<image_broadcast>0000333231</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
+<image_name position="1">00000000071215.jpg</image_name>
+<image_broadcast>00000000071215</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
+<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -5677,6 +5102,594 @@
 </rating>
 </programme>
 <programme start="20150621233000 -0300" stop="20150622000000 -0300" channel="7B7" program_id="0000333231" event_id="00000000000097276185" series_key="">
+<title lang="pt">SporTV News</title>
+<desc>O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000333231.jpg</image_name>
+<image_broadcast>0000333231</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622000000 -0300" stop="20150622010000 -0300" channel="7B7" program_id="0000195838" event_id="00000000000097276186" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622010000 -0300" stop="20150622023000 -0300" channel="7B7" program_id="0000195838" event_id="00000000000097276187" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622023000 -0300" stop="20150622043000 -0300" channel="7B7" program_id="0000195838" event_id="00000000000097276188" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622043000 -0300" stop="20150622050000 -0300" channel="7B7" program_id="0000151891" event_id="00000000000097276189" series_key="">
+<title lang="pt">Sensei SporTV</title>
+<title lang="en">Sensei SporTV</title>
+<desc>Apresentado por Flávio Canto é o programa para os apaixonados por lutas. Traz entrevistas e quadros com personalidades das artes marciais, além de mostrar as novidades do mundo dos esportes de combate.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">0000151891.jpg</image_name>
+<image_broadcast>0000151891</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622050000 -0300" stop="20150622070000 -0300" channel="7B7" program_id="0000195838" event_id="00000000000097276190" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622070000 -0300" stop="20150622090000 -0300" channel="7B7" program_id="0000195838" event_id="00000000000097276191" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622090000 -0300" stop="20150622100000 -0300" channel="7B7" program_id="0000333231" event_id="00000000000097276192" series_key="">
+<title lang="pt">SporTV News</title>
+<desc>O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000333231.jpg</image_name>
+<image_broadcast>0000333231</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622100000 -0300" stop="20150622120000 -0300" channel="7B7" program_id="0000076428" event_id="00000000000097276193" series_key="00000000071216000000">
+<title lang="pt">Redação SporTV</title>
+<title lang="en">Redação Sportv</title>
+<desc>Apresentado por André Rizek, o 'Redação SporTV' recebe jornalistas e convidados de todo o país para comentar as notícias de esportes dos principais veículos de comunicação do Brasil e do mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000071216.jpg</image_name>
+<image_broadcast>00000000071216</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622120000 -0300" stop="20150622130000 -0300" channel="7B7" program_id="0000187701" event_id="00000000000097276194" series_key="00000000071217000000">
+<title lang="pt">É Gol!</title>
+<desc>De segunda à sexta, Domitila Becker apresenta no 'É Gol!!!' um resumo completo da rodada do futebol brasileiro e internacional, em que os  gols, os artilheiros e os assinantes são os grandes protagonistas.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000071217.jpg</image_name>
+<image_broadcast>00000000071217</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622130000 -0300" stop="20150622154500 -0300" channel="7B7" program_id="0000361864" event_id="00000000000097276195" series_key="00000000074034000000">
+<title lang="pt">Seleção SporTV</title>
+<desc></desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000074034.jpg</image_name>
+<image_broadcast>00000000074034</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622154500 -0300" stop="20150622163000 -0300" channel="7B7" program_id="0000426936" event_id="00000000000097276196" series_key="00000000076466000000">
+<title lang="pt">Planeta Sportv</title>
+<desc>O 'Planeta SporTV' traz para o telespectador as principais notícias esportivas do momento, com a participação dos nossos repórteres no Brasil e dos correspondentes nas cidades de Nova York, Londres e Tóquio.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000076466.jpg</image_name>
+<image_broadcast>00000000076466</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622163000 -0300" stop="20150622183000 -0300" channel="7B7" program_id="0000005107" event_id="00000000000097276197" series_key="00000000073321000000">
+<title lang="pt">Tá na Área</title>
+<desc>Thiago Oliveira e Barbara Coelho abrem o horário nobre do SporTV com o 'Tá na Área'. O programa traz informação através de entrevistas e matérias divertidas, lances inusitados e as notícias mais quentes do mundo esportivo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000073321.jpg</image_name>
+<image_broadcast>00000000073321</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622183000 -0300" stop="20150622191500 -0300" channel="7B7" program_id="0000005041" event_id="00000000000097276198" series_key="">
+<title lang="pt">Pré Jogo - Vivo</title>
+<desc>Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">0000005041.jpg</image_name>
+<image_broadcast>0000005041</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622191500 -0300" stop="20150622210000 -0300" channel="7B7" program_id="0000103163" event_id="00000000000097276199" series_key="">
+<title lang="pt">Liga Nacional de Futsal</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol de Salão</category>
+<image>
+<image_name position="1">0000103163.jpg</image_name>
+<image_broadcast>0000103163</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622210000 -0300" stop="20150622230000 -0300" channel="7B7" program_id="0000081811" event_id="00000000000097276200" series_key="00000000071225000000">
+<title lang="pt">Bem, Amigos!</title>
+<desc>O 'Bem, Amigos!' esquenta as noites de segunda com debates, análises e comentários sobre o que há de melhor no mundo esportivo. Contando sempre com esportistas convidados e uma atração musical.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000071225.jpg</image_name>
+<image_broadcast>00000000071225</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622230000 -0300" stop="20150623000000 -0300" channel="7B7" program_id="0000333231" event_id="00000000000097276201" series_key="">
+<title lang="pt">SporTV News</title>
+<desc>O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000333231.jpg</image_name>
+<image_broadcast>0000333231</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623000000 -0300" stop="20150623010000 -0300" channel="7B7" program_id="0000195838" event_id="00000000000097276202" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623010000 -0300" stop="20150623030000 -0300" channel="7B7" program_id="0000195838" event_id="00000000000097276203" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623030000 -0300" stop="20150623040000 -0300" channel="7B7" program_id="0000195838" event_id="00000000000097276204" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623040000 -0300" stop="20150623050000 -0300" channel="7B7" program_id="0000195838" event_id="00000000000097276205" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623050000 -0300" stop="20150623070000 -0300" channel="7B7" program_id="0000195838" event_id="00000000000097276206" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623070000 -0300" stop="20150623073000 -0300" channel="7B7" program_id="0000129296" event_id="00000000000097276207" series_key="00000000076334000000">
+<title lang="pt">Momento Pan</title>
+<title lang="en">Momento Pan</title>
+<desc>O "Momento Pan" é o programa sobre os jogos Pan-Americanos do SporTV. A nossa equipe foi até Toronto mostrar as instalações esportivas, as curiosidades da cidade sede, a história dos jogos e os personagens de um evento único.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000076334.jpg</image_name>
+<image_broadcast>00000000076334</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623073000 -0300" stop="20150623090000 -0300" channel="7B7" program_id="0000081811" event_id="00000000000097276208" series_key="00000000071225000000">
+<title lang="pt">Bem, Amigos!</title>
+<desc>O 'Bem, Amigos!' esquenta as noites de segunda com debates, análises e comentários sobre o que há de melhor no mundo esportivo. Contando sempre com esportistas convidados e uma atração musical.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000071225.jpg</image_name>
+<image_broadcast>00000000071225</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623090000 -0300" stop="20150623100000 -0300" channel="7B7" program_id="0000333231" event_id="00000000000097276209" series_key="">
+<title lang="pt">SporTV News</title>
+<desc>O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000333231.jpg</image_name>
+<image_broadcast>0000333231</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623100000 -0300" stop="20150623120000 -0300" channel="7B7" program_id="0000076428" event_id="00000000000097276210" series_key="00000000071216000000">
+<title lang="pt">Redação SporTV</title>
+<title lang="en">Redação Sportv</title>
+<desc>Apresentado por André Rizek, o 'Redação SporTV' recebe jornalistas e convidados de todo o país para comentar as notícias de esportes dos principais veículos de comunicação do Brasil e do mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000071216.jpg</image_name>
+<image_broadcast>00000000071216</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623120000 -0300" stop="20150623130000 -0300" channel="7B7" program_id="0000187701" event_id="00000000000097276211" series_key="00000000071217000000">
+<title lang="pt">É Gol!</title>
+<desc>De segunda à sexta, Domitila Becker apresenta no 'É Gol!!!' um resumo completo da rodada do futebol brasileiro e internacional, em que os  gols, os artilheiros e os assinantes são os grandes protagonistas.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000071217.jpg</image_name>
+<image_broadcast>00000000071217</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623130000 -0300" stop="20150623154500 -0300" channel="7B7" program_id="0000361864" event_id="00000000000097276212" series_key="00000000074034000000">
+<title lang="pt">Seleção SporTV</title>
+<desc></desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000074034.jpg</image_name>
+<image_broadcast>00000000074034</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623154500 -0300" stop="20150623163000 -0300" channel="7B7" program_id="0000426936" event_id="00000000000097276213" series_key="00000000076466000000">
+<title lang="pt">Planeta Sportv</title>
+<desc>O 'Planeta SporTV' traz para o telespectador as principais notícias esportivas do momento, com a participação dos nossos repórteres no Brasil e dos correspondentes nas cidades de Nova York, Londres e Tóquio.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000076466.jpg</image_name>
+<image_broadcast>00000000076466</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623163000 -0300" stop="20150623183000 -0300" channel="7B7" program_id="0000005107" event_id="00000000000097276214" series_key="00000000073321000000">
+<title lang="pt">Tá na Área</title>
+<desc>Thiago Oliveira e Barbara Coelho abrem o horário nobre do SporTV com o 'Tá na Área'. O programa traz informação através de entrevistas e matérias divertidas, lances inusitados e as notícias mais quentes do mundo esportivo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000073321.jpg</image_name>
+<image_broadcast>00000000073321</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623183000 -0300" stop="20150623193000 -0300" channel="7B7" program_id="0000005041" event_id="00000000000097276215" series_key="">
+<title lang="pt">Pré Jogo - Vivo</title>
+<desc>Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">0000005041.jpg</image_name>
+<image_broadcast>0000005041</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623193000 -0300" stop="20150623213000 -0300" channel="7B7" program_id="0000297020" event_id="00000000000097276216" series_key="">
+<title lang="pt">Criciúma x América MG - Vivo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000297020.jpg</image_name>
+<image_broadcast>0000297020</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623213000 -0300" stop="20150623215000 -0300" channel="7B7" program_id="0000365859" event_id="00000000000097276217" series_key="">
+<title lang="pt">Pós e Pré Jogo - Vivo</title>
+<desc></desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">0000365859.jpg</image_name>
+<image_broadcast>0000365859</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623215000 -0300" stop="20150623235000 -0300" channel="7B7" program_id="0000442073" event_id="00000000000097276218" series_key="">
+<title lang="pt">Paysandu x Vitória - Vivo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000442073.jpg</image_name>
+<image_broadcast>0000442073</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623235000 -0300" stop="20150624010000 -0300" channel="7B7" program_id="0000333231" event_id="00000000000097276219" series_key="">
 <title lang="pt">SporTV News</title>
 <desc>O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres.</desc>
 <category lang="pt">Esporte</category>

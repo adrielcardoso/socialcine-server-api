@@ -4,650 +4,6 @@
 <display-name lang="pt">RICTV - Record Curitiba - PR</display-name>
 <icon src="ric.gif" />
 </channel>
-<programme start="20150603001500 -0300" stop="20150603011500 -0300" channel="RIC" program_id="0000443530" event_id="00000000000096603598" series_key="00000000026360001002">
-<title lang="pt">Breaking Bad</title>
-<title lang="en">Breaking Bad: Cat's In The Bag</title>
-<sub-title lang="pt">Temp. 1 - Ep. 2</sub-title>
-<desc>Após o desastre ocorrido no deserto, Walter e Jesse têm que dar um jeito na bagunça causada. Mais tarde, Skyler começa a suspeitar das atividades de Walter.</desc>
-<credits>
-<director>Adam Bernstein</director>
-<actor>Anna Gunn</actor>
-<actor>Bryan Cranston</actor>
-<actor>Aaron Paul</actor>
-<actor>Dean Norris</actor>
-<actor>Betsy Brandt</actor>
-<actor>Maximino Arciniega</actor>
-<actor>John Koyama</actor>
-<actor>Shane Marinson</actor>
-</credits>
-<date>2008</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Drama</category>
-<image>
-<image_name position="1">00000000026360.jpg</image_name>
-<image_broadcast>00000000026360</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<episode-num system="xmltv_ns">1.2.</episode-num>
-<episode-num system="onscreen">2</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 16 anos</value>
-</rating>
-<star-rating>
-<value>4/5</value>
-</star-rating>
-</programme>
-<programme start="20150603011500 -0300" stop="20150603060000 -0300" channel="RIC" program_id="0000427780" event_id="00000000000096603599" series_key="">
-<title lang="pt">IURD</title>
-<desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000427780.jpg</image_name>
-<image_broadcast>0000427780</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603060000 -0300" stop="20150603062800 -0300" channel="RIC" program_id="0000427780" event_id="00000000000096603600" series_key="">
-<title lang="pt">IURD</title>
-<desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000427780.jpg</image_name>
-<image_broadcast>0000427780</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603062800 -0300" stop="20150603072800 -0300" channel="RIC" program_id="0000301746" event_id="00000000000096603601" series_key="00000000066243000000">
-<title lang="pt">Balanço Geral Manhã</title>
-<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066243.jpg</image_name>
-<image_broadcast>00000000066243</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603072800 -0300" stop="20150603085500 -0300" channel="RIC" program_id="0000130744" event_id="00000000000096603602" series_key="00000000066260000000">
-<title lang="pt">Paraná no Ar</title>
-<desc>O programa apresenta as primeiras informações do dia e os fatos que marcaram a madrugada. Tem participação de todas as praças da RICTV Paraná em links ao vivo, garantindo a agilidade necessária da notícia mais próxima à realidade do telespectador.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066260.jpg</image_name>
-<image_broadcast>00000000066260</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603085500 -0300" stop="20150603100000 -0300" channel="RIC" program_id="0000015945" event_id="00000000000096603603" series_key="00000000066238000000">
-<title lang="pt">Fala Brasil</title>
-<desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066238.jpg</image_name>
-<image_broadcast>00000000066238</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603100000 -0300" stop="20150603120000 -0300" channel="RIC" program_id="0000094577" event_id="00000000000096603604" series_key="00000000066226000000">
-<title lang="pt">Hoje em Dia</title>
-<desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066226.jpg</image_name>
-<image_broadcast>00000000066226</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603120000 -0300" stop="20150603140000 -0300" channel="RIC" program_id="0000102196" event_id="00000000000096603605" series_key="00000000066243000000">
-<title lang="pt">Balanço Geral</title>
-<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066243.jpg</image_name>
-<image_broadcast>00000000066243</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603140000 -0300" stop="20150603143000 -0300" channel="RIC" program_id="0000129496" event_id="00000000000096603606" series_key="00000000073725000000">
-<title lang="pt">Ver Mais</title>
-<desc>Reportagens, curiosidades e muitas dicas para melhorar seu dia-a-dia. Saúde, bem estar, empreendedorismo, diversão e arte... O Ver Mais tem tudo isso e muito mais.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000073725.jpg</image_name>
-<image_broadcast>00000000073725</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603143000 -0300" stop="20150603170000 -0300" channel="RIC" program_id="0000119084" event_id="00000000000096603607" series_key="00000000071807000000">
-<title lang="pt">Programa da Tarde</title>
-<desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000071807.jpg</image_name>
-<image_broadcast>00000000071807</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603170000 -0300" stop="20150603190000 -0300" channel="RIC" program_id="0000015967" event_id="00000000000096603608" series_key="00000000069485000000">
-<title lang="pt">Cidade Alerta</title>
-<desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069485.jpg</image_name>
-<image_broadcast>00000000069485</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603190000 -0300" stop="20150603200000 -0300" channel="RIC" program_id="0000347447" event_id="00000000000096603609" series_key="00000000073099000000">
-<title lang="pt">Cidade Alerta Paraná</title>
-<desc>O Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000073099.jpg</image_name>
-<image_broadcast>00000000073099</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603200000 -0300" stop="20150603203000 -0300" channel="RIC" program_id="0000129499" event_id="00000000000096603610" series_key="00000000066294000000">
-<title lang="pt">RIC Notícias</title>
-<desc>Com a melhor estrutura de jornalismo regional, RIC Notícias apresenta, ao vivo, os principais fatos do cotidiano, com séries especiais e matérias investigativas.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066294.jpg</image_name>
-<image_broadcast>00000000066294</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603203000 -0300" stop="20150603213000 -0300" channel="RIC" program_id="0000430159" event_id="00000000000096603611" series_key="00000000076587000000">
-<title lang="pt">Os Dez Mandamentos</title>
-<desc>Moisés sorri vitorioso ao conseguir livrar Zípora do escorpião. Assustada, Zípora tenta disfarçar a tensão que passou e deixa Moisés pasmo com a reação ingrata dela. Apuki se irrita por Anrão ter sido nomeado como chefe dos hebreus.</desc>
-<credits>
-<director>Alexandre Avancini</director>
-<actor>Guilherme Winter</actor>
-<actor>Sérgio Marone</actor>
-<actor>Giselle Itié</actor>
-<actor>Mel Lisboa</actor>
-<actor>Samara Felippo</actor>
-<actor>Thierry Figueira</actor>
-<actor>Heitor Martinez</actor>
-<actor>Luciano Szafir</actor>
-<actor>Floriano Peixoto</actor>
-</credits>
-<date>2015</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Novela</category>
-<image>
-<image_name position="1">00000000076587.jpg</image_name>
-<image_broadcast>00000000076587</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603213000 -0300" stop="20150603220000 -0300" channel="RIC" program_id="0000015966" event_id="00000000000096603612" series_key="00000000066234000000">
-<title lang="pt">Jornal da Record</title>
-<desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066234.jpg</image_name>
-<image_broadcast>00000000066234</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603220000 -0300" stop="20150604001500 -0300" channel="RIC" program_id="0000184059" event_id="00000000000096603613" series_key="">
-<title lang="pt">Gugu</title>
-<title lang="en">Programa do Gugu</title>
-<desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
-<credits>
-<director>Vildomar Batista</director>
-<actor>Gugu Liberato</actor>
-</credits>
-<category lang="pt">Variedades</category>
-<category lang="pt">Talk Show</category>
-<image>
-<image_name position="1">0000184059.jpg</image_name>
-<image_broadcast>0000184059</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604001500 -0300" stop="20150604011500 -0300" channel="RIC" program_id="0000134042" event_id="00000000000096603614" series_key="00000000066236000000">
-<title lang="pt">Câmera Record</title>
-<desc>Na final do reality A Fazenda, o Câmera Record discute as grandes polêmicas dos participantes.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066236.jpg</image_name>
-<image_broadcast>00000000066236</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604011500 -0300" stop="20150604060000 -0300" channel="RIC" program_id="0000427780" event_id="00000000000096603615" series_key="">
-<title lang="pt">IURD</title>
-<desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000427780.jpg</image_name>
-<image_broadcast>0000427780</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604060000 -0300" stop="20150604062800 -0300" channel="RIC" program_id="0000427780" event_id="00000000000096603616" series_key="">
-<title lang="pt">IURD</title>
-<desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000427780.jpg</image_name>
-<image_broadcast>0000427780</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604062800 -0300" stop="20150604072800 -0300" channel="RIC" program_id="0000301746" event_id="00000000000096603617" series_key="00000000066243000000">
-<title lang="pt">Balanço Geral Manhã</title>
-<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066243.jpg</image_name>
-<image_broadcast>00000000066243</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604072800 -0300" stop="20150604085500 -0300" channel="RIC" program_id="0000130744" event_id="00000000000096603618" series_key="00000000066260000000">
-<title lang="pt">Paraná no Ar</title>
-<desc>O programa apresenta as primeiras informações do dia e os fatos que marcaram a madrugada. Tem participação de todas as praças da RICTV Paraná em links ao vivo, garantindo a agilidade necessária da notícia mais próxima à realidade do telespectador.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066260.jpg</image_name>
-<image_broadcast>00000000066260</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604085500 -0300" stop="20150604100000 -0300" channel="RIC" program_id="0000015945" event_id="00000000000096603619" series_key="00000000066238000000">
-<title lang="pt">Fala Brasil</title>
-<desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066238.jpg</image_name>
-<image_broadcast>00000000066238</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604100000 -0300" stop="20150604120000 -0300" channel="RIC" program_id="0000094577" event_id="00000000000096603620" series_key="00000000066226000000">
-<title lang="pt">Hoje em Dia</title>
-<desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066226.jpg</image_name>
-<image_broadcast>00000000066226</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604120000 -0300" stop="20150604140000 -0300" channel="RIC" program_id="0000102196" event_id="00000000000096603621" series_key="00000000066243000000">
-<title lang="pt">Balanço Geral</title>
-<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066243.jpg</image_name>
-<image_broadcast>00000000066243</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604140000 -0300" stop="20150604143000 -0300" channel="RIC" program_id="0000129496" event_id="00000000000096603622" series_key="00000000073725000000">
-<title lang="pt">Ver Mais</title>
-<desc>Reportagens, curiosidades e muitas dicas para melhorar seu dia-a-dia. Saúde, bem estar, empreendedorismo, diversão e arte... O Ver Mais tem tudo isso e muito mais.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000073725.jpg</image_name>
-<image_broadcast>00000000073725</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604143000 -0300" stop="20150604170000 -0300" channel="RIC" program_id="0000119084" event_id="00000000000096603623" series_key="00000000071807000000">
-<title lang="pt">Programa da Tarde</title>
-<desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000071807.jpg</image_name>
-<image_broadcast>00000000071807</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604170000 -0300" stop="20150604190000 -0300" channel="RIC" program_id="0000015967" event_id="00000000000096603624" series_key="00000000069485000000">
-<title lang="pt">Cidade Alerta</title>
-<desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069485.jpg</image_name>
-<image_broadcast>00000000069485</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604190000 -0300" stop="20150604200000 -0300" channel="RIC" program_id="0000347447" event_id="00000000000096603625" series_key="00000000073099000000">
-<title lang="pt">Cidade Alerta Paraná</title>
-<desc>O Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000073099.jpg</image_name>
-<image_broadcast>00000000073099</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604200000 -0300" stop="20150604203000 -0300" channel="RIC" program_id="0000129499" event_id="00000000000096603626" series_key="00000000066294000000">
-<title lang="pt">RIC Notícias</title>
-<desc>Com a melhor estrutura de jornalismo regional, RIC Notícias apresenta, ao vivo, os principais fatos do cotidiano, com séries especiais e matérias investigativas.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066294.jpg</image_name>
-<image_broadcast>00000000066294</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604203000 -0300" stop="20150604204000 -0300" channel="RIC" program_id="0000255383" event_id="00000000000096603627" series_key="">
-<title lang="pt">Propaganda Partidária</title>
-<desc>Programa Político.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">0000255383.jpg</image_name>
-<image_broadcast>0000255383</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604204000 -0300" stop="20150604213000 -0300" channel="RIC" program_id="0000430159" event_id="00000000000096603628" series_key="00000000076587000000">
-<title lang="pt">Os Dez Mandamentos</title>
-<desc>Moisés fica confuso e se afasta, explicando que Nefertari é a noiva que abandonou no Egito. Betânia pede desculpas pela atitude, tenta se insinuar, mas é dispensada. Arão fica revoltado pela agressão de Apuki com Judite e oferece abrigo para ela.</desc>
-<credits>
-<director>Alexandre Avancini</director>
-<actor>Guilherme Winter</actor>
-<actor>Sérgio Marone</actor>
-<actor>Giselle Itié</actor>
-<actor>Mel Lisboa</actor>
-<actor>Samara Felippo</actor>
-<actor>Thierry Figueira</actor>
-<actor>Heitor Martinez</actor>
-<actor>Luciano Szafir</actor>
-<actor>Floriano Peixoto</actor>
-</credits>
-<date>2015</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Novela</category>
-<image>
-<image_name position="1">00000000076587.jpg</image_name>
-<image_broadcast>00000000076587</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604213000 -0300" stop="20150604223000 -0300" channel="RIC" program_id="0000015966" event_id="00000000000096603629" series_key="00000000066234000000">
-<title lang="pt">Jornal da Record</title>
-<desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066234.jpg</image_name>
-<image_broadcast>00000000066234</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604223000 -0300" stop="20150605001500 -0300" channel="RIC" program_id="0000184059" event_id="00000000000096603630" series_key="">
-<title lang="pt">Gugu</title>
-<title lang="en">Programa do Gugu</title>
-<desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
-<credits>
-<director>Vildomar Batista</director>
-<actor>Gugu Liberato</actor>
-</credits>
-<category lang="pt">Variedades</category>
-<category lang="pt">Talk Show</category>
-<image>
-<image_name position="1">0000184059.jpg</image_name>
-<image_broadcast>0000184059</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
 <programme start="20150605001500 -0300" stop="20150605011500 -0300" channel="RIC" program_id="0000410414" event_id="00000000000096603631" series_key="00000000061897000000">
 <title lang="pt">C.S.I.</title>
 <title lang="en">C.S.I.</title>
@@ -1172,7 +528,10 @@
 </programme>
 <programme start="20150606203000 -0300" stop="20150606230000 -0300" channel="RIC" program_id="0000379634" event_id="00000000000096603657" series_key="00000000073462000000">
 <title lang="pt">Programa da Sabrina</title>
-<desc>Em homenagem ao Dia da Mulher, a japa conversa com a borracheira dona Dina.Curiosa, Sabrina coloca a mão na massa e sente na pele um pouquinho do dia a dia dessa mulher.</desc>
+<desc>Há um ano, Sabrina falava, "Oi, gente" pela primeira vez no Programa e dava início a uma trajetória de sucesso. E neste sábado a japa comanda a festa especial de aniversário.</desc>
+<credits>
+<actor>Sabrina Satto</actor>
+</credits>
 <date>2015</date>
 <category lang="pt">Variedades</category>
 <category lang="pt">Talk Show</category>
@@ -1339,7 +698,7 @@
 </programme>
 <programme start="20150607153000 -0300" stop="20150607193000 -0300" channel="RIC" program_id="0000379635" event_id="00000000000096603666" series_key="00000000073463000000">
 <title lang="pt">Hora do Faro</title>
-<desc>Uma matéria emocionante com a eterna rainha do bumbum, Gretchen! A cantora, que agora vive no país europeu, mostrou um pouco de sua rotina e fez revelações bombásticas.</desc>
+<desc>Acostumado a fazer o público de casa se emocionar com as histórias que leva para a televisão, Geraldo Luís será o homenageado da vez na Hora do Faro.</desc>
 <credits>
 <actor>Rodrigo Faro</actor>
 </credits>
@@ -1544,7 +903,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608140000 -0300" stop="20150608143000 -0300" channel="RIC" program_id="0000129496" event_id="00000000000096603677" series_key="00000000073725000000">
+<programme start="20150608140000 -0300" stop="20150608144000 -0300" channel="RIC" program_id="0000129496" event_id="00000000000096603677" series_key="00000000073725000000">
 <title lang="pt">Ver Mais</title>
 <desc>Reportagens, curiosidades e muitas dicas para melhorar seu dia-a-dia. Saúde, bem estar, empreendedorismo, diversão e arte... O Ver Mais tem tudo isso e muito mais.</desc>
 <category lang="pt">Variedades</category>
@@ -1562,7 +921,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608143000 -0300" stop="20150608170000 -0300" channel="RIC" program_id="0000119084" event_id="00000000000096603678" series_key="00000000071807000000">
+<programme start="20150608144000 -0300" stop="20150608170000 -0300" channel="RIC" program_id="0000119084" event_id="00000000000096603678" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -1701,20 +1060,21 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150608233000 -0300" stop="20150609001500 -0300" channel="RIC" program_id="0000375477" event_id="00000000000096603685" series_key="00000000065728000000">
+<programme start="20150608233000 -0300" stop="20150609001500 -0300" channel="RIC" program_id="0000444305" event_id="00000000000096603685" series_key="00000000065728003015">
 <title lang="pt">Grimm - Contos de Terror</title>
-<title lang="en">Grimm</title>
-<desc>Esse drama policial incorpora as histórias dos contos de fadas dos irmãos Grimm. Um policial chamado Nick começa a ver humanos como animais e quer proteger a sociedade deles.</desc>
+<title lang="en">Grimm: 15</title>
+<sub-title lang="pt">Temp. 3 - Ep. 15</sub-title>
+<desc>Nick e Hank se veem no meio de uma batalha antiga e a situação se complica quando o Conselho Wesen decide se envolver. Monroe e Rosalee atualizam todos sobre a história antiga dos Wesen.</desc>
 <credits>
-<actor>Sasha Roiz</actor>
+<director>Norberto Barba</director>
 <actor>David Giuntoli</actor>
-<actor>Bitsie Tulloch</actor>
 <actor>Russell Hornsby</actor>
+<actor>Bitsie Tulloch</actor>
 <actor>Silas Weir Mitchell</actor>
-<actor>Reggie Lee</actor>
-<actor>Claire Coffee</actor>
+<actor>Sasha Roiz</actor>
+<actor>Bethany Jacobs</actor>
 </credits>
-<date>2011</date>
+<date>2013</date>
 <category lang="pt">Séries</category>
 <category lang="pt">Drama</category>
 <image>
@@ -1723,6 +1083,8 @@
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
 <country>EUA</country>
+<episode-num system="xmltv_ns">3.15.</episode-num>
+<episode-num system="onscreen">15</episode-num>
 <video>
 <colour>yes</colour>
 </video>
@@ -1733,20 +1095,21 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150609001500 -0300" stop="20150609011500 -0300" channel="RIC" program_id="0000375477" event_id="00000000000096603686" series_key="00000000065728000000">
+<programme start="20150609001500 -0300" stop="20150609011500 -0300" channel="RIC" program_id="0000444307" event_id="00000000000096603686" series_key="00000000065728003016">
 <title lang="pt">Grimm - Contos de Terror</title>
-<title lang="en">Grimm</title>
-<desc>Esse drama policial incorpora as histórias dos contos de fadas dos irmãos Grimm. Um policial chamado Nick começa a ver humanos como animais e quer proteger a sociedade deles.</desc>
+<title lang="en">Grimm: 16</title>
+<sub-title lang="pt">Temp. 3 - Ep. 16</sub-title>
+<desc>Um homicídio duplo leva Nick e Hank a um bloco itinerante de circo, onde as pessoas que se apresentam não são o que parecem ser.</desc>
 <credits>
-<actor>Sasha Roiz</actor>
+<director>Norberto Barba</director>
 <actor>David Giuntoli</actor>
-<actor>Bitsie Tulloch</actor>
 <actor>Russell Hornsby</actor>
+<actor>Bitsie Tulloch</actor>
 <actor>Silas Weir Mitchell</actor>
-<actor>Reggie Lee</actor>
-<actor>Claire Coffee</actor>
+<actor>Sasha Roiz</actor>
+<actor>Bethany Jacobs</actor>
 </credits>
-<date>2011</date>
+<date>2013</date>
 <category lang="pt">Séries</category>
 <category lang="pt">Drama</category>
 <image>
@@ -1755,6 +1118,8 @@
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
 <country>EUA</country>
+<episode-num system="xmltv_ns">3.16.</episode-num>
+<episode-num system="onscreen">16</episode-num>
 <video>
 <colour>yes</colour>
 </video>
@@ -1890,7 +1255,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609140000 -0300" stop="20150609143000 -0300" channel="RIC" program_id="0000129496" event_id="00000000000096603694" series_key="00000000073725000000">
+<programme start="20150609140000 -0300" stop="20150609144000 -0300" channel="RIC" program_id="0000129496" event_id="00000000000096603694" series_key="00000000073725000000">
 <title lang="pt">Ver Mais</title>
 <desc>Reportagens, curiosidades e muitas dicas para melhorar seu dia-a-dia. Saúde, bem estar, empreendedorismo, diversão e arte... O Ver Mais tem tudo isso e muito mais.</desc>
 <category lang="pt">Variedades</category>
@@ -1908,7 +1273,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609143000 -0300" stop="20150609170000 -0300" channel="RIC" program_id="0000119084" event_id="00000000000096603695" series_key="00000000071807000000">
+<programme start="20150609144000 -0300" stop="20150609170000 -0300" channel="RIC" program_id="0000119084" event_id="00000000000096603695" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -2226,7 +1591,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610140000 -0300" stop="20150610143000 -0300" channel="RIC" program_id="0000129496" event_id="00000000000096603711" series_key="00000000073725000000">
+<programme start="20150610140000 -0300" stop="20150610144000 -0300" channel="RIC" program_id="0000129496" event_id="00000000000096603711" series_key="00000000073725000000">
 <title lang="pt">Ver Mais</title>
 <desc>Reportagens, curiosidades e muitas dicas para melhorar seu dia-a-dia. Saúde, bem estar, empreendedorismo, diversão e arte... O Ver Mais tem tudo isso e muito mais.</desc>
 <category lang="pt">Variedades</category>
@@ -2244,7 +1609,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610143000 -0300" stop="20150610170000 -0300" channel="RIC" program_id="0000119084" event_id="00000000000096603712" series_key="00000000071807000000">
+<programme start="20150610144000 -0300" stop="20150610170000 -0300" channel="RIC" program_id="0000119084" event_id="00000000000096603712" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -2530,7 +1895,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611140000 -0300" stop="20150611143000 -0300" channel="RIC" program_id="0000129496" event_id="00000000000096603727" series_key="00000000073725000000">
+<programme start="20150611140000 -0300" stop="20150611144000 -0300" channel="RIC" program_id="0000129496" event_id="00000000000096603727" series_key="00000000073725000000">
 <title lang="pt">Ver Mais</title>
 <desc>Reportagens, curiosidades e muitas dicas para melhorar seu dia-a-dia. Saúde, bem estar, empreendedorismo, diversão e arte... O Ver Mais tem tudo isso e muito mais.</desc>
 <category lang="pt">Variedades</category>
@@ -2548,7 +1913,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611143000 -0300" stop="20150611170000 -0300" channel="RIC" program_id="0000119084" event_id="00000000000096603728" series_key="00000000071807000000">
+<programme start="20150611144000 -0300" stop="20150611170000 -0300" channel="RIC" program_id="0000119084" event_id="00000000000096603728" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -2866,7 +2231,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612140000 -0300" stop="20150612143000 -0300" channel="RIC" program_id="0000129496" event_id="00000000000096603744" series_key="00000000073725000000">
+<programme start="20150612140000 -0300" stop="20150612144000 -0300" channel="RIC" program_id="0000129496" event_id="00000000000096603744" series_key="00000000073725000000">
 <title lang="pt">Ver Mais</title>
 <desc>Reportagens, curiosidades e muitas dicas para melhorar seu dia-a-dia. Saúde, bem estar, empreendedorismo, diversão e arte... O Ver Mais tem tudo isso e muito mais.</desc>
 <category lang="pt">Variedades</category>
@@ -2884,7 +2249,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612143000 -0300" stop="20150612170000 -0300" channel="RIC" program_id="0000119084" event_id="00000000000096603745" series_key="00000000071807000000">
+<programme start="20150612144000 -0300" stop="20150612170000 -0300" channel="RIC" program_id="0000119084" event_id="00000000000096603745" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -5449,6 +4814,674 @@
 <image_name position="1">00000000076191.jpg</image_name>
 <image_broadcast>00000000076191</image_broadcast>
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622001500 -0300" stop="20150622011500 -0300" channel="RIC" program_id="0000271995" event_id="00000000000096928749" series_key="00000000072212000000">
+<title lang="pt">Roberto Justus +</title>
+<desc>O programa Roberto Justus +, recebe Narjara Turetta e o jogador Amaral para debater o tema "Com a cara e a coragem". Casos famosos de quem perdeu toda a fortuna e tenta, ou já conseguiu, se reerguer.</desc>
+<date>2015</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Talk Show</category>
+<image>
+<image_name position="1">00000000072212.jpg</image_name>
+<image_broadcast>00000000072212</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622011500 -0300" stop="20150622060000 -0300" channel="RIC" program_id="0000427780" event_id="00000000000096928750" series_key="">
+<title lang="pt">IURD</title>
+<desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000427780.jpg</image_name>
+<image_broadcast>0000427780</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622060000 -0300" stop="20150622062800 -0300" channel="RIC" program_id="0000427780" event_id="00000000000096928751" series_key="">
+<title lang="pt">IURD</title>
+<desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000427780.jpg</image_name>
+<image_broadcast>0000427780</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622062800 -0300" stop="20150622072800 -0300" channel="RIC" program_id="0000301746" event_id="00000000000096928752" series_key="00000000066243000000">
+<title lang="pt">Balanço Geral Manhã</title>
+<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066243.jpg</image_name>
+<image_broadcast>00000000066243</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622072800 -0300" stop="20150622085500 -0300" channel="RIC" program_id="0000130744" event_id="00000000000096928753" series_key="00000000066260000000">
+<title lang="pt">Paraná no Ar</title>
+<desc>O programa apresenta as primeiras informações do dia e os fatos que marcaram a madrugada. Tem participação de todas as praças da RICTV Paraná em links ao vivo, garantindo a agilidade necessária da notícia mais próxima à realidade do telespectador.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066260.jpg</image_name>
+<image_broadcast>00000000066260</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622085500 -0300" stop="20150622100000 -0300" channel="RIC" program_id="0000015945" event_id="00000000000096928754" series_key="00000000066238000000">
+<title lang="pt">Fala Brasil</title>
+<desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066238.jpg</image_name>
+<image_broadcast>00000000066238</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622100000 -0300" stop="20150622120000 -0300" channel="RIC" program_id="0000094577" event_id="00000000000096928755" series_key="00000000066226000000">
+<title lang="pt">Hoje em Dia</title>
+<desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066226.jpg</image_name>
+<image_broadcast>00000000066226</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622120000 -0300" stop="20150622140000 -0300" channel="RIC" program_id="0000102196" event_id="00000000000096928756" series_key="00000000066243000000">
+<title lang="pt">Balanço Geral</title>
+<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066243.jpg</image_name>
+<image_broadcast>00000000066243</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622140000 -0300" stop="20150622143000 -0300" channel="RIC" program_id="0000129496" event_id="00000000000096928757" series_key="00000000073725000000">
+<title lang="pt">Ver Mais</title>
+<desc>Reportagens, curiosidades e muitas dicas para melhorar seu dia-a-dia. Saúde, bem estar, empreendedorismo, diversão e arte... O Ver Mais tem tudo isso e muito mais.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000073725.jpg</image_name>
+<image_broadcast>00000000073725</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622143000 -0300" stop="20150622170000 -0300" channel="RIC" program_id="0000119084" event_id="00000000000096928758" series_key="00000000071807000000">
+<title lang="pt">Programa da Tarde</title>
+<desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000071807.jpg</image_name>
+<image_broadcast>00000000071807</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622170000 -0300" stop="20150622190000 -0300" channel="RIC" program_id="0000015967" event_id="00000000000096928759" series_key="00000000069485000000">
+<title lang="pt">Cidade Alerta</title>
+<desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069485.jpg</image_name>
+<image_broadcast>00000000069485</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622190000 -0300" stop="20150622200000 -0300" channel="RIC" program_id="0000347447" event_id="00000000000096928760" series_key="00000000073099000000">
+<title lang="pt">Cidade Alerta Paraná</title>
+<desc>O Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000073099.jpg</image_name>
+<image_broadcast>00000000073099</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622200000 -0300" stop="20150622203000 -0300" channel="RIC" program_id="0000129499" event_id="00000000000096928761" series_key="00000000066294000000">
+<title lang="pt">RIC Notícias</title>
+<desc>Com a melhor estrutura de jornalismo regional, RIC Notícias apresenta, ao vivo, os principais fatos do cotidiano, com séries especiais e matérias investigativas.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066294.jpg</image_name>
+<image_broadcast>00000000066294</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622203000 -0300" stop="20150622213000 -0300" channel="RIC" program_id="0000430159" event_id="00000000000096928762" series_key="00000000076587000000">
+<title lang="pt">Os Dez Mandamentos</title>
+<desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
+<credits>
+<director>Alexandre Avancini</director>
+<actor>Guilherme Winter</actor>
+<actor>Sérgio Marone</actor>
+<actor>Giselle Itié</actor>
+<actor>Mel Lisboa</actor>
+<actor>Samara Felippo</actor>
+<actor>Thierry Figueira</actor>
+<actor>Heitor Martinez</actor>
+<actor>Luciano Szafir</actor>
+<actor>Floriano Peixoto</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Novela</category>
+<image>
+<image_name position="1">00000000076587.jpg</image_name>
+<image_broadcast>00000000076587</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622213000 -0300" stop="20150622223000 -0300" channel="RIC" program_id="0000015966" event_id="00000000000096928763" series_key="00000000066234000000">
+<title lang="pt">Jornal da Record</title>
+<desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066234.jpg</image_name>
+<image_broadcast>00000000066234</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622223000 -0300" stop="20150622233000 -0300" channel="RIC" program_id="0000380369" event_id="00000000000096928764" series_key="00000000073493000000">
+<title lang="pt">Repórter Record Investigação</title>
+<desc>O Repórter Record Investigação mostra os perigos da obesidade infantil e dá dicas para os pais preocupados com o peso dos filhos.</desc>
+<date>2014</date>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000073493.jpg</image_name>
+<image_broadcast>00000000073493</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150622233000 -0300" stop="20150623001500 -0300" channel="RIC" program_id="0000375477" event_id="00000000000096928765" series_key="00000000065728000000">
+<title lang="pt">Grimm - Contos de Terror</title>
+<title lang="en">Grimm</title>
+<desc>Esse drama policial incorpora as histórias dos contos de fadas dos irmãos Grimm. Um policial chamado Nick começa a ver humanos como animais e quer proteger a sociedade deles.</desc>
+<credits>
+<actor>Sasha Roiz</actor>
+<actor>David Giuntoli</actor>
+<actor>Bitsie Tulloch</actor>
+<actor>Russell Hornsby</actor>
+<actor>Silas Weir Mitchell</actor>
+<actor>Reggie Lee</actor>
+<actor>Claire Coffee</actor>
+</credits>
+<date>2011</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Drama</category>
+<image>
+<image_name position="1">00000000065728.jpg</image_name>
+<image_broadcast>00000000065728</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+<star-rating>
+<value>4/5</value>
+</star-rating>
+</programme>
+<programme start="20150623001500 -0300" stop="20150623011500 -0300" channel="RIC" program_id="0000375477" event_id="00000000000096928766" series_key="00000000065728000000">
+<title lang="pt">Grimm - Contos de Terror</title>
+<title lang="en">Grimm</title>
+<desc>Esse drama policial incorpora as histórias dos contos de fadas dos irmãos Grimm. Um policial chamado Nick começa a ver humanos como animais e quer proteger a sociedade deles.</desc>
+<credits>
+<actor>Sasha Roiz</actor>
+<actor>David Giuntoli</actor>
+<actor>Bitsie Tulloch</actor>
+<actor>Russell Hornsby</actor>
+<actor>Silas Weir Mitchell</actor>
+<actor>Reggie Lee</actor>
+<actor>Claire Coffee</actor>
+</credits>
+<date>2011</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Drama</category>
+<image>
+<image_name position="1">00000000065728.jpg</image_name>
+<image_broadcast>00000000065728</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+<star-rating>
+<value>4/5</value>
+</star-rating>
+</programme>
+<programme start="20150623011500 -0300" stop="20150623060000 -0300" channel="RIC" program_id="0000427780" event_id="00000000000096928767" series_key="">
+<title lang="pt">IURD</title>
+<desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000427780.jpg</image_name>
+<image_broadcast>0000427780</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623060000 -0300" stop="20150623062800 -0300" channel="RIC" program_id="0000427780" event_id="00000000000096928768" series_key="">
+<title lang="pt">IURD</title>
+<desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000427780.jpg</image_name>
+<image_broadcast>0000427780</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623062800 -0300" stop="20150623072800 -0300" channel="RIC" program_id="0000301746" event_id="00000000000096928769" series_key="00000000066243000000">
+<title lang="pt">Balanço Geral Manhã</title>
+<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066243.jpg</image_name>
+<image_broadcast>00000000066243</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623072800 -0300" stop="20150623085500 -0300" channel="RIC" program_id="0000130744" event_id="00000000000096928770" series_key="00000000066260000000">
+<title lang="pt">Paraná no Ar</title>
+<desc>O programa apresenta as primeiras informações do dia e os fatos que marcaram a madrugada. Tem participação de todas as praças da RICTV Paraná em links ao vivo, garantindo a agilidade necessária da notícia mais próxima à realidade do telespectador.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066260.jpg</image_name>
+<image_broadcast>00000000066260</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623085500 -0300" stop="20150623100000 -0300" channel="RIC" program_id="0000015945" event_id="00000000000096928771" series_key="00000000066238000000">
+<title lang="pt">Fala Brasil</title>
+<desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066238.jpg</image_name>
+<image_broadcast>00000000066238</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623100000 -0300" stop="20150623120000 -0300" channel="RIC" program_id="0000094577" event_id="00000000000096928772" series_key="00000000066226000000">
+<title lang="pt">Hoje em Dia</title>
+<desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066226.jpg</image_name>
+<image_broadcast>00000000066226</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623120000 -0300" stop="20150623140000 -0300" channel="RIC" program_id="0000102196" event_id="00000000000096928773" series_key="00000000066243000000">
+<title lang="pt">Balanço Geral</title>
+<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066243.jpg</image_name>
+<image_broadcast>00000000066243</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623140000 -0300" stop="20150623143000 -0300" channel="RIC" program_id="0000129496" event_id="00000000000096928774" series_key="00000000073725000000">
+<title lang="pt">Ver Mais</title>
+<desc>Reportagens, curiosidades e muitas dicas para melhorar seu dia-a-dia. Saúde, bem estar, empreendedorismo, diversão e arte... O Ver Mais tem tudo isso e muito mais.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000073725.jpg</image_name>
+<image_broadcast>00000000073725</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623143000 -0300" stop="20150623170000 -0300" channel="RIC" program_id="0000119084" event_id="00000000000096928775" series_key="00000000071807000000">
+<title lang="pt">Programa da Tarde</title>
+<desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000071807.jpg</image_name>
+<image_broadcast>00000000071807</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623170000 -0300" stop="20150623190000 -0300" channel="RIC" program_id="0000015967" event_id="00000000000096928776" series_key="00000000069485000000">
+<title lang="pt">Cidade Alerta</title>
+<desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069485.jpg</image_name>
+<image_broadcast>00000000069485</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623190000 -0300" stop="20150623200000 -0300" channel="RIC" program_id="0000347447" event_id="00000000000096928777" series_key="00000000073099000000">
+<title lang="pt">Cidade Alerta Paraná</title>
+<desc>O Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000073099.jpg</image_name>
+<image_broadcast>00000000073099</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623200000 -0300" stop="20150623203000 -0300" channel="RIC" program_id="0000129499" event_id="00000000000096928778" series_key="00000000066294000000">
+<title lang="pt">RIC Notícias</title>
+<desc>Com a melhor estrutura de jornalismo regional, RIC Notícias apresenta, ao vivo, os principais fatos do cotidiano, com séries especiais e matérias investigativas.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066294.jpg</image_name>
+<image_broadcast>00000000066294</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623203000 -0300" stop="20150623204000 -0300" channel="RIC" program_id="0000255383" event_id="00000000000096928779" series_key="">
+<title lang="pt">Propaganda Partidária</title>
+<desc>Programa Político.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000255383.jpg</image_name>
+<image_broadcast>0000255383</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623204000 -0300" stop="20150623213000 -0300" channel="RIC" program_id="0000430159" event_id="00000000000096928780" series_key="00000000076587000000">
+<title lang="pt">Os Dez Mandamentos</title>
+<desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
+<credits>
+<director>Alexandre Avancini</director>
+<actor>Guilherme Winter</actor>
+<actor>Sérgio Marone</actor>
+<actor>Giselle Itié</actor>
+<actor>Mel Lisboa</actor>
+<actor>Samara Felippo</actor>
+<actor>Thierry Figueira</actor>
+<actor>Heitor Martinez</actor>
+<actor>Luciano Szafir</actor>
+<actor>Floriano Peixoto</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Novela</category>
+<image>
+<image_name position="1">00000000076587.jpg</image_name>
+<image_broadcast>00000000076587</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623213000 -0300" stop="20150623223000 -0300" channel="RIC" program_id="0000015966" event_id="00000000000096928781" series_key="00000000066234000000">
+<title lang="pt">Jornal da Record</title>
+<desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066234.jpg</image_name>
+<image_broadcast>00000000066234</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623223000 -0300" stop="20150624001500 -0300" channel="RIC" program_id="0000184059" event_id="00000000000096928782" series_key="">
+<title lang="pt">Gugu</title>
+<title lang="en">Programa do Gugu</title>
+<desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
+<credits>
+<director>Vildomar Batista</director>
+<actor>Gugu Liberato</actor>
+</credits>
+<category lang="pt">Variedades</category>
+<category lang="pt">Talk Show</category>
+<image>
+<image_name position="1">0000184059.jpg</image_name>
+<image_broadcast>0000184059</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <country>Brasil</country>
 <video>

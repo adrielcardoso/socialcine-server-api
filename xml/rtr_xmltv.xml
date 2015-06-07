@@ -4,1053 +4,6 @@
 <display-name lang="pt">RedeTV! Recife SD</display-name>
 <icon src="rtr.gif" />
 </channel>
-<programme start="20150603000000 -0300" stop="20150603003000 -0300" channel="RTR" program_id="0000016555" event_id="00000000000095928424" series_key="">
-<title lang="pt">Leitura Dinâmica</title>
-<title lang="en">Leitura Dinâmica</title>
-<desc>Um telejornal que tem como principais características a agilidade da informação e todo dinamismo da tecnologia digital. O programa resume os fatos do dia e ainda oferece notícias sobre música, cultura, cinema, games e internet.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000016555.jpg</image_name>
-<image_broadcast>0000016555</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603003000 -0300" stop="20150603013000 -0300" channel="RTR" program_id="0000151327" event_id="00000000000095928426" series_key="">
-<title lang="pt">Programa Amaury Jr.</title>
-<title lang="en">Programa Amaury Jr.</title>
-<desc>O programa transita pelos lugares mais exclusivos do jet set nacional e internacional, entrevistando personalidades do mundo empresarial, político e econômico, bem como famosos cujas intimidades aquecem a curiosidade do público.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000151327.jpg</image_name>
-<image_broadcast>0000151327</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603013000 -0300" stop="20150603020000 -0300" channel="RTR" program_id="0000028505" event_id="00000000000095928428" series_key="">
-<title lang="pt">TV Fama</title>
-<title lang="en">TV Fama</title>
-<desc>O programa traz notícias, atualidades, curiosidades do meio artístico e tudo o que rola nos bastidores. Irreverente e dinâmico, traz entrevistas, notícias dos artistas, estréias de filmes, peças, eventos, desfiles e lançamentos.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000028505.jpg</image_name>
-<image_broadcast>0000028505</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603020000 -0300" stop="20150603033000 -0300" channel="RTR" program_id="0000309047" event_id="00000000000095928431" series_key="">
-<title lang="pt">Você na TV</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000309047.jpg</image_name>
-<image_broadcast>0000309047</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603033000 -0300" stop="20150603040000 -0300" channel="RTR" program_id="0000331722" event_id="00000000000095928433" series_key="00000000071159000000">
-<title lang="pt">Morning Show</title>
-<desc>Cinco personalidades diferentes comentam as notícias do dia com muito bom humor. A Mesa será formada pelo jornalista Zé Luiz, os humoristas Patrick Maia e Micheli Machado.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071159.jpg</image_name>
-<image_broadcast>00000000071159</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603040000 -0300" stop="20150603043000 -0300" channel="RTR" program_id="0000307966" event_id="00000000000095928435" series_key="">
-<title lang="pt">Feira do Riso</title>
-<desc>O programa acontece em uma feira livre onde pessoas como a mulher atraente, a dona de casa, a fofoqueira, o bêbado, o vidente, o político circulam para dar vida aos personagens do humorístico.</desc>
-<credits>
-<actor>Cleber Colombo</actor>
-<actor>Tânia Oliveira</actor>
-<actor>Carol Rios</actor>
-<actor>Anderson Justo</actor>
-<actor>João Gabriel</actor>
-<actor>Silvio Toledo</actor>
-<actor>Marco Minetto</actor>
-<actor>Aline Serrano</actor>
-<actor>Álvaro Thuler</actor>
-</credits>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">0000307966.jpg</image_name>
-<image_broadcast>0000307966</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150603043000 -0300" stop="20150603051500 -0300" channel="RTR" program_id="0000307967" event_id="00000000000095928437" series_key="">
-<title lang="pt">Luciana by Night</title>
-<desc>Luciana Gimenez receberá, a cada programa, personalidades, artistas e pessoas em evidência para um bate-papo descontraído sobre os assuntos em destaque no Brasil e no mundo.</desc>
-<credits>
-<actor>Luciana Gimenez</actor>
-<actor>Diogo Portugal</actor>
-</credits>
-<category lang="pt">Variedades</category>
-<category lang="pt">Talk Show</category>
-<image>
-<image_name position="1">0000307967.jpg</image_name>
-<image_broadcast>0000307967</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150603051500 -0300" stop="20150603053000 -0300" channel="RTR" program_id="0000323868" event_id="00000000000095928439" series_key="00000000070838000000">
-<title lang="pt">Te Peguei</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603053000 -0300" stop="20150603060000 -0300" channel="RTR" program_id="0000151327" event_id="00000000000095928441" series_key="">
-<title lang="pt">Programa Amaury Jr.</title>
-<title lang="en">Programa Amaury Jr.</title>
-<desc>O programa transita pelos lugares mais exclusivos do jet set nacional e internacional, entrevistando personalidades do mundo empresarial, político e econômico, bem como famosos cujas intimidades aquecem a curiosidade do público.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000151327.jpg</image_name>
-<image_broadcast>0000151327</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603060000 -0300" stop="20150603070000 -0300" channel="RTR" program_id="0000203503" event_id="00000000000095928445" series_key="">
-<title lang="pt">Mega Senha</title>
-<desc>Mega Senha, um supergame que dará até um milhão de reais para quem adivinhar mais senhas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Game Show</category>
-<image>
-<image_name position="1">0000203503.jpg</image_name>
-<image_broadcast>0000203503</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603070000 -0300" stop="20150603073000 -0300" channel="RTR" program_id="0000323868" event_id="00000000000095928448" series_key="00000000070838000000">
-<title lang="pt">Te Peguei</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603073000 -0300" stop="20150603074500 -0300" channel="RTR" program_id="0000016555" event_id="00000000000095928451" series_key="">
-<title lang="pt">Leitura Dinâmica</title>
-<title lang="en">Leitura Dinâmica</title>
-<desc>Um telejornal que tem como principais características a agilidade da informação e todo dinamismo da tecnologia digital. O programa resume os fatos do dia e ainda oferece notícias sobre música, cultura, cinema, games e internet.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000016555.jpg</image_name>
-<image_broadcast>0000016555</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603074500 -0300" stop="20150603083000 -0300" channel="RTR" program_id="0000028505" event_id="00000000000095928454" series_key="">
-<title lang="pt">TV Fama</title>
-<title lang="en">TV Fama</title>
-<desc>O programa traz notícias, atualidades, curiosidades do meio artístico e tudo o que rola nos bastidores. Irreverente e dinâmico, traz entrevistas, notícias dos artistas, estréias de filmes, peças, eventos, desfiles e lançamentos.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000028505.jpg</image_name>
-<image_broadcast>0000028505</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603083000 -0300" stop="20150603093000 -0300" channel="RTR" program_id="0000331722" event_id="00000000000095928456" series_key="00000000071159000000">
-<title lang="pt">Morning Show</title>
-<desc>Cinco personalidades diferentes comentam as notícias do dia com muito bom humor. A Mesa será formada pelo jornalista Zé Luiz, os humoristas Patrick Maia e Micheli Machado.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071159.jpg</image_name>
-<image_broadcast>00000000071159</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603093000 -0300" stop="20150603113000 -0300" channel="RTR" program_id="0000309047" event_id="00000000000095928458" series_key="">
-<title lang="pt">Você na TV</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000309047.jpg</image_name>
-<image_broadcast>0000309047</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603113000 -0300" stop="20150603120000 -0300" channel="RTR" program_id="0000327709" event_id="00000000000095928460" series_key="">
-<title lang="pt">Bola Dividida</title>
-<desc>Novo programa esportivo da RedeTV!, contará com a irreverência e a experiência do trio de 'feras' do jornalismo esportivo formado por Silvio Luiz, Juarez Soares e Luiz Ceará, além da ex-miss Brasil Priscila Machado.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">0000327709.jpg</image_name>
-<image_broadcast>0000327709</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603120000 -0300" stop="20150603123000 -0300" channel="RTR" program_id="0000323868" event_id="00000000000095928462" series_key="00000000070838000000">
-<title lang="pt">Te Peguei</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603123000 -0300" stop="20150603133000 -0300" channel="RTR" program_id="0000331722" event_id="00000000000095928464" series_key="00000000071159000000">
-<title lang="pt">Morning Show</title>
-<desc>Cinco personalidades diferentes comentam as notícias do dia com muito bom humor. A Mesa será formada pelo jornalista Zé Luiz, os humoristas Patrick Maia e Micheli Machado.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071159.jpg</image_name>
-<image_broadcast>00000000071159</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603133000 -0300" stop="20150603140000 -0300" channel="RTR" program_id="0000151327" event_id="00000000000095928467" series_key="">
-<title lang="pt">Programa Amaury Jr.</title>
-<title lang="en">Programa Amaury Jr.</title>
-<desc>O programa transita pelos lugares mais exclusivos do jet set nacional e internacional, entrevistando personalidades do mundo empresarial, político e econômico, bem como famosos cujas intimidades aquecem a curiosidade do público.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000151327.jpg</image_name>
-<image_broadcast>0000151327</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603140000 -0300" stop="20150603150000 -0300" channel="RTR" program_id="0000028505" event_id="00000000000095928469" series_key="">
-<title lang="pt">TV Fama</title>
-<title lang="en">TV Fama</title>
-<desc>O programa traz notícias, atualidades, curiosidades do meio artístico e tudo o que rola nos bastidores. Irreverente e dinâmico, traz entrevistas, notícias dos artistas, estréias de filmes, peças, eventos, desfiles e lançamentos.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000028505.jpg</image_name>
-<image_broadcast>0000028505</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603150000 -0300" stop="20150603170000 -0300" channel="RTR" program_id="0000105520" event_id="00000000000095928471" series_key="">
-<title lang="pt">A Tarde é Sua</title>
-<desc>Comandada pela experiente Sonia Abrão, traz num programa versátil muita informação, entrevistas, famosos e polêmicas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000105520.jpg</image_name>
-<image_broadcast>0000105520</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603170000 -0300" stop="20150603180000 -0300" channel="RTR" program_id="0000203503" event_id="00000000000095928473" series_key="">
-<title lang="pt">Mega Senha</title>
-<desc>Mega Senha, um supergame que dará até um milhão de reais para quem adivinhar mais senhas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Game Show</category>
-<image>
-<image_name position="1">0000203503.jpg</image_name>
-<image_broadcast>0000203503</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603180000 -0300" stop="20150603184500 -0300" channel="RTR" program_id="0000323868" event_id="00000000000095928475" series_key="00000000070838000000">
-<title lang="pt">Te Peguei</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603184500 -0300" stop="20150603193000 -0300" channel="RTR" program_id="0000053733" event_id="00000000000095928477" series_key="">
-<title lang="pt">Betty, A Feia</title>
-<title lang="en">"Yo soy Betty, la fea"</title>
-<desc></desc>
-<credits>
-<director>Mario Ribero Ferreira</director>
-<actor>Ana María Orozco</actor>
-</credits>
-<date>1999</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Novela</category>
-<image>
-<image_name position="1">0000053733.jpg</image_name>
-<image_broadcast>0000053733</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Colombia</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>4/5</value>
-</star-rating>
-</programme>
-<programme start="20150603193000 -0300" stop="20150603210000 -0300" channel="RTR" program_id="0000028505" event_id="00000000000095928479" series_key="">
-<title lang="pt">TV Fama</title>
-<title lang="en">TV Fama</title>
-<desc>O programa traz notícias, atualidades, curiosidades do meio artístico e tudo o que rola nos bastidores. Irreverente e dinâmico, traz entrevistas, notícias dos artistas, estréias de filmes, peças, eventos, desfiles e lançamentos.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000028505.jpg</image_name>
-<image_broadcast>0000028505</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603210000 -0300" stop="20150603213000 -0300" channel="RTR" program_id="0000251145" event_id="00000000000095928481" series_key="">
-<title lang="pt">RedeTV News</title>
-<desc></desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000251145.jpg</image_name>
-<image_broadcast>0000251145</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603213000 -0300" stop="20150603223000 -0300" channel="RTR" program_id="0000309047" event_id="00000000000095928483" series_key="">
-<title lang="pt">Você na TV</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000309047.jpg</image_name>
-<image_broadcast>0000309047</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603223000 -0300" stop="20150604000000 -0300" channel="RTR" program_id="0000016546" event_id="00000000000095928485" series_key="">
-<title lang="pt">SuperPop</title>
-<title lang="en">SuperPop</title>
-<desc>Apresentado pela belíssima Luciana Gimenez, o SuperPop é um programa cheio de bom humor, polêmica e curiosidades,trazendo a cada dia um assunto diferente que vai fazer você ficar grudado na televisão.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000016546.jpg</image_name>
-<image_broadcast>0000016546</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 14 anos</value>
-</rating>
-</programme>
-<programme start="20150604000000 -0300" stop="20150604003000 -0300" channel="RTR" program_id="0000016555" event_id="00000000000095928488" series_key="">
-<title lang="pt">Leitura Dinâmica</title>
-<title lang="en">Leitura Dinâmica</title>
-<desc>Um telejornal que tem como principais características a agilidade da informação e todo dinamismo da tecnologia digital. O programa resume os fatos do dia e ainda oferece notícias sobre música, cultura, cinema, games e internet.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000016555.jpg</image_name>
-<image_broadcast>0000016555</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604003000 -0300" stop="20150604013000 -0300" channel="RTR" program_id="0000151327" event_id="00000000000095928490" series_key="">
-<title lang="pt">Programa Amaury Jr.</title>
-<title lang="en">Programa Amaury Jr.</title>
-<desc>O programa transita pelos lugares mais exclusivos do jet set nacional e internacional, entrevistando personalidades do mundo empresarial, político e econômico, bem como famosos cujas intimidades aquecem a curiosidade do público.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000151327.jpg</image_name>
-<image_broadcast>0000151327</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604013000 -0300" stop="20150604020000 -0300" channel="RTR" program_id="0000028505" event_id="00000000000095928493" series_key="">
-<title lang="pt">TV Fama</title>
-<title lang="en">TV Fama</title>
-<desc>O programa traz notícias, atualidades, curiosidades do meio artístico e tudo o que rola nos bastidores. Irreverente e dinâmico, traz entrevistas, notícias dos artistas, estréias de filmes, peças, eventos, desfiles e lançamentos.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000028505.jpg</image_name>
-<image_broadcast>0000028505</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604020000 -0300" stop="20150604033000 -0300" channel="RTR" program_id="0000309047" event_id="00000000000095928496" series_key="">
-<title lang="pt">Você na TV</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000309047.jpg</image_name>
-<image_broadcast>0000309047</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604033000 -0300" stop="20150604040000 -0300" channel="RTR" program_id="0000331722" event_id="00000000000095928498" series_key="00000000071159000000">
-<title lang="pt">Morning Show</title>
-<desc>Cinco personalidades diferentes comentam as notícias do dia com muito bom humor. A Mesa será formada pelo jornalista Zé Luiz, os humoristas Patrick Maia e Micheli Machado.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071159.jpg</image_name>
-<image_broadcast>00000000071159</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604040000 -0300" stop="20150604050000 -0300" channel="RTR" program_id="0000016546" event_id="00000000000095928500" series_key="">
-<title lang="pt">SuperPop</title>
-<title lang="en">SuperPop</title>
-<desc>Apresentado pela belíssima Luciana Gimenez, o SuperPop é um programa cheio de bom humor, polêmica e curiosidades,trazendo a cada dia um assunto diferente que vai fazer você ficar grudado na televisão.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000016546.jpg</image_name>
-<image_broadcast>0000016546</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 14 anos</value>
-</rating>
-</programme>
-<programme start="20150604050000 -0300" stop="20150604053000 -0300" channel="RTR" program_id="0000323868" event_id="00000000000095928502" series_key="00000000070838000000">
-<title lang="pt">Te Peguei</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604053000 -0300" stop="20150604060000 -0300" channel="RTR" program_id="0000151327" event_id="00000000000095928504" series_key="">
-<title lang="pt">Programa Amaury Jr.</title>
-<title lang="en">Programa Amaury Jr.</title>
-<desc>O programa transita pelos lugares mais exclusivos do jet set nacional e internacional, entrevistando personalidades do mundo empresarial, político e econômico, bem como famosos cujas intimidades aquecem a curiosidade do público.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000151327.jpg</image_name>
-<image_broadcast>0000151327</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604060000 -0300" stop="20150604063000 -0300" channel="RTR" program_id="0000296706" event_id="00000000000095928506" series_key="">
-<title lang="pt">Tá Gravado</title>
-<desc>Câmeras de vigilância e celulares de anônimos testemunham os mais impressionantes crimes e acidentes em todo o mundo. O programa analisa cenas reais: assaltos, roubos, homicídios, sequestros.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">0000296706.jpg</image_name>
-<image_broadcast>0000296706</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 14 anos</value>
-</rating>
-</programme>
-<programme start="20150604063000 -0300" stop="20150604070000 -0300" channel="RTR" program_id="0000143815" event_id="00000000000095928508" series_key="">
-<title lang="pt">Good News</title>
-<title lang="en">Good News</title>
-<desc>Good News, com Renata Maranhão, mostra somente notícias positivas, com ações e iniciativas sócio-ambientais e de sustentabilidade pelo Brasil afora.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000143815.jpg</image_name>
-<image_broadcast>0000143815</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604070000 -0300" stop="20150604073000 -0300" channel="RTR" program_id="0000323868" event_id="00000000000095928510" series_key="00000000070838000000">
-<title lang="pt">Te Peguei</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604073000 -0300" stop="20150604074500 -0300" channel="RTR" program_id="0000016555" event_id="00000000000095928513" series_key="">
-<title lang="pt">Leitura Dinâmica</title>
-<title lang="en">Leitura Dinâmica</title>
-<desc>Um telejornal que tem como principais características a agilidade da informação e todo dinamismo da tecnologia digital. O programa resume os fatos do dia e ainda oferece notícias sobre música, cultura, cinema, games e internet.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000016555.jpg</image_name>
-<image_broadcast>0000016555</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604074500 -0300" stop="20150604083000 -0300" channel="RTR" program_id="0000028505" event_id="00000000000095928517" series_key="">
-<title lang="pt">TV Fama</title>
-<title lang="en">TV Fama</title>
-<desc>O programa traz notícias, atualidades, curiosidades do meio artístico e tudo o que rola nos bastidores. Irreverente e dinâmico, traz entrevistas, notícias dos artistas, estréias de filmes, peças, eventos, desfiles e lançamentos.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000028505.jpg</image_name>
-<image_broadcast>0000028505</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604083000 -0300" stop="20150604093000 -0300" channel="RTR" program_id="0000331722" event_id="00000000000095928520" series_key="00000000071159000000">
-<title lang="pt">Morning Show</title>
-<desc>Cinco personalidades diferentes comentam as notícias do dia com muito bom humor. A Mesa será formada pelo jornalista Zé Luiz, os humoristas Patrick Maia e Micheli Machado.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071159.jpg</image_name>
-<image_broadcast>00000000071159</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604093000 -0300" stop="20150604113000 -0300" channel="RTR" program_id="0000309047" event_id="00000000000095928523" series_key="">
-<title lang="pt">Você na TV</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000309047.jpg</image_name>
-<image_broadcast>0000309047</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604113000 -0300" stop="20150604120000 -0300" channel="RTR" program_id="0000327709" event_id="00000000000095928526" series_key="">
-<title lang="pt">Bola Dividida</title>
-<desc>Novo programa esportivo da RedeTV!, contará com a irreverência e a experiência do trio de 'feras' do jornalismo esportivo formado por Silvio Luiz, Juarez Soares e Luiz Ceará, além da ex-miss Brasil Priscila Machado.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">0000327709.jpg</image_name>
-<image_broadcast>0000327709</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604120000 -0300" stop="20150604123000 -0300" channel="RTR" program_id="0000323868" event_id="00000000000095928529" series_key="00000000070838000000">
-<title lang="pt">Te Peguei</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604123000 -0300" stop="20150604133000 -0300" channel="RTR" program_id="0000331722" event_id="00000000000095928532" series_key="00000000071159000000">
-<title lang="pt">Morning Show</title>
-<desc>Cinco personalidades diferentes comentam as notícias do dia com muito bom humor. A Mesa será formada pelo jornalista Zé Luiz, os humoristas Patrick Maia e Micheli Machado.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071159.jpg</image_name>
-<image_broadcast>00000000071159</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604133000 -0300" stop="20150604140000 -0300" channel="RTR" program_id="0000151327" event_id="00000000000095928535" series_key="">
-<title lang="pt">Programa Amaury Jr.</title>
-<title lang="en">Programa Amaury Jr.</title>
-<desc>O programa transita pelos lugares mais exclusivos do jet set nacional e internacional, entrevistando personalidades do mundo empresarial, político e econômico, bem como famosos cujas intimidades aquecem a curiosidade do público.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000151327.jpg</image_name>
-<image_broadcast>0000151327</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604140000 -0300" stop="20150604150000 -0300" channel="RTR" program_id="0000028505" event_id="00000000000095928538" series_key="">
-<title lang="pt">TV Fama</title>
-<title lang="en">TV Fama</title>
-<desc>O programa traz notícias, atualidades, curiosidades do meio artístico e tudo o que rola nos bastidores. Irreverente e dinâmico, traz entrevistas, notícias dos artistas, estréias de filmes, peças, eventos, desfiles e lançamentos.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000028505.jpg</image_name>
-<image_broadcast>0000028505</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604150000 -0300" stop="20150604170000 -0300" channel="RTR" program_id="0000105520" event_id="00000000000095928540" series_key="">
-<title lang="pt">A Tarde é Sua</title>
-<desc>Comandada pela experiente Sonia Abrão, traz num programa versátil muita informação, entrevistas, famosos e polêmicas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000105520.jpg</image_name>
-<image_broadcast>0000105520</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604170000 -0300" stop="20150604173000 -0300" channel="RTR" program_id="0000143815" event_id="00000000000095928542" series_key="">
-<title lang="pt">Good News</title>
-<title lang="en">Good News</title>
-<desc>Good News, com Renata Maranhão, mostra somente notícias positivas, com ações e iniciativas sócio-ambientais e de sustentabilidade pelo Brasil afora.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000143815.jpg</image_name>
-<image_broadcast>0000143815</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604173000 -0300" stop="20150604180000 -0300" channel="RTR" program_id="0000102665" event_id="00000000000095928544" series_key="">
-<title lang="pt">Ritmo Brasil</title>
-<title lang="en">Ritmo Brasil</title>
-<desc>A música brasileira e de qualidade está no Ritmo Brasil, com Faa Morena recebendo grandes cantores e bandas em shows e um bom bate-papo.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000102665.jpg</image_name>
-<image_broadcast>0000102665</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604180000 -0300" stop="20150604184500 -0300" channel="RTR" program_id="0000323868" event_id="00000000000095928546" series_key="00000000070838000000">
-<title lang="pt">Te Peguei</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604184500 -0300" stop="20150604193000 -0300" channel="RTR" program_id="0000053733" event_id="00000000000095928548" series_key="">
-<title lang="pt">Betty, A Feia</title>
-<title lang="en">"Yo soy Betty, la fea"</title>
-<desc></desc>
-<credits>
-<director>Mario Ribero Ferreira</director>
-<actor>Ana María Orozco</actor>
-</credits>
-<date>1999</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Novela</category>
-<image>
-<image_name position="1">0000053733.jpg</image_name>
-<image_broadcast>0000053733</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Colombia</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>4/5</value>
-</star-rating>
-</programme>
-<programme start="20150604193000 -0300" stop="20150604210000 -0300" channel="RTR" program_id="0000028505" event_id="00000000000095928550" series_key="">
-<title lang="pt">TV Fama</title>
-<title lang="en">TV Fama</title>
-<desc>O programa traz notícias, atualidades, curiosidades do meio artístico e tudo o que rola nos bastidores. Irreverente e dinâmico, traz entrevistas, notícias dos artistas, estréias de filmes, peças, eventos, desfiles e lançamentos.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000028505.jpg</image_name>
-<image_broadcast>0000028505</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604210000 -0300" stop="20150604213000 -0300" channel="RTR" program_id="0000251145" event_id="00000000000095928552" series_key="">
-<title lang="pt">RedeTV News</title>
-<desc></desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000251145.jpg</image_name>
-<image_broadcast>0000251145</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604213000 -0300" stop="20150604223000 -0300" channel="RTR" program_id="0000309047" event_id="00000000000095928553" series_key="">
-<title lang="pt">Você na TV</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000309047.jpg</image_name>
-<image_broadcast>0000309047</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604223000 -0300" stop="20150604230000 -0300" channel="RTR" program_id="0000307966" event_id="00000000000095928554" series_key="">
-<title lang="pt">Feira do Riso</title>
-<desc>O programa acontece em uma feira livre onde pessoas como a mulher atraente, a dona de casa, a fofoqueira, o bêbado, o vidente, o político circulam para dar vida aos personagens do humorístico.</desc>
-<credits>
-<actor>Cleber Colombo</actor>
-<actor>Tânia Oliveira</actor>
-<actor>Carol Rios</actor>
-<actor>Anderson Justo</actor>
-<actor>João Gabriel</actor>
-<actor>Silvio Toledo</actor>
-<actor>Marco Minetto</actor>
-<actor>Aline Serrano</actor>
-<actor>Álvaro Thuler</actor>
-</credits>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">0000307966.jpg</image_name>
-<image_broadcast>0000307966</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150604230000 -0300" stop="20150605000000 -0300" channel="RTR" program_id="0000016464" event_id="00000000000095928555" series_key="">
-<title lang="pt">Sob Medida</title>
-<desc>Apresentado por Daniela Albuquerque, o reality fashion transformará os participantes e mostrará o que cada um deles tem de melhor. E, de quebra, reformará um ambiente de sua casa.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Moda e Estilo</category>
-<image>
-<image_name position="1">0000016464.jpg</image_name>
-<image_broadcast>0000016464</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
 <programme start="20150605000000 -0300" stop="20150605003000 -0300" channel="RTR" program_id="0000016555" event_id="00000000000096019115" series_key="">
 <title lang="pt">Leitura Dinâmica</title>
 <title lang="en">Leitura Dinâmica</title>
@@ -9003,6 +7956,939 @@
 <image_broadcast>00000000067352</image_broadcast>
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150622003000 -0300" stop="20150622013000 -0300" channel="RTR" program_id="0000188417" event_id="00000000000096948998" series_key="">
+<title lang="pt">É Notícia</title>
+<desc>Kennedy Alencar comanda o É Notícia, o programa que entrevista gente que está em evidência no cenário brasileiro político, econômico e social.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000188417.jpg</image_name>
+<image_broadcast>0000188417</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622013000 -0300" stop="20150622023000 -0300" channel="RTR" program_id="0000016556" event_id="00000000000096948999" series_key="">
+<title lang="pt">Bola na Rede</title>
+<title lang="en">Bola na Rede</title>
+<desc>O melhor dos campeonatos brasileiros e europeus, num show de todos os gols da rodada.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">0000016556.jpg</image_name>
+<image_broadcast>0000016556</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622023000 -0300" stop="20150622041500 -0300" channel="RTR" program_id="0000314562" event_id="00000000000096949000" series_key="">
+<title lang="pt">Campeonato Paulista Série A2</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000314562.jpg</image_name>
+<image_broadcast>0000314562</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622041500 -0300" stop="20150622060000 -0300" channel="RTR" program_id="0000319683" event_id="00000000000096949001" series_key="00000000072139000000">
+<title lang="pt">Teste de Fidelidade</title>
+<desc>O programa é uma verdadeira prova de fogo para o parceira ou parceiro que tem sua fidelidade colocada em dúvida. Para testá-los,  atrizes e atores usarão todas as suas armas de sedução.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000072139.jpg</image_name>
+<image_broadcast>00000000072139</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150622060000 -0300" stop="20150622070000 -0300" channel="RTR" program_id="0000188417" event_id="00000000000096949002" series_key="">
+<title lang="pt">É Notícia</title>
+<desc>Kennedy Alencar comanda o É Notícia, o programa que entrevista gente que está em evidência no cenário brasileiro político, econômico e social.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000188417.jpg</image_name>
+<image_broadcast>0000188417</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622070000 -0300" stop="20150622073000 -0300" channel="RTR" program_id="0000323868" event_id="00000000000096949003" series_key="00000000070838000000">
+<title lang="pt">Te Peguei</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622073000 -0300" stop="20150622074500 -0300" channel="RTR" program_id="0000016555" event_id="00000000000096949004" series_key="">
+<title lang="pt">Leitura Dinâmica</title>
+<title lang="en">Leitura Dinâmica</title>
+<desc>Um telejornal que tem como principais características a agilidade da informação e todo dinamismo da tecnologia digital. O programa resume os fatos do dia e ainda oferece notícias sobre música, cultura, cinema, games e internet.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000016555.jpg</image_name>
+<image_broadcast>0000016555</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622074500 -0300" stop="20150622083000 -0300" channel="RTR" program_id="0000028505" event_id="00000000000096949005" series_key="">
+<title lang="pt">TV Fama</title>
+<title lang="en">TV Fama</title>
+<desc>O programa traz notícias, atualidades, curiosidades do meio artístico e tudo o que rola nos bastidores. Irreverente e dinâmico, traz entrevistas, notícias dos artistas, estréias de filmes, peças, eventos, desfiles e lançamentos.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000028505.jpg</image_name>
+<image_broadcast>0000028505</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622083000 -0300" stop="20150622093000 -0300" channel="RTR" program_id="0000331722" event_id="00000000000096949006" series_key="00000000071159000000">
+<title lang="pt">Morning Show</title>
+<desc>Cinco personalidades diferentes comentam as notícias do dia com muito bom humor. A Mesa será formada pelo jornalista Zé Luiz, os humoristas Patrick Maia e Micheli Machado.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000071159.jpg</image_name>
+<image_broadcast>00000000071159</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622093000 -0300" stop="20150622113000 -0300" channel="RTR" program_id="0000309047" event_id="00000000000096949007" series_key="">
+<title lang="pt">Você na TV</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000309047.jpg</image_name>
+<image_broadcast>0000309047</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622113000 -0300" stop="20150622120000 -0300" channel="RTR" program_id="0000327709" event_id="00000000000096949008" series_key="">
+<title lang="pt">Bola Dividida</title>
+<desc>Novo programa esportivo da RedeTV!, contará com a irreverência e a experiência do trio de 'feras' do jornalismo esportivo formado por Silvio Luiz, Juarez Soares e Luiz Ceará, além da ex-miss Brasil Priscila Machado.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">0000327709.jpg</image_name>
+<image_broadcast>0000327709</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622120000 -0300" stop="20150622123000 -0300" channel="RTR" program_id="0000323868" event_id="00000000000096949009" series_key="00000000070838000000">
+<title lang="pt">Te Peguei</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622123000 -0300" stop="20150622133000 -0300" channel="RTR" program_id="0000331722" event_id="00000000000096949010" series_key="00000000071159000000">
+<title lang="pt">Morning Show</title>
+<desc>Cinco personalidades diferentes comentam as notícias do dia com muito bom humor. A Mesa será formada pelo jornalista Zé Luiz, os humoristas Patrick Maia e Micheli Machado.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000071159.jpg</image_name>
+<image_broadcast>00000000071159</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622133000 -0300" stop="20150622140000 -0300" channel="RTR" program_id="0000151327" event_id="00000000000096949011" series_key="">
+<title lang="pt">Programa Amaury Jr.</title>
+<title lang="en">Programa Amaury Jr.</title>
+<desc>O programa transita pelos lugares mais exclusivos do jet set nacional e internacional, entrevistando personalidades do mundo empresarial, político e econômico, bem como famosos cujas intimidades aquecem a curiosidade do público.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000151327.jpg</image_name>
+<image_broadcast>0000151327</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622140000 -0300" stop="20150622150000 -0300" channel="RTR" program_id="0000028505" event_id="00000000000096949012" series_key="">
+<title lang="pt">TV Fama</title>
+<title lang="en">TV Fama</title>
+<desc>O programa traz notícias, atualidades, curiosidades do meio artístico e tudo o que rola nos bastidores. Irreverente e dinâmico, traz entrevistas, notícias dos artistas, estréias de filmes, peças, eventos, desfiles e lançamentos.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000028505.jpg</image_name>
+<image_broadcast>0000028505</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622150000 -0300" stop="20150622170000 -0300" channel="RTR" program_id="0000105520" event_id="00000000000096949013" series_key="">
+<title lang="pt">A Tarde é Sua</title>
+<desc>Comandada pela experiente Sonia Abrão, traz num programa versátil muita informação, entrevistas, famosos e polêmicas.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000105520.jpg</image_name>
+<image_broadcast>0000105520</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622170000 -0300" stop="20150622180000 -0300" channel="RTR" program_id="0000189703" event_id="00000000000096949014" series_key="">
+<title lang="pt">O Último Passageiro</title>
+<desc>Mario Frias apresenta O Último Passageiro, um divertido game entre três escolas. Quem mais acerta nas provas ganha a viagem de formatura dos sonhos.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Game Show</category>
+<image>
+<image_name position="1">0000189703.jpg</image_name>
+<image_broadcast>0000189703</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622180000 -0300" stop="20150622184500 -0300" channel="RTR" program_id="0000323868" event_id="00000000000096949015" series_key="00000000070838000000">
+<title lang="pt">Te Peguei</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622184500 -0300" stop="20150622193000 -0300" channel="RTR" program_id="0000053733" event_id="00000000000096949016" series_key="">
+<title lang="pt">Betty, A Feia</title>
+<title lang="en">"Yo soy Betty, la fea"</title>
+<desc></desc>
+<credits>
+<director>Mario Ribero Ferreira</director>
+<actor>Ana María Orozco</actor>
+</credits>
+<date>1999</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Novela</category>
+<image>
+<image_name position="1">0000053733.jpg</image_name>
+<image_broadcast>0000053733</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Colombia</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>4/5</value>
+</star-rating>
+</programme>
+<programme start="20150622193000 -0300" stop="20150622210000 -0300" channel="RTR" program_id="0000028505" event_id="00000000000096949017" series_key="">
+<title lang="pt">TV Fama</title>
+<title lang="en">TV Fama</title>
+<desc>O programa traz notícias, atualidades, curiosidades do meio artístico e tudo o que rola nos bastidores. Irreverente e dinâmico, traz entrevistas, notícias dos artistas, estréias de filmes, peças, eventos, desfiles e lançamentos.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000028505.jpg</image_name>
+<image_broadcast>0000028505</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622210000 -0300" stop="20150622213000 -0300" channel="RTR" program_id="0000251145" event_id="00000000000096949018" series_key="">
+<title lang="pt">RedeTV News</title>
+<desc></desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000251145.jpg</image_name>
+<image_broadcast>0000251145</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622213000 -0300" stop="20150622223000 -0300" channel="RTR" program_id="0000309047" event_id="00000000000096949019" series_key="">
+<title lang="pt">Você na TV</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000309047.jpg</image_name>
+<image_broadcast>0000309047</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622223000 -0300" stop="20150623000000 -0300" channel="RTR" program_id="0000016546" event_id="00000000000096949020" series_key="">
+<title lang="pt">SuperPop</title>
+<title lang="en">SuperPop</title>
+<desc>Apresentado pela belíssima Luciana Gimenez, o SuperPop é um programa cheio de bom humor, polêmica e curiosidades,trazendo a cada dia um assunto diferente que vai fazer você ficar grudado na televisão.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000016546.jpg</image_name>
+<image_broadcast>0000016546</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150623000000 -0300" stop="20150623003000 -0300" channel="RTR" program_id="0000016555" event_id="00000000000097120139" series_key="">
+<title lang="pt">Leitura Dinâmica</title>
+<title lang="en">Leitura Dinâmica</title>
+<desc>Um telejornal que tem como principais características a agilidade da informação e todo dinamismo da tecnologia digital. O programa resume os fatos do dia e ainda oferece notícias sobre música, cultura, cinema, games e internet.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000016555.jpg</image_name>
+<image_broadcast>0000016555</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623003000 -0300" stop="20150623011500 -0300" channel="RTR" program_id="0000048197" event_id="00000000000097120143" series_key="">
+<title lang="pt">Companhia de Viagem</title>
+<desc>Márcio Moraes apresenta Companhia de Viagem, a atração que mostra os melhores e mais incríveis destinos e roteiros de viagens pelo mundo.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000048197.jpg</image_name>
+<image_broadcast>0000048197</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623011500 -0300" stop="20150623020000 -0300" channel="RTR" program_id="0000143815" event_id="00000000000097120147" series_key="">
+<title lang="pt">Good News</title>
+<title lang="en">Good News</title>
+<desc>Good News, com Renata Maranhão, mostra somente notícias positivas, com ações e iniciativas sócio-ambientais e de sustentabilidade pelo Brasil afora.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000143815.jpg</image_name>
+<image_broadcast>0000143815</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623020000 -0300" stop="20150623033000 -0300" channel="RTR" program_id="0000309047" event_id="00000000000097120151" series_key="">
+<title lang="pt">Você na TV</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000309047.jpg</image_name>
+<image_broadcast>0000309047</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623033000 -0300" stop="20150623040000 -0300" channel="RTR" program_id="0000331722" event_id="00000000000097120155" series_key="00000000071159000000">
+<title lang="pt">Morning Show</title>
+<desc>Cinco personalidades diferentes comentam as notícias do dia com muito bom humor. A Mesa será formada pelo jornalista Zé Luiz, os humoristas Patrick Maia e Micheli Machado.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000071159.jpg</image_name>
+<image_broadcast>00000000071159</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623040000 -0300" stop="20150623050000 -0300" channel="RTR" program_id="0000016546" event_id="00000000000097120159" series_key="">
+<title lang="pt">SuperPop</title>
+<title lang="en">SuperPop</title>
+<desc>Apresentado pela belíssima Luciana Gimenez, o SuperPop é um programa cheio de bom humor, polêmica e curiosidades,trazendo a cada dia um assunto diferente que vai fazer você ficar grudado na televisão.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000016546.jpg</image_name>
+<image_broadcast>0000016546</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150623050000 -0300" stop="20150623053000 -0300" channel="RTR" program_id="0000323868" event_id="00000000000097120162" series_key="00000000070838000000">
+<title lang="pt">Te Peguei</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623053000 -0300" stop="20150623060000 -0300" channel="RTR" program_id="0000151327" event_id="00000000000097120164" series_key="">
+<title lang="pt">Programa Amaury Jr.</title>
+<title lang="en">Programa Amaury Jr.</title>
+<desc>O programa transita pelos lugares mais exclusivos do jet set nacional e internacional, entrevistando personalidades do mundo empresarial, político e econômico, bem como famosos cujas intimidades aquecem a curiosidade do público.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000151327.jpg</image_name>
+<image_broadcast>0000151327</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623060000 -0300" stop="20150623070000 -0300" channel="RTR" program_id="0000189703" event_id="00000000000097120166" series_key="">
+<title lang="pt">O Último Passageiro</title>
+<desc>Mario Frias apresenta O Último Passageiro, um divertido game entre três escolas. Quem mais acerta nas provas ganha a viagem de formatura dos sonhos.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Game Show</category>
+<image>
+<image_name position="1">0000189703.jpg</image_name>
+<image_broadcast>0000189703</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623070000 -0300" stop="20150623073000 -0300" channel="RTR" program_id="0000323868" event_id="00000000000097120170" series_key="00000000070838000000">
+<title lang="pt">Te Peguei</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623073000 -0300" stop="20150623074500 -0300" channel="RTR" program_id="0000016555" event_id="00000000000097120174" series_key="">
+<title lang="pt">Leitura Dinâmica</title>
+<title lang="en">Leitura Dinâmica</title>
+<desc>Um telejornal que tem como principais características a agilidade da informação e todo dinamismo da tecnologia digital. O programa resume os fatos do dia e ainda oferece notícias sobre música, cultura, cinema, games e internet.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000016555.jpg</image_name>
+<image_broadcast>0000016555</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623074500 -0300" stop="20150623083000 -0300" channel="RTR" program_id="0000028505" event_id="00000000000097120178" series_key="">
+<title lang="pt">TV Fama</title>
+<title lang="en">TV Fama</title>
+<desc>O programa traz notícias, atualidades, curiosidades do meio artístico e tudo o que rola nos bastidores. Irreverente e dinâmico, traz entrevistas, notícias dos artistas, estréias de filmes, peças, eventos, desfiles e lançamentos.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000028505.jpg</image_name>
+<image_broadcast>0000028505</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623083000 -0300" stop="20150623093000 -0300" channel="RTR" program_id="0000331722" event_id="00000000000097120182" series_key="00000000071159000000">
+<title lang="pt">Morning Show</title>
+<desc>Cinco personalidades diferentes comentam as notícias do dia com muito bom humor. A Mesa será formada pelo jornalista Zé Luiz, os humoristas Patrick Maia e Micheli Machado.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000071159.jpg</image_name>
+<image_broadcast>00000000071159</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623093000 -0300" stop="20150623113000 -0300" channel="RTR" program_id="0000309047" event_id="00000000000097120186" series_key="">
+<title lang="pt">Você na TV</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000309047.jpg</image_name>
+<image_broadcast>0000309047</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623113000 -0300" stop="20150623120000 -0300" channel="RTR" program_id="0000327709" event_id="00000000000097120190" series_key="">
+<title lang="pt">Bola Dividida</title>
+<desc>Novo programa esportivo da RedeTV!, contará com a irreverência e a experiência do trio de 'feras' do jornalismo esportivo formado por Silvio Luiz, Juarez Soares e Luiz Ceará, além da ex-miss Brasil Priscila Machado.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">0000327709.jpg</image_name>
+<image_broadcast>0000327709</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623120000 -0300" stop="20150623123000 -0300" channel="RTR" program_id="0000323868" event_id="00000000000097120193" series_key="00000000070838000000">
+<title lang="pt">Te Peguei</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623123000 -0300" stop="20150623133000 -0300" channel="RTR" program_id="0000331722" event_id="00000000000097120197" series_key="00000000071159000000">
+<title lang="pt">Morning Show</title>
+<desc>Cinco personalidades diferentes comentam as notícias do dia com muito bom humor. A Mesa será formada pelo jornalista Zé Luiz, os humoristas Patrick Maia e Micheli Machado.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000071159.jpg</image_name>
+<image_broadcast>00000000071159</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623133000 -0300" stop="20150623140000 -0300" channel="RTR" program_id="0000151327" event_id="00000000000097120201" series_key="">
+<title lang="pt">Programa Amaury Jr.</title>
+<title lang="en">Programa Amaury Jr.</title>
+<desc>O programa transita pelos lugares mais exclusivos do jet set nacional e internacional, entrevistando personalidades do mundo empresarial, político e econômico, bem como famosos cujas intimidades aquecem a curiosidade do público.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000151327.jpg</image_name>
+<image_broadcast>0000151327</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623140000 -0300" stop="20150623150000 -0300" channel="RTR" program_id="0000028505" event_id="00000000000097120205" series_key="">
+<title lang="pt">TV Fama</title>
+<title lang="en">TV Fama</title>
+<desc>O programa traz notícias, atualidades, curiosidades do meio artístico e tudo o que rola nos bastidores. Irreverente e dinâmico, traz entrevistas, notícias dos artistas, estréias de filmes, peças, eventos, desfiles e lançamentos.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000028505.jpg</image_name>
+<image_broadcast>0000028505</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623150000 -0300" stop="20150623170000 -0300" channel="RTR" program_id="0000105520" event_id="00000000000097120209" series_key="">
+<title lang="pt">A Tarde é Sua</title>
+<desc>Comandada pela experiente Sonia Abrão, traz num programa versátil muita informação, entrevistas, famosos e polêmicas.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000105520.jpg</image_name>
+<image_broadcast>0000105520</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623170000 -0300" stop="20150623173000 -0300" channel="RTR" program_id="0000143815" event_id="00000000000097120212" series_key="">
+<title lang="pt">Good News</title>
+<title lang="en">Good News</title>
+<desc>Good News, com Renata Maranhão, mostra somente notícias positivas, com ações e iniciativas sócio-ambientais e de sustentabilidade pelo Brasil afora.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000143815.jpg</image_name>
+<image_broadcast>0000143815</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623173000 -0300" stop="20150623180000 -0300" channel="RTR" program_id="0000102665" event_id="00000000000097120217" series_key="">
+<title lang="pt">Ritmo Brasil</title>
+<title lang="en">Ritmo Brasil</title>
+<desc>A música brasileira e de qualidade está no Ritmo Brasil, com Faa Morena recebendo grandes cantores e bandas em shows e um bom bate-papo.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000102665.jpg</image_name>
+<image_broadcast>0000102665</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623180000 -0300" stop="20150623184500 -0300" channel="RTR" program_id="0000323868" event_id="00000000000097120220" series_key="00000000070838000000">
+<title lang="pt">Te Peguei</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623184500 -0300" stop="20150623193000 -0300" channel="RTR" program_id="0000053733" event_id="00000000000097120224" series_key="">
+<title lang="pt">Betty, A Feia</title>
+<title lang="en">"Yo soy Betty, la fea"</title>
+<desc></desc>
+<credits>
+<director>Mario Ribero Ferreira</director>
+<actor>Ana María Orozco</actor>
+</credits>
+<date>1999</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Novela</category>
+<image>
+<image_name position="1">0000053733.jpg</image_name>
+<image_broadcast>0000053733</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Colombia</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>4/5</value>
+</star-rating>
+</programme>
+<programme start="20150623193000 -0300" stop="20150623210000 -0300" channel="RTR" program_id="0000028505" event_id="00000000000097120228" series_key="">
+<title lang="pt">TV Fama</title>
+<title lang="en">TV Fama</title>
+<desc>O programa traz notícias, atualidades, curiosidades do meio artístico e tudo o que rola nos bastidores. Irreverente e dinâmico, traz entrevistas, notícias dos artistas, estréias de filmes, peças, eventos, desfiles e lançamentos.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000028505.jpg</image_name>
+<image_broadcast>0000028505</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623210000 -0300" stop="20150623213000 -0300" channel="RTR" program_id="0000251145" event_id="00000000000097120233" series_key="">
+<title lang="pt">RedeTV News</title>
+<desc></desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000251145.jpg</image_name>
+<image_broadcast>0000251145</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623213000 -0300" stop="20150623223000 -0300" channel="RTR" program_id="0000309047" event_id="00000000000097120237" series_key="">
+<title lang="pt">Você na TV</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000309047.jpg</image_name>
+<image_broadcast>0000309047</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623223000 -0300" stop="20150623230000 -0300" channel="RTR" program_id="0000307966" event_id="00000000000097120241" series_key="">
+<title lang="pt">Feira do Riso</title>
+<desc>O programa acontece em uma feira livre onde pessoas como a mulher atraente, a dona de casa, a fofoqueira, o bêbado, o vidente, o político circulam para dar vida aos personagens do humorístico.</desc>
+<credits>
+<actor>Cleber Colombo</actor>
+<actor>Tânia Oliveira</actor>
+<actor>Carol Rios</actor>
+<actor>Anderson Justo</actor>
+<actor>João Gabriel</actor>
+<actor>Silvio Toledo</actor>
+<actor>Marco Minetto</actor>
+<actor>Aline Serrano</actor>
+<actor>Álvaro Thuler</actor>
+</credits>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">0000307966.jpg</image_name>
+<image_broadcast>0000307966</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150623230000 -0300" stop="20150624000000 -0300" channel="RTR" program_id="0000307967" event_id="00000000000097120245" series_key="">
+<title lang="pt">Luciana by Night</title>
+<desc>Luciana Gimenez receberá, a cada programa, personalidades, artistas e pessoas em evidência para um bate-papo descontraído sobre os assuntos em destaque no Brasil e no mundo.</desc>
+<credits>
+<actor>Luciana Gimenez</actor>
+<actor>Diogo Portugal</actor>
+</credits>
+<category lang="pt">Variedades</category>
+<category lang="pt">Talk Show</category>
+<image>
+<image_name position="1">0000307967.jpg</image_name>
+<image_broadcast>0000307967</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>

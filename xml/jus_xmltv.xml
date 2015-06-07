@@ -4,1002 +4,6 @@
 <display-name lang="pt">TV Justiça</display-name>
 <icon src="jus.gif" />
 </channel>
-<programme start="20150603003000 -0300" stop="20150603043000 -0300" channel="JUS" program_id="0000153267" event_id="00000000000095943479" series_key="">
-<title lang="pt">Direto do Plenário</title>
-<desc>As sessões plenárias do Supremo Tribunal Federal em transmissão ao vivo ou em reprise</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">0000153267.jpg</image_name>
-<image_broadcast>0000153267</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603043000 -0300" stop="20150603050000 -0300" channel="JUS" program_id="0000172144" event_id="00000000000095943480" series_key="">
-<title lang="pt">Justiça do Trabalho na TV</title>
-<title lang="en">Justiça do Trabalho na TV</title>
-<desc>Os temas abordados estão direta ou indiretamente relacionados com a Justiça do Trabalho. Magistrados, professores, advogados, estudantes entre outros, estão entre os entrevistados do programa.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000172144.jpg</image_name>
-<image_broadcast>0000172144</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603050000 -0300" stop="20150603053000 -0300" channel="JUS" program_id="0000081751" event_id="00000000000095943481" series_key="00000000071340000000">
-<title lang="pt">Interesse Público</title>
-<desc>O programa é dedicado aos assuntos que abordam direito e cidadania como direitos do consumidor, meio-ambiente, educação, patrimônio histórico e direitos humanos.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000071340.jpg</image_name>
-<image_broadcast>00000000071340</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603053000 -0300" stop="20150603063000 -0300" channel="JUS" program_id="0000109126" event_id="00000000000095943482" series_key="">
-<title lang="pt">Justiça Legal</title>
-<title lang="en">Justiça Legal</title>
-<desc>O programa busca informar aos operadores do Direito e ao público em geral sobre as decisões judiciais e administrativas mais relevantes do Judiciário de SC, abordando questões atuais e que tenham impacto sobre a sociedade de forma geral.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000109126.jpg</image_name>
-<image_broadcast>0000109126</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603063000 -0300" stop="20150603070000 -0300" channel="JUS" program_id="0000081761" event_id="00000000000095943483" series_key="">
-<title lang="pt">Fala Defensor</title>
-<title lang="en">Fala Defensor</title>
-<desc>O programa destina a levar ao público em geral bem como aos demais operadores do direito uma maior gama de informações e pontos de vista desses profissionais sobre direito.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000081761.jpg</image_name>
-<image_broadcast>0000081761</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603070000 -0300" stop="20150603073000 -0300" channel="JUS" program_id="0000387604" event_id="00000000000095943484" series_key="">
-<title lang="pt">Conexão Cidadania</title>
-<desc>TV do STJ mostra a Justiça a serviço do cidadão. Casos concretos de busca de direitos, mostra como os brasileiros podem conhecer seus direitos fundamentais, sacramentados na Constituição Cidadã.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">0000387604.jpg</image_name>
-<image_broadcast>0000387604</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603073000 -0300" stop="20150603080000 -0300" channel="JUS" program_id="0000173075" event_id="00000000000095943485" series_key="">
-<title lang="pt">Justiça &amp; Cidadania</title>
-<title lang="en">Justiça &amp; Cidadania</title>
-<desc>O programa tem o objetivo de informar sobre decisões e sobre atividades voltadas para a cidadania e assuntos jurídicos do Tribunal Regional do Trabalho, com jurisdição nos estados do Acre e de Rondônia.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000173075.jpg</image_name>
-<image_broadcast>0000173075</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603080000 -0300" stop="20150603090000 -0300" channel="JUS" program_id="0000367958" event_id="00000000000095943486" series_key="">
-<title lang="pt">Saber Direito Aula</title>
-<desc>Saber Direito, um programa voltado para a extensão e aprofundamento dos conhecimentos jurídicos. Estudantes e interessados em conhecimentos jurídicos podem acompanhar cursos de direito constitucional e penal.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000367958.jpg</image_name>
-<image_broadcast>0000367958</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603090000 -0300" stop="20150603100000 -0300" channel="JUS" program_id="0000237763" event_id="00000000000095943487" series_key="">
-<title lang="pt">Grandes Julgamentos</title>
-<desc>No programa Grandes Julgamentos do STF você vai rever as principais decisões tomadas na maior Corte brasileira. Julgamentos que fizeram a história e transformaram a vida do país.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">0000237763.jpg</image_name>
-<image_broadcast>0000237763</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603100000 -0300" stop="20150603103000 -0300" channel="JUS" program_id="0000172411" event_id="00000000000095943488" series_key="">
-<title lang="pt">Refrão</title>
-<desc>O programa convida artistas que debatem as letras das próprias músicas de uma forma diferente. O Supremo Tribunal Federal dialoga com a música brasileira.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000172411.jpg</image_name>
-<image_broadcast>0000172411</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603103000 -0300" stop="20150603110000 -0300" channel="JUS" program_id="0000095469" event_id="00000000000095943489" series_key="">
-<title lang="pt">Trabalho Legal</title>
-<desc>A proposta do Trabalho Legal é facilitar o entendimento das regras do mundo do trabalho.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000095469.jpg</image_name>
-<image_broadcast>0000095469</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603110000 -0300" stop="20150603113000 -0300" channel="JUS" program_id="0000074646" event_id="00000000000095943490" series_key="">
-<title lang="pt">Fórum</title>
-<desc>Programa de debates ou entrevistas sobre os mais variados assuntos relacionados à Justiça, com a participação de especialistas do Direito e de outras áreas de atuação.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000074646.jpg</image_name>
-<image_broadcast>0000074646</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603113000 -0300" stop="20150603120000 -0300" channel="JUS" program_id="0000161753" event_id="00000000000095943491" series_key="00000000066315000000">
-<title lang="pt">STJ Cidadão</title>
-<desc>As decisões que movimentam o Superior Tribunal de Justiça mexem também com a vida de milhares de brasileiros. É isso o que você vê no STJ Cidadão.</desc>
-<date>2014</date>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066315.jpg</image_name>
-<image_broadcast>00000000066315</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603120000 -0300" stop="20150603123000 -0300" channel="JUS" program_id="0000081748" event_id="00000000000095943492" series_key="">
-<title lang="pt">TV Cidadania</title>
-<title lang="en">TV Cidadania</title>
-<desc>Temas de interesse nacional, debatidos sob a ótica do direito por convidados de destaque no universo jurídico.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000081748.jpg</image_name>
-<image_broadcast>0000081748</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603123000 -0300" stop="20150603130000 -0300" channel="JUS" program_id="0000239094" event_id="00000000000095943493" series_key="">
-<title lang="pt">Meio Ambiente por Inteiro</title>
-<desc>O programa Meio Ambiente por Inteiro é um canal de informação para os telespectadores sobre as leis que regulam o meio ambiente no Brasil.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Meio Ambiente</category>
-<image>
-<image_name position="1">0000239094.jpg</image_name>
-<image_broadcast>0000239094</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603130000 -0300" stop="20150603133000 -0300" channel="JUS" program_id="0000106571" event_id="00000000000095943494" series_key="00000000066336000000">
-<title lang="pt">Jornal da Justiça</title>
-<desc>Jornal diário com entrevistas, debates, prestação de serviços, quadros especiais e as principais notícias do Judiciário brasileiro.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066336.jpg</image_name>
-<image_broadcast>00000000066336</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603133000 -0300" stop="20150603140000 -0300" channel="JUS" program_id="0000081754" event_id="00000000000095943495" series_key="">
-<title lang="pt">Justiça para Todos</title>
-<desc>Realizado pela Associação dos Juízes Federais do Brasil, mostra os fatos que movimentam a Justiça Federal e a população brasileira. É um espaço para divulgação e reflexão sobre a atuação da Justiça Federal.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">0000081754.jpg</image_name>
-<image_broadcast>0000081754</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603140000 -0300" stop="20150603180000 -0300" channel="JUS" program_id="0000153267" event_id="00000000000095943496" series_key="">
-<title lang="pt">Direto do Plenário</title>
-<desc>As sessões plenárias do Supremo Tribunal Federal em transmissão ao vivo ou em reprise</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">0000153267.jpg</image_name>
-<image_broadcast>0000153267</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603180000 -0300" stop="20150603183000 -0300" channel="JUS" program_id="0000079043" event_id="00000000000095943497" series_key="00000000068312000000">
-<title lang="pt">Brasil Eleitor</title>
-<title lang="en">Brasil Eleitor</title>
-<desc>Revista eletrônica produzida pelo Tribunal Superior Eleitoral (TSE) em parceria com a TV Cultura, que faz a cobertura das ações da Justiça Eleitoral em todo o país, a partir das regiões norte, nordeste, centro-oeste, sudeste e sul.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">00000000068312.jpg</image_name>
-<image_broadcast>00000000068312</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603183000 -0300" stop="20150603190000 -0300" channel="JUS" program_id="0000106571" event_id="00000000000095943498" series_key="00000000066336000000">
-<title lang="pt">Jornal da Justiça</title>
-<desc>Jornal diário com entrevistas, debates, prestação de serviços, quadros especiais e as principais notícias do Judiciário brasileiro.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066336.jpg</image_name>
-<image_broadcast>00000000066336</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603190000 -0300" stop="20150603193000 -0300" channel="JUS" program_id="0000124441" event_id="00000000000095943499" series_key="00000000066339000000">
-<title lang="pt">Repórter Justiça</title>
-<desc>O Repórter Justiça é um programa semanal que apresenta uma reportagem especial sobre assunto de interesse da população brasileira.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066339.jpg</image_name>
-<image_broadcast>00000000066339</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603193000 -0300" stop="20150603200000 -0300" channel="JUS" program_id="0000012256" event_id="00000000000095943500" series_key="">
-<title lang="pt">Academia</title>
-<desc>Temas polêmicos e interessantes relacionados ao universo jurídico são retratados por meio de teses. A cada semana, o convidado expõe um assunto, que é comentado por acadêmicos, especialistas e profissionais do direito.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">0000012256.jpg</image_name>
-<image_broadcast>0000012256</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603200000 -0300" stop="20150603210000 -0300" channel="JUS" program_id="0000174004" event_id="00000000000095943501" series_key="">
-<title lang="pt">Direito e Literatura</title>
-<desc>Quais as relações que podem existir entre o Direito e a Literatura? As respostas para esta e muitas outras perguntas são discutidas no programa Direito &amp; Literatura.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000174004.jpg</image_name>
-<image_broadcast>0000174004</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603210000 -0300" stop="20150603213000 -0300" channel="JUS" program_id="0000236211" event_id="00000000000095943502" series_key="">
-<title lang="pt">Artigo 5º</title>
-<desc>"Todos são iguais perante a lei, sem distinção de qualquer natureza." (Artigo 5º CF). O programa Artigo 5º leva até você assuntos que dizem respeito ao seu dia a dia.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000236211.jpg</image_name>
-<image_broadcast>0000236211</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603213000 -0300" stop="20150603220000 -0300" channel="JUS" program_id="0000081764" event_id="00000000000095943503" series_key="00000000070695000000">
-<title lang="pt">Via Legal</title>
-<title lang="en">Via Legal</title>
-<desc>Via Legal aproxima a população comum das ações e da realidade da Justiça Federal em todo o País com uma linguagem simples e de fácil entendimento. O programa tem formato de uma revista eletrônica.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000070695.jpg</image_name>
-<image_broadcast>00000000070695</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603220000 -0300" stop="20150603223000 -0300" channel="JUS" program_id="0000248837" event_id="00000000000095943504" series_key="00000000066338000000">
-<title lang="pt">TV TST</title>
-<desc>Produzido pelo Tribunal Superior do Trabalho, toda semana o programa mostra, com linguagem simples e direta, as principais decisões da mais alta corte trabalhista.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066338.jpg</image_name>
-<image_broadcast>00000000066338</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603223000 -0300" stop="20150603230000 -0300" channel="JUS" program_id="0000152963" event_id="00000000000095943505" series_key="">
-<title lang="pt">Iluminuras</title>
-<desc>No programa Iluminuras você fica por dentro da literatura jurídica. Descubra quais são as obras básicas do Direito, livros que influenciam profissionais da área ao longo da história.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000152963.jpg</image_name>
-<image_broadcast>0000152963</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603230000 -0300" stop="20150603233000 -0300" channel="JUS" program_id="0000106571" event_id="00000000000095943506" series_key="00000000066336000000">
-<title lang="pt">Jornal da Justiça</title>
-<desc>Jornal diário com entrevistas, debates, prestação de serviços, quadros especiais e as principais notícias do Judiciário brasileiro.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066336.jpg</image_name>
-<image_broadcast>00000000066336</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603233000 -0300" stop="20150604003000 -0300" channel="JUS" program_id="0000367958" event_id="00000000000095943507" series_key="">
-<title lang="pt">Saber Direito Aula</title>
-<desc>Saber Direito, um programa voltado para a extensão e aprofundamento dos conhecimentos jurídicos. Estudantes e interessados em conhecimentos jurídicos podem acompanhar cursos de direito constitucional e penal.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000367958.jpg</image_name>
-<image_broadcast>0000367958</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604003000 -0300" stop="20150604043000 -0300" channel="JUS" program_id="0000153267" event_id="00000000000095943508" series_key="">
-<title lang="pt">Direto do Plenário</title>
-<desc>As sessões plenárias do Supremo Tribunal Federal em transmissão ao vivo ou em reprise</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">0000153267.jpg</image_name>
-<image_broadcast>0000153267</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604043000 -0300" stop="20150604050000 -0300" channel="JUS" program_id="0000172144" event_id="00000000000095943509" series_key="">
-<title lang="pt">Justiça do Trabalho na TV</title>
-<title lang="en">Justiça do Trabalho na TV</title>
-<desc>Os temas abordados estão direta ou indiretamente relacionados com a Justiça do Trabalho. Magistrados, professores, advogados, estudantes entre outros, estão entre os entrevistados do programa.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000172144.jpg</image_name>
-<image_broadcast>0000172144</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604050000 -0300" stop="20150604053000 -0300" channel="JUS" program_id="0000081761" event_id="00000000000095943510" series_key="">
-<title lang="pt">Fala Defensor</title>
-<title lang="en">Fala Defensor</title>
-<desc>O programa destina a levar ao público em geral bem como aos demais operadores do direito uma maior gama de informações e pontos de vista desses profissionais sobre direito.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000081761.jpg</image_name>
-<image_broadcast>0000081761</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604053000 -0300" stop="20150604060000 -0300" channel="JUS" program_id="0000081766" event_id="00000000000095943511" series_key="">
-<title lang="pt">Conhecendo o Ministério Público</title>
-<desc>O programa trata de assuntos relacionados à prestação de serviços de interesse geral do cidadão.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000081766.jpg</image_name>
-<image_broadcast>0000081766</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604060000 -0300" stop="20150604063000 -0300" channel="JUS" program_id="0000081748" event_id="00000000000095943512" series_key="">
-<title lang="pt">TV Cidadania</title>
-<title lang="en">TV Cidadania</title>
-<desc>Temas de interesse nacional, debatidos sob a ótica do direito por convidados de destaque no universo jurídico.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000081748.jpg</image_name>
-<image_broadcast>0000081748</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604063000 -0300" stop="20150604070000 -0300" channel="JUS" program_id="0000294038" event_id="00000000000095943513" series_key="">
-<title lang="pt">Direito sem Fronteiras</title>
-<desc>Espaço exclusivo para o direito internacional e comparado, e a diplomacia judicial - o programa Direito sem Fronteiras.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000294038.jpg</image_name>
-<image_broadcast>0000294038</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604070000 -0300" stop="20150604073000 -0300" channel="JUS" program_id="0000152963" event_id="00000000000095943514" series_key="">
-<title lang="pt">Iluminuras</title>
-<desc>No programa Iluminuras você fica por dentro da literatura jurídica. Descubra quais são as obras básicas do Direito, livros que influenciam profissionais da área ao longo da história.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000152963.jpg</image_name>
-<image_broadcast>0000152963</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604073000 -0300" stop="20150604080000 -0300" channel="JUS" program_id="0000081764" event_id="00000000000095943515" series_key="00000000070695000000">
-<title lang="pt">Via Legal</title>
-<title lang="en">Via Legal</title>
-<desc>Via Legal aproxima a população comum das ações e da realidade da Justiça Federal em todo o País com uma linguagem simples e de fácil entendimento. O programa tem formato de uma revista eletrônica.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000070695.jpg</image_name>
-<image_broadcast>00000000070695</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604080000 -0300" stop="20150604090000 -0300" channel="JUS" program_id="0000367958" event_id="00000000000095943516" series_key="">
-<title lang="pt">Saber Direito Aula</title>
-<desc>Saber Direito, um programa voltado para a extensão e aprofundamento dos conhecimentos jurídicos. Estudantes e interessados em conhecimentos jurídicos podem acompanhar cursos de direito constitucional e penal.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000367958.jpg</image_name>
-<image_broadcast>0000367958</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604090000 -0300" stop="20150604093000 -0300" channel="JUS" program_id="0000079043" event_id="00000000000095943517" series_key="00000000068312000000">
-<title lang="pt">Brasil Eleitor</title>
-<title lang="en">Brasil Eleitor</title>
-<desc>Revista eletrônica produzida pelo Tribunal Superior Eleitoral (TSE) em parceria com a TV Cultura, que faz a cobertura das ações da Justiça Eleitoral em todo o país, a partir das regiões norte, nordeste, centro-oeste, sudeste e sul.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">00000000068312.jpg</image_name>
-<image_broadcast>00000000068312</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604093000 -0300" stop="20150604100000 -0300" channel="JUS" program_id="0000172411" event_id="00000000000095943518" series_key="">
-<title lang="pt">Refrão</title>
-<desc>O programa convida artistas que debatem as letras das próprias músicas de uma forma diferente. O Supremo Tribunal Federal dialoga com a música brasileira.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000172411.jpg</image_name>
-<image_broadcast>0000172411</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604100000 -0300" stop="20150604103000 -0300" channel="JUS" program_id="0000012256" event_id="00000000000095943519" series_key="">
-<title lang="pt">Academia</title>
-<desc>Temas polêmicos e interessantes relacionados ao universo jurídico são retratados por meio de teses. A cada semana, o convidado expõe um assunto, que é comentado por acadêmicos, especialistas e profissionais do direito.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">0000012256.jpg</image_name>
-<image_broadcast>0000012256</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604103000 -0300" stop="20150604110000 -0300" channel="JUS" program_id="0000352260" event_id="00000000000095943520" series_key="00000000072976000000">
-<title lang="pt">Tempo e História</title>
-<desc>A série de documentários "Tempo e História" apresenta, a cada episódio, uma personalidade marcante do direito.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Biografia</category>
-<image>
-<image_name position="1">00000000072976.jpg</image_name>
-<image_broadcast>00000000072976</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604110000 -0300" stop="20150604113000 -0300" channel="JUS" program_id="0000081768" event_id="00000000000095943521" series_key="">
-<title lang="pt">Pensamento Jurídico</title>
-<title lang="en">Pensamento Jurídico</title>
-<desc>O Pensamento Jurídico é uma produção da Associação dos Magistrados Mineiros e tem como objetivo é o debate de questões relevantes tanto para o mundo jurídico quanto para a sociedade.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">0000081768.jpg</image_name>
-<image_broadcast>0000081768</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604113000 -0300" stop="20150604120000 -0300" channel="JUS" program_id="0000239094" event_id="00000000000095943522" series_key="">
-<title lang="pt">Meio Ambiente por Inteiro</title>
-<desc>O programa Meio Ambiente por Inteiro é um canal de informação para os telespectadores sobre as leis que regulam o meio ambiente no Brasil.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Meio Ambiente</category>
-<image>
-<image_name position="1">0000239094.jpg</image_name>
-<image_broadcast>0000239094</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604120000 -0300" stop="20150604123000 -0300" channel="JUS" program_id="0000074646" event_id="00000000000095943523" series_key="">
-<title lang="pt">Fórum</title>
-<desc>Programa de debates ou entrevistas sobre os mais variados assuntos relacionados à Justiça, com a participação de especialistas do Direito e de outras áreas de atuação.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000074646.jpg</image_name>
-<image_broadcast>0000074646</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604123000 -0300" stop="20150604130000 -0300" channel="JUS" program_id="0000236211" event_id="00000000000095943524" series_key="">
-<title lang="pt">Artigo 5º</title>
-<desc>"Todos são iguais perante a lei, sem distinção de qualquer natureza." (Artigo 5º CF). O programa Artigo 5º leva até você assuntos que dizem respeito ao seu dia a dia.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000236211.jpg</image_name>
-<image_broadcast>0000236211</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604130000 -0300" stop="20150604133000 -0300" channel="JUS" program_id="0000106571" event_id="00000000000095943525" series_key="00000000066336000000">
-<title lang="pt">Jornal da Justiça</title>
-<desc>Jornal diário com entrevistas, debates, prestação de serviços, quadros especiais e as principais notícias do Judiciário brasileiro.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066336.jpg</image_name>
-<image_broadcast>00000000066336</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604133000 -0300" stop="20150604140000 -0300" channel="JUS" program_id="0000081754" event_id="00000000000095943526" series_key="">
-<title lang="pt">Justiça para Todos</title>
-<desc>Realizado pela Associação dos Juízes Federais do Brasil, mostra os fatos que movimentam a Justiça Federal e a população brasileira. É um espaço para divulgação e reflexão sobre a atuação da Justiça Federal.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">0000081754.jpg</image_name>
-<image_broadcast>0000081754</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604140000 -0300" stop="20150604180000 -0300" channel="JUS" program_id="0000153267" event_id="00000000000095943527" series_key="">
-<title lang="pt">Direto do Plenário</title>
-<desc>As sessões plenárias do Supremo Tribunal Federal em transmissão ao vivo ou em reprise</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">0000153267.jpg</image_name>
-<image_broadcast>0000153267</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604180000 -0300" stop="20150604183000 -0300" channel="JUS" program_id="0000237763" event_id="00000000000095943528" series_key="">
-<title lang="pt">Grandes Julgamentos</title>
-<desc>No programa Grandes Julgamentos do STF você vai rever as principais decisões tomadas na maior Corte brasileira. Julgamentos que fizeram a história e transformaram a vida do país.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">0000237763.jpg</image_name>
-<image_broadcast>0000237763</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604183000 -0300" stop="20150604190000 -0300" channel="JUS" program_id="0000106571" event_id="00000000000095943529" series_key="00000000066336000000">
-<title lang="pt">Jornal da Justiça</title>
-<desc>Jornal diário com entrevistas, debates, prestação de serviços, quadros especiais e as principais notícias do Judiciário brasileiro.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066336.jpg</image_name>
-<image_broadcast>00000000066336</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604190000 -0300" stop="20150604213000 -0300" channel="JUS" program_id="0000177501" event_id="00000000000095943530" series_key="00000000072975000000">
-<title lang="pt">Sessão Plenária</title>
-<title lang="en">Sessão Plenária</title>
-<desc>A atividade legislativa do Senado Federal se dá principalmente por meio de reuniões das comissões e sessões plenárias. Para saber mais: www.senado.gov.br/tv</desc>
-<date>2014</date>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Político</category>
-<image>
-<image_name position="1">00000000072975.jpg</image_name>
-<image_broadcast>00000000072975</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604213000 -0300" stop="20150604220000 -0300" channel="JUS" program_id="0000387604" event_id="00000000000095943531" series_key="">
-<title lang="pt">Conexão Cidadania</title>
-<desc>TV do STJ mostra a Justiça a serviço do cidadão. Casos concretos de busca de direitos, mostra como os brasileiros podem conhecer seus direitos fundamentais, sacramentados na Constituição Cidadã.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">0000387604.jpg</image_name>
-<image_broadcast>0000387604</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604220000 -0300" stop="20150604223000 -0300" channel="JUS" program_id="0000276926" event_id="00000000000095943532" series_key="">
-<title lang="pt">TRT das Gerais</title>
-<desc>Com meia hora de duração, o programa divulga atos e decisões desse Tribunal, com o objetivo de aproximar a Justiça do Trabalho de Minas Gerais do cidadão e dar mais transparência às ações da instituição.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">0000276926.jpg</image_name>
-<image_broadcast>0000276926</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604223000 -0300" stop="20150604230000 -0300" channel="JUS" program_id="0000124441" event_id="00000000000095943533" series_key="00000000066339000000">
-<title lang="pt">Repórter Justiça</title>
-<desc>O Repórter Justiça é um programa semanal que apresenta uma reportagem especial sobre assunto de interesse da população brasileira.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066339.jpg</image_name>
-<image_broadcast>00000000066339</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604230000 -0300" stop="20150604233000 -0300" channel="JUS" program_id="0000106571" event_id="00000000000095943534" series_key="00000000066336000000">
-<title lang="pt">Jornal da Justiça</title>
-<desc>Jornal diário com entrevistas, debates, prestação de serviços, quadros especiais e as principais notícias do Judiciário brasileiro.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066336.jpg</image_name>
-<image_broadcast>00000000066336</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604233000 -0300" stop="20150605003000 -0300" channel="JUS" program_id="0000367958" event_id="00000000000095943535" series_key="">
-<title lang="pt">Saber Direito Aula</title>
-<desc>Saber Direito, um programa voltado para a extensão e aprofundamento dos conhecimentos jurídicos. Estudantes e interessados em conhecimentos jurídicos podem acompanhar cursos de direito constitucional e penal.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000367958.jpg</image_name>
-<image_broadcast>0000367958</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
 <programme start="20150605003000 -0300" stop="20150605043000 -0300" channel="JUS" program_id="0000153267" event_id="00000000000096020874" series_key="">
 <title lang="pt">Direto do Plenário</title>
 <desc>As sessões plenárias do Supremo Tribunal Federal em transmissão ao vivo ou em reprise</desc>
@@ -10416,6 +9420,1072 @@
 <image>
 <image_name position="1">0000367959.jpg</image_name>
 <image_broadcast>0000367959</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622000000 -0300" stop="20150622003000 -0300" channel="JUS" program_id="0000384035" event_id="00000000000096951143" series_key="00000000073872000000">
+<title lang="pt">STJ Notícias</title>
+<desc></desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Político</category>
+<image>
+<image_name position="1">00000000073872.jpg</image_name>
+<image_broadcast>00000000073872</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622003000 -0300" stop="20150622010000 -0300" channel="JUS" program_id="0000079043" event_id="00000000000096951145" series_key="00000000068312000000">
+<title lang="pt">Brasil Eleitor</title>
+<title lang="en">Brasil Eleitor</title>
+<desc>Revista eletrônica produzida pelo Tribunal Superior Eleitoral (TSE) em parceria com a TV Cultura, que faz a cobertura das ações da Justiça Eleitoral em todo o país, a partir das regiões norte, nordeste, centro-oeste, sudeste e sul.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">00000000068312.jpg</image_name>
+<image_broadcast>00000000068312</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622010000 -0300" stop="20150622033000 -0300" channel="JUS" program_id="0000177501" event_id="00000000000096951147" series_key="00000000072975000000">
+<title lang="pt">Sessão Plenária</title>
+<title lang="en">Sessão Plenária</title>
+<desc>A atividade legislativa do Senado Federal se dá principalmente por meio de reuniões das comissões e sessões plenárias. Para saber mais: www.senado.gov.br/tv</desc>
+<date>2014</date>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Político</category>
+<image>
+<image_name position="1">00000000072975.jpg</image_name>
+<image_broadcast>00000000072975</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622033000 -0300" stop="20150622040000 -0300" channel="JUS" program_id="0000172460" event_id="00000000000096951148" series_key="">
+<title lang="pt">Conexão Legal</title>
+<desc>O advogado Leandro Pinto apresenta um programa voltado para o Direito Internacional, com inúmeras descobertas jurídicas nos diversos países do globo.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000172460.jpg</image_name>
+<image_broadcast>0000172460</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622040000 -0300" stop="20150622043000 -0300" channel="JUS" program_id="0000059451" event_id="00000000000096951150" series_key="">
+<title lang="pt">Código de Honra</title>
+<title lang="en">Código de Honra</title>
+<desc>Um tradicional programa de entrevista na área jurídica, criado em 1999 numa parceria entre o IASP - Instituto dos Advogados de São Paulo e a Faculdade de Direito do UniFMU - Centro Universitário.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">0000059451.jpg</image_name>
+<image_broadcast>0000059451</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622043000 -0300" stop="20150622050000 -0300" channel="JUS" program_id="0000073759" event_id="00000000000096951152" series_key="">
+<title lang="pt">Hora Extra</title>
+<desc>O programa Hora Extra tem viés jornalístico, sendo voltado tanto para o público leigo quanto para o especializado. Em cada edição são incluídas reportagens sobre os fatos e acontecimentos concernentes à Justiça do Trabalho.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000073759.jpg</image_name>
+<image_broadcast>0000073759</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622050000 -0300" stop="20150622053000 -0300" channel="JUS" program_id="0000081754" event_id="00000000000096951154" series_key="">
+<title lang="pt">Justiça para Todos</title>
+<desc>Realizado pela Associação dos Juízes Federais do Brasil, mostra os fatos que movimentam a Justiça Federal e a população brasileira. É um espaço para divulgação e reflexão sobre a atuação da Justiça Federal.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000081754.jpg</image_name>
+<image_broadcast>0000081754</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622053000 -0300" stop="20150622060000 -0300" channel="JUS" program_id="0000095469" event_id="00000000000096951155" series_key="">
+<title lang="pt">Trabalho Legal</title>
+<desc>A proposta do Trabalho Legal é facilitar o entendimento das regras do mundo do trabalho.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000095469.jpg</image_name>
+<image_broadcast>0000095469</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622060000 -0300" stop="20150622063000 -0300" channel="JUS" program_id="0000248837" event_id="00000000000096951157" series_key="00000000066338000000">
+<title lang="pt">TV TST</title>
+<desc>Produzido pelo Tribunal Superior do Trabalho, toda semana o programa mostra, com linguagem simples e direta, as principais decisões da mais alta corte trabalhista.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066338.jpg</image_name>
+<image_broadcast>00000000066338</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622063000 -0300" stop="20150622070000 -0300" channel="JUS" program_id="0000237763" event_id="00000000000096951158" series_key="">
+<title lang="pt">Grandes Julgamentos</title>
+<desc>No programa Grandes Julgamentos do STF você vai rever as principais decisões tomadas na maior Corte brasileira. Julgamentos que fizeram a história e transformaram a vida do país.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000237763.jpg</image_name>
+<image_broadcast>0000237763</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622070000 -0300" stop="20150622073000 -0300" channel="JUS" program_id="0000087936" event_id="00000000000096951159" series_key="">
+<title lang="pt">Justiça em Questão</title>
+<desc>O Justiça em Questão é um programa que busca estabelecer um canal direto de comunicação entre o Poder Judiciário e a sociedade. Esclarece pontos e conceitos essenciais ao funcionamento da Justiça.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000087936.jpg</image_name>
+<image_broadcast>0000087936</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622073000 -0300" stop="20150622080000 -0300" channel="JUS" program_id="0000075603" event_id="00000000000096951160" series_key="">
+<title lang="pt">Justiça &amp; Trabalho</title>
+<desc>Exibe reportagens, debates e entrevistas, sempre com temas ligados à Justiça e à Cidadania.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000075603.jpg</image_name>
+<image_broadcast>0000075603</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622080000 -0300" stop="20150622090000 -0300" channel="JUS" program_id="0000367958" event_id="00000000000096951161" series_key="">
+<title lang="pt">Saber Direito Aula</title>
+<desc>Saber Direito, um programa voltado para a extensão e aprofundamento dos conhecimentos jurídicos. Estudantes e interessados em conhecimentos jurídicos podem acompanhar cursos de direito constitucional e penal.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000367958.jpg</image_name>
+<image_broadcast>0000367958</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622090000 -0300" stop="20150622093000 -0300" channel="JUS" program_id="0000161753" event_id="00000000000096951162" series_key="00000000066315000000">
+<title lang="pt">STJ Cidadão</title>
+<desc>As decisões que movimentam o Superior Tribunal de Justiça mexem também com a vida de milhares de brasileiros. É isso o que você vê no STJ Cidadão.</desc>
+<date>2014</date>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066315.jpg</image_name>
+<image_broadcast>00000000066315</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622093000 -0300" stop="20150622100000 -0300" channel="JUS" program_id="0000237776" event_id="00000000000096951163" series_key="">
+<title lang="pt">Plenárias</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000237776.jpg</image_name>
+<image_broadcast>0000237776</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622100000 -0300" stop="20150622103000 -0300" channel="JUS" program_id="0000012256" event_id="00000000000096951164" series_key="">
+<title lang="pt">Academia</title>
+<desc>Temas polêmicos e interessantes relacionados ao universo jurídico são retratados por meio de teses. A cada semana, o convidado expõe um assunto, que é comentado por acadêmicos, especialistas e profissionais do direito.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000012256.jpg</image_name>
+<image_broadcast>0000012256</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622103000 -0300" stop="20150622110000 -0300" channel="JUS" program_id="0000076324" event_id="00000000000096951165" series_key="">
+<title lang="pt">Via Justiça</title>
+<desc>A cada programa, um tema de interesse do mundo jurídico e dos cidadãos é selecionado e levado a debate com estudiosos do assunto.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000076324.jpg</image_name>
+<image_broadcast>0000076324</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622110000 -0300" stop="20150622113000 -0300" channel="JUS" program_id="0000387604" event_id="00000000000096951166" series_key="">
+<title lang="pt">Conexão Cidadania</title>
+<desc>TV do STJ mostra a Justiça a serviço do cidadão. Casos concretos de busca de direitos, mostra como os brasileiros podem conhecer seus direitos fundamentais, sacramentados na Constituição Cidadã.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">0000387604.jpg</image_name>
+<image_broadcast>0000387604</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622113000 -0300" stop="20150622120000 -0300" channel="JUS" program_id="0000172411" event_id="00000000000096951167" series_key="">
+<title lang="pt">Refrão</title>
+<desc>O programa convida artistas que debatem as letras das próprias músicas de uma forma diferente. O Supremo Tribunal Federal dialoga com a música brasileira.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000172411.jpg</image_name>
+<image_broadcast>0000172411</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622120000 -0300" stop="20150622123000 -0300" channel="JUS" program_id="0000124441" event_id="00000000000096951168" series_key="00000000066339000000">
+<title lang="pt">Repórter Justiça</title>
+<desc>O Repórter Justiça é um programa semanal que apresenta uma reportagem especial sobre assunto de interesse da população brasileira.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066339.jpg</image_name>
+<image_broadcast>00000000066339</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622123000 -0300" stop="20150622130000 -0300" channel="JUS" program_id="0000236211" event_id="00000000000096951169" series_key="">
+<title lang="pt">Artigo 5º</title>
+<desc>"Todos são iguais perante a lei, sem distinção de qualquer natureza." (Artigo 5º CF). O programa Artigo 5º leva até você assuntos que dizem respeito ao seu dia a dia.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000236211.jpg</image_name>
+<image_broadcast>0000236211</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622130000 -0300" stop="20150622140000 -0300" channel="JUS" program_id="0000106571" event_id="00000000000096951170" series_key="00000000066336000000">
+<title lang="pt">Jornal da Justiça</title>
+<desc>Jornal diário com entrevistas, debates, prestação de serviços, quadros especiais e as principais notícias do Judiciário brasileiro.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066336.jpg</image_name>
+<image_broadcast>00000000066336</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622140000 -0300" stop="20150622180000 -0300" channel="JUS" program_id="0000153267" event_id="00000000000096951171" series_key="">
+<title lang="pt">Direto do Plenário</title>
+<desc>As sessões plenárias do Supremo Tribunal Federal em transmissão ao vivo ou em reprise</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000153267.jpg</image_name>
+<image_broadcast>0000153267</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622180000 -0300" stop="20150622183000 -0300" channel="JUS" program_id="0000239094" event_id="00000000000096951172" series_key="">
+<title lang="pt">Meio Ambiente por Inteiro</title>
+<desc>O programa Meio Ambiente por Inteiro é um canal de informação para os telespectadores sobre as leis que regulam o meio ambiente no Brasil.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Meio Ambiente</category>
+<image>
+<image_name position="1">0000239094.jpg</image_name>
+<image_broadcast>0000239094</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622183000 -0300" stop="20150622190000 -0300" channel="JUS" program_id="0000106571" event_id="00000000000096951173" series_key="00000000066336000000">
+<title lang="pt">Jornal da Justiça</title>
+<desc>Jornal diário com entrevistas, debates, prestação de serviços, quadros especiais e as principais notícias do Judiciário brasileiro.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066336.jpg</image_name>
+<image_broadcast>00000000066336</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622190000 -0300" stop="20150622193000 -0300" channel="JUS" program_id="0000081751" event_id="00000000000096951174" series_key="00000000071340000000">
+<title lang="pt">Interesse Público</title>
+<desc>O programa é dedicado aos assuntos que abordam direito e cidadania como direitos do consumidor, meio-ambiente, educação, patrimônio histórico e direitos humanos.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000071340.jpg</image_name>
+<image_broadcast>00000000071340</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622193000 -0300" stop="20150622200000 -0300" channel="JUS" program_id="0000109126" event_id="00000000000096951175" series_key="">
+<title lang="pt">Justiça Legal</title>
+<title lang="en">Justiça Legal</title>
+<desc>O programa busca informar aos operadores do Direito e ao público em geral sobre as decisões judiciais e administrativas mais relevantes do Judiciário de SC, abordando questões atuais e que tenham impacto sobre a sociedade de forma geral.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000109126.jpg</image_name>
+<image_broadcast>0000109126</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622200000 -0300" stop="20150622213000 -0300" channel="JUS" program_id="0000294038" event_id="00000000000096951176" series_key="">
+<title lang="pt">Direito sem Fronteiras</title>
+<desc>Espaço exclusivo para o direito internacional e comparado, e a diplomacia judicial - o programa Direito sem Fronteiras.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000294038.jpg</image_name>
+<image_broadcast>0000294038</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622213000 -0300" stop="20150622220000 -0300" channel="JUS" program_id="0000081764" event_id="00000000000096951177" series_key="00000000070695000000">
+<title lang="pt">Via Legal</title>
+<title lang="en">Via Legal</title>
+<desc>Via Legal aproxima a população comum das ações e da realidade da Justiça Federal em todo o País com uma linguagem simples e de fácil entendimento. O programa tem formato de uma revista eletrônica.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000070695.jpg</image_name>
+<image_broadcast>00000000070695</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622220000 -0300" stop="20150622223000 -0300" channel="JUS" program_id="0000245141" event_id="00000000000096951178" series_key="">
+<title lang="pt">Brasil Justiça</title>
+<desc>O programa Brasil Justiça, da Associação dos Magistrados Brasileiros (AMB), tem a proposta de debater os principais temas de interesse da Magistratura e discutir o futuro do Judiciário.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000245141.jpg</image_name>
+<image_broadcast>0000245141</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622223000 -0300" stop="20150622230000 -0300" channel="JUS" program_id="0000352260" event_id="00000000000096951179" series_key="00000000072976000000">
+<title lang="pt">Tempo e História</title>
+<desc>A série de documentários "Tempo e História" apresenta, a cada episódio, uma personalidade marcante do direito.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Biografia</category>
+<image>
+<image_name position="1">00000000072976.jpg</image_name>
+<image_broadcast>00000000072976</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622230000 -0300" stop="20150622233000 -0300" channel="JUS" program_id="0000106571" event_id="00000000000096951180" series_key="00000000066336000000">
+<title lang="pt">Jornal da Justiça</title>
+<desc>Jornal diário com entrevistas, debates, prestação de serviços, quadros especiais e as principais notícias do Judiciário brasileiro.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066336.jpg</image_name>
+<image_broadcast>00000000066336</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622233000 -0300" stop="20150623003000 -0300" channel="JUS" program_id="0000367958" event_id="00000000000096951181" series_key="">
+<title lang="pt">Saber Direito Aula</title>
+<desc>Saber Direito, um programa voltado para a extensão e aprofundamento dos conhecimentos jurídicos. Estudantes e interessados em conhecimentos jurídicos podem acompanhar cursos de direito constitucional e penal.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000367958.jpg</image_name>
+<image_broadcast>0000367958</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623003000 -0300" stop="20150623043000 -0300" channel="JUS" program_id="0000153267" event_id="00000000000097136591" series_key="">
+<title lang="pt">Direto do Plenário</title>
+<desc>As sessões plenárias do Supremo Tribunal Federal em transmissão ao vivo ou em reprise</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000153267.jpg</image_name>
+<image_broadcast>0000153267</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623043000 -0300" stop="20150623050000 -0300" channel="JUS" program_id="0000173161" event_id="00000000000097136595" series_key="">
+<title lang="pt">O Judiciário e Você</title>
+<desc>O programa aborda assuntos de interesse publico que fazem parte do dia-a-dia da população, usando para isso uma  linguagem clara e objetiva, capaz de disseminar informações simplificadas.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000173161.jpg</image_name>
+<image_broadcast>0000173161</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623050000 -0300" stop="20150623053000 -0300" channel="JUS" program_id="0000172144" event_id="00000000000097136599" series_key="">
+<title lang="pt">Justiça do Trabalho na TV</title>
+<title lang="en">Justiça do Trabalho na TV</title>
+<desc>Os temas abordados estão direta ou indiretamente relacionados com a Justiça do Trabalho. Magistrados, professores, advogados, estudantes entre outros, estão entre os entrevistados do programa.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000172144.jpg</image_name>
+<image_broadcast>0000172144</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623053000 -0300" stop="20150623060000 -0300" channel="JUS" program_id="0000081754" event_id="00000000000097136604" series_key="">
+<title lang="pt">Justiça para Todos</title>
+<desc>Realizado pela Associação dos Juízes Federais do Brasil, mostra os fatos que movimentam a Justiça Federal e a população brasileira. É um espaço para divulgação e reflexão sobre a atuação da Justiça Federal.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000081754.jpg</image_name>
+<image_broadcast>0000081754</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623060000 -0300" stop="20150623063000 -0300" channel="JUS" program_id="0000245141" event_id="00000000000097136612" series_key="">
+<title lang="pt">Brasil Justiça</title>
+<desc>O programa Brasil Justiça, da Associação dos Magistrados Brasileiros (AMB), tem a proposta de debater os principais temas de interesse da Magistratura e discutir o futuro do Judiciário.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000245141.jpg</image_name>
+<image_broadcast>0000245141</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623063000 -0300" stop="20150623070000 -0300" channel="JUS" program_id="0000387604" event_id="00000000000097136616" series_key="">
+<title lang="pt">Conexão Cidadania</title>
+<desc>TV do STJ mostra a Justiça a serviço do cidadão. Casos concretos de busca de direitos, mostra como os brasileiros podem conhecer seus direitos fundamentais, sacramentados na Constituição Cidadã.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">0000387604.jpg</image_name>
+<image_broadcast>0000387604</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623070000 -0300" stop="20150623073000 -0300" channel="JUS" program_id="0000081766" event_id="00000000000097136621" series_key="">
+<title lang="pt">Conhecendo o Ministério Público</title>
+<desc>O programa trata de assuntos relacionados à prestação de serviços de interesse geral do cidadão.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000081766.jpg</image_name>
+<image_broadcast>0000081766</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623073000 -0300" stop="20150623075000 -0300" channel="JUS" program_id="0000085487" event_id="00000000000097136627" series_key="">
+<title lang="pt">MP Cidadão</title>
+<desc>A vasta pauta apresentada pelo programa é discutida por uma equipe formada por jornalistas, advogados e promotores, sob a direção da jornalista Márcia Jakubiak.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000085487.jpg</image_name>
+<image_broadcast>0000085487</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623075000 -0300" stop="20150623080000 -0300" channel="JUS" program_id="0000330564" event_id="00000000000097136632" series_key="">
+<title lang="pt">Giro Eleitoral</title>
+<desc>O programa Giro Eleitoral traz as principais informações sobre a Justiça Eleitoral no estados.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000330564.jpg</image_name>
+<image_broadcast>0000330564</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623080000 -0300" stop="20150623090000 -0300" channel="JUS" program_id="0000367958" event_id="00000000000097136637" series_key="">
+<title lang="pt">Saber Direito Aula</title>
+<desc>Saber Direito, um programa voltado para a extensão e aprofundamento dos conhecimentos jurídicos. Estudantes e interessados em conhecimentos jurídicos podem acompanhar cursos de direito constitucional e penal.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000367958.jpg</image_name>
+<image_broadcast>0000367958</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623090000 -0300" stop="20150623093000 -0300" channel="JUS" program_id="0000248837" event_id="00000000000097136643" series_key="00000000066338000000">
+<title lang="pt">TV TST</title>
+<desc>Produzido pelo Tribunal Superior do Trabalho, toda semana o programa mostra, com linguagem simples e direta, as principais decisões da mais alta corte trabalhista.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066338.jpg</image_name>
+<image_broadcast>00000000066338</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623093000 -0300" stop="20150623100000 -0300" channel="JUS" program_id="0000074646" event_id="00000000000097136648" series_key="">
+<title lang="pt">Fórum</title>
+<desc>Programa de debates ou entrevistas sobre os mais variados assuntos relacionados à Justiça, com a participação de especialistas do Direito e de outras áreas de atuação.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000074646.jpg</image_name>
+<image_broadcast>0000074646</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623100000 -0300" stop="20150623103000 -0300" channel="JUS" program_id="0000239094" event_id="00000000000097136654" series_key="">
+<title lang="pt">Meio Ambiente por Inteiro</title>
+<desc>O programa Meio Ambiente por Inteiro é um canal de informação para os telespectadores sobre as leis que regulam o meio ambiente no Brasil.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Meio Ambiente</category>
+<image>
+<image_name position="1">0000239094.jpg</image_name>
+<image_broadcast>0000239094</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623103000 -0300" stop="20150623110000 -0300" channel="JUS" program_id="0000294038" event_id="00000000000097136659" series_key="">
+<title lang="pt">Direito sem Fronteiras</title>
+<desc>Espaço exclusivo para o direito internacional e comparado, e a diplomacia judicial - o programa Direito sem Fronteiras.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000294038.jpg</image_name>
+<image_broadcast>0000294038</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623110000 -0300" stop="20150623113000 -0300" channel="JUS" program_id="0000236211" event_id="00000000000097136664" series_key="">
+<title lang="pt">Artigo 5º</title>
+<desc>"Todos são iguais perante a lei, sem distinção de qualquer natureza." (Artigo 5º CF). O programa Artigo 5º leva até você assuntos que dizem respeito ao seu dia a dia.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000236211.jpg</image_name>
+<image_broadcast>0000236211</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623113000 -0300" stop="20150623120000 -0300" channel="JUS" program_id="0000172411" event_id="00000000000097136669" series_key="">
+<title lang="pt">Refrão</title>
+<desc>O programa convida artistas que debatem as letras das próprias músicas de uma forma diferente. O Supremo Tribunal Federal dialoga com a música brasileira.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000172411.jpg</image_name>
+<image_broadcast>0000172411</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623120000 -0300" stop="20150623123000 -0300" channel="JUS" program_id="0000081751" event_id="00000000000097136674" series_key="00000000071340000000">
+<title lang="pt">Interesse Público</title>
+<desc>O programa é dedicado aos assuntos que abordam direito e cidadania como direitos do consumidor, meio-ambiente, educação, patrimônio histórico e direitos humanos.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000071340.jpg</image_name>
+<image_broadcast>00000000071340</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623123000 -0300" stop="20150623130000 -0300" channel="JUS" program_id="0000012256" event_id="00000000000097136680" series_key="">
+<title lang="pt">Academia</title>
+<desc>Temas polêmicos e interessantes relacionados ao universo jurídico são retratados por meio de teses. A cada semana, o convidado expõe um assunto, que é comentado por acadêmicos, especialistas e profissionais do direito.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000012256.jpg</image_name>
+<image_broadcast>0000012256</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623130000 -0300" stop="20150623133000 -0300" channel="JUS" program_id="0000106571" event_id="00000000000097136685" series_key="00000000066336000000">
+<title lang="pt">Jornal da Justiça</title>
+<desc>Jornal diário com entrevistas, debates, prestação de serviços, quadros especiais e as principais notícias do Judiciário brasileiro.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066336.jpg</image_name>
+<image_broadcast>00000000066336</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623133000 -0300" stop="20150623140000 -0300" channel="JUS" program_id="0000095469" event_id="00000000000097136690" series_key="">
+<title lang="pt">Trabalho Legal</title>
+<desc>A proposta do Trabalho Legal é facilitar o entendimento das regras do mundo do trabalho.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000095469.jpg</image_name>
+<image_broadcast>0000095469</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623140000 -0300" stop="20150623180000 -0300" channel="JUS" program_id="0000153267" event_id="00000000000097136696" series_key="">
+<title lang="pt">Direto do Plenário</title>
+<desc>As sessões plenárias do Supremo Tribunal Federal em transmissão ao vivo ou em reprise</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000153267.jpg</image_name>
+<image_broadcast>0000153267</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623180000 -0300" stop="20150623183000 -0300" channel="JUS" program_id="0000352260" event_id="00000000000097136701" series_key="00000000072976000000">
+<title lang="pt">Tempo e História</title>
+<desc>A série de documentários "Tempo e História" apresenta, a cada episódio, uma personalidade marcante do direito.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Biografia</category>
+<image>
+<image_name position="1">00000000072976.jpg</image_name>
+<image_broadcast>00000000072976</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623183000 -0300" stop="20150623190000 -0300" channel="JUS" program_id="0000106571" event_id="00000000000097136705" series_key="00000000066336000000">
+<title lang="pt">Jornal da Justiça</title>
+<desc>Jornal diário com entrevistas, debates, prestação de serviços, quadros especiais e as principais notícias do Judiciário brasileiro.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066336.jpg</image_name>
+<image_broadcast>00000000066336</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623190000 -0300" stop="20150623210000 -0300" channel="JUS" program_id="0000177501" event_id="00000000000097136709" series_key="00000000072975000000">
+<title lang="pt">Sessão Plenária</title>
+<title lang="en">Sessão Plenária</title>
+<desc>A atividade legislativa do Senado Federal se dá principalmente por meio de reuniões das comissões e sessões plenárias. Para saber mais: www.senado.gov.br/tv</desc>
+<date>2014</date>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Político</category>
+<image>
+<image_name position="1">00000000072975.jpg</image_name>
+<image_broadcast>00000000072975</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623210000 -0300" stop="20150623220000 -0300" channel="JUS" program_id="0000081765" event_id="00000000000097136713" series_key="">
+<title lang="pt">OAB Nacional</title>
+<title lang="en">OAB Nacional</title>
+<desc>Um programa voltado para estudantes universitários, advogados, operadores do direito e sociedade em geral. Abordagem de temas nacionais, como Direitos Humanos, Mercosul e Legislação Processual.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000081765.jpg</image_name>
+<image_broadcast>0000081765</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623220000 -0300" stop="20150623223000 -0300" channel="JUS" program_id="0000276926" event_id="00000000000097136717" series_key="">
+<title lang="pt">TRT das Gerais</title>
+<desc>Com meia hora de duração, o programa divulga atos e decisões desse Tribunal, com o objetivo de aproximar a Justiça do Trabalho de Minas Gerais do cidadão e dar mais transparência às ações da instituição.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000276926.jpg</image_name>
+<image_broadcast>0000276926</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623223000 -0300" stop="20150623230000 -0300" channel="JUS" program_id="0000152963" event_id="00000000000097136721" series_key="">
+<title lang="pt">Iluminuras</title>
+<desc>No programa Iluminuras você fica por dentro da literatura jurídica. Descubra quais são as obras básicas do Direito, livros que influenciam profissionais da área ao longo da história.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000152963.jpg</image_name>
+<image_broadcast>0000152963</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623230000 -0300" stop="20150623233000 -0300" channel="JUS" program_id="0000106571" event_id="00000000000097136725" series_key="00000000066336000000">
+<title lang="pt">Jornal da Justiça</title>
+<desc>Jornal diário com entrevistas, debates, prestação de serviços, quadros especiais e as principais notícias do Judiciário brasileiro.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066336.jpg</image_name>
+<image_broadcast>00000000066336</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623233000 -0300" stop="20150624003000 -0300" channel="JUS" program_id="0000367958" event_id="00000000000097136730" series_key="">
+<title lang="pt">Saber Direito Aula</title>
+<desc>Saber Direito, um programa voltado para a extensão e aprofundamento dos conhecimentos jurídicos. Estudantes e interessados em conhecimentos jurídicos podem acompanhar cursos de direito constitucional e penal.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000367958.jpg</image_name>
+<image_broadcast>0000367958</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>

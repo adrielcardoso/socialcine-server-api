@@ -4,632 +4,6 @@
 <display-name lang="pt">SporTV3</display-name>
 <icon src="st3.gif" />
 </channel>
-<programme start="20150603000000 -0300" stop="20150603030000 -0300" channel="ST3" program_id="0000442174" event_id="00000000000097270278" series_key="">
-<title lang="pt">UFC: Condit x Pitbull</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Luta</category>
-<image>
-<image_name position="1">0000442174.jpg</image_name>
-<image_broadcast>0000442174</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603030000 -0300" stop="20150603043000 -0300" channel="ST3" program_id="0000081811" event_id="00000000000097270279" series_key="00000000071225000000">
-<title lang="pt">Bem, Amigos!</title>
-<desc>O 'Bem, Amigos!' esquenta as noites de segunda com debates, análises e comentários sobre o que há de melhor no mundo esportivo. Contando sempre com esportistas convidados e uma atração musical.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000071225.jpg</image_name>
-<image_broadcast>00000000071225</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603043000 -0300" stop="20150603053000 -0300" channel="ST3" program_id="0000336922" event_id="00000000000097270280" series_key="">
-<title lang="pt">Mundial de Motovelocidade Moto 2</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Motociclismo</category>
-<image>
-<image_name position="1">0000336922.jpg</image_name>
-<image_broadcast>0000336922</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603053000 -0300" stop="20150603063000 -0300" channel="ST3" program_id="0000004986" event_id="00000000000097270281" series_key="">
-<title lang="pt">Mundial de Motovelocidade</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Motociclismo</category>
-<image>
-<image_name position="1">0000004986.jpg</image_name>
-<image_broadcast>0000004986</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603063000 -0300" stop="20150603073000 -0300" channel="ST3" program_id="0000442184" event_id="00000000000097346514" series_key="">
-<title lang="pt">Desafio Internacional de Luta Olímpica: Brasil x Cuba</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Luta</category>
-<image>
-<image_name position="1">0000442184.jpg</image_name>
-<image_broadcast>0000442184</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603073000 -0300" stop="20150603090000 -0300" channel="ST3" program_id="0000081811" event_id="00000000000097270282" series_key="00000000071225000000">
-<title lang="pt">Bem, Amigos!</title>
-<desc>O 'Bem, Amigos!' esquenta as noites de segunda com debates, análises e comentários sobre o que há de melhor no mundo esportivo. Contando sempre com esportistas convidados e uma atração musical.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000071225.jpg</image_name>
-<image_broadcast>00000000071225</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603090000 -0300" stop="20150603100000 -0300" channel="ST3" program_id="0000336922" event_id="00000000000097270283" series_key="">
-<title lang="pt">Mundial de Motovelocidade Moto 2</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Motociclismo</category>
-<image>
-<image_name position="1">0000336922.jpg</image_name>
-<image_broadcast>0000336922</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603100000 -0300" stop="20150603110000 -0300" channel="ST3" program_id="0000004986" event_id="00000000000097548505" series_key="">
-<title lang="pt">Mundial de Motovelocidade</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Motociclismo</category>
-<image>
-<image_name position="1">0000004986.jpg</image_name>
-<image_broadcast>0000004986</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603110000 -0300" stop="20150603120000 -0300" channel="ST3" program_id="0000442184" event_id="00000000000097270284" series_key="">
-<title lang="pt">Desafio Internacional de Luta Olímpica: Brasil x Cuba</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Luta</category>
-<image>
-<image_name position="1">0000442184.jpg</image_name>
-<image_broadcast>0000442184</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603120000 -0300" stop="20150603130000 -0300" channel="ST3" program_id="0000442182" event_id="00000000000097548506" series_key="">
-<title lang="pt">Desafio Internacional de Judô: Brasil x Canadá</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Judô</category>
-<image>
-<image_name position="1">0000442182.jpg</image_name>
-<image_broadcast>0000442182</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603130000 -0300" stop="20150603150000 -0300" channel="ST3" program_id="0000441255" event_id="00000000000097270285" series_key="">
-<title lang="pt">Liga Mundial de Vôlei: Brasil x Sérvia</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Vôlei</category>
-<image>
-<image_name position="1">0000441255.jpg</image_name>
-<image_broadcast>0000441255</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603150000 -0300" stop="20150603153000 -0300" channel="ST3" program_id="0000194602" event_id="00000000000097270286" series_key="00000000070462000000">
-<title lang="pt">Globo Esporte - Rede</title>
-<desc>Alex Escobar apresenta as principais notícias esportivas do dia. O programa conta com a participação de convidados e matérias exclusivas dos eventos. A reprise você confere aqui no na tela do seu Canal Campeão.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000070462.jpg</image_name>
-<image_broadcast>00000000070462</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603153000 -0300" stop="20150603163000 -0300" channel="ST3" program_id="0000009397" event_id="00000000000097270287" series_key="00000000073478000000">
-<title lang="pt">SporTV Repórter</title>
-<desc>O SporTV Repórter busca a opinião de especialistas e revela os fatos sobre casos interessantes do meio esportivo. A paixão no esporte acaba sendo vista de maneira diferente, sempre com uma nova opinião sobre o acontecido.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000073478.jpg</image_name>
-<image_broadcast>00000000073478</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603163000 -0300" stop="20150603183000 -0300" channel="ST3" program_id="0000092846" event_id="00000000000097270288" series_key="">
-<title lang="pt">VT - Vitória x Criciúma</title>
-<title lang="en">VT - Vitória x Criciúma</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000092846.jpg</image_name>
-<image_broadcast>0000092846</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603183000 -0300" stop="20150603193000 -0300" channel="ST3" program_id="0000443518" event_id="00000000000097548507" series_key="">
-<title lang="pt">Copa do Mundo Sub-20: México x Uruguai</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000443518.jpg</image_name>
-<image_broadcast>0000443518</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603193000 -0300" stop="20150603200000 -0300" channel="ST3" program_id="0000151891" event_id="00000000000097548508" series_key="">
-<title lang="pt">Sensei SporTV</title>
-<title lang="en">Sensei SporTV</title>
-<desc>Apresentado por Flávio Canto é o programa para os apaixonados por lutas. Traz entrevistas e quadros com personalidades das artes marciais, além de mostrar as novidades do mundo dos esportes de combate.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">0000151891.jpg</image_name>
-<image_broadcast>0000151891</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603200000 -0300" stop="20150603210800 -0300" channel="ST3" program_id="0000187701" event_id="00000000000097270289" series_key="00000000071217000000">
-<title lang="pt">É Gol!</title>
-<desc>De segunda à sexta, Domitila Becker apresenta no 'É Gol!!!' um resumo completo da rodada do futebol brasileiro e internacional, em que os  gols, os artilheiros e os assinantes são os grandes protagonistas.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000071217.jpg</image_name>
-<image_broadcast>00000000071217</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603210800 -0300" stop="20150603230000 -0300" channel="ST3" program_id="0000442174" event_id="000000100296601" series_key="">
-<title lang="pt">UFC: Condit x Pitbull</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Luta</category>
-<image>
-<image_name position="1">0000442174.jpg</image_name>
-<image_broadcast>0000442174</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603230000 -0300" stop="20150604000000 -0300" channel="ST3" program_id="0000009397" event_id="00000000000097270291" series_key="00000000073478000000">
-<title lang="pt">SporTV Repórter</title>
-<desc>O SporTV Repórter busca a opinião de especialistas e revela os fatos sobre casos interessantes do meio esportivo. A paixão no esporte acaba sendo vista de maneira diferente, sempre com uma nova opinião sobre o acontecido.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000073478.jpg</image_name>
-<image_broadcast>00000000073478</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604000000 -0300" stop="20150604020000 -0300" channel="ST3" program_id="0000105169" event_id="00000000000097270293" series_key="">
-<title lang="pt">VT - Paraná x Botafogo</title>
-<title lang="en">VT - Paraná x Botafogo</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000105169.jpg</image_name>
-<image_broadcast>0000105169</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604020000 -0300" stop="20150604030000 -0300" channel="ST3" program_id="0000442184" event_id="00000000000097270292" series_key="">
-<title lang="pt">Desafio Internacional de Luta Olímpica: Brasil x Cuba</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Luta</category>
-<image>
-<image_name position="1">0000442184.jpg</image_name>
-<image_broadcast>0000442184</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604030000 -0300" stop="20150604033000 -0300" channel="ST3" program_id="0000151891" event_id="00000000000097270294" series_key="">
-<title lang="pt">Sensei SporTV</title>
-<title lang="en">Sensei SporTV</title>
-<desc>Apresentado por Flávio Canto é o programa para os apaixonados por lutas. Traz entrevistas e quadros com personalidades das artes marciais, além de mostrar as novidades do mundo dos esportes de combate.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">0000151891.jpg</image_name>
-<image_broadcast>0000151891</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604033000 -0300" stop="20150604043000 -0300" channel="ST3" program_id="0000443518" event_id="00000000000097270295" series_key="">
-<title lang="pt">Copa do Mundo Sub-20: México x Uruguai</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000443518.jpg</image_name>
-<image_broadcast>0000443518</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604043000 -0300" stop="20150604050000 -0300" channel="ST3" program_id="0000129296" event_id="00000000000097548509" series_key="00000000076334000000">
-<title lang="pt">Momento Pan</title>
-<title lang="en">Momento Pan</title>
-<desc>O "Momento Pan" é o programa sobre os jogos Pan-Americanos do SporTV. A nossa equipe foi até Toronto mostrar as instalações esportivas, as curiosidades da cidade sede, a história dos jogos e os personagens de um evento único.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000076334.jpg</image_name>
-<image_broadcast>00000000076334</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604050000 -0300" stop="20150604060000 -0300" channel="ST3" program_id="0000009397" event_id="00000000000097270296" series_key="00000000073478000000">
-<title lang="pt">SporTV Repórter</title>
-<desc>O SporTV Repórter busca a opinião de especialistas e revela os fatos sobre casos interessantes do meio esportivo. A paixão no esporte acaba sendo vista de maneira diferente, sempre com uma nova opinião sobre o acontecido.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000073478.jpg</image_name>
-<image_broadcast>00000000073478</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604060000 -0300" stop="20150604080000 -0300" channel="ST3" program_id="0000105169" event_id="00000000000097270297" series_key="">
-<title lang="pt">VT - Paraná x Botafogo</title>
-<title lang="en">VT - Paraná x Botafogo</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000105169.jpg</image_name>
-<image_broadcast>0000105169</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604080000 -0300" stop="20150604100000 -0300" channel="ST3" program_id="0000443522" event_id="00000000000097270299" series_key="">
-<title lang="pt">Amistoso Internacional de Futebol: Peru x México</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000443522.jpg</image_name>
-<image_broadcast>0000443522</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604100000 -0300" stop="20150604110000 -0300" channel="ST3" program_id="0000009397" event_id="00000000000097548510" series_key="00000000073478000000">
-<title lang="pt">SporTV Repórter</title>
-<desc>O SporTV Repórter busca a opinião de especialistas e revela os fatos sobre casos interessantes do meio esportivo. A paixão no esporte acaba sendo vista de maneira diferente, sempre com uma nova opinião sobre o acontecido.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000073478.jpg</image_name>
-<image_broadcast>00000000073478</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604110000 -0300" stop="20150604133000 -0300" channel="ST3" program_id="0000443518" event_id="00000000000097270300" series_key="">
-<title lang="pt">Copa do Mundo Sub-20: México x Uruguai</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000443518.jpg</image_name>
-<image_broadcast>0000443518</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604133000 -0300" stop="20150604153000 -0300" channel="ST3" program_id="0000443520" event_id="00000000000097270302" series_key="">
-<title lang="pt">Copa do Mundo Sub-20: Hungria x Brasil</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000443520.jpg</image_name>
-<image_broadcast>0000443520</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604153000 -0300" stop="20150604160000 -0300" channel="ST3" program_id="0000194602" event_id="00000000000097270303" series_key="00000000070462000000">
-<title lang="pt">Globo Esporte - Rede</title>
-<desc>Alex Escobar apresenta as principais notícias esportivas do dia. O programa conta com a participação de convidados e matérias exclusivas dos eventos. A reprise você confere aqui no na tela do seu Canal Campeão.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000070462.jpg</image_name>
-<image_broadcast>00000000070462</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604160000 -0300" stop="20150604180000 -0300" channel="ST3" program_id="0000094188" event_id="00000000000097270304" series_key="">
-<title lang="pt">VT - Cruzeiro x Flamengo</title>
-<title lang="en">VT - Cruzeiro x Flamengo</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000094188.jpg</image_name>
-<image_broadcast>0000094188</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604180000 -0300" stop="20150604190000 -0300" channel="ST3" program_id="0000017660" event_id="00000000000097548511" series_key="">
-<title lang="pt">VT - Vasco x Ponte Preta</title>
-<title lang="en">VT - Vasco x Ponte Preta</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000017660.jpg</image_name>
-<image_broadcast>0000017660</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604190000 -0300" stop="20150604210000 -0300" channel="ST3" program_id="0000015237" event_id="00000000000097270305" series_key="">
-<title lang="pt">VT - São Paulo x Santos</title>
-<title lang="en">VT - São Paulo x Santos</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000015237.jpg</image_name>
-<image_broadcast>0000015237</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604210000 -0300" stop="20150604230000 -0300" channel="ST3" program_id="0000443522" event_id="00000000000097270306" series_key="">
-<title lang="pt">Amistoso Internacional de Futebol: Peru x México</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000443522.jpg</image_name>
-<image_broadcast>0000443522</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604230000 -0300" stop="20150605010000 -0300" channel="ST3" program_id="0000007047" event_id="00000000000097270307" series_key="">
-<title lang="pt">VT - Grêmio x Corinthians</title>
-<title lang="en">VT - Grêmio x Corinthians</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000007047.jpg</image_name>
-<image_broadcast>0000007047</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
 <programme start="20150605010000 -0300" stop="20150605030000 -0300" channel="ST3" program_id="0000010708" event_id="00000000000097270309" series_key="">
 <title lang="pt">VT - Palmeiras x Internacional</title>
 <desc></desc>
@@ -785,7 +159,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605150000 -0300" stop="20150605163000 -0300" channel="ST3" program_id="0000443520" event_id="000000100296602" series_key="">
+<programme start="20150605150000 -0300" stop="20150605163000 -0300" channel="ST3" program_id="0000443520" event_id="00000000000097270318" series_key="">
 <title lang="pt">Copa do Mundo Sub-20: Hungria x Brasil</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -1027,9 +401,9 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606140000 -0300" stop="20150606160000 -0300" channel="ST3" program_id="0000006967" event_id="00000000000097270331" series_key="00000000067245000000">
-<title lang="pt">NBA</title>
-<desc>Os astros do melhor basquete do mundo estão de volta para disputar a nova temporada da NBA.</desc>
+<programme start="20150606140000 -0300" stop="20150606160000 -0300" channel="ST3" program_id="0000443577" event_id="000000100549257" series_key="00000000067245000000">
+<title lang="pt">NBA: G. S. Warriors x Cleveland Cavaliers</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Basquete</category>
 <image>
@@ -1130,7 +504,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606233000 -0300" stop="20150607013000 -0300" channel="ST3" program_id="0000443580" event_id="000000100296603" series_key="">
+<programme start="20150606233000 -0300" stop="20150607013000 -0300" channel="ST3" program_id="0000443580" event_id="00000000000097270335" series_key="">
 <title lang="pt">Amistoso Internacional de Futebol: Holanda x EUA</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -1182,18 +556,16 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607050000 -0300" stop="20150607070000 -0300" channel="ST3" program_id="0000014917" event_id="00000000000097270338" series_key="">
-<title lang="pt">VT - Atlético MG x Cruzeiro</title>
-<title lang="en">VT - Atlético MG x Cruzeiro</title>
+<programme start="20150607050000 -0300" stop="20150607070000 -0300" channel="ST3" program_id="0000443569" event_id="000000100549258" series_key="">
+<title lang="pt">VT - Joinville x Corinthians</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000014917.jpg</image_name>
-<image_broadcast>0000014917</image_broadcast>
+<image_name position="1">0000443569.jpg</image_name>
+<image_broadcast>0000443569</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
-<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -1219,14 +591,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607083000 -0300" stop="20150607101500 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097641287" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<programme start="20150607083000 -0300" stop="20150607101500 -0300" channel="ST3" program_id="0000443595" event_id="000000100549259" series_key="">
+<title lang="pt">Amistoso Internacional de Futebol: Argentina x Bolívia</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
+<image_name position="1">0000443595.jpg</image_name>
+<image_broadcast>0000443595</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
@@ -1236,14 +608,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607101500 -0300" stop="20150607111500 -0300" channel="ST3" program_id="0000443593" event_id="000000100296604" series_key="">
-<title lang="pt">Mundial de GT: Zolder, Bélgica</title>
+<programme start="20150607101500 -0300" stop="20150607111500 -0300" channel="ST3" program_id="0000442048" event_id="000000100549260" series_key="">
+<title lang="pt">Mundial de GT: Zolder, Bélgica - Vivo</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Automobilismo</category>
 <image>
-<image_name position="1">0000443593.jpg</image_name>
-<image_broadcast>0000443593</image_broadcast>
+<image_name position="1">0000442048.jpg</image_name>
+<image_broadcast>0000442048</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
@@ -1253,14 +625,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607111500 -0300" stop="20150607130000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270341" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<programme start="20150607111500 -0300" stop="20150607123000 -0300" channel="ST3" program_id="0000441279" event_id="000000100549261" series_key="">
+<title lang="pt">Porsche GT3: Etapa Cascavel</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<category lang="pt">Automobilismo</category>
 <image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
+<image_name position="1">0000441279.jpg</image_name>
+<image_broadcast>0000441279</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
@@ -1270,14 +642,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607130000 -0300" stop="20150607150000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270342" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<programme start="20150607123000 -0300" stop="20150607130000 -0300" channel="ST3" program_id="0000268321" event_id="000000100549262" series_key="">
+<title lang="pt">Galeria SporTV</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Diversos</category>
 <image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
+<image_name position="1">0000268321.jpg</image_name>
+<image_broadcast>0000268321</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
@@ -1287,14 +659,50 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607150000 -0300" stop="20150607180000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270343" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<programme start="20150607130000 -0300" stop="20150607140000 -0300" channel="ST3" program_id="0000006673" event_id="000000100549263" series_key="">
+<title lang="pt">VT - São Paulo x Grêmio</title>
+<title lang="en">VT - São Paulo x Grêmio</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
+<image_name position="1">0000006673.jpg</image_name>
+<image_broadcast>0000006673</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150607140000 -0300" stop="20150607160000 -0300" channel="ST3" program_id="0000441872" event_id="000000100549264" series_key="">
+<title lang="pt">Amistoso Internacional de Futebol: Uruguai x Guatemala</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000441872.jpg</image_name>
+<image_broadcast>0000441872</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150607160000 -0300" stop="20150607180000 -0300" channel="ST3" program_id="0000443591" event_id="000000100549265" series_key="">
+<title lang="pt">Liga Mundial de Vôlei: EUA x Rússia</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Vôlei</category>
+<image>
+<image_name position="1">0000443591.jpg</image_name>
+<image_broadcast>0000443591</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
@@ -1321,14 +729,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607190000 -0300" stop="20150607210000 -0300" channel="ST3" program_id="0000195838" event_id="000000100296608" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<programme start="20150607190000 -0300" stop="20150607200000 -0300" channel="ST3" program_id="0000444171" event_id="000000100549266" series_key="">
+<title lang="pt">Circuito Mundial de Vôlei de Praia: Porec, Croácia</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<category lang="pt">Vôlei De Praia</category>
 <image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
+<image_name position="1">0000444171.jpg</image_name>
+<image_broadcast>0000444171</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
@@ -1338,14 +746,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607210000 -0300" stop="20150607220000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270346" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<programme start="20150607200000 -0300" stop="20150607220000 -0300" channel="ST3" program_id="0000443966" event_id="000000100549267" series_key="">
+<title lang="pt">Amistoso Internacional de Futebol: França x Bélgica</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
+<image_name position="1">0000443966.jpg</image_name>
+<image_broadcast>0000443966</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
@@ -1355,14 +763,33 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607220000 -0300" stop="20150608000000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270347" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<programme start="20150607220000 -0300" stop="20150608000000 -0300" channel="ST3" program_id="0000094182" event_id="000000100549268" series_key="">
+<title lang="pt">VT - Internacional x Coritiba</title>
+<title lang="en">VT - Internacional x Coritiba</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
+<image_name position="1">0000094182.jpg</image_name>
+<image_broadcast>0000094182</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150608000000 -0300" stop="20150608020000 -0300" channel="ST3" program_id="0000276594" event_id="000000100549269" series_key="">
+<title lang="pt">Boxe Internacional</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Boxe</category>
+<image>
+<image_name position="1">0000276594.jpg</image_name>
+<image_broadcast>0000276594</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
@@ -1372,16 +799,17 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608000000 -0300" stop="20150608013000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270348" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<programme start="20150608020000 -0300" stop="20150608030000 -0300" channel="ST3" program_id="0000044136" event_id="000000100549270" series_key="00000000071222000000">
+<title lang="pt">Troca de Passes</title>
+<desc>Depois da rodada do futebol, o Troca de Passes é o melhor caminho quem quer curtir os melhores momentos, rever os lances polêmicos, assistir às entrevistas coletivas e acompanhar um debate entre o time de especialistas do SporTV.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
 <image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
+<image_name position="1">00000000071222.jpg</image_name>
+<image_broadcast>00000000071222</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
+<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -1389,16 +817,18 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608013000 -0300" stop="20150608023000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270349" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<programme start="20150608030000 -0300" stop="20150608050000 -0300" channel="ST3" program_id="0000092842" event_id="000000100549271" series_key="">
+<title lang="pt">VT - Figueirense x Palmeiras</title>
+<title lang="en">VT - Figueirense x Palmeiras</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
+<image_name position="1">0000092842.jpg</image_name>
+<image_broadcast>0000092842</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
+<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -1406,16 +836,17 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608023000 -0300" stop="20150608040000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270350" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<programme start="20150608050000 -0300" stop="20150608060000 -0300" channel="ST3" program_id="0000401879" event_id="000000100549272" series_key="00000000074046000000">
+<title lang="pt">Extra Ordinários</title>
+<desc>Eduardo Bueno, Xico Sá, Felipe Andreoli e Maitê Proença comandam o 'Extra Ordinários', programa que debate os principais acontecimentos do futebol brasileiro, com pitadas de política, cultura, humor e até futebol.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
 <image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
+<image_name position="1">00000000074046.jpg</image_name>
+<image_broadcast>00000000074046</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
+<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -1423,48 +854,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608040000 -0300" stop="20150608050000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270351" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<programme start="20150608060000 -0300" stop="20150608070000 -0300" channel="ST3" program_id="0000443963" event_id="000000100549273" series_key="">
+<title lang="pt">Amistoso Internacional de Futebol: Brasil x México</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150608050000 -0300" stop="20150608060000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270352" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150608060000 -0300" stop="20150608070000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270353" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
+<image_name position="1">0000443963.jpg</image_name>
+<image_broadcast>0000443963</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
@@ -1492,7 +889,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608080000 -0300" stop="20150608090000 -0300" channel="ST3" program_id="0000408841" event_id="000000100296630" series_key="">
+<programme start="20150608080000 -0300" stop="20150608090000 -0300" channel="ST3" program_id="0000408841" event_id="00000000000097741523" series_key="">
 <title lang="pt">VT - Flamengo x Chapecoense</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -1509,7 +906,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608090000 -0300" stop="20150608100000 -0300" channel="ST3" program_id="0000092842" event_id="000000100296633" series_key="">
+<programme start="20150608090000 -0300" stop="20150608100000 -0300" channel="ST3" program_id="0000092842" event_id="00000000000097270355" series_key="">
 <title lang="pt">VT - Figueirense x Palmeiras</title>
 <title lang="en">VT - Figueirense x Palmeiras</title>
 <desc></desc>
@@ -1528,7 +925,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608100000 -0300" stop="20150608120000 -0300" channel="ST3" program_id="0000182449" event_id="000000100296635" series_key="">
+<programme start="20150608100000 -0300" stop="20150608120000 -0300" channel="ST3" program_id="0000182449" event_id="00000000000097270356" series_key="">
 <title lang="pt">VT - Fluminense x Sport</title>
 <title lang="en">VT - Fluminense x Sport</title>
 <desc></desc>
@@ -1547,7 +944,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608120000 -0300" stop="20150608140000 -0300" channel="ST3" program_id="0000134766" event_id="000000100296637" series_key="">
+<programme start="20150608120000 -0300" stop="20150608140000 -0300" channel="ST3" program_id="0000134766" event_id="00000000000097270358" series_key="">
 <title lang="pt">VT - Atlético PR x Vasco</title>
 <title lang="en">VT - Atlético PR x Vasco</title>
 <desc></desc>
@@ -1566,7 +963,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608140000 -0300" stop="20150608150000 -0300" channel="ST3" program_id="0000009397" event_id="000000100296639" series_key="00000000073478000000">
+<programme start="20150608140000 -0300" stop="20150608150000 -0300" channel="ST3" program_id="0000009397" event_id="00000000000097270357" series_key="00000000073478000000">
 <title lang="pt">SporTV Repórter</title>
 <desc>O SporTV Repórter busca a opinião de especialistas e revela os fatos sobre casos interessantes do meio esportivo. A paixão no esporte acaba sendo vista de maneira diferente, sempre com uma nova opinião sobre o acontecido.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1583,7 +980,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608150000 -0300" stop="20150608153000 -0300" channel="ST3" program_id="0000194602" event_id="000000100296640" series_key="00000000070462000000">
+<programme start="20150608150000 -0300" stop="20150608153000 -0300" channel="ST3" program_id="0000194602" event_id="00000000000097270359" series_key="00000000070462000000">
 <title lang="pt">Globo Esporte - Rede</title>
 <desc>Alex Escobar apresenta as principais notícias esportivas do dia. O programa conta com a participação de convidados e matérias exclusivas dos eventos. A reprise você confere aqui no na tela do seu Canal Campeão.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1600,7 +997,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608153000 -0300" stop="20150608173000 -0300" channel="ST3" program_id="0000443591" event_id="000000100296641" series_key="">
+<programme start="20150608153000 -0300" stop="20150608173000 -0300" channel="ST3" program_id="0000443591" event_id="00000000000097270360" series_key="">
 <title lang="pt">Liga Mundial de Vôlei: EUA x Rússia</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -1617,7 +1014,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608173000 -0300" stop="20150608193000 -0300" channel="ST3" program_id="0000442025" event_id="000000100296642" series_key="">
+<programme start="20150608173000 -0300" stop="20150608193000 -0300" channel="ST3" program_id="0000442025" event_id="00000000000097270361" series_key="">
 <title lang="pt">Liga Mundial de Vôlei: Brasil x Austrália</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -1634,7 +1031,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608193000 -0300" stop="20150608213000 -0300" channel="ST3" program_id="0000443966" event_id="000000100296643" series_key="">
+<programme start="20150608193000 -0300" stop="20150608213000 -0300" channel="ST3" program_id="0000443966" event_id="00000000000097270362" series_key="">
 <title lang="pt">Amistoso Internacional de Futebol: França x Bélgica</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -1651,7 +1048,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608213000 -0300" stop="20150608223000 -0300" channel="ST3" program_id="0000014917" event_id="000000100296644" series_key="">
+<programme start="20150608213000 -0300" stop="20150608223000 -0300" channel="ST3" program_id="0000014917" event_id="00000000000097270363" series_key="">
 <title lang="pt">VT - Atlético MG x Cruzeiro</title>
 <title lang="en">VT - Atlético MG x Cruzeiro</title>
 <desc></desc>
@@ -1670,7 +1067,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608223000 -0300" stop="20150609000000 -0300" channel="ST3" program_id="0000441964" event_id="000000100296645" series_key="00000000068469000000">
+<programme start="20150608223000 -0300" stop="20150609000000 -0300" channel="ST3" program_id="0000441964" event_id="00000000000097270364" series_key="00000000068469000000">
 <title lang="pt">Fórmula 1: GP Do Canadá</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -1687,14 +1084,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609000000 -0300" stop="20150609020000 -0300" channel="ST3" program_id="0000443969" event_id="000000100296646" series_key="">
-<title lang="pt">Boxe Internacional: Yamaguchi Falcão x Everton Lopes</title>
+<programme start="20150609000000 -0300" stop="20150609020000 -0300" channel="ST3" program_id="0000276594" event_id="000000100549274" series_key="">
+<title lang="pt">Boxe Internacional</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Boxe</category>
 <image>
-<image_name position="1">0000443969.jpg</image_name>
-<image_broadcast>0000443969</image_broadcast>
+<image_name position="1">0000276594.jpg</image_name>
+<image_broadcast>0000276594</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
@@ -1704,7 +1101,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609020000 -0300" stop="20150609030000 -0300" channel="ST3" program_id="0000401879" event_id="000000100296647" series_key="00000000074046000000">
+<programme start="20150609020000 -0300" stop="20150609030000 -0300" channel="ST3" program_id="0000401879" event_id="00000000000097270367" series_key="00000000074046000000">
 <title lang="pt">Extra Ordinários</title>
 <desc>Eduardo Bueno, Xico Sá, Felipe Andreoli e Maitê Proença comandam o 'Extra Ordinários', programa que debate os principais acontecimentos do futebol brasileiro, com pitadas de política, cultura, humor e até futebol.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1722,7 +1119,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609030000 -0300" stop="20150609040000 -0300" channel="ST3" program_id="0000408841" event_id="000000100296648" series_key="">
+<programme start="20150609030000 -0300" stop="20150609040000 -0300" channel="ST3" program_id="0000408841" event_id="00000000000097270368" series_key="">
 <title lang="pt">VT - Flamengo x Chapecoense</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -1739,7 +1136,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609040000 -0300" stop="20150609050000 -0300" channel="ST3" program_id="0000006673" event_id="000000100296649" series_key="">
+<programme start="20150609040000 -0300" stop="20150609050000 -0300" channel="ST3" program_id="0000006673" event_id="00000000000097270369" series_key="">
 <title lang="pt">VT - São Paulo x Grêmio</title>
 <title lang="en">VT - São Paulo x Grêmio</title>
 <desc></desc>
@@ -1758,7 +1155,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609050000 -0300" stop="20150609073000 -0300" channel="ST3" program_id="0000443963" event_id="000000100296650" series_key="">
+<programme start="20150609050000 -0300" stop="20150609070000 -0300" channel="ST3" program_id="0000443963" event_id="00000000000097270370" series_key="">
 <title lang="pt">Amistoso Internacional de Futebol: Brasil x México</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -1775,16 +1172,17 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609073000 -0300" stop="20150609083000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270371" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<programme start="20150609070000 -0300" stop="20150609083000 -0300" channel="ST3" program_id="0000401879" event_id="000000100549275" series_key="00000000074046000000">
+<title lang="pt">Extra Ordinários</title>
+<desc>Eduardo Bueno, Xico Sá, Felipe Andreoli e Maitê Proença comandam o 'Extra Ordinários', programa que debate os principais acontecimentos do futebol brasileiro, com pitadas de política, cultura, humor e até futebol.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
 <image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
+<image_name position="1">00000000074046.jpg</image_name>
+<image_broadcast>00000000074046</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
+<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -4999,6 +4397,586 @@
 </rating>
 </programme>
 <programme start="20150621220000 -0300" stop="20150622000000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270560" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622000000 -0300" stop="20150622013000 -0300" channel="ST3" program_id="0000044136" event_id="00000000000097270561" series_key="00000000071222000000">
+<title lang="pt">Troca de Passes</title>
+<desc>Depois da rodada do futebol, o Troca de Passes é o melhor caminho quem quer curtir os melhores momentos, rever os lances polêmicos, assistir às entrevistas coletivas e acompanhar um debate entre o time de especialistas do SporTV.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000071222.jpg</image_name>
+<image_broadcast>00000000071222</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622013000 -0300" stop="20150622023000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270562" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622023000 -0300" stop="20150622040000 -0300" channel="ST3" program_id="0000044136" event_id="00000000000097270563" series_key="00000000071222000000">
+<title lang="pt">Troca de Passes</title>
+<desc>Depois da rodada do futebol, o Troca de Passes é o melhor caminho quem quer curtir os melhores momentos, rever os lances polêmicos, assistir às entrevistas coletivas e acompanhar um debate entre o time de especialistas do SporTV.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000071222.jpg</image_name>
+<image_broadcast>00000000071222</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622040000 -0300" stop="20150622050000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270564" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622050000 -0300" stop="20150622060000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270565" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622060000 -0300" stop="20150622073000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270566" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622073000 -0300" stop="20150622093000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270567" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622093000 -0300" stop="20150622103000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270568" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622103000 -0300" stop="20150622123000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270569" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622123000 -0300" stop="20150622133000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270570" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622133000 -0300" stop="20150622150000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270571" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622150000 -0300" stop="20150622153000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270572" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622153000 -0300" stop="20150622173000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270573" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622173000 -0300" stop="20150622180000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270574" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622180000 -0300" stop="20150622200000 -0300" channel="ST3" program_id="0000133554" event_id="00000000000097270575" series_key="">
+<title lang="pt">Copa do Mundo de Futebol Feminino - Vivo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol Feminino</category>
+<image>
+<image_name position="1">0000133554.jpg</image_name>
+<image_broadcast>0000133554</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622200000 -0300" stop="20150622230000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270576" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622230000 -0300" stop="20150623000000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270577" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623000000 -0300" stop="20150623010000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270578" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623010000 -0300" stop="20150623030000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270579" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623030000 -0300" stop="20150623040000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270580" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623040000 -0300" stop="20150623050000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270581" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623050000 -0300" stop="20150623060000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270582" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623060000 -0300" stop="20150623073000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270583" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623073000 -0300" stop="20150623083000 -0300" channel="ST3" program_id="0000214693" event_id="00000000000097270584" series_key="00000000070466000000">
+<title lang="pt">Esporte Espetacular</title>
+<desc>Confira aqui no SporTV a reapresentação do "Esporte Espetacular", a revista esportiva semanal que traz matérias exclusivas com convidados pra lá de especiais do mundo do esporte nacional e internacional.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000070466.jpg</image_name>
+<image_broadcast>00000000070466</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623083000 -0300" stop="20150623110000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270585" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623110000 -0300" stop="20150623123000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270586" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623123000 -0300" stop="20150623133000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270587" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623133000 -0300" stop="20150623150000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270588" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623150000 -0300" stop="20150623153000 -0300" channel="ST3" program_id="0000194602" event_id="00000000000097270589" series_key="00000000070462000000">
+<title lang="pt">Globo Esporte - Rede</title>
+<desc>Alex Escobar apresenta as principais notícias esportivas do dia. O programa conta com a participação de convidados e matérias exclusivas dos eventos. A reprise você confere aqui no na tela do seu Canal Campeão.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000070462.jpg</image_name>
+<image_broadcast>00000000070462</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623153000 -0300" stop="20150623173000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270590" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623173000 -0300" stop="20150623200000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270591" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623200000 -0300" stop="20150623210000 -0300" channel="ST3" program_id="0000187701" event_id="00000000000097270592" series_key="00000000071217000000">
+<title lang="pt">É Gol!</title>
+<desc>De segunda à sexta, Domitila Becker apresenta no 'É Gol!!!' um resumo completo da rodada do futebol brasileiro e internacional, em que os  gols, os artilheiros e os assinantes são os grandes protagonistas.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000071217.jpg</image_name>
+<image_broadcast>00000000071217</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623210000 -0300" stop="20150623230000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270593" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623230000 -0300" stop="20150624000000 -0300" channel="ST3" program_id="0000195838" event_id="00000000000097270594" series_key="">
 <title lang="pt">Evento - Reapresentação</title>
 <desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
 <category lang="pt">Esporte</category>

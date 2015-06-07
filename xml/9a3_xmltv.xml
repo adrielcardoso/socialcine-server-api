@@ -4,7 +4,7 @@
 <display-name lang="pt">PFC 3 - Mediaroom Vivo</display-name>
 <icon src="9a3.gif" />
 </channel>
-<programme start="20150603003000 -0300" stop="20150603040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184740" series_key="">
+<programme start="20150605010000 -0300" stop="20150605040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479423" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -21,7 +21,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150603040000 -0300" stop="20150603070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184742" series_key="">
+<programme start="20150605040000 -0300" stop="20150605070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479424" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -38,7 +38,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150603070000 -0300" stop="20150603100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184743" series_key="">
+<programme start="20150605070000 -0300" stop="20150605100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479425" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -55,7 +55,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150603100000 -0300" stop="20150603130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184745" series_key="">
+<programme start="20150605100000 -0300" stop="20150605130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479426" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -72,7 +72,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150603130000 -0300" stop="20150603191000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184746" series_key="">
+<programme start="20150605130000 -0300" stop="20150605160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479427" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -89,29 +89,304 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150603191000 -0300" stop="20150603214000 -0300" channel="9A3" program_id="0000090918" event_id="000000100184747" series_key="">
-<title lang="pt">Atlético PR x Figueirense</title>
+<programme start="20150605160000 -0300" stop="20150605190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479429" series_key="">
+<title lang="pt">Premiere 3</title>
+<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338765.jpg</image_name>
+<image_broadcast>0000338765</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150605190000 -0300" stop="20150605220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479430" series_key="">
+<title lang="pt">Premiere 3</title>
+<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338765.jpg</image_name>
+<image_broadcast>0000338765</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150605220000 -0300" stop="20150606010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479431" series_key="">
+<title lang="pt">Premiere 3</title>
+<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338765.jpg</image_name>
+<image_broadcast>0000338765</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150606010000 -0300" stop="20150606040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479432" series_key="">
+<title lang="pt">Premiere 3</title>
+<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338765.jpg</image_name>
+<image_broadcast>0000338765</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150606040000 -0300" stop="20150606070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479434" series_key="">
+<title lang="pt">Premiere 3</title>
+<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338765.jpg</image_name>
+<image_broadcast>0000338765</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150606070000 -0300" stop="20150606100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479435" series_key="">
+<title lang="pt">Premiere 3</title>
+<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338765.jpg</image_name>
+<image_broadcast>0000338765</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150606100000 -0300" stop="20150606130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479436" series_key="">
+<title lang="pt">Premiere 3</title>
+<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338765.jpg</image_name>
+<image_broadcast>0000338765</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150606130000 -0300" stop="20150606153000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479438" series_key="">
+<title lang="pt">Premiere 3</title>
+<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338765.jpg</image_name>
+<image_broadcast>0000338765</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150606153000 -0300" stop="20150606190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479439" series_key="">
+<title lang="pt">Premiere 3</title>
+<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338765.jpg</image_name>
+<image_broadcast>0000338765</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150606190000 -0300" stop="20150606200000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479441" series_key="">
+<title lang="pt">Premiere 3</title>
+<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338765.jpg</image_name>
+<image_broadcast>0000338765</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150606200000 -0300" stop="20150606233000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479442" series_key="">
+<title lang="pt">Premiere 3</title>
+<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338765.jpg</image_name>
+<image_broadcast>0000338765</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150606233000 -0300" stop="20150607010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479443" series_key="">
+<title lang="pt">Premiere 3</title>
+<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338765.jpg</image_name>
+<image_broadcast>0000338765</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150607010000 -0300" stop="20150607040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479444" series_key="">
+<title lang="pt">Premiere 3</title>
+<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338765.jpg</image_name>
+<image_broadcast>0000338765</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150607040000 -0300" stop="20150607070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479446" series_key="">
+<title lang="pt">Premiere 3</title>
+<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338765.jpg</image_name>
+<image_broadcast>0000338765</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150607070000 -0300" stop="20150607100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479447" series_key="">
+<title lang="pt">Premiere 3</title>
+<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338765.jpg</image_name>
+<image_broadcast>0000338765</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150607100000 -0300" stop="20150607130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479449" series_key="">
+<title lang="pt">Premiere 3</title>
+<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338765.jpg</image_name>
+<image_broadcast>0000338765</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150607130000 -0300" stop="20150607180000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479450" series_key="">
+<title lang="pt">Premiere 3</title>
+<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338765.jpg</image_name>
+<image_broadcast>0000338765</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150607180000 -0300" stop="20150607191000 -0300" channel="9A3" program_id="0000441460" event_id="000000100479451" series_key="00000000076113000000">
+<title lang="pt">TV Goiás - Ep. 65</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000090918.jpg</image_name>
-<image_broadcast>0000090918</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603214000 -0300" stop="20150603215000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184748" series_key="">
-<title lang="pt">Premiere 3</title>
-<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338765.jpg</image_name>
-<image_broadcast>0000338765</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
+<image_name position="1">00000000076113.jpg</image_name>
+<image_broadcast>00000000076113</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
 <video>
 <colour>yes</colour>
@@ -120,15 +395,15 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150603215000 -0300" stop="20150604000000 -0300" channel="9A3" program_id="0000003985" event_id="000000100184749" series_key="">
-<title lang="pt">Cruzeiro x Flamengo</title>
-<title lang="en">Cruzeiro x Flamengo</title>
+<programme start="20150607191000 -0300" stop="20150607220000 -0300" channel="9A3" program_id="0000180998" event_id="000000100479453" series_key="">
+<title lang="pt">Goiás x Avaí</title>
+<title lang="en">Goiás x Avaí</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000003985.jpg</image_name>
-<image_broadcast>0000003985</image_broadcast>
+<image_name position="1">0000180998.jpg</image_name>
+<image_broadcast>0000180998</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <country>Brasil</country>
@@ -139,7 +414,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150604000000 -0300" stop="20150604040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184750" series_key="">
+<programme start="20150607220000 -0300" stop="20150608010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479455" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -156,7 +431,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150604040000 -0300" stop="20150604070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184752" series_key="">
+<programme start="20150608010000 -0300" stop="20150608040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479456" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -173,7 +448,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150604070000 -0300" stop="20150604100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184753" series_key="">
+<programme start="20150608040000 -0300" stop="20150608070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479457" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -190,7 +465,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150604100000 -0300" stop="20150604130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184755" series_key="">
+<programme start="20150608070000 -0300" stop="20150608100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479459" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -207,7 +482,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150604130000 -0300" stop="20150604160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184756" series_key="">
+<programme start="20150608100000 -0300" stop="20150608130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479461" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -224,7 +499,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150604160000 -0300" stop="20150604190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184758" series_key="">
+<programme start="20150608130000 -0300" stop="20150608160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479462" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -241,7 +516,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150604190000 -0300" stop="20150604220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184760" series_key="">
+<programme start="20150608160000 -0300" stop="20150608190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479463" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -258,7 +533,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150604220000 -0300" stop="20150605010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184761" series_key="">
+<programme start="20150608190000 -0300" stop="20150608220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479465" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -275,7 +550,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605010000 -0300" stop="20150605040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184762" series_key="">
+<programme start="20150608220000 -0300" stop="20150609010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479466" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -292,7 +567,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605040000 -0300" stop="20150605070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184764" series_key="">
+<programme start="20150609010000 -0300" stop="20150609040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479467" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -309,7 +584,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605070000 -0300" stop="20150605100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184765" series_key="">
+<programme start="20150609040000 -0300" stop="20150609070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479469" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -326,7 +601,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605100000 -0300" stop="20150605130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184767" series_key="">
+<programme start="20150609070000 -0300" stop="20150609100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479471" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -343,7 +618,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605130000 -0300" stop="20150605160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184768" series_key="">
+<programme start="20150609100000 -0300" stop="20150609130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479472" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -360,7 +635,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605160000 -0300" stop="20150605190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184769" series_key="">
+<programme start="20150609130000 -0300" stop="20150609160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479473" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -377,7 +652,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605190000 -0300" stop="20150605220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184770" series_key="">
+<programme start="20150609160000 -0300" stop="20150609190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479475" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -394,7 +669,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605220000 -0300" stop="20150606010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184772" series_key="">
+<programme start="20150609190000 -0300" stop="20150609220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479477" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -411,7 +686,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606010000 -0300" stop="20150606040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184773" series_key="">
+<programme start="20150609220000 -0300" stop="20150610010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479478" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -428,7 +703,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606040000 -0300" stop="20150606070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184774" series_key="">
+<programme start="20150610010000 -0300" stop="20150610040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479479" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -445,7 +720,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606070000 -0300" stop="20150606100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184775" series_key="">
+<programme start="20150610040000 -0300" stop="20150610070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479481" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -462,7 +737,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606100000 -0300" stop="20150606130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184776" series_key="">
+<programme start="20150610070000 -0300" stop="20150610100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479482" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -479,7 +754,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606130000 -0300" stop="20150606153000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184778" series_key="">
+<programme start="20150610100000 -0300" stop="20150610130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479483" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -496,7 +771,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606153000 -0300" stop="20150606190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184779" series_key="">
+<programme start="20150610130000 -0300" stop="20150610160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479485" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -513,7 +788,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606190000 -0300" stop="20150606200000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184780" series_key="">
+<programme start="20150610160000 -0300" stop="20150610190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479486" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -530,7 +805,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606200000 -0300" stop="20150606233000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184781" series_key="">
+<programme start="20150610190000 -0300" stop="20150610220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479487" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -547,7 +822,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606233000 -0300" stop="20150607010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184784" series_key="">
+<programme start="20150610220000 -0300" stop="20150611010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479488" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -564,7 +839,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607010000 -0300" stop="20150607040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184785" series_key="">
+<programme start="20150611010000 -0300" stop="20150611040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479490" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -581,7 +856,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607040000 -0300" stop="20150607070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184786" series_key="">
+<programme start="20150611040000 -0300" stop="20150611070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479491" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -598,7 +873,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607070000 -0300" stop="20150607100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184787" series_key="">
+<programme start="20150611070000 -0300" stop="20150611100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479492" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -615,7 +890,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607100000 -0300" stop="20150607130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184788" series_key="">
+<programme start="20150611100000 -0300" stop="20150611130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479493" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -632,7 +907,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607130000 -0300" stop="20150607160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184791" series_key="">
+<programme start="20150611130000 -0300" stop="20150611160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479495" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -649,7 +924,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607160000 -0300" stop="20150607190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184792" series_key="">
+<programme start="20150611160000 -0300" stop="20150611190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479496" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -666,7 +941,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607190000 -0300" stop="20150607220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184793" series_key="">
+<programme start="20150611190000 -0300" stop="20150611220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479497" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -683,7 +958,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607220000 -0300" stop="20150608010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184794" series_key="">
+<programme start="20150611220000 -0300" stop="20150612010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479498" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -700,7 +975,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608010000 -0300" stop="20150608040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184795" series_key="">
+<programme start="20150612010000 -0300" stop="20150612040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479500" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -717,7 +992,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608040000 -0300" stop="20150608070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184797" series_key="">
+<programme start="20150612040000 -0300" stop="20150612070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479501" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -734,7 +1009,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608070000 -0300" stop="20150608100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184798" series_key="">
+<programme start="20150612070000 -0300" stop="20150612100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479502" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -751,7 +1026,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608100000 -0300" stop="20150608130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184799" series_key="">
+<programme start="20150612100000 -0300" stop="20150612130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479505" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -768,7 +1043,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608130000 -0300" stop="20150608160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184800" series_key="">
+<programme start="20150612130000 -0300" stop="20150612160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479506" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -785,7 +1060,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608160000 -0300" stop="20150608190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184801" series_key="">
+<programme start="20150612160000 -0300" stop="20150612190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479507" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -802,7 +1077,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608190000 -0300" stop="20150608220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184804" series_key="">
+<programme start="20150612190000 -0300" stop="20150612220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479509" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -819,7 +1094,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608220000 -0300" stop="20150609010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184805" series_key="">
+<programme start="20150612220000 -0300" stop="20150613010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479510" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -836,7 +1111,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609010000 -0300" stop="20150609040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184806" series_key="">
+<programme start="20150613010000 -0300" stop="20150613040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479512" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -853,7 +1128,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609040000 -0300" stop="20150609070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184807" series_key="">
+<programme start="20150613040000 -0300" stop="20150613070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479513" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -870,7 +1145,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609070000 -0300" stop="20150609100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184809" series_key="">
+<programme start="20150613070000 -0300" stop="20150613100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479515" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -887,7 +1162,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609100000 -0300" stop="20150609130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184811" series_key="">
+<programme start="20150613100000 -0300" stop="20150613130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479516" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -904,7 +1179,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609130000 -0300" stop="20150609160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184812" series_key="">
+<programme start="20150613130000 -0300" stop="20150613153000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479517" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -921,7 +1196,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609160000 -0300" stop="20150609190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184813" series_key="">
+<programme start="20150613153000 -0300" stop="20150613190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479519" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -938,7 +1213,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609190000 -0300" stop="20150609220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184814" series_key="">
+<programme start="20150613190000 -0300" stop="20150613200000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479520" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -955,7 +1230,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609220000 -0300" stop="20150610010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184815" series_key="">
+<programme start="20150613200000 -0300" stop="20150613233000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479522" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -972,7 +1247,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610010000 -0300" stop="20150610040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184817" series_key="">
+<programme start="20150613233000 -0300" stop="20150614010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479523" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -989,7 +1264,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610040000 -0300" stop="20150610070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184818" series_key="">
+<programme start="20150614010000 -0300" stop="20150614040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479525" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1006,7 +1281,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610070000 -0300" stop="20150610100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184819" series_key="">
+<programme start="20150614040000 -0300" stop="20150614070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479526" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1023,7 +1298,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610100000 -0300" stop="20150610130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184821" series_key="">
+<programme start="20150614070000 -0300" stop="20150614100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479528" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1040,7 +1315,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610130000 -0300" stop="20150610160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184823" series_key="">
+<programme start="20150614100000 -0300" stop="20150614130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479530" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1057,7 +1332,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610160000 -0300" stop="20150610190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184824" series_key="">
+<programme start="20150614130000 -0300" stop="20150614160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479531" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1074,7 +1349,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610190000 -0300" stop="20150610220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184825" series_key="">
+<programme start="20150614160000 -0300" stop="20150614190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479532" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1091,7 +1366,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610220000 -0300" stop="20150611010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184826" series_key="">
+<programme start="20150614190000 -0300" stop="20150614220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479534" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1108,7 +1383,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611010000 -0300" stop="20150611040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184828" series_key="">
+<programme start="20150614220000 -0300" stop="20150615010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479536" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1125,7 +1400,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611040000 -0300" stop="20150611070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184830" series_key="">
+<programme start="20150615010000 -0300" stop="20150615040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479537" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1142,7 +1417,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611070000 -0300" stop="20150611100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184831" series_key="">
+<programme start="20150615040000 -0300" stop="20150615070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479538" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1159,7 +1434,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611100000 -0300" stop="20150611130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184832" series_key="">
+<programme start="20150615070000 -0300" stop="20150615100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479540" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1176,7 +1451,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611130000 -0300" stop="20150611160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184833" series_key="">
+<programme start="20150615100000 -0300" stop="20150615130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479542" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1193,7 +1468,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611160000 -0300" stop="20150611190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184836" series_key="">
+<programme start="20150615130000 -0300" stop="20150615160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479543" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1210,7 +1485,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611190000 -0300" stop="20150611220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184837" series_key="">
+<programme start="20150615160000 -0300" stop="20150615190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479544" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1227,7 +1502,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611220000 -0300" stop="20150612010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184838" series_key="">
+<programme start="20150615190000 -0300" stop="20150615220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479546" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1244,7 +1519,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612010000 -0300" stop="20150612040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184839" series_key="">
+<programme start="20150615220000 -0300" stop="20150616010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479547" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1261,7 +1536,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612040000 -0300" stop="20150612070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184840" series_key="">
+<programme start="20150616010000 -0300" stop="20150616040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479548" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1278,7 +1553,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612070000 -0300" stop="20150612100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184841" series_key="">
+<programme start="20150616040000 -0300" stop="20150616070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479549" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1295,7 +1570,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612100000 -0300" stop="20150612130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184843" series_key="">
+<programme start="20150616070000 -0300" stop="20150616100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479551" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1312,7 +1587,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612130000 -0300" stop="20150612160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184844" series_key="">
+<programme start="20150616100000 -0300" stop="20150616130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479552" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1329,7 +1604,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612160000 -0300" stop="20150612190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184845" series_key="">
+<programme start="20150616130000 -0300" stop="20150616160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479553" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1346,7 +1621,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612190000 -0300" stop="20150612220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184846" series_key="">
+<programme start="20150616160000 -0300" stop="20150616190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479554" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1363,7 +1638,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612220000 -0300" stop="20150613010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184848" series_key="">
+<programme start="20150616190000 -0300" stop="20150616220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479556" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1380,7 +1655,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613010000 -0300" stop="20150613040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184850" series_key="">
+<programme start="20150616220000 -0300" stop="20150617010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479557" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1397,7 +1672,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613040000 -0300" stop="20150613070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184851" series_key="">
+<programme start="20150617010000 -0300" stop="20150617040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479558" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1414,7 +1689,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613070000 -0300" stop="20150613100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184852" series_key="">
+<programme start="20150617040000 -0300" stop="20150617070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479559" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1431,7 +1706,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613100000 -0300" stop="20150613130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184854" series_key="">
+<programme start="20150617070000 -0300" stop="20150617100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479561" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1448,7 +1723,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613130000 -0300" stop="20150613153000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184855" series_key="">
+<programme start="20150617100000 -0300" stop="20150617130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479562" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1465,7 +1740,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613153000 -0300" stop="20150613190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184857" series_key="">
+<programme start="20150617130000 -0300" stop="20150617160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479563" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1482,7 +1757,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613190000 -0300" stop="20150613200000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184858" series_key="">
+<programme start="20150617160000 -0300" stop="20150617190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479564" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1499,7 +1774,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613200000 -0300" stop="20150613233000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184859" series_key="">
+<programme start="20150617190000 -0300" stop="20150617220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479566" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1516,7 +1791,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613233000 -0300" stop="20150614010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184861" series_key="">
+<programme start="20150617220000 -0300" stop="20150618010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479567" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1533,7 +1808,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614010000 -0300" stop="20150614040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184862" series_key="">
+<programme start="20150618010000 -0300" stop="20150618040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479568" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1550,7 +1825,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614040000 -0300" stop="20150614070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184863" series_key="">
+<programme start="20150618040000 -0300" stop="20150618070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479570" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1567,7 +1842,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614070000 -0300" stop="20150614100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184864" series_key="">
+<programme start="20150618070000 -0300" stop="20150618100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479571" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1584,7 +1859,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614100000 -0300" stop="20150614130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184866" series_key="">
+<programme start="20150618100000 -0300" stop="20150618130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479572" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1601,7 +1876,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614130000 -0300" stop="20150614160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184867" series_key="">
+<programme start="20150618130000 -0300" stop="20150618160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479573" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1618,7 +1893,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614160000 -0300" stop="20150614190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184869" series_key="">
+<programme start="20150618160000 -0300" stop="20150618190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479574" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1635,7 +1910,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614190000 -0300" stop="20150614220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184870" series_key="">
+<programme start="20150618190000 -0300" stop="20150618220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479576" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1652,7 +1927,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614220000 -0300" stop="20150615010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184871" series_key="">
+<programme start="20150618220000 -0300" stop="20150619010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479577" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1669,7 +1944,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615010000 -0300" stop="20150615040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184873" series_key="">
+<programme start="20150619010000 -0300" stop="20150619040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479578" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1686,7 +1961,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615040000 -0300" stop="20150615070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184874" series_key="">
+<programme start="20150619040000 -0300" stop="20150619070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479579" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1703,7 +1978,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615070000 -0300" stop="20150615100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184875" series_key="">
+<programme start="20150619070000 -0300" stop="20150619100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479581" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1720,7 +1995,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615100000 -0300" stop="20150615130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184876" series_key="">
+<programme start="20150619100000 -0300" stop="20150619130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479582" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1737,7 +2012,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615130000 -0300" stop="20150615160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184877" series_key="">
+<programme start="20150619130000 -0300" stop="20150619160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479583" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1754,7 +2029,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615160000 -0300" stop="20150615190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184879" series_key="">
+<programme start="20150619160000 -0300" stop="20150619190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479584" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1771,7 +2046,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615190000 -0300" stop="20150615220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184881" series_key="">
+<programme start="20150619190000 -0300" stop="20150619220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479586" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1788,7 +2063,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615220000 -0300" stop="20150616010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184882" series_key="">
+<programme start="20150619220000 -0300" stop="20150620010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479587" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1805,7 +2080,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616010000 -0300" stop="20150616040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184883" series_key="">
+<programme start="20150620010000 -0300" stop="20150620040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479588" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1822,7 +2097,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616040000 -0300" stop="20150616070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184885" series_key="">
+<programme start="20150620040000 -0300" stop="20150620070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479589" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1839,7 +2114,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616070000 -0300" stop="20150616100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184886" series_key="">
+<programme start="20150620070000 -0300" stop="20150620100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479590" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1856,7 +2131,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616100000 -0300" stop="20150616130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184888" series_key="">
+<programme start="20150620100000 -0300" stop="20150620130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479592" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1873,7 +2148,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616130000 -0300" stop="20150616160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184889" series_key="">
+<programme start="20150620130000 -0300" stop="20150620153000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479593" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1890,7 +2165,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616160000 -0300" stop="20150616190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184890" series_key="">
+<programme start="20150620153000 -0300" stop="20150620190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479594" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1907,7 +2182,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616190000 -0300" stop="20150616220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184892" series_key="">
+<programme start="20150620190000 -0300" stop="20150620200000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479595" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1924,7 +2199,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616220000 -0300" stop="20150617010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184894" series_key="">
+<programme start="20150620200000 -0300" stop="20150620233000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479597" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1941,7 +2216,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617010000 -0300" stop="20150617040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184895" series_key="">
+<programme start="20150620233000 -0300" stop="20150621010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479598" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1958,7 +2233,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617040000 -0300" stop="20150617070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184896" series_key="">
+<programme start="20150621010000 -0300" stop="20150621040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479599" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1975,7 +2250,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617070000 -0300" stop="20150617100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184897" series_key="">
+<programme start="20150621040000 -0300" stop="20150621070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479600" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1992,7 +2267,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617100000 -0300" stop="20150617130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184899" series_key="">
+<programme start="20150621070000 -0300" stop="20150621100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479601" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2009,7 +2284,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617130000 -0300" stop="20150617160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184901" series_key="">
+<programme start="20150621100000 -0300" stop="20150621130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479603" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2026,7 +2301,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617160000 -0300" stop="20150617190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184902" series_key="">
+<programme start="20150621130000 -0300" stop="20150621160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479604" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2043,7 +2318,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617190000 -0300" stop="20150617220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184903" series_key="">
+<programme start="20150621160000 -0300" stop="20150621190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479605" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2060,7 +2335,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617220000 -0300" stop="20150618010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184905" series_key="">
+<programme start="20150621190000 -0300" stop="20150621220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479606" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2077,7 +2352,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618010000 -0300" stop="20150618040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184906" series_key="">
+<programme start="20150621220000 -0300" stop="20150622010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479607" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2094,7 +2369,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618040000 -0300" stop="20150618070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184907" series_key="">
+<programme start="20150622010000 -0300" stop="20150622040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479608" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2111,7 +2386,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618070000 -0300" stop="20150618100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184908" series_key="">
+<programme start="20150622040000 -0300" stop="20150622070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479609" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2128,7 +2403,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618100000 -0300" stop="20150618130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184909" series_key="">
+<programme start="20150622070000 -0300" stop="20150622100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479610" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2145,7 +2420,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618130000 -0300" stop="20150618160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184912" series_key="">
+<programme start="20150622100000 -0300" stop="20150622130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479612" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2162,7 +2437,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618160000 -0300" stop="20150618190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184914" series_key="">
+<programme start="20150622130000 -0300" stop="20150622160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479613" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2179,7 +2454,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618190000 -0300" stop="20150618220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184915" series_key="">
+<programme start="20150622160000 -0300" stop="20150622190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479614" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2196,7 +2471,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618220000 -0300" stop="20150619010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184916" series_key="">
+<programme start="20150622190000 -0300" stop="20150622220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479615" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2213,7 +2488,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619010000 -0300" stop="20150619040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184917" series_key="">
+<programme start="20150622220000 -0300" stop="20150623010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479616" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2230,7 +2505,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619040000 -0300" stop="20150619070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184919" series_key="">
+<programme start="20150623010000 -0300" stop="20150623040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479618" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2247,7 +2522,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619070000 -0300" stop="20150619100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184920" series_key="">
+<programme start="20150623040000 -0300" stop="20150623070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479619" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2264,7 +2539,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619100000 -0300" stop="20150619130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184922" series_key="">
+<programme start="20150623070000 -0300" stop="20150623100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479620" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2281,7 +2556,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619130000 -0300" stop="20150619160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184923" series_key="">
+<programme start="20150623100000 -0300" stop="20150623130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479621" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2298,7 +2573,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619160000 -0300" stop="20150619190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184924" series_key="">
+<programme start="20150623130000 -0300" stop="20150623160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479623" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2315,7 +2590,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619190000 -0300" stop="20150619220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184926" series_key="">
+<programme start="20150623160000 -0300" stop="20150623190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479624" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2332,7 +2607,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619220000 -0300" stop="20150620010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184927" series_key="">
+<programme start="20150623190000 -0300" stop="20150623220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479625" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2349,279 +2624,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150620010000 -0300" stop="20150620040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184929" series_key="">
-<title lang="pt">Premiere 3</title>
-<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338765.jpg</image_name>
-<image_broadcast>0000338765</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150620040000 -0300" stop="20150620070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184930" series_key="">
-<title lang="pt">Premiere 3</title>
-<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338765.jpg</image_name>
-<image_broadcast>0000338765</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150620070000 -0300" stop="20150620100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184933" series_key="">
-<title lang="pt">Premiere 3</title>
-<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338765.jpg</image_name>
-<image_broadcast>0000338765</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150620100000 -0300" stop="20150620130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184934" series_key="">
-<title lang="pt">Premiere 3</title>
-<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338765.jpg</image_name>
-<image_broadcast>0000338765</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150620130000 -0300" stop="20150620153000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184936" series_key="">
-<title lang="pt">Premiere 3</title>
-<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338765.jpg</image_name>
-<image_broadcast>0000338765</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150620153000 -0300" stop="20150620190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184937" series_key="">
-<title lang="pt">Premiere 3</title>
-<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338765.jpg</image_name>
-<image_broadcast>0000338765</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150620190000 -0300" stop="20150620200000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184938" series_key="">
-<title lang="pt">Premiere 3</title>
-<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338765.jpg</image_name>
-<image_broadcast>0000338765</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150620200000 -0300" stop="20150620233000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184941" series_key="">
-<title lang="pt">Premiere 3</title>
-<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338765.jpg</image_name>
-<image_broadcast>0000338765</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150620233000 -0300" stop="20150621010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184942" series_key="">
-<title lang="pt">Premiere 3</title>
-<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338765.jpg</image_name>
-<image_broadcast>0000338765</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150621010000 -0300" stop="20150621040000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184943" series_key="">
-<title lang="pt">Premiere 3</title>
-<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338765.jpg</image_name>
-<image_broadcast>0000338765</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150621040000 -0300" stop="20150621070000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184945" series_key="">
-<title lang="pt">Premiere 3</title>
-<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338765.jpg</image_name>
-<image_broadcast>0000338765</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150621070000 -0300" stop="20150621100000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184946" series_key="">
-<title lang="pt">Premiere 3</title>
-<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338765.jpg</image_name>
-<image_broadcast>0000338765</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150621100000 -0300" stop="20150621130000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184948" series_key="">
-<title lang="pt">Premiere 3</title>
-<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338765.jpg</image_name>
-<image_broadcast>0000338765</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150621130000 -0300" stop="20150621160000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184950" series_key="">
-<title lang="pt">Premiere 3</title>
-<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338765.jpg</image_name>
-<image_broadcast>0000338765</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150621160000 -0300" stop="20150621190000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184951" series_key="">
-<title lang="pt">Premiere 3</title>
-<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338765.jpg</image_name>
-<image_broadcast>0000338765</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150621190000 -0300" stop="20150621220000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184953" series_key="">
-<title lang="pt">Premiere 3</title>
-<desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338765.jpg</image_name>
-<image_broadcast>0000338765</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150621220000 -0300" stop="20150622010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100184954" series_key="">
+<programme start="20150623220000 -0300" stop="20150624010000 -0300" channel="9A3" program_id="0000338765" event_id="000000100479626" series_key="">
 <title lang="pt">Premiere 3</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>

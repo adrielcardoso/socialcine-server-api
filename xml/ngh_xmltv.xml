@@ -4,1290 +4,6 @@
 <display-name lang="pt">NatGeo Wild HD</display-name>
 <icon src="ngh.gif" />
 </channel>
-<programme start="20150603001000 -0300" stop="20150603010000 -0300" channel="NGH" program_id="0000322104" event_id="00000000000097459690" series_key="00000000069396000000">
-<title lang="pt">A Vida de Cesar Millan</title>
-<title lang="en">Cesar Millan</title>
-<desc>Este documentário revela pela primeira vez a incrível história de César Millán, de um imigrante pobre e ilegal até tornar-se uma estrela internacional.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000069396.jpg</image_name>
-<image_broadcast>00000000069396</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603010000 -0300" stop="20150603015000 -0300" channel="NGH" program_id="0000327858" event_id="00000000000097459691" series_key="00000000061972001001">
-<title lang="pt">Oeste Selvagem</title>
-<title lang="en">Gold Rush</title>
-<sub-title lang="pt">Temp. 1 - Ep. 1</sub-title>
-<desc>Poucas lendas são mais significativas para o imaginário americano do que o Oeste Selvagem. Para os animais que habitam a costa do Pacífico, este passado mítico continua sendo uma realidade selvagem.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000061972.jpg</image_name>
-<image_broadcast>00000000061972</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603015000 -0300" stop="20150603024000 -0300" channel="NGH" program_id="0000385696" event_id="00000000000097459692" series_key="00000000039990001002">
-<title lang="pt">Monstros Pré-Históricos</title>
-<sub-title lang="pt">Em Busca Do Peixe-serra - Temp. 1 - Ep. 2</sub-title>
-<desc>Acompanhe o Dr. Zeb Hogan, explorador da National Geographic e ecologista marinho em sua jornada para encontrar o maior peixe de água doce da Austrália: o peixe-serra, uma mistura de tubarão com moto-serra.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000039990.jpg</image_name>
-<image_broadcast>00000000039990</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.2.</episode-num>
-<episode-num system="onscreen">2</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603024000 -0300" stop="20150603030500 -0300" channel="NGH" program_id="0000336336" event_id="00000000000097459693" series_key="00000000069975000014">
-<title lang="pt">Cães Policiais</title>
-<sub-title lang="pt">Teste Difícil - Ep. 14</sub-title>
-<desc>Os treinadores do Liche Vohne participam da homenagem a um cão policial morto em serviço. O oficial que perdeu o cão está pronto para voltar ao campo. Ele visita o VLK em busca de um novo cão e cabe a Kenny encontrar um novo parceiro para ele.</desc>
-<credits>
-<director>Rob Worsoff</director>
-<director>Rob Worsoff</director>
-</credits>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000069975.jpg</image_name>
-<image_broadcast>00000000069975</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.14.</episode-num>
-<episode-num system="onscreen">14</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603030500 -0300" stop="20150603035500 -0300" channel="NGH" program_id="0000390856" event_id="00000000000097459694" series_key="00000000067151003001">
-<title lang="pt">Clínica Animal</title>
-<sub-title lang="pt">Temp. 3 - Ep. 1</sub-title>
-<desc>Enquanto a neve cai e cobre Weidman com um manto branco, o Dr. Pol e a sua equipe não deixam de trabalhar e lutar contra os elementos da natureza e contra os caminhos traiçoeiros para salvar os animais de seus clientes.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000067151.jpg</image_name>
-<image_broadcast>00000000067151</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">3.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603035500 -0300" stop="20150603044500 -0300" channel="NGH" program_id="0000190893" event_id="00000000000097459695" series_key="00000000055839001001">
-<title lang="pt">Autópsia Animal</title>
-<sub-title lang="pt">Temp. 1 - Ep. 1</sub-title>
-<desc>Veja o que está embaixo da pele do maior animal terrestre e saiba como a evolução superou as limitações de tamanho desta criatura gigantesca.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000055839.jpg</image_name>
-<image_broadcast>00000000055839</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603044500 -0300" stop="20150603053500 -0300" channel="NGH" program_id="0000162431" event_id="00000000000097459696" series_key="00000000022223000000">
-<title lang="pt">A Fúria dos Elefantes</title>
-<desc>Neste documentário, os telespectadores irão conhecer vítimas da fúria dos elefantes e reviver suas histórias. Seguiremos naturalistas, caçadores e guardas florestais que estudam estes animais e tentam controlá-los.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000022223.jpg</image_name>
-<image_broadcast>00000000022223</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603053500 -0300" stop="20150603062000 -0300" channel="NGH" program_id="0000442808" event_id="00000000000097459697" series_key="00000000077027000000">
-<title lang="pt">Elefante Rainha</title>
-<title lang="en">March of The Elephants</title>
-<desc>Após a trágica morte de sua mãe, a velha matriarca, Mensah agora deve levar seu pequeno filhote e o rebanho ára algum lugar seguro.</desc>
-<credits>
-<director>Benjamin G Hewett</director>
-<director>Benjamin G Hewett</director>
-</credits>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000077027.jpg</image_name>
-<image_broadcast>00000000077027</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603062000 -0300" stop="20150603070500 -0300" channel="NGH" program_id="0000190893" event_id="00000000000097459698" series_key="00000000055839001001">
-<title lang="pt">Autópsia Animal</title>
-<sub-title lang="pt">Temp. 1 - Ep. 1</sub-title>
-<desc>Veja o que está embaixo da pele do maior animal terrestre e saiba como a evolução superou as limitações de tamanho desta criatura gigantesca.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000055839.jpg</image_name>
-<image_broadcast>00000000055839</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603070500 -0300" stop="20150603075000 -0300" channel="NGH" program_id="0000162431" event_id="00000000000097459699" series_key="00000000022223000000">
-<title lang="pt">A Fúria dos Elefantes</title>
-<desc>Neste documentário, os telespectadores irão conhecer vítimas da fúria dos elefantes e reviver suas histórias. Seguiremos naturalistas, caçadores e guardas florestais que estudam estes animais e tentam controlá-los.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000022223.jpg</image_name>
-<image_broadcast>00000000022223</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603075000 -0300" stop="20150603083500 -0300" channel="NGH" program_id="0000442808" event_id="00000000000097459700" series_key="00000000077027000000">
-<title lang="pt">Elefante Rainha</title>
-<title lang="en">March of The Elephants</title>
-<desc>Após a trágica morte de sua mãe, a velha matriarca, Mensah agora deve levar seu pequeno filhote e o rebanho ára algum lugar seguro.</desc>
-<credits>
-<director>Benjamin G Hewett</director>
-<director>Benjamin G Hewett</director>
-</credits>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000077027.jpg</image_name>
-<image_broadcast>00000000077027</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603083500 -0300" stop="20150603090000 -0300" channel="NGH" program_id="0000336336" event_id="00000000000097459701" series_key="00000000069975000014">
-<title lang="pt">Cães Policiais</title>
-<sub-title lang="pt">Teste Difícil - Ep. 14</sub-title>
-<desc>Os treinadores do Liche Vohne participam da homenagem a um cão policial morto em serviço. O oficial que perdeu o cão está pronto para voltar ao campo. Ele visita o VLK em busca de um novo cão e cabe a Kenny encontrar um novo parceiro para ele.</desc>
-<credits>
-<director>Rob Worsoff</director>
-<director>Rob Worsoff</director>
-</credits>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000069975.jpg</image_name>
-<image_broadcast>00000000069975</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.14.</episode-num>
-<episode-num system="onscreen">14</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603090000 -0300" stop="20150603095000 -0300" channel="NGH" program_id="0000291073" event_id="00000000000097459702" series_key="00000000068150001001">
-<title lang="pt">Austrália Selvagem</title>
-<title lang="en">Croc Swarm</title>
-<sub-title lang="pt">Temp. 1 - Ep. 1</sub-title>
-<desc>As zonas úmidas da região norte da Austrália abrigam um dos maiores crocodilos da Terra, o crocodilo marinho. De novembro a março, esses crocodilos depositam seus ovos.</desc>
-<credits>
-<actor>Matt Wright</actor>
-</credits>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000068150.jpg</image_name>
-<image_broadcast>00000000068150</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603095000 -0300" stop="20150603104000 -0300" channel="NGH" program_id="0000299728" event_id="00000000000097459703" series_key="00000000062641003003">
-<title lang="pt">Amizades Insólitas</title>
-<title lang="en">Dogs Gone Wild</title>
-<sub-title lang="pt">Temp. 3 - Ep. 3</sub-title>
-<desc>Este episódio gira em torno do animal favorito de todos: o cão. Fiéis à sua reputação, os cães são sempre melhores amigos. Um cachorro nada à exaustão para estar com seu amigo golfinho. Outro consola um urso abandonado.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000062641.jpg</image_name>
-<image_broadcast>00000000062641</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">3.3.</episode-num>
-<episode-num system="onscreen">3</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603104000 -0300" stop="20150603113000 -0300" channel="NGH" program_id="0000264791" event_id="00000000000097459704" series_key="00000000063289000000">
-<title lang="pt">Presa Humana</title>
-<title lang="en">Killer Leopards</title>
-<desc>O leopardo é famoso por ser um dos predadores mais indescritível e engenhoso, e em Mumbai, uma das maiores cidades do mundo, há leopardos que estão caçando gente. Gordon Buchanan viaja à Índia para averiguar por quê.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000063289.jpg</image_name>
-<image_broadcast>00000000063289</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603113000 -0300" stop="20150603122000 -0300" channel="NGH" program_id="0000375560" event_id="00000000000097459705" series_key="00000000072647004006">
-<title lang="pt">América Selvagem</title>
-<title lang="en">Night of The Grizzly</title>
-<sub-title lang="pt">Temp. 4 - Ep. 6</sub-title>
-<desc>Casey Anderson, especialista em ursos-cinzentos, fica assombrado com uma antiga história de acampamento que diz: quando a noite cai, um urso aparece no acampamento.</desc>
-<credits>
-<director>David Hamlin</director>
-<director>David Hamlin</director>
-</credits>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000072647.jpg</image_name>
-<image_broadcast>00000000072647</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">4.6.</episode-num>
-<episode-num system="onscreen">6</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603122000 -0300" stop="20150603131000 -0300" channel="NGH" program_id="0000299946" event_id="00000000000097459706" series_key="00000000068480000000">
-<title lang="pt">Os Segredos do Urso Polar</title>
-<title lang="en">Ice Bear</title>
-<desc>"O maior predador do Ártico, o urso polar, está em perigo. O que acontece com um urso polar quando não há gelo? Ele é obrigado a realizar uma migração épica e a suportar um espantoso verão de fome em terra.</desc>
-<credits>
-<director>Adam Ravetch </director>
-<director>Adam Ravetch </director>
-</credits>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000068480.jpg</image_name>
-<image_broadcast>00000000068480</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603131000 -0300" stop="20150603140000 -0300" channel="NGH" program_id="0000278699" event_id="00000000000097459707" series_key="00000000067612000000">
-<title lang="pt">Mississippi Selvagem</title>
-<title lang="en">Delta Blues</title>
-<desc>Nosso romance com o rio Mississippi aquece à medida que seguimos para o sul. O rio une-se com o rio Ohio, que é ainda maior do que ele, para formar uma unidade de destruição que coloca em perigo tanto o homem como a fera.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000067612.jpg</image_name>
-<image_broadcast>00000000067612</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603140000 -0300" stop="20150603144500 -0300" channel="NGH" program_id="0000250408" event_id="00000000000097459708" series_key="00000000065332001003">
-<title lang="pt">Nômades do Alasca</title>
-<sub-title lang="pt">Temp. 1 - Ep. 3</sub-title>
-<desc>Ao entrar na trilha dos ursos polares ameaçados de extinção, Chris revela um lado nunca visto destes animais predadores ao que eles lutam pela sobrevivência em um mundo que está derretendo ao seu redor.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000065332.jpg</image_name>
-<image_broadcast>00000000065332</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.3.</episode-num>
-<episode-num system="onscreen">3</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603144500 -0300" stop="20150603153500 -0300" channel="NGH" program_id="0000318381" event_id="00000000000097459709" series_key="00000000069201001003">
-<title lang="pt">Protegendo Crocodilos</title>
-<title lang="en">The Croc Catchers</title>
-<sub-title lang="pt">Temp. 1 - Ep. 3</sub-title>
-<desc>Um crocodilo digno de manchetes de jornais foi visto na região da praia de Darwin, e a Unidade de Gestão de Crocodilos precisa agir para evitar que o público corra o risco de ser atacado por este animal gigante.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000069201.jpg</image_name>
-<image_broadcast>00000000069201</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.3.</episode-num>
-<episode-num system="onscreen">3</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603153500 -0300" stop="20150603162500 -0300" channel="NGH" program_id="0000190893" event_id="00000000000097459710" series_key="00000000055839001001">
-<title lang="pt">Autópsia Animal</title>
-<sub-title lang="pt">Temp. 1 - Ep. 1</sub-title>
-<desc>Veja o que está embaixo da pele do maior animal terrestre e saiba como a evolução superou as limitações de tamanho desta criatura gigantesca.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000055839.jpg</image_name>
-<image_broadcast>00000000055839</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603162500 -0300" stop="20150603171500 -0300" channel="NGH" program_id="0000162431" event_id="00000000000097459711" series_key="00000000022223000000">
-<title lang="pt">A Fúria dos Elefantes</title>
-<desc>Neste documentário, os telespectadores irão conhecer vítimas da fúria dos elefantes e reviver suas histórias. Seguiremos naturalistas, caçadores e guardas florestais que estudam estes animais e tentam controlá-los.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000022223.jpg</image_name>
-<image_broadcast>00000000022223</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603171500 -0300" stop="20150603180500 -0300" channel="NGH" program_id="0000442808" event_id="00000000000097459712" series_key="00000000077027000000">
-<title lang="pt">Elefante Rainha</title>
-<title lang="en">March of The Elephants</title>
-<desc>Após a trágica morte de sua mãe, a velha matriarca, Mensah agora deve levar seu pequeno filhote e o rebanho ára algum lugar seguro.</desc>
-<credits>
-<director>Benjamin G Hewett</director>
-<director>Benjamin G Hewett</director>
-</credits>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000077027.jpg</image_name>
-<image_broadcast>00000000077027</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603180500 -0300" stop="20150603183000 -0300" channel="NGH" program_id="0000295743" event_id="00000000000097459713" series_key="00000000068075001008">
-<title lang="pt">Diários de Lawrence Wahba</title>
-<title lang="en">Safari In Africa: 08</title>
-<sub-title lang="pt">Safári na África - Temp. 1 - Ep. 8</sub-title>
-<desc>O documentarista brasileiro Lawrence Wahba percorre todos os continentes para filmar, cara a cara, os animais mais carismáticos do mundo e os esforços para preservá-los.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000068075.jpg</image_name>
-<image_broadcast>00000000068075</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.8.</episode-num>
-<episode-num system="onscreen">8</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603183000 -0300" stop="20150603192000 -0300" channel="NGH" program_id="0000390855" event_id="00000000000097459714" series_key="00000000067151003002">
-<title lang="pt">Clínica Animal</title>
-<sub-title lang="pt">Temp. 3 - Ep. 2</sub-title>
-<desc>Nos Serviços Veterinários Pol, todos estão ocupados como sempre, mas em meio ao caos, Dr. Pol e Diane aproveitam uma oportunidade para sair de férias, merecidas e necessárias.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000067151.jpg</image_name>
-<image_broadcast>00000000067151</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">3.2.</episode-num>
-<episode-num system="onscreen">2</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603192000 -0300" stop="20150603201000 -0300" channel="NGH" program_id="0000286422" event_id="00000000000097459715" series_key="00000000067912000000">
-<title lang="pt">Grandes Predadores</title>
-<title lang="en">Animals Gone Wild</title>
-<desc>Tudo pode acontecer em um instante... uma armadilha imprevisível. Eles podem matá-lo rapidamente ou comê-lo vivo. Alguns são inimigos conhecidos... outros supostamente são amigáveis. Estes são verdadeiros animais selvagens.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000067912.jpg</image_name>
-<image_broadcast>00000000067912</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603201000 -0300" stop="20150603210000 -0300" channel="NGH" program_id="0000405995" event_id="00000000000097459716" series_key="00000000072075002001">
-<title lang="pt">Clube da Luta dos Animais</title>
-<sub-title lang="pt">Temp. 2 - Ep. 1</sub-title>
-<desc>Este episódio revela o que acontece quando os animais mais selvagens da América se viram contra outros animais de sua própria espécie, deixando você mais perto do que nunca das mais duras e difíceis lutas neste campo de batalha.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000072075.jpg</image_name>
-<image_broadcast>00000000072075</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">2.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150603210000 -0300" stop="20150603214500 -0300" channel="NGH" program_id="0000442813" event_id="00000000000097459717" series_key="00000000074002002007">
-<title lang="pt">Loucuras Animais</title>
-<title lang="en">Animals Gone Wild 2</title>
-<sub-title lang="pt">Temp. 2 - Ep. 7</sub-title>
-<desc>Um leopardo encurralado é um perigo para os moradores que querem persegui-lo para fora de sua cidade. Um grupo de jogadores de golfe se surpreende ao testemunhar uma batalha de tremer o chão entre dois jacarés.</desc>
-<credits>
-<director>Michael Hoff</director>
-<director>Michael Hoff</director>
-</credits>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000074002.jpg</image_name>
-<image_broadcast>00000000074002</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">2.7.</episode-num>
-<episode-num system="onscreen">7</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603214500 -0300" stop="20150603223000 -0300" channel="NGH" program_id="0000286422" event_id="00000000000097459718" series_key="00000000067912000000">
-<title lang="pt">Grandes Predadores</title>
-<title lang="en">Animals Gone Wild</title>
-<desc>Tudo pode acontecer em um instante... uma armadilha imprevisível. Eles podem matá-lo rapidamente ou comê-lo vivo. Alguns são inimigos conhecidos... outros supostamente são amigáveis. Estes são verdadeiros animais selvagens.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000067912.jpg</image_name>
-<image_broadcast>00000000067912</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603223000 -0300" stop="20150603232000 -0300" channel="NGH" program_id="0000405995" event_id="00000000000097459719" series_key="00000000072075002001">
-<title lang="pt">Clube da Luta dos Animais</title>
-<sub-title lang="pt">Temp. 2 - Ep. 1</sub-title>
-<desc>Este episódio revela o que acontece quando os animais mais selvagens da América se viram contra outros animais de sua própria espécie, deixando você mais perto do que nunca das mais duras e difíceis lutas neste campo de batalha.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000072075.jpg</image_name>
-<image_broadcast>00000000072075</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">2.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150603232000 -0300" stop="20150604001000 -0300" channel="NGH" program_id="0000442813" event_id="00000000000097459720" series_key="00000000074002002007">
-<title lang="pt">Loucuras Animais</title>
-<title lang="en">Animals Gone Wild 2</title>
-<sub-title lang="pt">Temp. 2 - Ep. 7</sub-title>
-<desc>Um leopardo encurralado é um perigo para os moradores que querem persegui-lo para fora de sua cidade. Um grupo de jogadores de golfe se surpreende ao testemunhar uma batalha de tremer o chão entre dois jacarés.</desc>
-<credits>
-<director>Michael Hoff</director>
-<director>Michael Hoff</director>
-</credits>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000074002.jpg</image_name>
-<image_broadcast>00000000074002</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">2.7.</episode-num>
-<episode-num system="onscreen">7</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604001000 -0300" stop="20150604010000 -0300" channel="NGH" program_id="0000390749" event_id="00000000000097459721" series_key="00000000069396000000">
-<title lang="pt">A Vida de Cesar Millan</title>
-<title lang="en">Cesar Millan</title>
-<desc>O internacionalmente famoso treinador de cachorros Cesar Milan trabalha com famílias resgatando difíceis cães de abrigo. Muitos desses animais foram abusados ou negligenciados e não são nada bem comportados.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000069396.jpg</image_name>
-<image_broadcast>00000000069396</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604010000 -0300" stop="20150604015000 -0300" channel="NGH" program_id="0000327859" event_id="00000000000097459722" series_key="00000000061972001002">
-<title lang="pt">Oeste Selvagem</title>
-<title lang="en">High Noon</title>
-<sub-title lang="pt">Temp. 1 - Ep. 2</sub-title>
-<desc>Nos áridos desertos do Oeste Selvagem, monstros-de-gila se enfrentam na rua principal de um povoado fantasma enquanto falcões caçam em grupo entre os cactos.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000061972.jpg</image_name>
-<image_broadcast>00000000061972</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.2.</episode-num>
-<episode-num system="onscreen">2</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604015000 -0300" stop="20150604024000 -0300" channel="NGH" program_id="0000188040" event_id="00000000000097459723" series_key="00000000039990001003">
-<title lang="pt">Monstros Pré-Históricos</title>
-<sub-title lang="pt">Em Busca da Arraia Gigant e - Temp. 1 - Ep. 3</sub-title>
-<desc>Acompanhe o Dr. Zeb Hogan, explorador da National Geographic e biólogo marinho em sua busca para encontrar o que poderia ser o maior e mais mortal peixe de água doce do mundo: a arraia gigante de água doce.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000039990.jpg</image_name>
-<image_broadcast>00000000039990</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.3.</episode-num>
-<episode-num system="onscreen">3</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604024000 -0300" stop="20150604030500 -0300" channel="NGH" program_id="0000295743" event_id="00000000000097459724" series_key="00000000068075001008">
-<title lang="pt">Diários de Lawrence Wahba</title>
-<title lang="en">Safari In Africa: 08</title>
-<sub-title lang="pt">Safári na África - Temp. 1 - Ep. 8</sub-title>
-<desc>O documentarista brasileiro Lawrence Wahba percorre todos os continentes para filmar, cara a cara, os animais mais carismáticos do mundo e os esforços para preservá-los.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000068075.jpg</image_name>
-<image_broadcast>00000000068075</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.8.</episode-num>
-<episode-num system="onscreen">8</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604030500 -0300" stop="20150604035500 -0300" channel="NGH" program_id="0000390855" event_id="00000000000097459725" series_key="00000000067151003002">
-<title lang="pt">Clínica Animal</title>
-<sub-title lang="pt">Temp. 3 - Ep. 2</sub-title>
-<desc>Nos Serviços Veterinários Pol, todos estão ocupados como sempre, mas em meio ao caos, Dr. Pol e Diane aproveitam uma oportunidade para sair de férias, merecidas e necessárias.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000067151.jpg</image_name>
-<image_broadcast>00000000067151</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">3.2.</episode-num>
-<episode-num system="onscreen">2</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604035500 -0300" stop="20150604044500 -0300" channel="NGH" program_id="0000286422" event_id="00000000000097459726" series_key="00000000067912000000">
-<title lang="pt">Grandes Predadores</title>
-<title lang="en">Animals Gone Wild</title>
-<desc>Tudo pode acontecer em um instante... uma armadilha imprevisível. Eles podem matá-lo rapidamente ou comê-lo vivo. Alguns são inimigos conhecidos... outros supostamente são amigáveis. Estes são verdadeiros animais selvagens.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000067912.jpg</image_name>
-<image_broadcast>00000000067912</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604044500 -0300" stop="20150604053500 -0300" channel="NGH" program_id="0000405995" event_id="00000000000097459727" series_key="00000000072075002001">
-<title lang="pt">Clube da Luta dos Animais</title>
-<sub-title lang="pt">Temp. 2 - Ep. 1</sub-title>
-<desc>Este episódio revela o que acontece quando os animais mais selvagens da América se viram contra outros animais de sua própria espécie, deixando você mais perto do que nunca das mais duras e difíceis lutas neste campo de batalha.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000072075.jpg</image_name>
-<image_broadcast>00000000072075</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">2.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150604053500 -0300" stop="20150604062000 -0300" channel="NGH" program_id="0000442813" event_id="00000000000097459728" series_key="00000000074002002007">
-<title lang="pt">Loucuras Animais</title>
-<title lang="en">Animals Gone Wild 2</title>
-<sub-title lang="pt">Temp. 2 - Ep. 7</sub-title>
-<desc>Um leopardo encurralado é um perigo para os moradores que querem persegui-lo para fora de sua cidade. Um grupo de jogadores de golfe se surpreende ao testemunhar uma batalha de tremer o chão entre dois jacarés.</desc>
-<credits>
-<director>Michael Hoff</director>
-<director>Michael Hoff</director>
-</credits>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000074002.jpg</image_name>
-<image_broadcast>00000000074002</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">2.7.</episode-num>
-<episode-num system="onscreen">7</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604062000 -0300" stop="20150604070500 -0300" channel="NGH" program_id="0000286422" event_id="00000000000097459729" series_key="00000000067912000000">
-<title lang="pt">Grandes Predadores</title>
-<title lang="en">Animals Gone Wild</title>
-<desc>Tudo pode acontecer em um instante... uma armadilha imprevisível. Eles podem matá-lo rapidamente ou comê-lo vivo. Alguns são inimigos conhecidos... outros supostamente são amigáveis. Estes são verdadeiros animais selvagens.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000067912.jpg</image_name>
-<image_broadcast>00000000067912</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604070500 -0300" stop="20150604075000 -0300" channel="NGH" program_id="0000405995" event_id="00000000000097459730" series_key="00000000072075002001">
-<title lang="pt">Clube da Luta dos Animais</title>
-<sub-title lang="pt">Temp. 2 - Ep. 1</sub-title>
-<desc>Este episódio revela o que acontece quando os animais mais selvagens da América se viram contra outros animais de sua própria espécie, deixando você mais perto do que nunca das mais duras e difíceis lutas neste campo de batalha.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000072075.jpg</image_name>
-<image_broadcast>00000000072075</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">2.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150604075000 -0300" stop="20150604083500 -0300" channel="NGH" program_id="0000442813" event_id="00000000000097459731" series_key="00000000074002002007">
-<title lang="pt">Loucuras Animais</title>
-<title lang="en">Animals Gone Wild 2</title>
-<sub-title lang="pt">Temp. 2 - Ep. 7</sub-title>
-<desc>Um leopardo encurralado é um perigo para os moradores que querem persegui-lo para fora de sua cidade. Um grupo de jogadores de golfe se surpreende ao testemunhar uma batalha de tremer o chão entre dois jacarés.</desc>
-<credits>
-<director>Michael Hoff</director>
-<director>Michael Hoff</director>
-</credits>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000074002.jpg</image_name>
-<image_broadcast>00000000074002</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">2.7.</episode-num>
-<episode-num system="onscreen">7</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604083500 -0300" stop="20150604090000 -0300" channel="NGH" program_id="0000295743" event_id="00000000000097459732" series_key="00000000068075001008">
-<title lang="pt">Diários de Lawrence Wahba</title>
-<title lang="en">Safari In Africa: 08</title>
-<sub-title lang="pt">Safári na África - Temp. 1 - Ep. 8</sub-title>
-<desc>O documentarista brasileiro Lawrence Wahba percorre todos os continentes para filmar, cara a cara, os animais mais carismáticos do mundo e os esforços para preservá-los.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000068075.jpg</image_name>
-<image_broadcast>00000000068075</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.8.</episode-num>
-<episode-num system="onscreen">8</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604090000 -0300" stop="20150604095000 -0300" channel="NGH" program_id="0000345154" event_id="00000000000097459733" series_key="00000000070456001001">
-<title lang="pt">Mundo Selvagem de Richard Rasm</title>
-<sub-title lang="pt">Temp. 1 - Ep. 1</sub-title>
-<desc>A forma de vida tradicional dos Yawanawá ainda é ensinada pelos anciãos e aprendida pelos jovens mesmo depois de terem se passado mais de cinco séculos desde que o primeiro homem branco pisou na América do Sul.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000070456.jpg</image_name>
-<image_broadcast>00000000070456</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604095000 -0300" stop="20150604104000 -0300" channel="NGH" program_id="0000299742" event_id="00000000000097459734" series_key="00000000062641003004">
-<title lang="pt">Amizades Insólitas</title>
-<title lang="en">Man's Other Best Friend</title>
-<sub-title lang="pt">Temp. 3 - Ep. 4</sub-title>
-<desc>Às vezes, o melhor amigo do homem não é quem você está pensando. Ele pode ser um ganso, uma foca, ou até mesmo um urso.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000062641.jpg</image_name>
-<image_broadcast>00000000062641</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">3.4.</episode-num>
-<episode-num system="onscreen">4</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604104000 -0300" stop="20150604113000 -0300" channel="NGH" program_id="0000304400" event_id="00000000000097459735" series_key="00000000068647000000">
-<title lang="pt">S.O.S Animal</title>
-<title lang="en">Tiger Lady</title>
-<sub-title lang="pt">A Senhora dos Tigres</sub-title>
-<desc>Alison e Billy vão para Fayetteville N.C. para conhecer James Bass, que gerencia o Jambbas Ranch. James tem recebido fortes críticas por parte dos ativistas, principalmente por conta das condições de vida de seu urso, Ben.</desc>
-<credits>
-<director>Jay Bienstock</director>
-<director>Jay Bienstock</director>
-</credits>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000068647.jpg</image_name>
-<image_broadcast>00000000068647</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604113000 -0300" stop="20150604122000 -0300" channel="NGH" program_id="0000105321" event_id="00000000000097459736" series_key="00000000062532001001">
-<title lang="pt">Expedição Selvagem</title>
-<sub-title lang="pt">Temp. 1 - Ep. 1</sub-title>
-<desc>Casey Anderson conhece bem a vida selvagem. Depois de concluir a faculdade, ele trabalhou como tratador em parques e orfanatos de animais selvagens em várias partes do mundo.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000062532.jpg</image_name>
-<image_broadcast>00000000062532</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>4/5</value>
-</star-rating>
-</programme>
-<programme start="20150604122000 -0300" stop="20150604131000 -0300" channel="NGH" program_id="0000259636" event_id="00000000000097459737" series_key="00000000065796000000">
-<title lang="pt">A Mulher dos 700 Gatos</title>
-<title lang="en">Lady With 700 Cats, The</title>
-<desc>Nunca há um momento tedioso em The Cat House on the Kings, um santuário de cinco hectares para gatos abandonados no Central Valley da Califórnia, onde sua fundadora, Lynea Lattanzio tem dedicado sua casa como abrigo de gatos.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000065796.jpg</image_name>
-<image_broadcast>00000000065796</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604131000 -0300" stop="20150604140000 -0300" channel="NGH" program_id="0000410252" event_id="00000000000097459738" series_key="00000000075597000001">
-<title lang="pt">Canadá Selvagem</title>
-<sub-title lang="pt">Ep. 1</sub-title>
-<desc>Faça uma extraordinária jornada desde o espetáculo da baleia-jubarte se alimentando de peixes em Terra Nova até a maior floresta temperada úmida intacta na Colúmbia Britânica, que é o lar do raro urso-negro "branco".</desc>
-<date>2014</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000075597.jpg</image_name>
-<image_broadcast>00000000075597</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604140000 -0300" stop="20150604144500 -0300" channel="NGH" program_id="0000226438" event_id="00000000000097459739" series_key="00000000063968001001">
-<title lang="pt">Ataque Animal</title>
-<title lang="en">Great White</title>
-<sub-title lang="pt">Temp. 1 - Ep. 1</sub-title>
-<desc>Seus ancestrais dominaram os oceanos muito antes dos dinossauros caminharem pela Terra. Agora, o predador mais feroz do planeta, o grande tubarão branco, está preso em uma batalha pela sobrevivência com o leão-marinho-do-Cabo.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000063968.jpg</image_name>
-<image_broadcast>00000000063968</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604144500 -0300" stop="20150604153500 -0300" channel="NGH" program_id="0000295722" event_id="00000000000097459740" series_key="00000000068299000001">
-<title lang="pt">O Reino dos Oceanos</title>
-<title lang="en">Giants of The Deep - Ep. 01</title>
-<sub-title lang="pt">Ep. 1</sub-title>
-<desc>Baleias azuis e atuns, os grandes predadores que assombram o vasto oceano deserto. Viaje com eles pela imensa extensão líquida e sente-se na primeira fila para presenciar seus festivais selvagens.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000068299.jpg</image_name>
-<image_broadcast>00000000068299</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604153500 -0300" stop="20150604162500 -0300" channel="NGH" program_id="0000286422" event_id="00000000000097459741" series_key="00000000067912000000">
-<title lang="pt">Grandes Predadores</title>
-<title lang="en">Animals Gone Wild</title>
-<desc>Tudo pode acontecer em um instante... uma armadilha imprevisível. Eles podem matá-lo rapidamente ou comê-lo vivo. Alguns são inimigos conhecidos... outros supostamente são amigáveis. Estes são verdadeiros animais selvagens.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000067912.jpg</image_name>
-<image_broadcast>00000000067912</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604162500 -0300" stop="20150604171500 -0300" channel="NGH" program_id="0000405995" event_id="00000000000097459742" series_key="00000000072075002001">
-<title lang="pt">Clube da Luta dos Animais</title>
-<sub-title lang="pt">Temp. 2 - Ep. 1</sub-title>
-<desc>Este episódio revela o que acontece quando os animais mais selvagens da América se viram contra outros animais de sua própria espécie, deixando você mais perto do que nunca das mais duras e difíceis lutas neste campo de batalha.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000072075.jpg</image_name>
-<image_broadcast>00000000072075</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">2.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150604171500 -0300" stop="20150604180500 -0300" channel="NGH" program_id="0000442813" event_id="00000000000097459743" series_key="00000000074002002007">
-<title lang="pt">Loucuras Animais</title>
-<title lang="en">Animals Gone Wild 2</title>
-<sub-title lang="pt">Temp. 2 - Ep. 7</sub-title>
-<desc>Um leopardo encurralado é um perigo para os moradores que querem persegui-lo para fora de sua cidade. Um grupo de jogadores de golfe se surpreende ao testemunhar uma batalha de tremer o chão entre dois jacarés.</desc>
-<credits>
-<director>Michael Hoff</director>
-<director>Michael Hoff</director>
-</credits>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000074002.jpg</image_name>
-<image_broadcast>00000000074002</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">2.7.</episode-num>
-<episode-num system="onscreen">7</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604180500 -0300" stop="20150604183000 -0300" channel="NGH" program_id="0000406015" event_id="00000000000097459744" series_key="00000000056545003004">
-<title lang="pt">As Aventuras do Dr.croc</title>
-<sub-title lang="pt">Temp. 3 - Ep. 4</sub-title>
-<desc>O Dr. Brady Barr vai até a Venezuela em busca de uma espécie que ele nunca conseguiu capturar para seus estudos e que agora está em processo de extinção, o crocodilo do Orinoco.</desc>
-<credits>
-<director>Charles Poe</director>
-<director>Charles Poe</director>
-</credits>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000056545.jpg</image_name>
-<image_broadcast>00000000056545</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">3.4.</episode-num>
-<episode-num system="onscreen">4</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604183000 -0300" stop="20150604192000 -0300" channel="NGH" program_id="0000390880" event_id="00000000000097459745" series_key="00000000067151003003">
-<title lang="pt">Clínica Animal</title>
-<sub-title lang="pt">Temp. 3 - Ep. 3</sub-title>
-<desc>O inverno do Michigan continua assolando com força os Serviços Veterinários Pol. É fevereiro e quando ainda há neve no chão, há amor no ar. A doutora Sandra conta à equipe da clínica sobre seus planos para o Dia de São Valentim.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000067151.jpg</image_name>
-<image_broadcast>00000000067151</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">3.3.</episode-num>
-<episode-num system="onscreen">3</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604192000 -0300" stop="20150604201000 -0300" channel="NGH" program_id="0000410325" event_id="00000000000097459746" series_key="00000000075353001004">
-<title lang="pt">Dra K</title>
-<sub-title lang="pt">Animais Exóticos - Temp. 1 - Ep. 4</sub-title>
-<desc>A Dra. K confronta a proprietária de um sagui que está levando seu bebê sagui em eventos públicos. Isto é extremamente perigoso para o animal e para os humanos, já que doenças podem ser transmitidas.</desc>
-<credits>
-<director>Guy Nickerson</director>
-<director>Guy Nickerson</director>
-</credits>
-<category lang="pt">Séries</category>
-<category lang="pt">Reality Show</category>
-<image>
-<image_name position="1">00000000075353.jpg</image_name>
-<image_broadcast>00000000075353</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.4.</episode-num>
-<episode-num system="onscreen">4</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604201000 -0300" stop="20150604210000 -0300" channel="NGH" program_id="0000423631" event_id="00000000000097459747" series_key="00000000074363000000">
-<title lang="pt">Yukon - Plantão Veterinário</title>
-<desc>O final do inverno significa tempo para os isolados fazendeiros do Yukon fazerem a manutenção rotineira de tudo que se refere aos animais. Mas nada é rotineiro em se tratando de cuidados com animais.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Reality Show</category>
-<image>
-<image_name position="1">00000000074363.jpg</image_name>
-<image_broadcast>00000000074363</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604210000 -0300" stop="20150604214500 -0300" channel="NGH" program_id="0000390856" event_id="00000000000097459748" series_key="00000000067151003001">
-<title lang="pt">Clínica Animal</title>
-<sub-title lang="pt">Temp. 3 - Ep. 1</sub-title>
-<desc>Enquanto a neve cai e cobre Weidman com um manto branco, o Dr. Pol e a sua equipe não deixam de trabalhar e lutar contra os elementos da natureza e contra os caminhos traiçoeiros para salvar os animais de seus clientes.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000067151.jpg</image_name>
-<image_broadcast>00000000067151</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">3.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604214500 -0300" stop="20150604223000 -0300" channel="NGH" program_id="0000410325" event_id="00000000000097459749" series_key="00000000075353001004">
-<title lang="pt">Dra K</title>
-<sub-title lang="pt">Animais Exóticos - Temp. 1 - Ep. 4</sub-title>
-<desc>A Dra. K confronta a proprietária de um sagui que está levando seu bebê sagui em eventos públicos. Isto é extremamente perigoso para o animal e para os humanos, já que doenças podem ser transmitidas.</desc>
-<credits>
-<director>Guy Nickerson</director>
-<director>Guy Nickerson</director>
-</credits>
-<category lang="pt">Séries</category>
-<category lang="pt">Reality Show</category>
-<image>
-<image_name position="1">00000000075353.jpg</image_name>
-<image_broadcast>00000000075353</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.4.</episode-num>
-<episode-num system="onscreen">4</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604223000 -0300" stop="20150604232000 -0300" channel="NGH" program_id="0000423631" event_id="00000000000097459750" series_key="00000000074363000000">
-<title lang="pt">Yukon - Plantão Veterinário</title>
-<desc>O final do inverno significa tempo para os isolados fazendeiros do Yukon fazerem a manutenção rotineira de tudo que se refere aos animais. Mas nada é rotineiro em se tratando de cuidados com animais.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Reality Show</category>
-<image>
-<image_name position="1">00000000074363.jpg</image_name>
-<image_broadcast>00000000074363</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604232000 -0300" stop="20150605001000 -0300" channel="NGH" program_id="0000390856" event_id="00000000000097459751" series_key="00000000067151003001">
-<title lang="pt">Clínica Animal</title>
-<sub-title lang="pt">Temp. 3 - Ep. 1</sub-title>
-<desc>Enquanto a neve cai e cobre Weidman com um manto branco, o Dr. Pol e a sua equipe não deixam de trabalhar e lutar contra os elementos da natureza e contra os caminhos traiçoeiros para salvar os animais de seus clientes.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000067151.jpg</image_name>
-<image_broadcast>00000000067151</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">3.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
 <programme start="20150605001000 -0300" stop="20150605010000 -0300" channel="NGH" program_id="0000390499" event_id="00000000000097459752" series_key="00000000069396000000">
 <title lang="pt">A Vida de Cesar Millan</title>
 <title lang="en">Cesar Millan</title>
@@ -12429,6 +11145,1215 @@
 <image>
 <image_name position="1">00000000077025.jpg</image_name>
 <image_broadcast>00000000077025</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622001000 -0300" stop="20150622010000 -0300" channel="NGH" program_id="0000341527" event_id="00000000000097460317" series_key="00000000070498001003">
+<title lang="pt">Os Mais Perigosos</title>
+<sub-title lang="pt">Temp. 1 - Ep. 3</sub-title>
+<desc>Estes são os predadores que provam que, em se tratando de caçar presas, tamanho nem sempre é importante. Estes são os pequenos matadores, minúsculas ameaças com a habilidade de abater presas muito maiores do que eles.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000070498.jpg</image_name>
+<image_broadcast>00000000070498</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.3.</episode-num>
+<episode-num system="onscreen">3</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150622010000 -0300" stop="20150622015000 -0300" channel="NGH" program_id="0000437869" event_id="00000000000097460319" series_key="00000000076844000000">
+<title lang="pt">Super Esquilos</title>
+<title lang="en">Super Squirrel</title>
+<desc>Estas pequenas e peludas criaturas podem parecer bem educadas. Mansas. E até mesmo uma gracinha. Os esquilos são nossos quietos coabitantes em nosso mundo ocupado e louco.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000076844.jpg</image_name>
+<image_broadcast>00000000076844</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622015000 -0300" stop="20150622024000 -0300" channel="NGH" program_id="0000315069" event_id="00000000000097460321" series_key="00000000069087000000">
+<title lang="pt">O Leopardo das Neves do Afeganistão</title>
+<title lang="en">Snow Leopard of Afghanistan</title>
+<desc>A Sociedade para a Conservação da Vida Silvestre (WCS) e a National Geographic unem-se para fazer o que ninguém conseguiu fazer até agora: capturar, colocar um colar e estudar o fugidio leopardo-das-neves do Afeganistão.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000069087.jpg</image_name>
+<image_broadcast>00000000069087</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622024000 -0300" stop="20150622030500 -0300" channel="NGH" program_id="0000318314" event_id="00000000000097460323" series_key="00000000069198000006">
+<title lang="pt">Predadores da Austrália</title>
+<title lang="en">World's Deadliest Continent - Ep. 06</title>
+<sub-title lang="pt">Ep. 6</sub-title>
+<desc>Um jovem surfista tem sua perna arrancada com apenas uma mordida de tubarão, um caçador torna-se a caça, e o estilo de vida praiano de um homem torna-se um pesadelo quando um mosquito transmite uma doença comedora de carne.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000069198.jpg</image_name>
+<image_broadcast>00000000069198</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.6.</episode-num>
+<episode-num system="onscreen">6</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150622030500 -0300" stop="20150622035500 -0300" channel="NGH" program_id="0000399624" event_id="00000000000097460325" series_key="00000000067728003005">
+<title lang="pt">Missão Pet</title>
+<sub-title lang="pt">Temp. 3 - Ep. 5</sub-title>
+<desc>Na primeira missão, Alexandre ajuda a Ricota, uma Mini Bull Terrier que mais parece um tsunami!. Em sua segunda missão, nosso especialista vai ajudar uma família na escolha e adoção do mais novo membro: um cão!</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Reality Show</category>
+<image>
+<image_name position="1">00000000067728.jpg</image_name>
+<image_broadcast>00000000067728</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">3.5.</episode-num>
+<episode-num system="onscreen">5</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622035500 -0300" stop="20150622044500 -0300" channel="NGH" program_id="0000427096" event_id="00000000000097460327" series_key="00000000076336001002">
+<title lang="pt">Paraísos Vivos</title>
+<title lang="en">The Living Edens: 02</title>
+<sub-title lang="pt">Temp. 1 - Ep. 2</sub-title>
+<desc>Entre dois e três milhões de anos atrás, uma explosão massiva despedaçou um enorme vulcão no leste de Great Rift Valley, na África, para formar a cratera de Ngorongoro, uma das verdadeiras maravilhas do mundo.</desc>
+<credits>
+<director>Alex Gregory</director>
+<director>Alex Gregory</director>
+</credits>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000076336.jpg</image_name>
+<image_broadcast>00000000076336</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<episode-num system="xmltv_ns">1.2.</episode-num>
+<episode-num system="onscreen">2</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622044500 -0300" stop="20150622053500 -0300" channel="NGH" program_id="0000437859" event_id="00000000000097460329" series_key="00000000076839000000">
+<title lang="pt">O Oeste Selvagem Da África</title>
+<title lang="en">Africa's Wild West</title>
+<desc>Cerca de 150 cavalos selvagens - prováveis descendentes de cavalos abandonados por exércitos alemães e sul-africanos no final da Primeira Guerra Mundial - vivem em Sperrgebiet, 26.000 quilometros quadrados de um deserto espetacular</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000076839.jpg</image_name>
+<image_broadcast>00000000076839</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622053500 -0300" stop="20150622062000 -0300" channel="NGH" program_id="0000442806" event_id="00000000000097460331" series_key="00000000077025000000">
+<title lang="pt">Savana Africana</title>
+<title lang="en">Nhnz NGCI Wild Package</title>
+<desc>A savana africana atravessa 25 países e é o lar de milhões de animais. Aqui, herbívoros e carnívoros são gravados em uma luta constante por sobrevivência.</desc>
+<credits>
+<director>Andrew Waterworth</director>
+<director>Andrew Waterworth</director>
+</credits>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000077025.jpg</image_name>
+<image_broadcast>00000000077025</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622062000 -0300" stop="20150622070500 -0300" channel="NGH" program_id="0000427096" event_id="00000000000097460333" series_key="00000000076336001002">
+<title lang="pt">Paraísos Vivos</title>
+<title lang="en">The Living Edens: 02</title>
+<sub-title lang="pt">Temp. 1 - Ep. 2</sub-title>
+<desc>Entre dois e três milhões de anos atrás, uma explosão massiva despedaçou um enorme vulcão no leste de Great Rift Valley, na África, para formar a cratera de Ngorongoro, uma das verdadeiras maravilhas do mundo.</desc>
+<credits>
+<director>Alex Gregory</director>
+<director>Alex Gregory</director>
+</credits>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000076336.jpg</image_name>
+<image_broadcast>00000000076336</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<episode-num system="xmltv_ns">1.2.</episode-num>
+<episode-num system="onscreen">2</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622070500 -0300" stop="20150622075000 -0300" channel="NGH" program_id="0000437859" event_id="00000000000097460335" series_key="00000000076839000000">
+<title lang="pt">O Oeste Selvagem Da África</title>
+<title lang="en">Africa's Wild West</title>
+<desc>Cerca de 150 cavalos selvagens - prováveis descendentes de cavalos abandonados por exércitos alemães e sul-africanos no final da Primeira Guerra Mundial - vivem em Sperrgebiet, 26.000 quilometros quadrados de um deserto espetacular</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000076839.jpg</image_name>
+<image_broadcast>00000000076839</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622075000 -0300" stop="20150622083500 -0300" channel="NGH" program_id="0000442806" event_id="00000000000097460337" series_key="00000000077025000000">
+<title lang="pt">Savana Africana</title>
+<title lang="en">Nhnz NGCI Wild Package</title>
+<desc>A savana africana atravessa 25 países e é o lar de milhões de animais. Aqui, herbívoros e carnívoros são gravados em uma luta constante por sobrevivência.</desc>
+<credits>
+<director>Andrew Waterworth</director>
+<director>Andrew Waterworth</director>
+</credits>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000077025.jpg</image_name>
+<image_broadcast>00000000077025</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622083500 -0300" stop="20150622090000 -0300" channel="NGH" program_id="0000318314" event_id="00000000000097460339" series_key="00000000069198000006">
+<title lang="pt">Predadores da Austrália</title>
+<title lang="en">World's Deadliest Continent - Ep. 06</title>
+<sub-title lang="pt">Ep. 6</sub-title>
+<desc>Um jovem surfista tem sua perna arrancada com apenas uma mordida de tubarão, um caçador torna-se a caça, e o estilo de vida praiano de um homem torna-se um pesadelo quando um mosquito transmite uma doença comedora de carne.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000069198.jpg</image_name>
+<image_broadcast>00000000069198</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.6.</episode-num>
+<episode-num system="onscreen">6</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150622090000 -0300" stop="20150622095000 -0300" channel="NGH" program_id="0000212084" event_id="00000000000097460341" series_key="00000000062521001002">
+<title lang="pt">Os Homens do Pântano</title>
+<sub-title lang="pt">Um Crocodilo à Solta - Temp. 1 - Ep. 2</sub-title>
+<desc>Para os funcionários do Billie Swamp Safari, lidar com aligátors agressivos faz parte da rotina. Porém, quando um crocodilo do Nilo de 2,7 metros escapa, todos entram em alerta máximo.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000062521.jpg</image_name>
+<image_broadcast>00000000062521</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.2.</episode-num>
+<episode-num system="onscreen">2</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622095000 -0300" stop="20150622104000 -0300" channel="NGH" program_id="0000350945" event_id="00000000000097460343" series_key="00000000067616003001">
+<title lang="pt">Comportamentos Bizarros</title>
+<sub-title lang="pt">Temp. 3 - Ep. 1</sub-title>
+<desc>Alarmante, perturbador, repugnante. Estes adjetivos não são suficientes para descrever as comidas que serão vistas neste episódio. Desde matéria fecal até lanches pós-coito e estranhas esquisitices.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000067616.jpg</image_name>
+<image_broadcast>00000000067616</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">3.1.</episode-num>
+<episode-num system="onscreen">1</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622104000 -0300" stop="20150622113000 -0300" channel="NGH" program_id="0000419659" event_id="00000000000097460345" series_key="00000000076177000000">
+<title lang="pt">Reabilitação Animal</title>
+<desc>Kristin e Grant fazem fisioterapia em um gavião de cauda vermelha que tem a asa quebrada com a esperança de poder reintegrá-lo a seu habitat natural.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000076177.jpg</image_name>
+<image_broadcast>00000000076177</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622113000 -0300" stop="20150622122000 -0300" channel="NGH" program_id="0000371215" event_id="00000000000097460347" series_key="00000000072647004001">
+<title lang="pt">América Selvagem</title>
+<title lang="en">Monster Wolf</title>
+<sub-title lang="pt">Temp. 4 - Ep. 1</sub-title>
+<desc>Casey Anderson explora a costa ocidental do Canadá em busca de pistas que expliquem o comportamento ousado dos lobos na ilha de Vancouver.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000072647.jpg</image_name>
+<image_broadcast>00000000072647</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">4.1.</episode-num>
+<episode-num system="onscreen">1</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622122000 -0300" stop="20150622131000 -0300" channel="NGH" program_id="0000235181" event_id="00000000000097460349" series_key="00000000064453001004">
+<title lang="pt">Investigação Selvagem</title>
+<sub-title lang="pt">Temp. 1 - Ep. 4</sub-title>
+<desc>Caçadores das Sombras investiga três mistérios extraordinários do mundo natural em Overtoun Bridge, Escócia; Flórida, Estados Unidos e Kerala, Índia.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000064453.jpg</image_name>
+<image_broadcast>00000000064453</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.4.</episode-num>
+<episode-num system="onscreen">4</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622131000 -0300" stop="20150622140000 -0300" channel="NGH" program_id="0000423463" event_id="00000000000097460351" series_key="00000000076336000000">
+<title lang="pt">Paraísos Vivos</title>
+<title lang="en">The Living Edens (Rev)</title>
+<desc>Na região equatorial entre a Malásia e a Indonésia está Bornéu, a terceira maior ilha do planeta. Bornéu é dominada pelo Monte Kinabalu, uma maciça montanha de 4 mil metros de altitude e o pico mais alto do Sudeste da Ásia.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000076336.jpg</image_name>
+<image_broadcast>00000000076336</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622140000 -0300" stop="20150622144500 -0300" channel="NGH" program_id="0000437872" event_id="00000000000097460353" series_key="00000000076846001000">
+<title lang="pt">Escola de Predadores</title>
+<title lang="en">Predator Fails</title>
+<sub-title lang="pt">Temp. 1</sub-title>
+<desc>Estar sob a água, velocidade e estratégia são a chave para a fazer a matança. Os caçadores do oceano dominaram os jogos da caça, mas até com os maiores jogadores, as coisas não vão sempre como o esperado.</desc>
+<credits>
+<director>Julie King</director>
+<director>Julie King</director>
+</credits>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000076846.jpg</image_name>
+<image_broadcast>00000000076846</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1..</episode-num>
+<episode-num system="onscreen"></episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622144500 -0300" stop="20150622153500 -0300" channel="NGH" program_id="0000244591" event_id="00000000000097460355" series_key="00000000057412001009">
+<title lang="pt">Expedição Shark</title>
+<sub-title lang="pt">Temp. 1 - Ep. 9</sub-title>
+<desc>Em sua expedição mais perigosa até então, a equipe arrisca tudo e segue para alto-mar, no Oceano Pacífico, em sua tentativa de rastrear os tubarões que receberam etiquetas de identificação.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000057412.jpg</image_name>
+<image_broadcast>00000000057412</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.9.</episode-num>
+<episode-num system="onscreen">9</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622153500 -0300" stop="20150622162500 -0300" channel="NGH" program_id="0000427096" event_id="00000000000097460357" series_key="00000000076336001002">
+<title lang="pt">Paraísos Vivos</title>
+<title lang="en">The Living Edens: 02</title>
+<sub-title lang="pt">Temp. 1 - Ep. 2</sub-title>
+<desc>Entre dois e três milhões de anos atrás, uma explosão massiva despedaçou um enorme vulcão no leste de Great Rift Valley, na África, para formar a cratera de Ngorongoro, uma das verdadeiras maravilhas do mundo.</desc>
+<credits>
+<director>Alex Gregory</director>
+<director>Alex Gregory</director>
+</credits>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000076336.jpg</image_name>
+<image_broadcast>00000000076336</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<episode-num system="xmltv_ns">1.2.</episode-num>
+<episode-num system="onscreen">2</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622162500 -0300" stop="20150622171500 -0300" channel="NGH" program_id="0000437859" event_id="00000000000097460359" series_key="00000000076839000000">
+<title lang="pt">O Oeste Selvagem Da África</title>
+<title lang="en">Africa's Wild West</title>
+<desc>Cerca de 150 cavalos selvagens - prováveis descendentes de cavalos abandonados por exércitos alemães e sul-africanos no final da Primeira Guerra Mundial - vivem em Sperrgebiet, 26.000 quilometros quadrados de um deserto espetacular</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000076839.jpg</image_name>
+<image_broadcast>00000000076839</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622171500 -0300" stop="20150622180500 -0300" channel="NGH" program_id="0000442806" event_id="00000000000097460361" series_key="00000000077025000000">
+<title lang="pt">Savana Africana</title>
+<title lang="en">Nhnz NGCI Wild Package</title>
+<desc>A savana africana atravessa 25 países e é o lar de milhões de animais. Aqui, herbívoros e carnívoros são gravados em uma luta constante por sobrevivência.</desc>
+<credits>
+<director>Andrew Waterworth</director>
+<director>Andrew Waterworth</director>
+</credits>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000077025.jpg</image_name>
+<image_broadcast>00000000077025</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622180500 -0300" stop="20150622183000 -0300" channel="NGH" program_id="0000278742" event_id="00000000000097460363" series_key="00000000032660000000">
+<title lang="pt">Filhotes Selvagens</title>
+<title lang="en">Omg What?</title>
+<sub-title lang="pt">O Que é Isso?</sub-title>
+<desc>A Internet. Um clique e o mundo está à mão. Mas para que isso é realmente bom? Para assistir a vídeos inusitados e engraçados de animais! Nós temos o melhor para testar o seu cérebro. Você ficará atordoado, horrorizado e terá muita diversão.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000032660.jpg</image_name>
+<image_broadcast>00000000032660</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622183000 -0300" stop="20150622192000 -0300" channel="NGH" program_id="0000395439" event_id="00000000000097460365" series_key="00000000067728003001">
+<title lang="pt">Missão Pet</title>
+<title lang="en">Missão Pet: 01</title>
+<sub-title lang="pt">Temp. 3 - Ep. 1</sub-title>
+<desc>Nick é um Fox Terrier extremamente agressivo que já mutilou o dedo de uma funcionária da família Nicolas. O caso é grave e urgente, por isso Alexandre Rossi foi chamado e precisa agir rapidamente antes que o pior aconteça.</desc>
+<credits>
+<director>Victor Abreu</director>
+<director>Victor Abreu</director>
+</credits>
+<category lang="pt">Séries</category>
+<category lang="pt">Reality Show</category>
+<image>
+<image_name position="1">00000000067728.jpg</image_name>
+<image_broadcast>00000000067728</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">3.1.</episode-num>
+<episode-num system="onscreen">1</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622192000 -0300" stop="20150622201000 -0300" channel="NGH" program_id="0000272042" event_id="00000000000097460367" series_key="00000000067380000000">
+<title lang="pt">Vivendo Como os Animais</title>
+<title lang="en">Big City Beaver</title>
+<sub-title lang="pt">A Toca dos Castores</sub-title>
+<desc>Para mostrar o brilhante talento para a arquitetura que têm os castores, três amantes da vida selvagem vão usar mais de cinco toneladas de material para construir uma recriação em escala humana de uma toca feita por castores.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000067380.jpg</image_name>
+<image_broadcast>00000000067380</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622201000 -0300" stop="20150622210000 -0300" channel="NGH" program_id="0000272044" event_id="00000000000097460369" series_key="00000000067380000000">
+<title lang="pt">Vivendo Como os Animais</title>
+<title lang="en">Giant Wasps</title>
+<sub-title lang="pt">O Vespeiro Gigante</sub-title>
+<desc>Para demonstrar a excelência dos talentos arquitetônicos das vespas, dois amantes da vida selvagem e um ex-designer de barcos enfrentam o desafio de construir um ninho de vespas de quatro metros e meio de altura por quatro metros de largura.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000067380.jpg</image_name>
+<image_broadcast>00000000067380</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622210000 -0300" stop="20150622214500 -0300" channel="NGH" program_id="0000272043" event_id="00000000000097460371" series_key="00000000067380000000">
+<title lang="pt">Vivendo Como os Animais</title>
+<title lang="en">Human Hummingbird</title>
+<sub-title lang="pt">O Ninho dos Beija-Flores</sub-title>
+<desc>Para demonstrar a excelência dos talentos arquitetônicos dos beija-flores, três amantes da vida selvagem vão usar uma corda de bungee jump para construir uma versão em escala humana para o ninho dos beija-flores.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000067380.jpg</image_name>
+<image_broadcast>00000000067380</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622214500 -0300" stop="20150622223000 -0300" channel="NGH" program_id="0000371224" event_id="00000000000097460373" series_key="00000000072651000000">
+<title lang="pt">Quão Humano Você é?</title>
+<desc>Os seres humanos se orgulham de ser a espécie mais inteligente da Terra, mas muito do nosso comportamento básico é igual ao de uma matilha de cães, um grupo de gansos, ou até mesmo cavalos-marinhos.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000072651.jpg</image_name>
+<image_broadcast>00000000072651</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622223000 -0300" stop="20150622232000 -0300" channel="NGH" program_id="0000371225" event_id="00000000000097460375" series_key="00000000072651000000">
+<title lang="pt">Quão Humano Você é?</title>
+<desc>Os seres humanos se orgulham de ser a espécie mais inteligente da Terra, mas muito do nosso comportamento básico é igual ao de uma matilha de cães, um grupo de gansos, ou até mesmo cavalos-marinhos.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000072651.jpg</image_name>
+<image_broadcast>00000000072651</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622232000 -0300" stop="20150623001000 -0300" channel="NGH" program_id="0000371226" event_id="00000000000097460377" series_key="00000000072651000000">
+<title lang="pt">Quão Humano Você é?</title>
+<desc>Os seres humanos se orgulham de ser a espécie mais inteligente da Terra, mas muito do nosso comportamento básico é igual ao de uma matilha de cães, um grupo de gansos, ou até mesmo cavalos-marinhos.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000072651.jpg</image_name>
+<image_broadcast>00000000072651</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623001000 -0300" stop="20150623010000 -0300" channel="NGH" program_id="0000331587" event_id="00000000000097460379" series_key="00000000067899000012">
+<title lang="pt">O Melhor Amigo do Cão</title>
+<title lang="en">Saving Sophia- Ep. 12</title>
+<sub-title lang="pt">Ep. 12</sub-title>
+<desc>Presa durante a maior parte de sua vida, Sophia nunca tinha aprendido a conviver ou confiar, e há uma boa probabilidade de ter sido espancada.</desc>
+<credits>
+<director>Gregory Vanger</director>
+<director>Gregory Vanger</director>
+</credits>
+<category lang="pt">Séries</category>
+<category lang="pt">Reality Show</category>
+<image>
+<image_name position="1">00000000067899.jpg</image_name>
+<image_broadcast>00000000067899</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.12.</episode-num>
+<episode-num system="onscreen">12</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623010000 -0300" stop="20150623015000 -0300" channel="NGH" program_id="0000419673" event_id="00000000000097460381" series_key="00000000076178001002">
+<title lang="pt">Escócia Selvagem</title>
+<title lang="en">The Western Isles - Ep. 02</title>
+<sub-title lang="pt">Temp. 1 - Ep. 2</sub-title>
+<desc>As ilhas são atingidas pela maior tempestade de que se há lembrança. Enquanto o drama se desenvolve, acompanhamos as vidas de águias-rabalvas, focas, lebres, martas e corujas-dos-campos ao que elas lutam para criar suas famílias.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000076178.jpg</image_name>
+<image_broadcast>00000000076178</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.2.</episode-num>
+<episode-num system="onscreen">2</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623015000 -0300" stop="20150623024000 -0300" channel="NGH" program_id="0000244435" event_id="00000000000097460383" series_key="00000000039990000000">
+<title lang="pt">Monstros Pré-Históricos</title>
+<sub-title lang="pt">O Rei do Outback</sub-title>
+<desc>Acompanhe o biólogo e conservacionista Dr. Zeb Hogan em sua busca pela preservação de algumas espécies de peixe gigante de água doce.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000039990.jpg</image_name>
+<image_broadcast>00000000039990</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623024000 -0300" stop="20150623030500 -0300" channel="NGH" program_id="0000278742" event_id="00000000000097460385" series_key="00000000032660000000">
+<title lang="pt">Filhotes Selvagens</title>
+<title lang="en">Omg What?</title>
+<sub-title lang="pt">O Que é Isso?</sub-title>
+<desc>A Internet. Um clique e o mundo está à mão. Mas para que isso é realmente bom? Para assistir a vídeos inusitados e engraçados de animais! Nós temos o melhor para testar o seu cérebro. Você ficará atordoado, horrorizado e terá muita diversão.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000032660.jpg</image_name>
+<image_broadcast>00000000032660</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623030500 -0300" stop="20150623035500 -0300" channel="NGH" program_id="0000395439" event_id="00000000000097460387" series_key="00000000067728003001">
+<title lang="pt">Missão Pet</title>
+<title lang="en">Missão Pet: 01</title>
+<sub-title lang="pt">Temp. 3 - Ep. 1</sub-title>
+<desc>Nick é um Fox Terrier extremamente agressivo que já mutilou o dedo de uma funcionária da família Nicolas. O caso é grave e urgente, por isso Alexandre Rossi foi chamado e precisa agir rapidamente antes que o pior aconteça.</desc>
+<credits>
+<director>Victor Abreu</director>
+<director>Victor Abreu</director>
+</credits>
+<category lang="pt">Séries</category>
+<category lang="pt">Reality Show</category>
+<image>
+<image_name position="1">00000000067728.jpg</image_name>
+<image_broadcast>00000000067728</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">3.1.</episode-num>
+<episode-num system="onscreen">1</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623035500 -0300" stop="20150623044500 -0300" channel="NGH" program_id="0000272042" event_id="00000000000097460389" series_key="00000000067380000000">
+<title lang="pt">Vivendo Como os Animais</title>
+<title lang="en">Big City Beaver</title>
+<sub-title lang="pt">A Toca dos Castores</sub-title>
+<desc>Para mostrar o brilhante talento para a arquitetura que têm os castores, três amantes da vida selvagem vão usar mais de cinco toneladas de material para construir uma recriação em escala humana de uma toca feita por castores.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000067380.jpg</image_name>
+<image_broadcast>00000000067380</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623044500 -0300" stop="20150623053500 -0300" channel="NGH" program_id="0000272044" event_id="00000000000097460391" series_key="00000000067380000000">
+<title lang="pt">Vivendo Como os Animais</title>
+<title lang="en">Giant Wasps</title>
+<sub-title lang="pt">O Vespeiro Gigante</sub-title>
+<desc>Para demonstrar a excelência dos talentos arquitetônicos das vespas, dois amantes da vida selvagem e um ex-designer de barcos enfrentam o desafio de construir um ninho de vespas de quatro metros e meio de altura por quatro metros de largura.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000067380.jpg</image_name>
+<image_broadcast>00000000067380</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623053500 -0300" stop="20150623062000 -0300" channel="NGH" program_id="0000272043" event_id="00000000000097460393" series_key="00000000067380000000">
+<title lang="pt">Vivendo Como os Animais</title>
+<title lang="en">Human Hummingbird</title>
+<sub-title lang="pt">O Ninho dos Beija-Flores</sub-title>
+<desc>Para demonstrar a excelência dos talentos arquitetônicos dos beija-flores, três amantes da vida selvagem vão usar uma corda de bungee jump para construir uma versão em escala humana para o ninho dos beija-flores.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000067380.jpg</image_name>
+<image_broadcast>00000000067380</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623062000 -0300" stop="20150623070500 -0300" channel="NGH" program_id="0000371224" event_id="00000000000097460395" series_key="00000000072651000000">
+<title lang="pt">Quão Humano Você é?</title>
+<desc>Os seres humanos se orgulham de ser a espécie mais inteligente da Terra, mas muito do nosso comportamento básico é igual ao de uma matilha de cães, um grupo de gansos, ou até mesmo cavalos-marinhos.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000072651.jpg</image_name>
+<image_broadcast>00000000072651</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623070500 -0300" stop="20150623075000 -0300" channel="NGH" program_id="0000371225" event_id="00000000000097460397" series_key="00000000072651000000">
+<title lang="pt">Quão Humano Você é?</title>
+<desc>Os seres humanos se orgulham de ser a espécie mais inteligente da Terra, mas muito do nosso comportamento básico é igual ao de uma matilha de cães, um grupo de gansos, ou até mesmo cavalos-marinhos.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000072651.jpg</image_name>
+<image_broadcast>00000000072651</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623075000 -0300" stop="20150623083500 -0300" channel="NGH" program_id="0000371226" event_id="00000000000097460399" series_key="00000000072651000000">
+<title lang="pt">Quão Humano Você é?</title>
+<desc>Os seres humanos se orgulham de ser a espécie mais inteligente da Terra, mas muito do nosso comportamento básico é igual ao de uma matilha de cães, um grupo de gansos, ou até mesmo cavalos-marinhos.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000072651.jpg</image_name>
+<image_broadcast>00000000072651</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623083500 -0300" stop="20150623090000 -0300" channel="NGH" program_id="0000278742" event_id="00000000000097460401" series_key="00000000032660000000">
+<title lang="pt">Filhotes Selvagens</title>
+<title lang="en">Omg What?</title>
+<sub-title lang="pt">O Que é Isso?</sub-title>
+<desc>A Internet. Um clique e o mundo está à mão. Mas para que isso é realmente bom? Para assistir a vídeos inusitados e engraçados de animais! Nós temos o melhor para testar o seu cérebro. Você ficará atordoado, horrorizado e terá muita diversão.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000032660.jpg</image_name>
+<image_broadcast>00000000032660</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623090000 -0300" stop="20150623095000 -0300" channel="NGH" program_id="0000240646" event_id="00000000000097460403" series_key="00000000064800001001">
+<title lang="pt">O Homem dos Tigres</title>
+<sub-title lang="pt">Época de Acasalamento - Temp. 1 - Ep. 1</sub-title>
+<desc>É época de acasalamento na Reserva Tiger Canyons, na África do Sul. O cineasta John "JV" Varty", um entusiasta por felinos, nos coloca na primeira fila de um passeio extraordinário.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000064800.jpg</image_name>
+<image_broadcast>00000000064800</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.1.</episode-num>
+<episode-num system="onscreen">1</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623095000 -0300" stop="20150623104000 -0300" channel="NGH" program_id="0000350943" event_id="00000000000097460405" series_key="00000000067616003002">
+<title lang="pt">Comportamentos Bizarros</title>
+<sub-title lang="pt">Temp. 3 - Ep. 2</sub-title>
+<desc>Animais de aspecto estranho, mutilações impressionantes, sobreviventes alarmantes. Os animais que lidam com estranhas deformidades e doenças impulsionam a natureza e a ciência genética ao limite.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000067616.jpg</image_name>
+<image_broadcast>00000000067616</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">3.2.</episode-num>
+<episode-num system="onscreen">2</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623104000 -0300" stop="20150623113000 -0300" channel="NGH" program_id="0000414792" event_id="00000000000097460407" series_key="00000000075631001004">
+<title lang="pt">Predadores Sob Vigia</title>
+<sub-title lang="pt">Temp. 1 - Ep. 4</sub-title>
+<desc>Cory Valdes é chamado por Juan Bolanos para um criadouro de peixes perto de Canas, na Costa Rica, onde os funcionários estão sendo ameaçados pela presença de crocodilos.</desc>
+<credits>
+<director>Skip Chaisson</director>
+<director>Skip Chaisson</director>
+</credits>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000075631.jpg</image_name>
+<image_broadcast>00000000075631</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.4.</episode-num>
+<episode-num system="onscreen">4</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623113000 -0300" stop="20150623122000 -0300" channel="NGH" program_id="0000371216" event_id="00000000000097460409" series_key="00000000072648004002">
+<title lang="pt">América Selvagem</title>
+<title lang="en">American Vampire</title>
+<sub-title lang="pt">Temp. 4 - Ep. 2</sub-title>
+<desc>Em 2011, a primeira morte por uma mordida de morcegos hematófagos foi documentada nos Estados Unidos. Mas pode não ser a última. Os vampiros estão provavelmente vindo para a América.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000072648.jpg</image_name>
+<image_broadcast>00000000072648</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">4.2.</episode-num>
+<episode-num system="onscreen">2</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623122000 -0300" stop="20150623131000 -0300" channel="NGH" program_id="0000282622" event_id="00000000000097460411" series_key="00000000067762000000">
+<title lang="pt">O Labirinto dos Crocodilos</title>
+<title lang="en">Croc Labyrinth</title>
+<desc>O herpetólogo Vince Shacks e o câmera subaquático Brad Bestelink vão em uma aventura única, explorar um sistema de cavernas subaquáticas para averiguar como os répteis usam a área.</desc>
+<date>2012</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000067762.jpg</image_name>
+<image_broadcast>00000000067762</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA/República Centro-Africana</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623131000 -0300" stop="20150623140000 -0300" channel="NGH" program_id="0000423464" event_id="00000000000097460413" series_key="00000000076336000000">
+<title lang="pt">Paraísos Vivos</title>
+<title lang="en">The Living Edens (Rev)</title>
+<desc>Situada no coração do sudeste do Alasca, a Baía Glacier é um paraíso selvagem de oceano e gelo. Este programa mostra a vida de ursos-pardos, águias-americanas, baleias-jubarte e outras espécies carismáticas.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000076336.jpg</image_name>
+<image_broadcast>00000000076336</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623140000 -0300" stop="20150623144500 -0300" channel="NGH" program_id="0000351085" event_id="00000000000097460415" series_key="00000000071392001001">
+<title lang="pt">A Vida Secreta dos Predadores</title>
+<sub-title lang="pt">Temp. 1 - Ep. 1</sub-title>
+<desc>Este episódio leva o espectador aos recifes de coral do oceano e do mar aberto. Nos espaços líquidos de nosso planeta, predadores de todos os tamanhos e formatos enfrentam incríveis obstáculos para ter sucesso e para sobreviver.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000071392.jpg</image_name>
+<image_broadcast>00000000071392</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.1.</episode-num>
+<episode-num system="onscreen">1</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150623144500 -0300" stop="20150623153500 -0300" channel="NGH" program_id="0000211141" event_id="00000000000097460417" series_key="00000000057412001010">
+<title lang="pt">Expedição Shark</title>
+<sub-title lang="pt">Outro Macho Gigante - Temp. 1 - Ep. 10</sub-title>
+<desc>A aventura continua na Ilha de Guadalupe, no México, onde o Dr. Domeier está prestes a provar que o local serve como área de reprodução do grande tubarão branco.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000057412.jpg</image_name>
+<image_broadcast>00000000057412</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">1.10.</episode-num>
+<episode-num system="onscreen">10</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623153500 -0300" stop="20150623162500 -0300" channel="NGH" program_id="0000272042" event_id="00000000000097460419" series_key="00000000067380000000">
+<title lang="pt">Vivendo Como os Animais</title>
+<title lang="en">Big City Beaver</title>
+<sub-title lang="pt">A Toca dos Castores</sub-title>
+<desc>Para mostrar o brilhante talento para a arquitetura que têm os castores, três amantes da vida selvagem vão usar mais de cinco toneladas de material para construir uma recriação em escala humana de uma toca feita por castores.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000067380.jpg</image_name>
+<image_broadcast>00000000067380</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623162500 -0300" stop="20150623171500 -0300" channel="NGH" program_id="0000272044" event_id="00000000000097460421" series_key="00000000067380000000">
+<title lang="pt">Vivendo Como os Animais</title>
+<title lang="en">Giant Wasps</title>
+<sub-title lang="pt">O Vespeiro Gigante</sub-title>
+<desc>Para demonstrar a excelência dos talentos arquitetônicos das vespas, dois amantes da vida selvagem e um ex-designer de barcos enfrentam o desafio de construir um ninho de vespas de quatro metros e meio de altura por quatro metros de largura.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000067380.jpg</image_name>
+<image_broadcast>00000000067380</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623171500 -0300" stop="20150623180500 -0300" channel="NGH" program_id="0000272043" event_id="00000000000097460423" series_key="00000000067380000000">
+<title lang="pt">Vivendo Como os Animais</title>
+<title lang="en">Human Hummingbird</title>
+<sub-title lang="pt">O Ninho dos Beija-Flores</sub-title>
+<desc>Para demonstrar a excelência dos talentos arquitetônicos dos beija-flores, três amantes da vida selvagem vão usar uma corda de bungee jump para construir uma versão em escala humana para o ninho dos beija-flores.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000067380.jpg</image_name>
+<image_broadcast>00000000067380</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623180500 -0300" stop="20150623183000 -0300" channel="NGH" program_id="0000331363" event_id="00000000000097460425" series_key="00000000069975000001">
+<title lang="pt">Cães Policiais</title>
+<title lang="en">Life &amp; Death</title>
+<sub-title lang="pt">Vida e Morte - Ep. 1</sub-title>
+<desc>O Vohne Liche Kennels é um centro de treinamento especializado em cães policiais de serviço militar.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000069975.jpg</image_name>
+<image_broadcast>00000000069975</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.1.</episode-num>
+<episode-num system="onscreen">1</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623183000 -0300" stop="20150623192000 -0300" channel="NGH" program_id="0000399980" event_id="00000000000097460427" series_key="00000000067151003010">
+<title lang="pt">Clínica Animal</title>
+<sub-title lang="pt">Temp. 3 - Ep. 10</sub-title>
+<desc>Os primeiros sinais do verão aparecem aos poucos no centro do Michigan, e a clínica veterinária do Dr. Pol está trabalhando a todo vapor.</desc>
+<credits>
+<director>Ted Duvall</director>
+<director>Ted Duvall</director>
+</credits>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000067151.jpg</image_name>
+<image_broadcast>00000000067151</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">3.10.</episode-num>
+<episode-num system="onscreen">10</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623192000 -0300" stop="20150623210000 -0300" channel="NGH" program_id="0000278930" event_id="00000000000097460429" series_key="00000000067626000000">
+<title lang="pt">Os Cinco Maiores da América do Norte</title>
+<title lang="en">America's Greatest Animals</title>
+<desc>O elefante, o leopardo, o leão, o rinoceronte e o búfalo. Há um século, estes emblemáticos animais terrestres da África foram listados como os "cinco grandes" por caçadores desportivos.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000067626.jpg</image_name>
+<image_broadcast>00000000067626</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623210000 -0300" stop="20150623214500 -0300" channel="NGH" program_id="0000442811" event_id="00000000000097460431" series_key="00000000077030000000">
+<title lang="pt">Os Recordistas do Mundo Animal</title>
+<title lang="en">Animal Record Breakers</title>
+<desc>Os Recordistas do Mundo Animal introduz ao público os recordistas do mundo animal, incluindo o maior, o menor, o mais rápido e o mais lento animal do planeta, assim como o mais tóxico, mais perigoso e até o mais inteligente dos animais.</desc>
+<credits>
+<director>Phil Coles</director>
+<director>Phil Coles</director>
+</credits>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000077030.jpg</image_name>
+<image_broadcast>00000000077030</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623214500 -0300" stop="20150623232000 -0300" channel="NGH" program_id="0000278930" event_id="00000000000097460433" series_key="00000000067626000000">
+<title lang="pt">Os Cinco Maiores da América do Norte</title>
+<title lang="en">America's Greatest Animals</title>
+<desc>O elefante, o leopardo, o leão, o rinoceronte e o búfalo. Há um século, estes emblemáticos animais terrestres da África foram listados como os "cinco grandes" por caçadores desportivos.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000067626.jpg</image_name>
+<image_broadcast>00000000067626</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623232000 -0300" stop="20150624001000 -0300" channel="NGH" program_id="0000442811" event_id="00000000000097460435" series_key="00000000077030000000">
+<title lang="pt">Os Recordistas do Mundo Animal</title>
+<title lang="en">Animal Record Breakers</title>
+<desc>Os Recordistas do Mundo Animal introduz ao público os recordistas do mundo animal, incluindo o maior, o menor, o mais rápido e o mais lento animal do planeta, assim como o mais tóxico, mais perigoso e até o mais inteligente dos animais.</desc>
+<credits>
+<director>Phil Coles</director>
+<director>Phil Coles</director>
+</credits>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000077030.jpg</image_name>
+<image_broadcast>00000000077030</image_broadcast>
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
 <video>

@@ -4,634 +4,6 @@
 <display-name lang="pt">UnitV - Net Rs</display-name>
 <icon src="uni.gif" />
 </channel>
-<programme start="20150603000000 -0300" stop="20150603060000 -0300" channel="UNI" program_id="0000337306" event_id="00000000000095970351" series_key="">
-<title lang="pt">Encerramento das Transmissões</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000337306.jpg</image_name>
-<image_broadcast>0000337306</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603060000 -0300" stop="20150603070000 -0300" channel="UNI" program_id="0000401597" event_id="00000000000095970353" series_key="">
-<title lang="pt">Erudito</title>
-<desc>Apresentações musicais do gênero erudito, também chamado de clássico ou concertista.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000401597.jpg</image_name>
-<image_broadcast>0000401597</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603070000 -0300" stop="20150603073000 -0300" channel="UNI" program_id="0000076322" event_id="00000000000095970355" series_key="00000000069564000000">
-<title lang="pt">Justiça Gaúcha</title>
-<desc>Telejornal com a apresentação de notícias e reportagens, divulgando decisões recentes, projetos e iniciativas do Judiciário Estadual.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069564.jpg</image_name>
-<image_broadcast>00000000069564</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603073000 -0300" stop="20150603080000 -0300" channel="UNI" program_id="0000139158" event_id="00000000000095970357" series_key="">
-<title lang="pt">Viver com Saúde</title>
-<title lang="en">Viver com Saúde</title>
-<desc>Entrevistas com profissionais que atuam no Hospital São Lucas e/ou na Faculdade de Medicina da Pontifícia Universidade Católica do RS ( PUCRS ), com informações e orientações sobre assuntos da área de  saúde.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">0000139158.jpg</image_name>
-<image_broadcast>0000139158</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603080000 -0300" stop="20150603083000 -0300" channel="UNI" program_id="0000139160" event_id="00000000000095970358" series_key="00000000075147000000">
-<title lang="pt">Conhecendo a UFRGS</title>
-<title lang="en">Conhecendo a UFRGS</title>
-<desc>Reportagens e entrevistas sobre projetos e serviços desenvolvidos pela UFRGS.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075147.jpg</image_name>
-<image_broadcast>00000000075147</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603083000 -0300" stop="20150603120000 -0300" channel="UNI" program_id="0000139154" event_id="00000000000095970360" series_key="">
-<title lang="pt">UNITV Documenta</title>
-<title lang="en">UNITV Documenta</title>
-<desc>Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país ou exterior que mantêm convênio com a emissora.</desc>
-<category lang="pt">Documentário</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000139154.jpg</image_name>
-<image_broadcast>0000139154</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603120000 -0300" stop="20150603123000 -0300" channel="UNI" program_id="0000401598" event_id="00000000000095970362" series_key="00000000075148000000">
-<title lang="pt">Estúdio J</title>
-<desc>Programa jornalístico realizado pelos alunos do Curso de Jornalismo da PUCRS com reportagens sobre assuntos de destaque na cidade de Porto Alegre.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075148.jpg</image_name>
-<image_broadcast>00000000075148</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603123000 -0300" stop="20150603130000 -0300" channel="UNI" program_id="0000076322" event_id="00000000000095970364" series_key="00000000069564000000">
-<title lang="pt">Justiça Gaúcha</title>
-<desc>Telejornal com a apresentação de notícias e reportagens, divulgando decisões recentes, projetos e iniciativas do Judiciário Estadual.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069564.jpg</image_name>
-<image_broadcast>00000000069564</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603130000 -0300" stop="20150603133000 -0300" channel="UNI" program_id="0000139160" event_id="00000000000095970366" series_key="00000000075147000000">
-<title lang="pt">Conhecendo a UFRGS</title>
-<title lang="en">Conhecendo a UFRGS</title>
-<desc>Reportagens e entrevistas sobre projetos e serviços desenvolvidos pela UFRGS.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075147.jpg</image_name>
-<image_broadcast>00000000075147</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603133000 -0300" stop="20150603140000 -0300" channel="UNI" program_id="0000139154" event_id="00000000000095970368" series_key="">
-<title lang="pt">UNITV Documenta</title>
-<title lang="en">UNITV Documenta</title>
-<desc>Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país ou exterior que mantêm convênio com a emissora.</desc>
-<category lang="pt">Documentário</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000139154.jpg</image_name>
-<image_broadcast>0000139154</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603140000 -0300" stop="20150603160000 -0300" channel="UNI" program_id="0000401601" event_id="00000000000095970369" series_key="">
-<title lang="pt">Sessão Livre</title>
-<desc>Apresentação de clássicos da cinematografia mundial.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
-<image>
-<image_name position="1">0000401601.jpg</image_name>
-<image_broadcast>0000401601</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603160000 -0300" stop="20150603180000 -0300" channel="UNI" program_id="0000139154" event_id="00000000000095970371" series_key="">
-<title lang="pt">UNITV Documenta</title>
-<title lang="en">UNITV Documenta</title>
-<desc>Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país ou exterior que mantêm convênio com a emissora.</desc>
-<category lang="pt">Documentário</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000139154.jpg</image_name>
-<image_broadcast>0000139154</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603180000 -0300" stop="20150603200000 -0300" channel="UNI" program_id="0000401601" event_id="00000000000095970373" series_key="">
-<title lang="pt">Sessão Livre</title>
-<desc>Apresentação de clássicos da cinematografia mundial.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
-<image>
-<image_name position="1">0000401601.jpg</image_name>
-<image_broadcast>0000401601</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603200000 -0300" stop="20150603203000 -0300" channel="UNI" program_id="0000148425" event_id="00000000000095970375" series_key="">
-<title lang="pt">Extensão UFRGS</title>
-<desc>Programas que destacam atividades de extensão da Universidade, como palestras, cursos e peças de teatro, abertas à comunidade.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">0000148425.jpg</image_name>
-<image_broadcast>0000148425</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603203000 -0300" stop="20150603210000 -0300" channel="UNI" program_id="0000139154" event_id="00000000000095970377" series_key="">
-<title lang="pt">UNITV Documenta</title>
-<title lang="en">UNITV Documenta</title>
-<desc>Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país ou exterior que mantêm convênio com a emissora.</desc>
-<category lang="pt">Documentário</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000139154.jpg</image_name>
-<image_broadcast>0000139154</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603210000 -0300" stop="20150603230000 -0300" channel="UNI" program_id="0000401601" event_id="00000000000095970379" series_key="">
-<title lang="pt">Sessão Livre</title>
-<desc>Apresentação de clássicos da cinematografia mundial.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
-<image>
-<image_name position="1">0000401601.jpg</image_name>
-<image_broadcast>0000401601</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603230000 -0300" stop="20150603233000 -0300" channel="UNI" program_id="0000148425" event_id="00000000000095970380" series_key="">
-<title lang="pt">Extensão UFRGS</title>
-<desc>Programas que destacam atividades de extensão da Universidade, como palestras, cursos e peças de teatro, abertas à comunidade.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">0000148425.jpg</image_name>
-<image_broadcast>0000148425</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603233000 -0300" stop="20150604000000 -0300" channel="UNI" program_id="0000139154" event_id="00000000000095970382" series_key="">
-<title lang="pt">UNITV Documenta</title>
-<title lang="en">UNITV Documenta</title>
-<desc>Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país ou exterior que mantêm convênio com a emissora.</desc>
-<category lang="pt">Documentário</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000139154.jpg</image_name>
-<image_broadcast>0000139154</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604000000 -0300" stop="20150604060000 -0300" channel="UNI" program_id="0000337306" event_id="00000000000095970383" series_key="">
-<title lang="pt">Encerramento das Transmissões</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000337306.jpg</image_name>
-<image_broadcast>0000337306</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604060000 -0300" stop="20150604070000 -0300" channel="UNI" program_id="0000401597" event_id="00000000000095970385" series_key="">
-<title lang="pt">Erudito</title>
-<desc>Apresentações musicais do gênero erudito, também chamado de clássico ou concertista.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000401597.jpg</image_name>
-<image_broadcast>0000401597</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604070000 -0300" stop="20150604073000 -0300" channel="UNI" program_id="0000139158" event_id="00000000000095970386" series_key="">
-<title lang="pt">Viver com Saúde</title>
-<title lang="en">Viver com Saúde</title>
-<desc>Entrevistas com profissionais que atuam no Hospital São Lucas e/ou na Faculdade de Medicina da Pontifícia Universidade Católica do RS ( PUCRS ), com informações e orientações sobre assuntos da área de  saúde.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">0000139158.jpg</image_name>
-<image_broadcast>0000139158</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604073000 -0300" stop="20150604080000 -0300" channel="UNI" program_id="0000098980" event_id="00000000000095970388" series_key="">
-<title lang="pt">Livro Aberto</title>
-<desc>Entrevistas com autores que falam de suas obras, seus procedimentos literários ou ensaísticos, suas pesquisas e suas visões de mundo.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">0000098980.jpg</image_name>
-<image_broadcast>0000098980</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604080000 -0300" stop="20150604083000 -0300" channel="UNI" program_id="0000148425" event_id="00000000000095970390" series_key="">
-<title lang="pt">Extensão UFRGS</title>
-<desc>Programas que destacam atividades de extensão da Universidade, como palestras, cursos e peças de teatro, abertas à comunidade.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">0000148425.jpg</image_name>
-<image_broadcast>0000148425</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604083000 -0300" stop="20150604130000 -0300" channel="UNI" program_id="0000139154" event_id="00000000000095970392" series_key="">
-<title lang="pt">UNITV Documenta</title>
-<title lang="en">UNITV Documenta</title>
-<desc>Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país ou exterior que mantêm convênio com a emissora.</desc>
-<category lang="pt">Documentário</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000139154.jpg</image_name>
-<image_broadcast>0000139154</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604130000 -0300" stop="20150604133000 -0300" channel="UNI" program_id="0000148425" event_id="00000000000095970393" series_key="">
-<title lang="pt">Extensão UFRGS</title>
-<desc>Programas que destacam atividades de extensão da Universidade, como palestras, cursos e peças de teatro, abertas à comunidade.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">0000148425.jpg</image_name>
-<image_broadcast>0000148425</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604133000 -0300" stop="20150604140000 -0300" channel="UNI" program_id="0000139154" event_id="00000000000095970395" series_key="">
-<title lang="pt">UNITV Documenta</title>
-<title lang="en">UNITV Documenta</title>
-<desc>Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país ou exterior que mantêm convênio com a emissora.</desc>
-<category lang="pt">Documentário</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000139154.jpg</image_name>
-<image_broadcast>0000139154</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604140000 -0300" stop="20150604160000 -0300" channel="UNI" program_id="0000401601" event_id="00000000000095970397" series_key="">
-<title lang="pt">Sessão Livre</title>
-<desc>Apresentação de clássicos da cinematografia mundial.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
-<image>
-<image_name position="1">0000401601.jpg</image_name>
-<image_broadcast>0000401601</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604160000 -0300" stop="20150604190000 -0300" channel="UNI" program_id="0000139154" event_id="00000000000095970399" series_key="">
-<title lang="pt">UNITV Documenta</title>
-<title lang="en">UNITV Documenta</title>
-<desc>Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país ou exterior que mantêm convênio com a emissora.</desc>
-<category lang="pt">Documentário</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000139154.jpg</image_name>
-<image_broadcast>0000139154</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604190000 -0300" stop="20150604193000 -0300" channel="UNI" program_id="0000076322" event_id="00000000000095970400" series_key="00000000069564000000">
-<title lang="pt">Justiça Gaúcha</title>
-<desc>Telejornal com a apresentação de notícias e reportagens, divulgando decisões recentes, projetos e iniciativas do Judiciário Estadual.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069564.jpg</image_name>
-<image_broadcast>00000000069564</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604193000 -0300" stop="20150604200000 -0300" channel="UNI" program_id="0000139154" event_id="00000000000095970402" series_key="">
-<title lang="pt">UNITV Documenta</title>
-<title lang="en">UNITV Documenta</title>
-<desc>Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país ou exterior que mantêm convênio com a emissora.</desc>
-<category lang="pt">Documentário</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000139154.jpg</image_name>
-<image_broadcast>0000139154</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604200000 -0300" stop="20150604203000 -0300" channel="UNI" program_id="0000247107" event_id="00000000000095970404" series_key="">
-<title lang="pt">Divulgação Científica</title>
-<desc>Divulgação de projetos de pesquisa da UFRGS e a discussão de temas de relevância social, política e científica.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000247107.jpg</image_name>
-<image_broadcast>0000247107</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604203000 -0300" stop="20150604220000 -0300" channel="UNI" program_id="0000139154" event_id="00000000000095970405" series_key="">
-<title lang="pt">UNITV Documenta</title>
-<title lang="en">UNITV Documenta</title>
-<desc>Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país ou exterior que mantêm convênio com a emissora.</desc>
-<category lang="pt">Documentário</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000139154.jpg</image_name>
-<image_broadcast>0000139154</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604220000 -0300" stop="20150604230000 -0300" channel="UNI" program_id="0000139165" event_id="00000000000095970406" series_key="">
-<title lang="pt">UNITV - Entrevistas &amp; Debates</title>
-<desc>Os assuntos que despertam o interesse da sociedade. A pluralidade de informações e de opiniões estimulando a reflexão do telespectador.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000139165.jpg</image_name>
-<image_broadcast>0000139165</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604230000 -0300" stop="20150604233000 -0300" channel="UNI" program_id="0000247107" event_id="00000000000095970407" series_key="">
-<title lang="pt">Divulgação Científica</title>
-<desc>Divulgação de projetos de pesquisa da UFRGS e a discussão de temas de relevância social, política e científica.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000247107.jpg</image_name>
-<image_broadcast>0000247107</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604233000 -0300" stop="20150605000000 -0300" channel="UNI" program_id="0000139154" event_id="00000000000095970408" series_key="">
-<title lang="pt">UNITV Documenta</title>
-<title lang="en">UNITV Documenta</title>
-<desc>Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país ou exterior que mantêm convênio com a emissora.</desc>
-<category lang="pt">Documentário</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000139154.jpg</image_name>
-<image_broadcast>0000139154</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
 <programme start="20150605000000 -0300" stop="20150605060000 -0300" channel="UNI" program_id="0000337306" event_id="00000000000096033113" series_key="">
 <title lang="pt">Encerramento das Transmissões</title>
 <desc></desc>
@@ -6345,6 +5717,733 @@
 </rating>
 </programme>
 <programme start="20150621233000 -0300" stop="20150622000000 -0300" channel="UNI" program_id="0000139154" event_id="00000000000096880279" series_key="">
+<title lang="pt">UNITV Documenta</title>
+<title lang="en">UNITV Documenta</title>
+<desc>Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país ou exterior que mantêm convênio com a emissora.</desc>
+<category lang="pt">Documentário</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000139154.jpg</image_name>
+<image_broadcast>0000139154</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622000000 -0300" stop="20150622060000 -0300" channel="UNI" program_id="0000337306" event_id="00000000000096966536" series_key="">
+<title lang="pt">Encerramento das Transmissões</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000337306.jpg</image_name>
+<image_broadcast>0000337306</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622060000 -0300" stop="20150622070000 -0300" channel="UNI" program_id="0000401597" event_id="00000000000096966537" series_key="">
+<title lang="pt">Erudito</title>
+<desc>Apresentações musicais do gênero erudito, também chamado de clássico ou concertista.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000401597.jpg</image_name>
+<image_broadcast>0000401597</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622070000 -0300" stop="20150622080000 -0300" channel="UNI" program_id="0000139165" event_id="00000000000096966538" series_key="">
+<title lang="pt">UNITV - Entrevistas &amp; Debates</title>
+<desc>Os assuntos que despertam o interesse da sociedade. A pluralidade de informações e de opiniões estimulando a reflexão do telespectador.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000139165.jpg</image_name>
+<image_broadcast>0000139165</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622080000 -0300" stop="20150622083000 -0300" channel="UNI" program_id="0000145920" event_id="00000000000096966539" series_key="">
+<title lang="pt">Rede IFES</title>
+<desc>Produções das universidades integrantes da Rede IFES - Rede das Instituições Federais de Ensino Superior.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000145920.jpg</image_name>
+<image_broadcast>0000145920</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622083000 -0300" stop="20150622120000 -0300" channel="UNI" program_id="0000139154" event_id="00000000000096966540" series_key="">
+<title lang="pt">UNITV Documenta</title>
+<title lang="en">UNITV Documenta</title>
+<desc>Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país ou exterior que mantêm convênio com a emissora.</desc>
+<category lang="pt">Documentário</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000139154.jpg</image_name>
+<image_broadcast>0000139154</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622120000 -0300" stop="20150622123000 -0300" channel="UNI" program_id="0000139162" event_id="00000000000096966541" series_key="00000000075146000000">
+<title lang="pt">Caderno 2 - UFRGS</title>
+<title lang="en">Caderno 2 - UFRGS</title>
+<desc>Programa jornalístico realizado pelos alunos do Curso de Comunicação da UFRGS, voltado para a cobertura de eventos culturais, arte e entretenimento na cidade de Porto Alegre.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">00000000075146.jpg</image_name>
+<image_broadcast>00000000075146</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622123000 -0300" stop="20150622130000 -0300" channel="UNI" program_id="0000401598" event_id="00000000000096966542" series_key="00000000075148000000">
+<title lang="pt">Estúdio J</title>
+<desc>Programa jornalístico realizado pelos alunos do Curso de Jornalismo da PUCRS com reportagens sobre assuntos de destaque na cidade de Porto Alegre.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075148.jpg</image_name>
+<image_broadcast>00000000075148</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622130000 -0300" stop="20150622133000 -0300" channel="UNI" program_id="0000145920" event_id="00000000000096966543" series_key="">
+<title lang="pt">Rede IFES</title>
+<desc>Produções das universidades integrantes da Rede IFES - Rede das Instituições Federais de Ensino Superior.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000145920.jpg</image_name>
+<image_broadcast>0000145920</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622133000 -0300" stop="20150622140000 -0300" channel="UNI" program_id="0000139154" event_id="00000000000096966544" series_key="">
+<title lang="pt">UNITV Documenta</title>
+<title lang="en">UNITV Documenta</title>
+<desc>Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país ou exterior que mantêm convênio com a emissora.</desc>
+<category lang="pt">Documentário</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000139154.jpg</image_name>
+<image_broadcast>0000139154</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622140000 -0300" stop="20150622160000 -0300" channel="UNI" program_id="0000401601" event_id="00000000000096966545" series_key="">
+<title lang="pt">Sessão Livre</title>
+<desc>Apresentação de clássicos da cinematografia mundial.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cinema</category>
+<image>
+<image_name position="1">0000401601.jpg</image_name>
+<image_broadcast>0000401601</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622160000 -0300" stop="20150622183000 -0300" channel="UNI" program_id="0000139154" event_id="00000000000096966546" series_key="">
+<title lang="pt">UNITV Documenta</title>
+<title lang="en">UNITV Documenta</title>
+<desc>Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país ou exterior que mantêm convênio com a emissora.</desc>
+<category lang="pt">Documentário</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000139154.jpg</image_name>
+<image_broadcast>0000139154</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622183000 -0300" stop="20150622190000 -0300" channel="UNI" program_id="0000139162" event_id="00000000000096966547" series_key="00000000075146000000">
+<title lang="pt">Caderno 2 - UFRGS</title>
+<title lang="en">Caderno 2 - UFRGS</title>
+<desc>Programa jornalístico realizado pelos alunos do Curso de Comunicação da UFRGS, voltado para a cobertura de eventos culturais, arte e entretenimento na cidade de Porto Alegre.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">00000000075146.jpg</image_name>
+<image_broadcast>00000000075146</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622190000 -0300" stop="20150622200000 -0300" channel="UNI" program_id="0000139154" event_id="00000000000096966548" series_key="">
+<title lang="pt">UNITV Documenta</title>
+<title lang="en">UNITV Documenta</title>
+<desc>Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país ou exterior que mantêm convênio com a emissora.</desc>
+<category lang="pt">Documentário</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000139154.jpg</image_name>
+<image_broadcast>0000139154</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622200000 -0300" stop="20150622203000 -0300" channel="UNI" program_id="0000145920" event_id="00000000000096966549" series_key="">
+<title lang="pt">Rede IFES</title>
+<desc>Produções das universidades integrantes da Rede IFES - Rede das Instituições Federais de Ensino Superior.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000145920.jpg</image_name>
+<image_broadcast>0000145920</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622203000 -0300" stop="20150622210000 -0300" channel="UNI" program_id="0000139154" event_id="00000000000096966550" series_key="">
+<title lang="pt">UNITV Documenta</title>
+<title lang="en">UNITV Documenta</title>
+<desc>Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país ou exterior que mantêm convênio com a emissora.</desc>
+<category lang="pt">Documentário</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000139154.jpg</image_name>
+<image_broadcast>0000139154</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622210000 -0300" stop="20150622213000 -0300" channel="UNI" program_id="0000139158" event_id="00000000000096966551" series_key="">
+<title lang="pt">Viver com Saúde</title>
+<title lang="en">Viver com Saúde</title>
+<desc>Entrevistas com profissionais que atuam no Hospital São Lucas e/ou na Faculdade de Medicina da Pontifícia Universidade Católica do RS ( PUCRS ), com informações e orientações sobre assuntos da área de  saúde.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">0000139158.jpg</image_name>
+<image_broadcast>0000139158</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622213000 -0300" stop="20150622223000 -0300" channel="UNI" program_id="0000139154" event_id="00000000000096966552" series_key="">
+<title lang="pt">UNITV Documenta</title>
+<title lang="en">UNITV Documenta</title>
+<desc>Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país ou exterior que mantêm convênio com a emissora.</desc>
+<category lang="pt">Documentário</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000139154.jpg</image_name>
+<image_broadcast>0000139154</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622223000 -0300" stop="20150622230000 -0300" channel="UNI" program_id="0000098980" event_id="00000000000096966553" series_key="">
+<title lang="pt">Livro Aberto</title>
+<desc>Entrevistas com autores que falam de suas obras, seus procedimentos literários ou ensaísticos, suas pesquisas e suas visões de mundo.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">0000098980.jpg</image_name>
+<image_broadcast>0000098980</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622230000 -0300" stop="20150622233000 -0300" channel="UNI" program_id="0000145920" event_id="00000000000096966554" series_key="">
+<title lang="pt">Rede IFES</title>
+<desc>Produções das universidades integrantes da Rede IFES - Rede das Instituições Federais de Ensino Superior.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000145920.jpg</image_name>
+<image_broadcast>0000145920</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622233000 -0300" stop="20150623000000 -0300" channel="UNI" program_id="0000139154" event_id="00000000000096966555" series_key="">
+<title lang="pt">UNITV Documenta</title>
+<title lang="en">UNITV Documenta</title>
+<desc>Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país ou exterior que mantêm convênio com a emissora.</desc>
+<category lang="pt">Documentário</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000139154.jpg</image_name>
+<image_broadcast>0000139154</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623000000 -0300" stop="20150623060000 -0300" channel="UNI" program_id="0000337306" event_id="00000000000097151315" series_key="">
+<title lang="pt">Encerramento das Transmissões</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000337306.jpg</image_name>
+<image_broadcast>0000337306</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623060000 -0300" stop="20150623070000 -0300" channel="UNI" program_id="0000401597" event_id="00000000000097151316" series_key="">
+<title lang="pt">Erudito</title>
+<desc>Apresentações musicais do gênero erudito, também chamado de clássico ou concertista.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000401597.jpg</image_name>
+<image_broadcast>0000401597</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623070000 -0300" stop="20150623073000 -0300" channel="UNI" program_id="0000139162" event_id="00000000000097151317" series_key="00000000075146000000">
+<title lang="pt">Caderno 2 - UFRGS</title>
+<title lang="en">Caderno 2 - UFRGS</title>
+<desc>Programa jornalístico realizado pelos alunos do Curso de Comunicação da UFRGS, voltado para a cobertura de eventos culturais, arte e entretenimento na cidade de Porto Alegre.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">00000000075146.jpg</image_name>
+<image_broadcast>00000000075146</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623073000 -0300" stop="20150623080000 -0300" channel="UNI" program_id="0000401598" event_id="00000000000097151318" series_key="00000000075148000000">
+<title lang="pt">Estúdio J</title>
+<desc>Programa jornalístico realizado pelos alunos do Curso de Jornalismo da PUCRS com reportagens sobre assuntos de destaque na cidade de Porto Alegre.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075148.jpg</image_name>
+<image_broadcast>00000000075148</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623080000 -0300" stop="20150623083000 -0300" channel="UNI" program_id="0000145920" event_id="00000000000097151319" series_key="">
+<title lang="pt">Rede IFES</title>
+<desc>Produções das universidades integrantes da Rede IFES - Rede das Instituições Federais de Ensino Superior.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000145920.jpg</image_name>
+<image_broadcast>0000145920</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623083000 -0300" stop="20150623120000 -0300" channel="UNI" program_id="0000139154" event_id="00000000000097151320" series_key="">
+<title lang="pt">UNITV Documenta</title>
+<title lang="en">UNITV Documenta</title>
+<desc>Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país ou exterior que mantêm convênio com a emissora.</desc>
+<category lang="pt">Documentário</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000139154.jpg</image_name>
+<image_broadcast>0000139154</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623120000 -0300" stop="20150623123000 -0300" channel="UNI" program_id="0000139158" event_id="00000000000097151321" series_key="">
+<title lang="pt">Viver com Saúde</title>
+<title lang="en">Viver com Saúde</title>
+<desc>Entrevistas com profissionais que atuam no Hospital São Lucas e/ou na Faculdade de Medicina da Pontifícia Universidade Católica do RS ( PUCRS ), com informações e orientações sobre assuntos da área de  saúde.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">0000139158.jpg</image_name>
+<image_broadcast>0000139158</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623123000 -0300" stop="20150623130000 -0300" channel="UNI" program_id="0000098980" event_id="00000000000097151322" series_key="">
+<title lang="pt">Livro Aberto</title>
+<desc>Entrevistas com autores que falam de suas obras, seus procedimentos literários ou ensaísticos, suas pesquisas e suas visões de mundo.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">0000098980.jpg</image_name>
+<image_broadcast>0000098980</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623130000 -0300" stop="20150623133000 -0300" channel="UNI" program_id="0000145920" event_id="00000000000097151323" series_key="">
+<title lang="pt">Rede IFES</title>
+<desc>Produções das universidades integrantes da Rede IFES - Rede das Instituições Federais de Ensino Superior.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000145920.jpg</image_name>
+<image_broadcast>0000145920</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623133000 -0300" stop="20150623140000 -0300" channel="UNI" program_id="0000139154" event_id="00000000000097151324" series_key="">
+<title lang="pt">UNITV Documenta</title>
+<title lang="en">UNITV Documenta</title>
+<desc>Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país ou exterior que mantêm convênio com a emissora.</desc>
+<category lang="pt">Documentário</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000139154.jpg</image_name>
+<image_broadcast>0000139154</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623140000 -0300" stop="20150623160000 -0300" channel="UNI" program_id="0000401601" event_id="00000000000097151325" series_key="">
+<title lang="pt">Sessão Livre</title>
+<desc>Apresentação de clássicos da cinematografia mundial.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cinema</category>
+<image>
+<image_name position="1">0000401601.jpg</image_name>
+<image_broadcast>0000401601</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623160000 -0300" stop="20150623180000 -0300" channel="UNI" program_id="0000139154" event_id="00000000000097151326" series_key="">
+<title lang="pt">UNITV Documenta</title>
+<title lang="en">UNITV Documenta</title>
+<desc>Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país ou exterior que mantêm convênio com a emissora.</desc>
+<category lang="pt">Documentário</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000139154.jpg</image_name>
+<image_broadcast>0000139154</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623180000 -0300" stop="20150623190000 -0300" channel="UNI" program_id="0000401597" event_id="00000000000097151327" series_key="">
+<title lang="pt">Erudito</title>
+<desc>Apresentações musicais do gênero erudito, também chamado de clássico ou concertista.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000401597.jpg</image_name>
+<image_broadcast>0000401597</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623190000 -0300" stop="20150623200000 -0300" channel="UNI" program_id="0000139154" event_id="00000000000097151328" series_key="">
+<title lang="pt">UNITV Documenta</title>
+<title lang="en">UNITV Documenta</title>
+<desc>Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país ou exterior que mantêm convênio com a emissora.</desc>
+<category lang="pt">Documentário</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000139154.jpg</image_name>
+<image_broadcast>0000139154</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623200000 -0300" stop="20150623203000 -0300" channel="UNI" program_id="0000139160" event_id="00000000000097151329" series_key="00000000075147000000">
+<title lang="pt">Conhecendo a UFRGS</title>
+<title lang="en">Conhecendo a UFRGS</title>
+<desc>Reportagens e entrevistas sobre projetos e serviços desenvolvidos pela UFRGS.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075147.jpg</image_name>
+<image_broadcast>00000000075147</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623203000 -0300" stop="20150623220000 -0300" channel="UNI" program_id="0000139154" event_id="00000000000097151330" series_key="">
+<title lang="pt">UNITV Documenta</title>
+<title lang="en">UNITV Documenta</title>
+<desc>Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país ou exterior que mantêm convênio com a emissora.</desc>
+<category lang="pt">Documentário</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000139154.jpg</image_name>
+<image_broadcast>0000139154</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623220000 -0300" stop="20150623223000 -0300" channel="UNI" program_id="0000076322" event_id="00000000000097151331" series_key="00000000069564000000">
+<title lang="pt">Justiça Gaúcha</title>
+<desc>Telejornal com a apresentação de notícias e reportagens, divulgando decisões recentes, projetos e iniciativas do Judiciário Estadual.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069564.jpg</image_name>
+<image_broadcast>00000000069564</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623223000 -0300" stop="20150623230000 -0300" channel="UNI" program_id="0000139158" event_id="00000000000097151332" series_key="">
+<title lang="pt">Viver com Saúde</title>
+<title lang="en">Viver com Saúde</title>
+<desc>Entrevistas com profissionais que atuam no Hospital São Lucas e/ou na Faculdade de Medicina da Pontifícia Universidade Católica do RS ( PUCRS ), com informações e orientações sobre assuntos da área de  saúde.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">0000139158.jpg</image_name>
+<image_broadcast>0000139158</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623230000 -0300" stop="20150623233000 -0300" channel="UNI" program_id="0000139160" event_id="00000000000097151333" series_key="00000000075147000000">
+<title lang="pt">Conhecendo a UFRGS</title>
+<title lang="en">Conhecendo a UFRGS</title>
+<desc>Reportagens e entrevistas sobre projetos e serviços desenvolvidos pela UFRGS.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075147.jpg</image_name>
+<image_broadcast>00000000075147</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623233000 -0300" stop="20150624000000 -0300" channel="UNI" program_id="0000139154" event_id="00000000000097151334" series_key="">
 <title lang="pt">UNITV Documenta</title>
 <title lang="en">UNITV Documenta</title>
 <desc>Documentários sobre assuntos culturais, científicos e educacionais, produzidos pelas Universidades que participam da UNITV ou por instituições do país ou exterior que mantêm convênio com a emissora.</desc>

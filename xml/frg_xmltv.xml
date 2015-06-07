@@ -4,490 +4,6 @@
 <display-name lang="pt">FURB TV - Rio Grande</display-name>
 <icon src="frg.gif" />
 </channel>
-<programme start="20150603000000 -0300" stop="20150603120000 -0300" channel="FRG" program_id="0000352721" event_id="00000000000096273529" series_key="">
-<title lang="pt">Furg Fm</title>
-<desc>FURG FM na grade significa que a TV está 'linkada' na rádio, não havendo programação televisiva neste horário.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000352721.jpg</image_name>
-<image_broadcast>0000352721</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603120000 -0300" stop="20150603123000 -0300" channel="FRG" program_id="0000391225" event_id="00000000000096273530" series_key="">
-<title lang="pt">Equilíbrio</title>
-<desc>Programa que aborda as diferentes maneiras da busca pela qualidade de vida, física e mental. Alimentação correta, atividades físicas, prevenção de doenças, dieta e hábitos saudáveis, fazem parte dos temas apresentados no programa.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000391225.jpg</image_name>
-<image_broadcast>0000391225</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603123000 -0300" stop="20150603130000 -0300" channel="FRG" program_id="0000425030" event_id="00000000000096273531" series_key="">
-<title lang="pt">Literatus TV</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000425030.jpg</image_name>
-<image_broadcast>0000425030</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603130000 -0300" stop="20150603140000 -0300" channel="FRG" program_id="0000439190" event_id="00000000000096273532" series_key="">
-<title lang="pt">FM Café - Ao Vivo</title>
-<desc>Programa de rádio no formato de mesa redonda transmitido ao vivo do estúdio da rádio FURG FM 106,7 e simultaneamente televisionado pela FURG TV.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000439190.jpg</image_name>
-<image_broadcast>0000439190</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603140000 -0300" stop="20150603154500 -0300" channel="FRG" program_id="0000439189" event_id="00000000000096273533" series_key="">
-<title lang="pt">Filme Ancine</title>
-<desc>Produções nacionais e estrangeiras de diversos gêneros, com áudio original e sem intervalos.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
-<image>
-<image_name position="1">0000439189.jpg</image_name>
-<image_broadcast>0000439189</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603154500 -0300" stop="20150603164500 -0300" channel="FRG" program_id="0000400202" event_id="00000000000096273534" series_key="">
-<title lang="pt">Contraponto</title>
-<desc>Programa de debates sobre temas contemporâneos. O Contraponto permite diferentes visões sobre os assuntos abordados, através da opinião do segmento universitário e da sociedad.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000400202.jpg</image_name>
-<image_broadcast>0000400202</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603164500 -0300" stop="20150603180000 -0300" channel="FRG" program_id="0000439194" event_id="00000000000096273535" series_key="">
-<title lang="pt">TV Aberta</title>
-<desc>Sempre um show de artistas nacionais e internacionais de diversos gêneros.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000439194.jpg</image_name>
-<image_broadcast>0000439194</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603180000 -0300" stop="20150603190000 -0300" channel="FRG" program_id="0000391226" event_id="00000000000096273536" series_key="00000000074396000000">
-<title lang="pt">Esporte Show - Ao Vivo</title>
-<desc>Programa de rádio televisionado simultaneamente, voltado aos esportes em geral, que veicula notícias locais e nacionais, informações sobre eventos regionais, entrevistas com personalidades ligadas ao cenário esportivo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000074396.jpg</image_name>
-<image_broadcast>00000000074396</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603190000 -0300" stop="20150603193000 -0300" channel="FRG" program_id="0000352725" event_id="00000000000096273537" series_key="">
-<title lang="pt">Ação FURG</title>
-<desc>O Ação FURG é um programa quinzenal que tem o objetivo de divulgar eventos, projetos, programas e acontecimentos da Universidade e torná-los próximos do público em geral.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000352725.jpg</image_name>
-<image_broadcast>0000352725</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603193000 -0300" stop="20150603200000 -0300" channel="FRG" program_id="0000439193" event_id="00000000000096273538" series_key="">
-<title lang="pt">Mar Aberto</title>
-<desc>Apresentado pelo Oceanólogo e diretor de Museus da FURG, Lauro Barcellos, aborda questões referentes ao mar e o seu universo ímpar.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Ecologia</category>
-<image>
-<image_name position="1">0000439193.jpg</image_name>
-<image_broadcast>0000439193</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603200000 -0300" stop="20150603210000 -0300" channel="FRG" program_id="0000352724" event_id="00000000000096273539" series_key="">
-<title lang="pt">FM Café</title>
-<desc>Programa de rádio no formato de mesa redonda transmitido ao vivo do estúdio da rádio FURG FM 106,7 e simultaneamente televisionado pela FURG TV.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000352724.jpg</image_name>
-<image_broadcast>0000352724</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603210000 -0300" stop="20150603213000 -0300" channel="FRG" program_id="0000391225" event_id="00000000000096273540" series_key="">
-<title lang="pt">Equilíbrio</title>
-<desc>Programa que aborda as diferentes maneiras da busca pela qualidade de vida, física e mental. Alimentação correta, atividades físicas, prevenção de doenças, dieta e hábitos saudáveis, fazem parte dos temas apresentados no programa.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000391225.jpg</image_name>
-<image_broadcast>0000391225</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603213000 -0300" stop="20150603220000 -0300" channel="FRG" program_id="0000425030" event_id="00000000000096273541" series_key="">
-<title lang="pt">Literatus TV</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000425030.jpg</image_name>
-<image_broadcast>0000425030</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603220000 -0300" stop="20150604000000 -0300" channel="FRG" program_id="0000352721" event_id="00000000000096273542" series_key="">
-<title lang="pt">Furg Fm</title>
-<desc>FURG FM na grade significa que a TV está 'linkada' na rádio, não havendo programação televisiva neste horário.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000352721.jpg</image_name>
-<image_broadcast>0000352721</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604000000 -0300" stop="20150604120000 -0300" channel="FRG" program_id="0000352721" event_id="00000000000096273543" series_key="">
-<title lang="pt">Furg Fm</title>
-<desc>FURG FM na grade significa que a TV está 'linkada' na rádio, não havendo programação televisiva neste horário.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000352721.jpg</image_name>
-<image_broadcast>0000352721</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604120000 -0300" stop="20150604123000 -0300" channel="FRG" program_id="0000352725" event_id="00000000000096273544" series_key="">
-<title lang="pt">Ação FURG</title>
-<desc>O Ação FURG é um programa quinzenal que tem o objetivo de divulgar eventos, projetos, programas e acontecimentos da Universidade e torná-los próximos do público em geral.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000352725.jpg</image_name>
-<image_broadcast>0000352725</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604123000 -0300" stop="20150604130000 -0300" channel="FRG" program_id="0000439193" event_id="00000000000096273545" series_key="">
-<title lang="pt">Mar Aberto</title>
-<desc>Apresentado pelo Oceanólogo e diretor de Museus da FURG, Lauro Barcellos, aborda questões referentes ao mar e o seu universo ímpar.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Ecologia</category>
-<image>
-<image_name position="1">0000439193.jpg</image_name>
-<image_broadcast>0000439193</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604130000 -0300" stop="20150604140000 -0300" channel="FRG" program_id="0000439190" event_id="00000000000096273546" series_key="">
-<title lang="pt">FM Café - Ao Vivo</title>
-<desc>Programa de rádio no formato de mesa redonda transmitido ao vivo do estúdio da rádio FURG FM 106,7 e simultaneamente televisionado pela FURG TV.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000439190.jpg</image_name>
-<image_broadcast>0000439190</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604140000 -0300" stop="20150604154500 -0300" channel="FRG" program_id="0000439189" event_id="00000000000096273547" series_key="">
-<title lang="pt">Filme Ancine</title>
-<desc>Produções nacionais e estrangeiras de diversos gêneros, com áudio original e sem intervalos.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
-<image>
-<image_name position="1">0000439189.jpg</image_name>
-<image_broadcast>0000439189</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604154500 -0300" stop="20150604161500 -0300" channel="FRG" program_id="0000391225" event_id="00000000000096273548" series_key="">
-<title lang="pt">Equilíbrio</title>
-<desc>Programa que aborda as diferentes maneiras da busca pela qualidade de vida, física e mental. Alimentação correta, atividades físicas, prevenção de doenças, dieta e hábitos saudáveis, fazem parte dos temas apresentados no programa.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000391225.jpg</image_name>
-<image_broadcast>0000391225</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604161500 -0300" stop="20150604164500 -0300" channel="FRG" program_id="0000425030" event_id="00000000000096273549" series_key="">
-<title lang="pt">Literatus TV</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000425030.jpg</image_name>
-<image_broadcast>0000425030</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604164500 -0300" stop="20150604180000 -0300" channel="FRG" program_id="0000439194" event_id="00000000000096273550" series_key="">
-<title lang="pt">TV Aberta</title>
-<desc>Sempre um show de artistas nacionais e internacionais de diversos gêneros.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000439194.jpg</image_name>
-<image_broadcast>0000439194</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604180000 -0300" stop="20150604190000 -0300" channel="FRG" program_id="0000391226" event_id="00000000000096273551" series_key="00000000074396000000">
-<title lang="pt">Esporte Show - Ao Vivo</title>
-<desc>Programa de rádio televisionado simultaneamente, voltado aos esportes em geral, que veicula notícias locais e nacionais, informações sobre eventos regionais, entrevistas com personalidades ligadas ao cenário esportivo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000074396.jpg</image_name>
-<image_broadcast>00000000074396</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604190000 -0300" stop="20150604193000 -0300" channel="FRG" program_id="0000352722" event_id="00000000000096273552" series_key="">
-<title lang="pt">Musiurg</title>
-<desc>O Musiurg promove todas as manifestações musicais desenvolvidas na região, inclusive as provenientes do ambiente universitário.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000352722.jpg</image_name>
-<image_broadcast>0000352722</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604193000 -0300" stop="20150604200000 -0300" channel="FRG" program_id="0000391227" event_id="00000000000096273553" series_key="">
-<title lang="pt">Fluxograma</title>
-<desc>É um espaço democrático para a linguagem do audiovisual. Proporciona aos telespectadores as mais diferentes produções em vídeo atuais, com intenção de ser um suporte para a educação, a informação e o entretenimento.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000391227.jpg</image_name>
-<image_broadcast>0000391227</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 14 anos</value>
-</rating>
-</programme>
-<programme start="20150604200000 -0300" stop="20150604210000 -0300" channel="FRG" program_id="0000352724" event_id="00000000000096273554" series_key="">
-<title lang="pt">FM Café</title>
-<desc>Programa de rádio no formato de mesa redonda transmitido ao vivo do estúdio da rádio FURG FM 106,7 e simultaneamente televisionado pela FURG TV.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000352724.jpg</image_name>
-<image_broadcast>0000352724</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604210000 -0300" stop="20150604213000 -0300" channel="FRG" program_id="0000352725" event_id="00000000000096273555" series_key="">
-<title lang="pt">Ação FURG</title>
-<desc>O Ação FURG é um programa quinzenal que tem o objetivo de divulgar eventos, projetos, programas e acontecimentos da Universidade e torná-los próximos do público em geral.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000352725.jpg</image_name>
-<image_broadcast>0000352725</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604213000 -0300" stop="20150604220000 -0300" channel="FRG" program_id="0000439193" event_id="00000000000096273556" series_key="">
-<title lang="pt">Mar Aberto</title>
-<desc>Apresentado pelo Oceanólogo e diretor de Museus da FURG, Lauro Barcellos, aborda questões referentes ao mar e o seu universo ímpar.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Ecologia</category>
-<image>
-<image_name position="1">0000439193.jpg</image_name>
-<image_broadcast>0000439193</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604220000 -0300" stop="20150605000000 -0300" channel="FRG" program_id="0000352721" event_id="00000000000096273557" series_key="">
-<title lang="pt">Furg Fm</title>
-<desc>FURG FM na grade significa que a TV está 'linkada' na rádio, não havendo programação televisiva neste horário.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000352721.jpg</image_name>
-<image_broadcast>0000352721</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
 <programme start="20150605000000 -0300" stop="20150605120000 -0300" channel="FRG" program_id="0000352721" event_id="00000000000096273558" series_key="">
 <title lang="pt">Furg Fm</title>
 <desc>FURG FM na grade significa que a TV está 'linkada' na rádio, não havendo programação televisiva neste horário.</desc>
@@ -4329,6 +3845,465 @@
 </rating>
 </programme>
 <programme start="20150621220000 -0300" stop="20150622000000 -0300" channel="FRG" program_id="0000352721" event_id="00000000000096867608" series_key="">
+<title lang="pt">Furg Fm</title>
+<desc>FURG FM na grade significa que a TV está 'linkada' na rádio, não havendo programação televisiva neste horário.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000352721.jpg</image_name>
+<image_broadcast>0000352721</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622000000 -0300" stop="20150622120000 -0300" channel="FRG" program_id="0000352721" event_id="00000000000096951446" series_key="">
+<title lang="pt">Furg Fm</title>
+<desc>FURG FM na grade significa que a TV está 'linkada' na rádio, não havendo programação televisiva neste horário.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000352721.jpg</image_name>
+<image_broadcast>0000352721</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622120000 -0300" stop="20150622123000 -0300" channel="FRG" program_id="0000352728" event_id="00000000000096951448" series_key="00000000075021000000">
+<title lang="pt">Multifoco</title>
+<desc>O Multifoco é a revista eletrônica da FURG TV. Com cerca de dois anos no ar, o semanário busca aprofundar ainda mais os temas factuais, dando uma abordagem diferenciada aos assuntos relacionados à Universidade e comunidade.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075021.jpg</image_name>
+<image_broadcast>00000000075021</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622123000 -0300" stop="20150622130000 -0300" channel="FRG" program_id="0000439191" event_id="00000000000096951450" series_key="">
+<title lang="pt">Itaú Cultural</title>
+<desc>A parceria da FURG TV com o Itaú Cultural vem de longa data e continua agora com o 'Rumos Itaú Cultural - Música Infantil', uma série que reúne artistas de diversos estilos em versões para o público infantil.</desc>
+<category lang="pt">Documentário</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000439191.jpg</image_name>
+<image_broadcast>0000439191</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622130000 -0300" stop="20150622140000 -0300" channel="FRG" program_id="0000439190" event_id="00000000000096951452" series_key="">
+<title lang="pt">FM Café - Ao Vivo</title>
+<desc>Programa de rádio no formato de mesa redonda transmitido ao vivo do estúdio da rádio FURG FM 106,7 e simultaneamente televisionado pela FURG TV.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000439190.jpg</image_name>
+<image_broadcast>0000439190</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622140000 -0300" stop="20150622154500 -0300" channel="FRG" program_id="0000439189" event_id="00000000000096951454" series_key="">
+<title lang="pt">Filme Ancine</title>
+<desc>Produções nacionais e estrangeiras de diversos gêneros, com áudio original e sem intervalos.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cinema</category>
+<image>
+<image_name position="1">0000439189.jpg</image_name>
+<image_broadcast>0000439189</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622154500 -0300" stop="20150622161500 -0300" channel="FRG" program_id="0000352722" event_id="00000000000096951455" series_key="">
+<title lang="pt">Musiurg</title>
+<desc>O Musiurg promove todas as manifestações musicais desenvolvidas na região, inclusive as provenientes do ambiente universitário.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000352722.jpg</image_name>
+<image_broadcast>0000352722</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622161500 -0300" stop="20150622164500 -0300" channel="FRG" program_id="0000391227" event_id="00000000000096951456" series_key="">
+<title lang="pt">Fluxograma</title>
+<desc>É um espaço democrático para a linguagem do audiovisual. Proporciona aos telespectadores as mais diferentes produções em vídeo atuais, com intenção de ser um suporte para a educação, a informação e o entretenimento.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000391227.jpg</image_name>
+<image_broadcast>0000391227</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150622164500 -0300" stop="20150622180000 -0300" channel="FRG" program_id="0000439194" event_id="00000000000096951457" series_key="">
+<title lang="pt">TV Aberta</title>
+<desc>Sempre um show de artistas nacionais e internacionais de diversos gêneros.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000439194.jpg</image_name>
+<image_broadcast>0000439194</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622180000 -0300" stop="20150622190000 -0300" channel="FRG" program_id="0000391226" event_id="00000000000096951458" series_key="00000000074396000000">
+<title lang="pt">Esporte Show - Ao Vivo</title>
+<desc>Programa de rádio televisionado simultaneamente, voltado aos esportes em geral, que veicula notícias locais e nacionais, informações sobre eventos regionais, entrevistas com personalidades ligadas ao cenário esportivo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000074396.jpg</image_name>
+<image_broadcast>00000000074396</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622190000 -0300" stop="20150622200000 -0300" channel="FRG" program_id="0000400202" event_id="00000000000096951459" series_key="">
+<title lang="pt">Contraponto</title>
+<desc>Programa de debates sobre temas contemporâneos. O Contraponto permite diferentes visões sobre os assuntos abordados, através da opinião do segmento universitário e da sociedad.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000400202.jpg</image_name>
+<image_broadcast>0000400202</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622200000 -0300" stop="20150622210000 -0300" channel="FRG" program_id="0000352724" event_id="00000000000096951460" series_key="">
+<title lang="pt">FM Café</title>
+<desc>Programa de rádio no formato de mesa redonda transmitido ao vivo do estúdio da rádio FURG FM 106,7 e simultaneamente televisionado pela FURG TV.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000352724.jpg</image_name>
+<image_broadcast>0000352724</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622210000 -0300" stop="20150622213000 -0300" channel="FRG" program_id="0000352728" event_id="00000000000096951461" series_key="00000000075021000000">
+<title lang="pt">Multifoco</title>
+<desc>O Multifoco é a revista eletrônica da FURG TV. Com cerca de dois anos no ar, o semanário busca aprofundar ainda mais os temas factuais, dando uma abordagem diferenciada aos assuntos relacionados à Universidade e comunidade.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075021.jpg</image_name>
+<image_broadcast>00000000075021</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622213000 -0300" stop="20150622220000 -0300" channel="FRG" program_id="0000439191" event_id="00000000000096951462" series_key="">
+<title lang="pt">Itaú Cultural</title>
+<desc>A parceria da FURG TV com o Itaú Cultural vem de longa data e continua agora com o 'Rumos Itaú Cultural - Música Infantil', uma série que reúne artistas de diversos estilos em versões para o público infantil.</desc>
+<category lang="pt">Documentário</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000439191.jpg</image_name>
+<image_broadcast>0000439191</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622220000 -0300" stop="20150623000000 -0300" channel="FRG" program_id="0000352721" event_id="00000000000096951463" series_key="">
+<title lang="pt">Furg Fm</title>
+<desc>FURG FM na grade significa que a TV está 'linkada' na rádio, não havendo programação televisiva neste horário.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000352721.jpg</image_name>
+<image_broadcast>0000352721</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623000000 -0300" stop="20150623120000 -0300" channel="FRG" program_id="0000352721" event_id="00000000000097130223" series_key="">
+<title lang="pt">Furg Fm</title>
+<desc>FURG FM na grade significa que a TV está 'linkada' na rádio, não havendo programação televisiva neste horário.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000352721.jpg</image_name>
+<image_broadcast>0000352721</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623120000 -0300" stop="20150623130000 -0300" channel="FRG" program_id="0000400202" event_id="00000000000097130224" series_key="">
+<title lang="pt">Contraponto</title>
+<desc>Programa de debates sobre temas contemporâneos. O Contraponto permite diferentes visões sobre os assuntos abordados, através da opinião do segmento universitário e da sociedad.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000400202.jpg</image_name>
+<image_broadcast>0000400202</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623130000 -0300" stop="20150623140000 -0300" channel="FRG" program_id="0000439190" event_id="00000000000097130225" series_key="">
+<title lang="pt">FM Café - Ao Vivo</title>
+<desc>Programa de rádio no formato de mesa redonda transmitido ao vivo do estúdio da rádio FURG FM 106,7 e simultaneamente televisionado pela FURG TV.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000439190.jpg</image_name>
+<image_broadcast>0000439190</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623140000 -0300" stop="20150623154500 -0300" channel="FRG" program_id="0000439189" event_id="00000000000097130226" series_key="">
+<title lang="pt">Filme Ancine</title>
+<desc>Produções nacionais e estrangeiras de diversos gêneros, com áudio original e sem intervalos.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cinema</category>
+<image>
+<image_name position="1">0000439189.jpg</image_name>
+<image_broadcast>0000439189</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623154500 -0300" stop="20150623161500 -0300" channel="FRG" program_id="0000352728" event_id="00000000000097130227" series_key="00000000075021000000">
+<title lang="pt">Multifoco</title>
+<desc>O Multifoco é a revista eletrônica da FURG TV. Com cerca de dois anos no ar, o semanário busca aprofundar ainda mais os temas factuais, dando uma abordagem diferenciada aos assuntos relacionados à Universidade e comunidade.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075021.jpg</image_name>
+<image_broadcast>00000000075021</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623161500 -0300" stop="20150623164500 -0300" channel="FRG" program_id="0000439191" event_id="00000000000097130228" series_key="">
+<title lang="pt">Itaú Cultural</title>
+<desc>A parceria da FURG TV com o Itaú Cultural vem de longa data e continua agora com o 'Rumos Itaú Cultural - Música Infantil', uma série que reúne artistas de diversos estilos em versões para o público infantil.</desc>
+<category lang="pt">Documentário</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000439191.jpg</image_name>
+<image_broadcast>0000439191</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623164500 -0300" stop="20150623180000 -0300" channel="FRG" program_id="0000439194" event_id="00000000000097130229" series_key="">
+<title lang="pt">TV Aberta</title>
+<desc>Sempre um show de artistas nacionais e internacionais de diversos gêneros.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000439194.jpg</image_name>
+<image_broadcast>0000439194</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623180000 -0300" stop="20150623190000 -0300" channel="FRG" program_id="0000391226" event_id="00000000000097130230" series_key="00000000074396000000">
+<title lang="pt">Esporte Show - Ao Vivo</title>
+<desc>Programa de rádio televisionado simultaneamente, voltado aos esportes em geral, que veicula notícias locais e nacionais, informações sobre eventos regionais, entrevistas com personalidades ligadas ao cenário esportivo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000074396.jpg</image_name>
+<image_broadcast>00000000074396</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623190000 -0300" stop="20150623193000 -0300" channel="FRG" program_id="0000391225" event_id="00000000000097130231" series_key="">
+<title lang="pt">Equilíbrio</title>
+<desc>Programa que aborda as diferentes maneiras da busca pela qualidade de vida, física e mental. Alimentação correta, atividades físicas, prevenção de doenças, dieta e hábitos saudáveis, fazem parte dos temas apresentados no programa.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000391225.jpg</image_name>
+<image_broadcast>0000391225</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623193000 -0300" stop="20150623200000 -0300" channel="FRG" program_id="0000425030" event_id="00000000000097130232" series_key="">
+<title lang="pt">Literatus TV</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000425030.jpg</image_name>
+<image_broadcast>0000425030</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623200000 -0300" stop="20150623210000 -0300" channel="FRG" program_id="0000352724" event_id="00000000000097130233" series_key="">
+<title lang="pt">FM Café</title>
+<desc>Programa de rádio no formato de mesa redonda transmitido ao vivo do estúdio da rádio FURG FM 106,7 e simultaneamente televisionado pela FURG TV.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000352724.jpg</image_name>
+<image_broadcast>0000352724</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623210000 -0300" stop="20150623220000 -0300" channel="FRG" program_id="0000400202" event_id="00000000000097130234" series_key="">
+<title lang="pt">Contraponto</title>
+<desc>Programa de debates sobre temas contemporâneos. O Contraponto permite diferentes visões sobre os assuntos abordados, através da opinião do segmento universitário e da sociedad.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000400202.jpg</image_name>
+<image_broadcast>0000400202</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623220000 -0300" stop="20150624000000 -0300" channel="FRG" program_id="0000352721" event_id="00000000000097130235" series_key="">
 <title lang="pt">Furg Fm</title>
 <desc>FURG FM na grade significa que a TV está 'linkada' na rádio, não havendo programação televisiva neste horário.</desc>
 <category lang="pt">Variedades</category>

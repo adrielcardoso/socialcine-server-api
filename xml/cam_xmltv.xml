@@ -4,1012 +4,6 @@
 <display-name lang="pt">TV Câmara</display-name>
 <icon src="cam.gif" />
 </channel>
-<programme start="20150603000000 -0300" stop="20150603030000 -0300" channel="CAM" program_id="0000317537" event_id="00000000000095857152" series_key="">
-<title lang="pt">Comissão</title>
-<desc>Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade. www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">0000317537.jpg</image_name>
-<image_broadcast>0000317537</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603030000 -0300" stop="20150603033000 -0300" channel="CAM" program_id="0000018409" event_id="00000000000095857153" series_key="">
-<title lang="pt">Brasil em Debate</title>
-<title lang="en">Brasil em Debate</title>
-<desc>Diferentes pontos de vista marcam os debates sobre assuntos de interesse nacional. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000018409.jpg</image_name>
-<image_broadcast>0000018409</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603033000 -0300" stop="20150603040000 -0300" channel="CAM" program_id="0000081891" event_id="00000000000095857154" series_key="00000000069943000000">
-<title lang="pt">Câmara Hoje</title>
-<desc>Telejornal com a cobertura dos principais acontecimentos do dia na Câmara. Reveja o programa no endereço: www.tv.camara.gov.br</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069943.jpg</image_name>
-<image_broadcast>00000000069943</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603040000 -0300" stop="20150603050000 -0300" channel="CAM" program_id="0000112175" event_id="00000000000095857155" series_key="">
-<title lang="pt">Câmara Ligada</title>
-<title lang="en">Câmara Ligada</title>
-<desc>Deputados discutem com os jovens os mais variados temas. Presença de banda, DJ, especialistas e estudantes de uma escola ou faculdade.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000112175.jpg</image_name>
-<image_broadcast>0000112175</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603050000 -0300" stop="20150603053000 -0300" channel="CAM" program_id="0000407891" event_id="00000000000095857156" series_key="">
-<title lang="pt">Casa das Palavras</title>
-<desc>Livro eletrônico</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000407891.jpg</image_name>
-<image_broadcast>0000407891</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603053000 -0300" stop="20150603060000 -0300" channel="CAM" program_id="0000331970" event_id="00000000000095857157" series_key="">
-<title lang="pt">Programa</title>
-<sub-title lang="pt">Ponto de Vista</sub-title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000331970.jpg</image_name>
-<image_broadcast>0000331970</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603060000 -0300" stop="20150603063000 -0300" channel="CAM" program_id="0000162824" event_id="00000000000095857158" series_key="">
-<title lang="pt">Matérias Especiais</title>
-<desc>Reportagens sobre temas diversos. Reveja o interprograma no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000162824.jpg</image_name>
-<image_broadcast>0000162824</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603063000 -0300" stop="20150603070000 -0300" channel="CAM" program_id="0000177434" event_id="00000000000095857159" series_key="00000000069944000000">
-<title lang="pt">Câmara Hoje - Ao Vivo</title>
-<desc>Telejornal com a cobertura dos principais acontecimentos do dia na Câmara. Reveja o programa no endereço: www.tv.camara.gov.br</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069944.jpg</image_name>
-<image_broadcast>00000000069944</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603070000 -0300" stop="20150603073000 -0300" channel="CAM" program_id="0000018409" event_id="00000000000095857160" series_key="">
-<title lang="pt">Brasil em Debate</title>
-<title lang="en">Brasil em Debate</title>
-<desc>Diferentes pontos de vista marcam os debates sobre assuntos de interesse nacional. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000018409.jpg</image_name>
-<image_broadcast>0000018409</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603073000 -0300" stop="20150603074500 -0300" channel="CAM" program_id="0000072945" event_id="00000000000095857161" series_key="">
-<title lang="pt">Palavra Aberta</title>
-<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000072945.jpg</image_name>
-<image_broadcast>0000072945</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603074500 -0300" stop="20150603080000 -0300" channel="CAM" program_id="0000077849" event_id="00000000000095857162" series_key="00000000069945000000">
-<title lang="pt">Câmara Informa</title>
-<desc>Reportagens sobre temas diversos. Reveja o interprograma no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069945.jpg</image_name>
-<image_broadcast>00000000069945</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603080000 -0300" stop="20150603081500 -0300" channel="CAM" program_id="0000072945" event_id="00000000000095857163" series_key="">
-<title lang="pt">Palavra Aberta</title>
-<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000072945.jpg</image_name>
-<image_broadcast>0000072945</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603081500 -0300" stop="20150603083000 -0300" channel="CAM" program_id="0000072945" event_id="00000000000095857164" series_key="">
-<title lang="pt">Palavra Aberta</title>
-<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000072945.jpg</image_name>
-<image_broadcast>0000072945</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603083000 -0300" stop="20150603090000 -0300" channel="CAM" program_id="0000240357" event_id="00000000000095857165" series_key="">
-<title lang="pt">Interprogramas TV Câmara</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000240357.jpg</image_name>
-<image_broadcast>0000240357</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603090000 -0300" stop="20150603093000 -0300" channel="CAM" program_id="0000177434" event_id="00000000000095857166" series_key="00000000069944000000">
-<title lang="pt">Câmara Hoje - Ao Vivo</title>
-<desc>Telejornal com a cobertura dos principais acontecimentos do dia na Câmara. Reveja o programa no endereço: www.tv.camara.gov.br</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069944.jpg</image_name>
-<image_broadcast>00000000069944</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603093000 -0300" stop="20150603134500 -0300" channel="CAM" program_id="0000018795" event_id="00000000000095857167" series_key="">
-<title lang="pt">Comissões - Ao Vivo</title>
-<title lang="en">Comissões - Ao Vivo</title>
-<desc>A atividade legislativa do Senado Federal se dá principalmente por meio de reuniões das comissões e sessões plenárias. Para saber mais: www.senado.gov.br/tv</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Político</category>
-<image>
-<image_name position="1">0000018795.jpg</image_name>
-<image_broadcast>0000018795</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603134500 -0300" stop="20150603140000 -0300" channel="CAM" program_id="0000072945" event_id="00000000000095857169" series_key="">
-<title lang="pt">Palavra Aberta</title>
-<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000072945.jpg</image_name>
-<image_broadcast>0000072945</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603140000 -0300" stop="20150603200000 -0300" channel="CAM" program_id="0000319742" event_id="00000000000095857170" series_key="">
-<title lang="pt">Sessão Plenária - Ao Vivo</title>
-<desc>Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade. www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">0000319742.jpg</image_name>
-<image_broadcast>0000319742</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603200000 -0300" stop="20150603203000 -0300" channel="CAM" program_id="0000177434" event_id="00000000000095857171" series_key="00000000069944000000">
-<title lang="pt">Câmara Hoje - Ao Vivo</title>
-<desc>Telejornal com a cobertura dos principais acontecimentos do dia na Câmara. Reveja o programa no endereço: www.tv.camara.gov.br</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069944.jpg</image_name>
-<image_broadcast>00000000069944</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603203000 -0300" stop="20150603210000 -0300" channel="CAM" program_id="0000018409" event_id="00000000000095857172" series_key="">
-<title lang="pt">Brasil em Debate</title>
-<title lang="en">Brasil em Debate</title>
-<desc>Diferentes pontos de vista marcam os debates sobre assuntos de interesse nacional. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000018409.jpg</image_name>
-<image_broadcast>0000018409</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603210000 -0300" stop="20150603211500 -0300" channel="CAM" program_id="0000072945" event_id="00000000000095857173" series_key="">
-<title lang="pt">Palavra Aberta</title>
-<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000072945.jpg</image_name>
-<image_broadcast>0000072945</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603211500 -0300" stop="20150603213000 -0300" channel="CAM" program_id="0000072945" event_id="00000000000095857174" series_key="">
-<title lang="pt">Palavra Aberta</title>
-<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000072945.jpg</image_name>
-<image_broadcast>0000072945</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603213000 -0300" stop="20150603223000 -0300" channel="CAM" program_id="0000081720" event_id="00000000000095857175" series_key="">
-<title lang="pt">Participação Popular</title>
-<title lang="en">Participação Popular</title>
-<desc>Programa de auditório. A plateia faz perguntas diretamente aos deputados, que esclarecem questões relevantes e mostram as propostas do Congresso referentes ao tema.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000081720.jpg</image_name>
-<image_broadcast>0000081720</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603223000 -0300" stop="20150603230000 -0300" channel="CAM" program_id="0000018409" event_id="00000000000095857176" series_key="">
-<title lang="pt">Brasil em Debate</title>
-<title lang="en">Brasil em Debate</title>
-<desc>Diferentes pontos de vista marcam os debates sobre assuntos de interesse nacional. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000018409.jpg</image_name>
-<image_broadcast>0000018409</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603230000 -0300" stop="20150603233000 -0300" channel="CAM" program_id="0000081891" event_id="00000000000095857177" series_key="00000000069943000000">
-<title lang="pt">Câmara Hoje</title>
-<desc>Telejornal com a cobertura dos principais acontecimentos do dia na Câmara. Reveja o programa no endereço: www.tv.camara.gov.br</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069943.jpg</image_name>
-<image_broadcast>00000000069943</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603233000 -0300" stop="20150603234500 -0300" channel="CAM" program_id="0000072945" event_id="00000000000095857178" series_key="">
-<title lang="pt">Palavra Aberta</title>
-<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000072945.jpg</image_name>
-<image_broadcast>0000072945</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603234500 -0300" stop="20150604000000 -0300" channel="CAM" program_id="0000072945" event_id="00000000000095857179" series_key="">
-<title lang="pt">Palavra Aberta</title>
-<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000072945.jpg</image_name>
-<image_broadcast>0000072945</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604000000 -0300" stop="20150604030000 -0300" channel="CAM" program_id="0000317537" event_id="00000000000095857180" series_key="">
-<title lang="pt">Comissão</title>
-<desc>Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade. www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">0000317537.jpg</image_name>
-<image_broadcast>0000317537</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604030000 -0300" stop="20150604033000 -0300" channel="CAM" program_id="0000018409" event_id="00000000000095857181" series_key="">
-<title lang="pt">Brasil em Debate</title>
-<title lang="en">Brasil em Debate</title>
-<desc>Diferentes pontos de vista marcam os debates sobre assuntos de interesse nacional. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000018409.jpg</image_name>
-<image_broadcast>0000018409</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604033000 -0300" stop="20150604040000 -0300" channel="CAM" program_id="0000081891" event_id="00000000000095857182" series_key="00000000069943000000">
-<title lang="pt">Câmara Hoje</title>
-<desc>Telejornal com a cobertura dos principais acontecimentos do dia na Câmara. Reveja o programa no endereço: www.tv.camara.gov.br</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069943.jpg</image_name>
-<image_broadcast>00000000069943</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604040000 -0300" stop="20150604050000 -0300" channel="CAM" program_id="0000054526" event_id="00000000000095857183" series_key="00000000059229000000">
-<title lang="pt">Documentário TV Câmara</title>
-<desc></desc>
-<category lang="pt">Documentário</category>
-<category lang="pt">Político</category>
-<image>
-<image_name position="1">00000000059229.jpg</image_name>
-<image_broadcast>00000000059229</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604050000 -0300" stop="20150604060000 -0300" channel="CAM" program_id="0000112175" event_id="00000000000095857184" series_key="">
-<title lang="pt">Câmara Ligada</title>
-<title lang="en">Câmara Ligada</title>
-<desc>Deputados discutem com os jovens os mais variados temas. Presença de banda, DJ, especialistas e estudantes de uma escola ou faculdade.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000112175.jpg</image_name>
-<image_broadcast>0000112175</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604060000 -0300" stop="20150604063000 -0300" channel="CAM" program_id="0000077849" event_id="00000000000095857185" series_key="00000000069945000000">
-<title lang="pt">Câmara Informa</title>
-<desc>Reportagens sobre temas diversos. Reveja o interprograma no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069945.jpg</image_name>
-<image_broadcast>00000000069945</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604063000 -0300" stop="20150604070000 -0300" channel="CAM" program_id="0000081891" event_id="00000000000097651692" series_key="00000000069943000000">
-<title lang="pt">Câmara Hoje</title>
-<desc>Telejornal com a cobertura dos principais acontecimentos do dia na Câmara. Reveja o programa no endereço: www.tv.camara.gov.br</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069943.jpg</image_name>
-<image_broadcast>00000000069943</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604070000 -0300" stop="20150604073000 -0300" channel="CAM" program_id="0000018409" event_id="00000000000095857186" series_key="">
-<title lang="pt">Brasil em Debate</title>
-<title lang="en">Brasil em Debate</title>
-<desc>Diferentes pontos de vista marcam os debates sobre assuntos de interesse nacional. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000018409.jpg</image_name>
-<image_broadcast>0000018409</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604073000 -0300" stop="20150604074500 -0300" channel="CAM" program_id="0000072945" event_id="00000000000095857187" series_key="">
-<title lang="pt">Palavra Aberta</title>
-<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000072945.jpg</image_name>
-<image_broadcast>0000072945</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604074500 -0300" stop="20150604080000 -0300" channel="CAM" program_id="0000077849" event_id="00000000000095857188" series_key="00000000069945000000">
-<title lang="pt">Câmara Informa</title>
-<desc>Reportagens sobre temas diversos. Reveja o interprograma no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069945.jpg</image_name>
-<image_broadcast>00000000069945</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604080000 -0300" stop="20150604081500 -0300" channel="CAM" program_id="0000072945" event_id="00000000000095857189" series_key="">
-<title lang="pt">Palavra Aberta</title>
-<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000072945.jpg</image_name>
-<image_broadcast>0000072945</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604081500 -0300" stop="20150604083000 -0300" channel="CAM" program_id="0000072945" event_id="00000000000095857190" series_key="">
-<title lang="pt">Palavra Aberta</title>
-<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000072945.jpg</image_name>
-<image_broadcast>0000072945</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604083000 -0300" stop="20150604090000 -0300" channel="CAM" program_id="0000331970" event_id="00000000000095857191" series_key="">
-<title lang="pt">Programa</title>
-<sub-title lang="pt">Ponto de Vista</sub-title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000331970.jpg</image_name>
-<image_broadcast>0000331970</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604090000 -0300" stop="20150604093000 -0300" channel="CAM" program_id="0000177434" event_id="00000000000097651693" series_key="00000000069944000000">
-<title lang="pt">Câmara Hoje - Ao Vivo</title>
-<desc>Telejornal com a cobertura dos principais acontecimentos do dia na Câmara. Reveja o programa no endereço: www.tv.camara.gov.br</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069944.jpg</image_name>
-<image_broadcast>00000000069944</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604093000 -0300" stop="20150604134500 -0300" channel="CAM" program_id="0000018795" event_id="00000000000095857192" series_key="">
-<title lang="pt">Comissões - Ao Vivo</title>
-<title lang="en">Comissões - Ao Vivo</title>
-<desc>A atividade legislativa do Senado Federal se dá principalmente por meio de reuniões das comissões e sessões plenárias. Para saber mais: www.senado.gov.br/tv</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Político</category>
-<image>
-<image_name position="1">0000018795.jpg</image_name>
-<image_broadcast>0000018795</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604134500 -0300" stop="20150604140000 -0300" channel="CAM" program_id="0000072945" event_id="00000000000095857194" series_key="">
-<title lang="pt">Palavra Aberta</title>
-<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000072945.jpg</image_name>
-<image_broadcast>0000072945</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604140000 -0300" stop="20150604190000 -0300" channel="CAM" program_id="0000319742" event_id="00000000000095857195" series_key="">
-<title lang="pt">Sessão Plenária - Ao Vivo</title>
-<desc>Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade. www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">0000319742.jpg</image_name>
-<image_broadcast>0000319742</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604190000 -0300" stop="20150604200000 -0300" channel="CAM" program_id="0000086484" event_id="00000000000097651694" series_key="">
-<title lang="pt">Expressão Nacional</title>
-<title lang="en">Expressão Nacional</title>
-<desc>Debate ao vivo, com a participação do cidadão, sobre os principais temas em discussão na agenda do Congresso Nacional.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000086484.jpg</image_name>
-<image_broadcast>0000086484</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604200000 -0300" stop="20150604203000 -0300" channel="CAM" program_id="0000177434" event_id="00000000000095857196" series_key="00000000069944000000">
-<title lang="pt">Câmara Hoje - Ao Vivo</title>
-<desc>Telejornal com a cobertura dos principais acontecimentos do dia na Câmara. Reveja o programa no endereço: www.tv.camara.gov.br</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069944.jpg</image_name>
-<image_broadcast>00000000069944</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604203000 -0300" stop="20150604204000 -0300" channel="CAM" program_id="0000005535" event_id="00000000000095857197" series_key="">
-<title lang="pt">Rede Nacional Obrigatória</title>
-<title lang="en">Rede Nacional Obrigatória</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">0000005535.jpg</image_name>
-<image_broadcast>0000005535</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604204000 -0300" stop="20150604210000 -0300" channel="CAM" program_id="0000077849" event_id="00000000000097651695" series_key="00000000069945000000">
-<title lang="pt">Câmara Informa</title>
-<desc>Reportagens sobre temas diversos. Reveja o interprograma no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069945.jpg</image_name>
-<image_broadcast>00000000069945</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604210000 -0300" stop="20150604211500 -0300" channel="CAM" program_id="0000072945" event_id="00000000000095857198" series_key="">
-<title lang="pt">Palavra Aberta</title>
-<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000072945.jpg</image_name>
-<image_broadcast>0000072945</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604211500 -0300" stop="20150604213000 -0300" channel="CAM" program_id="0000072945" event_id="00000000000095857199" series_key="">
-<title lang="pt">Palavra Aberta</title>
-<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000072945.jpg</image_name>
-<image_broadcast>0000072945</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604213000 -0300" stop="20150604220000 -0300" channel="CAM" program_id="0000331970" event_id="00000000000095857200" series_key="">
-<title lang="pt">Programa</title>
-<sub-title lang="pt">Ponto de Vista</sub-title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000331970.jpg</image_name>
-<image_broadcast>0000331970</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604220000 -0300" stop="20150604223000 -0300" channel="CAM" program_id="0000407891" event_id="00000000000097651696" series_key="">
-<title lang="pt">Casa das Palavras</title>
-<desc>Livro eletrônico</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000407891.jpg</image_name>
-<image_broadcast>0000407891</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604223000 -0300" stop="20150604230000 -0300" channel="CAM" program_id="0000018409" event_id="00000000000095857201" series_key="">
-<title lang="pt">Brasil em Debate</title>
-<title lang="en">Brasil em Debate</title>
-<desc>Diferentes pontos de vista marcam os debates sobre assuntos de interesse nacional. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000018409.jpg</image_name>
-<image_broadcast>0000018409</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604230000 -0300" stop="20150604233000 -0300" channel="CAM" program_id="0000081891" event_id="00000000000095857202" series_key="00000000069943000000">
-<title lang="pt">Câmara Hoje</title>
-<desc>Telejornal com a cobertura dos principais acontecimentos do dia na Câmara. Reveja o programa no endereço: www.tv.camara.gov.br</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069943.jpg</image_name>
-<image_broadcast>00000000069943</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604233000 -0300" stop="20150604234500 -0300" channel="CAM" program_id="0000072945" event_id="00000000000095857203" series_key="">
-<title lang="pt">Palavra Aberta</title>
-<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000072945.jpg</image_name>
-<image_broadcast>0000072945</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604234500 -0300" stop="20150605000000 -0300" channel="CAM" program_id="0000072945" event_id="00000000000095857204" series_key="">
-<title lang="pt">Palavra Aberta</title>
-<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000072945.jpg</image_name>
-<image_broadcast>0000072945</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
 <programme start="20150605000000 -0300" stop="20150605030000 -0300" channel="CAM" program_id="0000317537" event_id="00000000000095857205" series_key="">
 <title lang="pt">Comissão</title>
 <desc>Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade. www.tv.camara.gov.br</desc>
@@ -1356,23 +350,22 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605190000 -0300" stop="20150605193000 -0300" channel="CAM" program_id="0000048437" event_id="00000000000095857224" series_key="">
-<title lang="pt">Conexão</title>
-<desc>Revista eletrônica. Mostra gente bacana, tendências de moda, comportamento e cultura. Apresentação: Juliana Ribeiro.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
+<programme start="20150605190000 -0300" stop="20150605193000 -0300" channel="CAM" program_id="0000077849" event_id="00000000000095857224" series_key="00000000069945000000">
+<title lang="pt">Câmara Informa</title>
+<desc>Reportagens sobre temas diversos. Reveja o interprograma no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
 <image>
-<image_name position="1">0000048437.jpg</image_name>
-<image_broadcast>0000048437</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
+<image_name position="1">00000000069945.jpg</image_name>
+<image_broadcast>00000000069945</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
 <country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
 <rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
+<value>Programa livre para todas as idades</value>
 </rating>
 </programme>
 <programme start="20150605193000 -0300" stop="20150605200000 -0300" channel="CAM" program_id="0000407891" event_id="00000000000097651698" series_key="">
@@ -1608,17 +601,17 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606060000 -0300" stop="20150606063000 -0300" channel="CAM" program_id="0000077849" event_id="00000000000095857245" series_key="00000000069945000000">
-<title lang="pt">Câmara Informa</title>
-<desc>Reportagens sobre temas diversos. Reveja o interprograma no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
+<programme start="20150606060000 -0300" stop="20150606063000 -0300" channel="CAM" program_id="0000331970" event_id="00000000000095857245" series_key="">
+<title lang="pt">Programa</title>
+<sub-title lang="pt">Ponto de Vista</sub-title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
 <image>
-<image_name position="1">00000000069945.jpg</image_name>
-<image_broadcast>00000000069945</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
+<image_name position="1">0000331970.jpg</image_name>
+<image_broadcast>0000331970</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
-<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -1769,18 +762,16 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606100000 -0300" stop="20150606130000 -0300" channel="CAM" program_id="0000137293" event_id="00000000000095857254" series_key="">
-<title lang="pt">Comissão</title>
-<title lang="en">Comissão</title>
+<programme start="20150606100000 -0300" stop="20150606130000 -0300" channel="CAM" program_id="0000004589" event_id="00000000000095857254" series_key="">
+<title lang="pt">Sessão Plenária</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Política</category>
 <image>
-<image_name position="1">0000137293.jpg</image_name>
-<image_broadcast>0000137293</image_broadcast>
+<image_name position="1">0000004589.jpg</image_name>
+<image_broadcast>0000004589</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
-<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -1987,7 +978,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607000000 -0300" stop="20150607030000 -0300" channel="CAM" program_id="0000137293" event_id="00000000000095857291" series_key="">
+<programme start="20150607000000 -0300" stop="20150607040000 -0300" channel="CAM" program_id="0000137293" event_id="00000000000095857291" series_key="">
 <title lang="pt">Comissão</title>
 <title lang="en">Comissão</title>
 <desc></desc>
@@ -2006,26 +997,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607030000 -0300" stop="20150607033000 -0300" channel="CAM" program_id="0000018409" event_id="00000000000095857299" series_key="">
-<title lang="pt">Brasil em Debate</title>
-<title lang="en">Brasil em Debate</title>
-<desc>Diferentes pontos de vista marcam os debates sobre assuntos de interesse nacional. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000018409.jpg</image_name>
-<image_broadcast>0000018409</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150607033000 -0300" stop="20150607043000 -0300" channel="CAM" program_id="0000016980" event_id="00000000000095857301" series_key="00000000066267000000">
+<programme start="20150607040000 -0300" stop="20150607050000 -0300" channel="CAM" program_id="0000016980" event_id="00000000000095857303" series_key="00000000066267000000">
 <title lang="pt">Panorama</title>
 <desc>Revista com os assuntos que movimentaram a semana na Câmara. Informação completa para que o cidadão acompanhe de perto os trabalhos dos deputados durante a semana que passou.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2036,23 +1008,6 @@
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
 <country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150607043000 -0300" stop="20150607050000 -0300" channel="CAM" program_id="0000225000" event_id="00000000000095857303" series_key="00000000069946000000">
-<title lang="pt">Fatos e Opiniões</title>
-<desc>Com 30 minutos de duração e linguagem atraente, o programa apresenta uma coletânea dos discursos feitos em Plenário ao longo da semana, editados por tema. Reveja o programa no endereço: www.tv.camara.gov.br</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069946.jpg</image_name>
-<image_broadcast>00000000069946</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
 <video>
 <colour>yes</colour>
 </video>
@@ -3569,14 +2524,15 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610040000 -0300" stop="20150610050000 -0300" channel="CAM" program_id="0000086367" event_id="00000000000096321184" series_key="">
-<title lang="pt">Talentos</title>
-<desc>Espaço reconhecido para artistas consagrados e novos nomes da música brasileira. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<programme start="20150610040000 -0300" stop="20150610050000 -0300" channel="CAM" program_id="0000112175" event_id="00000000000096321184" series_key="">
+<title lang="pt">Câmara Ligada</title>
+<title lang="en">Câmara Ligada</title>
+<desc>Deputados discutem com os jovens os mais variados temas. Presença de banda, DJ, especialistas e estudantes de uma escola ou faculdade.</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Cultural</category>
 <image>
-<image_name position="1">0000086367.jpg</image_name>
-<image_broadcast>0000086367</image_broadcast>
+<image_name position="1">0000112175.jpg</image_name>
+<image_broadcast>0000112175</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <country>Brasil</country>
@@ -3587,14 +2543,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610050000 -0300" stop="20150610053000 -0300" channel="CAM" program_id="0000282792" event_id="00000000000096321185" series_key="">
-<title lang="pt">Eis a Questão</title>
-<desc>Uma proposta é defendida pelo autor ou relator. Do outro lado, especialistas sabatinam o deputado e apontam sugestões para aprimorar o projeto.</desc>
+<programme start="20150610050000 -0300" stop="20150610053000 -0300" channel="CAM" program_id="0000407891" event_id="00000000000096321185" series_key="">
+<title lang="pt">Casa das Palavras</title>
+<desc>Livro eletrônico</desc>
 <category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
+<category lang="pt">Diversos</category>
 <image>
-<image_name position="1">0000282792.jpg</image_name>
-<image_broadcast>0000282792</image_broadcast>
+<image_name position="1">0000407891.jpg</image_name>
+<image_broadcast>0000407891</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
@@ -3622,30 +2578,36 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610060000 -0300" stop="20150610063000 -0300" channel="CAM" program_id="0000081982" event_id="00000000000096321187" series_key="">
-<title lang="pt">Conversa Franca</title>
-<desc></desc>
+<programme start="20150610060000 -0300" stop="20150610063000 -0300" channel="CAM" program_id="0000162824" event_id="00000000000096321187" series_key="">
+<title lang="pt">Matérias Especiais</title>
+<desc>Reportagens sobre temas diversos. Reveja o interprograma no endereço:  www.tv.camara.gov.br</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Diversos</category>
 <image>
-<image_name position="1">0000081982.jpg</image_name>
-<image_broadcast>0000081982</image_broadcast>
+<image_name position="1">0000162824.jpg</image_name>
+<image_broadcast>0000162824</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
+<video>
+<colour>yes</colour>
+</video>
 <rating system="Advisory">
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610063000 -0300" stop="20150610070000 -0300" channel="CAM" program_id="0000016424" event_id="00000000000096321188" series_key="">
-<title lang="pt">Sebrae</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
+<programme start="20150610063000 -0300" stop="20150610070000 -0300" channel="CAM" program_id="0000177434" event_id="00000000000096321188" series_key="00000000069944000000">
+<title lang="pt">Câmara Hoje - Ao Vivo</title>
+<desc>Telejornal com a cobertura dos principais acontecimentos do dia na Câmara. Reveja o programa no endereço: www.tv.camara.gov.br</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
 <image>
-<image_name position="1">0000016424.jpg</image_name>
-<image_broadcast>0000016424</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
+<image_name position="1">00000000069944.jpg</image_name>
+<image_broadcast>00000000069944</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
+<video>
+<colour>yes</colour>
+</video>
 <rating system="Advisory">
 <value>Programa livre para todas as idades</value>
 </rating>
@@ -3669,15 +2631,15 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610073000 -0300" stop="20150610074500 -0300" channel="CAM" program_id="0000077849" event_id="00000000000096321190" series_key="00000000069945000000">
-<title lang="pt">Câmara Informa</title>
-<desc>Reportagens sobre temas diversos. Reveja o interprograma no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
+<programme start="20150610073000 -0300" stop="20150610074500 -0300" channel="CAM" program_id="0000072945" event_id="00000000000096321190" series_key="">
+<title lang="pt">Palavra Aberta</title>
+<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
 <image>
-<image_name position="1">00000000069945.jpg</image_name>
-<image_broadcast>00000000069945</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
+<image_name position="1">0000072945.jpg</image_name>
+<image_broadcast>0000072945</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <country>Brasil</country>
 <video>
@@ -3687,15 +2649,15 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610074500 -0300" stop="20150610080000 -0300" channel="CAM" program_id="0000072945" event_id="00000000000096321191" series_key="">
-<title lang="pt">Palavra Aberta</title>
-<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
+<programme start="20150610074500 -0300" stop="20150610080000 -0300" channel="CAM" program_id="0000077849" event_id="00000000000096321191" series_key="00000000069945000000">
+<title lang="pt">Câmara Informa</title>
+<desc>Reportagens sobre temas diversos. Reveja o interprograma no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
 <image>
-<image_name position="1">0000072945.jpg</image_name>
-<image_broadcast>0000072945</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
+<image_name position="1">00000000069945.jpg</image_name>
+<image_broadcast>00000000069945</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
 <country>Brasil</country>
 <video>
@@ -3723,33 +2685,17 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610081500 -0300" stop="20150610083000 -0300" channel="CAM" program_id="0000289299" event_id="00000000000096321193" series_key="00000000070772000000">
-<title lang="pt">Interprogramas</title>
-<desc>Inter programa de 5 minutos que discute de forma leve e informativa temas que dizem respeito à nossa identidade cultural: arte, gastronomia, dança, festas, manifestações populares e personalidades.</desc>
+<programme start="20150610081500 -0300" stop="20150610083000 -0300" channel="CAM" program_id="0000072945" event_id="00000000000096321193" series_key="">
+<title lang="pt">Palavra Aberta</title>
+<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
 <category lang="pt">Variedades</category>
-<category lang="pt">Cultural</category>
+<category lang="pt">Debate</category>
 <image>
-<image_name position="1">00000000070772.jpg</image_name>
-<image_broadcast>00000000070772</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150610083000 -0300" stop="20150610093000 -0300" channel="CAM" program_id="0000331976" event_id="00000000000096321194" series_key="">
-<title lang="pt">Programa Cultural - Sempre um Papo</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000331976.jpg</image_name>
-<image_broadcast>0000331976</image_broadcast>
+<image_name position="1">0000072945.jpg</image_name>
+<image_broadcast>0000072945</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
+<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -3757,7 +2703,26 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610093000 -0300" stop="20150610100000 -0300" channel="CAM" program_id="0000177434" event_id="00000000000096321195" series_key="00000000069944000000">
+<programme start="20150610083000 -0300" stop="20150610090000 -0300" channel="CAM" program_id="0000018409" event_id="00000000000096321194" series_key="">
+<title lang="pt">Brasil em Debate</title>
+<title lang="en">Brasil em Debate</title>
+<desc>Diferentes pontos de vista marcam os debates sobre assuntos de interesse nacional. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000018409.jpg</image_name>
+<image_broadcast>0000018409</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150610090000 -0300" stop="20150610093000 -0300" channel="CAM" program_id="0000177434" event_id="00000000000096321195" series_key="00000000069944000000">
 <title lang="pt">Câmara Hoje - Ao Vivo</title>
 <desc>Telejornal com a cobertura dos principais acontecimentos do dia na Câmara. Reveja o programa no endereço: www.tv.camara.gov.br</desc>
 <category lang="pt">Jornalismo</category>
@@ -3774,7 +2739,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610100000 -0300" stop="20150610130000 -0300" channel="CAM" program_id="0000018795" event_id="00000000000096321196" series_key="">
+<programme start="20150610093000 -0300" stop="20150610134500 -0300" channel="CAM" program_id="0000018795" event_id="00000000000096321196" series_key="">
 <title lang="pt">Comissões - Ao Vivo</title>
 <title lang="en">Comissões - Ao Vivo</title>
 <desc>A atividade legislativa do Senado Federal se dá principalmente por meio de reuniões das comissões e sessões plenárias. Para saber mais: www.senado.gov.br/tv</desc>
@@ -3784,23 +2749,6 @@
 <image_name position="1">0000018795.jpg</image_name>
 <image_broadcast>0000018795</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150610130000 -0300" stop="20150610134500 -0300" channel="CAM" program_id="0000177434" event_id="00000000000096321197" series_key="00000000069944000000">
-<title lang="pt">Câmara Hoje - Ao Vivo</title>
-<desc>Telejornal com a cobertura dos principais acontecimentos do dia na Câmara. Reveja o programa no endereço: www.tv.camara.gov.br</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069944.jpg</image_name>
-<image_broadcast>00000000069944</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
 <video>
 <colour>yes</colour>
@@ -9755,6 +8703,993 @@
 <image_broadcast>0000244342</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622000000 -0300" stop="20150622030000 -0300" channel="CAM" program_id="0000317537" event_id="00000000000096641431" series_key="">
+<title lang="pt">Comissão</title>
+<desc>Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade. www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000317537.jpg</image_name>
+<image_broadcast>0000317537</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622030000 -0300" stop="20150622033000 -0300" channel="CAM" program_id="0000018409" event_id="00000000000096641432" series_key="">
+<title lang="pt">Brasil em Debate</title>
+<title lang="en">Brasil em Debate</title>
+<desc>Diferentes pontos de vista marcam os debates sobre assuntos de interesse nacional. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000018409.jpg</image_name>
+<image_broadcast>0000018409</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622033000 -0300" stop="20150622040000 -0300" channel="CAM" program_id="0000225000" event_id="00000000000096641433" series_key="00000000069946000000">
+<title lang="pt">Fatos e Opiniões</title>
+<desc>Com 30 minutos de duração e linguagem atraente, o programa apresenta uma coletânea dos discursos feitos em Plenário ao longo da semana, editados por tema. Reveja o programa no endereço: www.tv.camara.gov.br</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069946.jpg</image_name>
+<image_broadcast>00000000069946</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622040000 -0300" stop="20150622050000 -0300" channel="CAM" program_id="0000054526" event_id="00000000000096641434" series_key="00000000059229000000">
+<title lang="pt">Documentário TV Câmara</title>
+<desc></desc>
+<category lang="pt">Documentário</category>
+<category lang="pt">Político</category>
+<image>
+<image_name position="1">00000000059229.jpg</image_name>
+<image_broadcast>00000000059229</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622050000 -0300" stop="20150622060000 -0300" channel="CAM" program_id="0000086484" event_id="00000000000096641435" series_key="">
+<title lang="pt">Expressão Nacional</title>
+<title lang="en">Expressão Nacional</title>
+<desc>Debate ao vivo, com a participação do cidadão, sobre os principais temas em discussão na agenda do Congresso Nacional.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000086484.jpg</image_name>
+<image_broadcast>0000086484</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622060000 -0300" stop="20150622070000 -0300" channel="CAM" program_id="0000016980" event_id="00000000000096641436" series_key="00000000066267000000">
+<title lang="pt">Panorama</title>
+<desc>Revista com os assuntos que movimentaram a semana na Câmara. Informação completa para que o cidadão acompanhe de perto os trabalhos dos deputados durante a semana que passou.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066267.jpg</image_name>
+<image_broadcast>00000000066267</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622070000 -0300" stop="20150622073000 -0300" channel="CAM" program_id="0000018409" event_id="00000000000096641437" series_key="">
+<title lang="pt">Brasil em Debate</title>
+<title lang="en">Brasil em Debate</title>
+<desc>Diferentes pontos de vista marcam os debates sobre assuntos de interesse nacional. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000018409.jpg</image_name>
+<image_broadcast>0000018409</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622073000 -0300" stop="20150622074500 -0300" channel="CAM" program_id="0000072945" event_id="00000000000096641438" series_key="">
+<title lang="pt">Palavra Aberta</title>
+<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000072945.jpg</image_name>
+<image_broadcast>0000072945</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622074500 -0300" stop="20150622080000 -0300" channel="CAM" program_id="0000077849" event_id="00000000000096641439" series_key="00000000069945000000">
+<title lang="pt">Câmara Informa</title>
+<desc>Reportagens sobre temas diversos. Reveja o interprograma no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069945.jpg</image_name>
+<image_broadcast>00000000069945</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622080000 -0300" stop="20150622081500 -0300" channel="CAM" program_id="0000072945" event_id="00000000000096641440" series_key="">
+<title lang="pt">Palavra Aberta</title>
+<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000072945.jpg</image_name>
+<image_broadcast>0000072945</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622081500 -0300" stop="20150622083000 -0300" channel="CAM" program_id="0000072945" event_id="00000000000096641441" series_key="">
+<title lang="pt">Palavra Aberta</title>
+<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000072945.jpg</image_name>
+<image_broadcast>0000072945</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622083000 -0300" stop="20150622093000 -0300" channel="CAM" program_id="0000432271" event_id="00000000000096641442" series_key="">
+<title lang="pt">Ocupação</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000432271.jpg</image_name>
+<image_broadcast>0000432271</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622093000 -0300" stop="20150622100000 -0300" channel="CAM" program_id="0000225000" event_id="00000000000096641443" series_key="00000000069946000000">
+<title lang="pt">Fatos e Opiniões</title>
+<desc>Com 30 minutos de duração e linguagem atraente, o programa apresenta uma coletânea dos discursos feitos em Plenário ao longo da semana, editados por tema. Reveja o programa no endereço: www.tv.camara.gov.br</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069946.jpg</image_name>
+<image_broadcast>00000000069946</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622100000 -0300" stop="20150622103000 -0300" channel="CAM" program_id="0000162824" event_id="00000000000096641444" series_key="">
+<title lang="pt">Matérias Especiais</title>
+<desc>Reportagens sobre temas diversos. Reveja o interprograma no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000162824.jpg</image_name>
+<image_broadcast>0000162824</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622103000 -0300" stop="20150622134500 -0300" channel="CAM" program_id="0000317537" event_id="00000000000096641445" series_key="">
+<title lang="pt">Comissão</title>
+<desc>Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade. www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000317537.jpg</image_name>
+<image_broadcast>0000317537</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622134500 -0300" stop="20150622140000 -0300" channel="CAM" program_id="0000072945" event_id="00000000000096641446" series_key="">
+<title lang="pt">Palavra Aberta</title>
+<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000072945.jpg</image_name>
+<image_broadcast>0000072945</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622140000 -0300" stop="20150622190000 -0300" channel="CAM" program_id="0000319742" event_id="00000000000096641447" series_key="">
+<title lang="pt">Sessão Plenária - Ao Vivo</title>
+<desc>Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade. www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000319742.jpg</image_name>
+<image_broadcast>0000319742</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622190000 -0300" stop="20150622200000 -0300" channel="CAM" program_id="0000081720" event_id="00000000000096641448" series_key="">
+<title lang="pt">Participação Popular</title>
+<title lang="en">Participação Popular</title>
+<desc>Programa de auditório. A plateia faz perguntas diretamente aos deputados, que esclarecem questões relevantes e mostram as propostas do Congresso referentes ao tema.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000081720.jpg</image_name>
+<image_broadcast>0000081720</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622200000 -0300" stop="20150622203000 -0300" channel="CAM" program_id="0000177434" event_id="00000000000096641449" series_key="00000000069944000000">
+<title lang="pt">Câmara Hoje - Ao Vivo</title>
+<desc>Telejornal com a cobertura dos principais acontecimentos do dia na Câmara. Reveja o programa no endereço: www.tv.camara.gov.br</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069944.jpg</image_name>
+<image_broadcast>00000000069944</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622203000 -0300" stop="20150622210000 -0300" channel="CAM" program_id="0000018409" event_id="00000000000096641450" series_key="">
+<title lang="pt">Brasil em Debate</title>
+<title lang="en">Brasil em Debate</title>
+<desc>Diferentes pontos de vista marcam os debates sobre assuntos de interesse nacional. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000018409.jpg</image_name>
+<image_broadcast>0000018409</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622210000 -0300" stop="20150622211500 -0300" channel="CAM" program_id="0000072945" event_id="00000000000096641451" series_key="">
+<title lang="pt">Palavra Aberta</title>
+<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000072945.jpg</image_name>
+<image_broadcast>0000072945</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622211500 -0300" stop="20150622213000 -0300" channel="CAM" program_id="0000072945" event_id="00000000000096641452" series_key="">
+<title lang="pt">Palavra Aberta</title>
+<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000072945.jpg</image_name>
+<image_broadcast>0000072945</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622213000 -0300" stop="20150622220000 -0300" channel="CAM" program_id="0000407891" event_id="00000000000096641453" series_key="">
+<title lang="pt">Casa das Palavras</title>
+<desc>Livro eletrônico</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000407891.jpg</image_name>
+<image_broadcast>0000407891</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622220000 -0300" stop="20150622223000 -0300" channel="CAM" program_id="0000225000" event_id="00000000000096641454" series_key="00000000069946000000">
+<title lang="pt">Fatos e Opiniões</title>
+<desc>Com 30 minutos de duração e linguagem atraente, o programa apresenta uma coletânea dos discursos feitos em Plenário ao longo da semana, editados por tema. Reveja o programa no endereço: www.tv.camara.gov.br</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069946.jpg</image_name>
+<image_broadcast>00000000069946</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622223000 -0300" stop="20150622230000 -0300" channel="CAM" program_id="0000018409" event_id="00000000000096641455" series_key="">
+<title lang="pt">Brasil em Debate</title>
+<title lang="en">Brasil em Debate</title>
+<desc>Diferentes pontos de vista marcam os debates sobre assuntos de interesse nacional. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000018409.jpg</image_name>
+<image_broadcast>0000018409</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622230000 -0300" stop="20150622233000 -0300" channel="CAM" program_id="0000081891" event_id="00000000000096641456" series_key="00000000069943000000">
+<title lang="pt">Câmara Hoje</title>
+<desc>Telejornal com a cobertura dos principais acontecimentos do dia na Câmara. Reveja o programa no endereço: www.tv.camara.gov.br</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069943.jpg</image_name>
+<image_broadcast>00000000069943</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622233000 -0300" stop="20150622234500 -0300" channel="CAM" program_id="0000072945" event_id="00000000000096641457" series_key="">
+<title lang="pt">Palavra Aberta</title>
+<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000072945.jpg</image_name>
+<image_broadcast>0000072945</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622234500 -0300" stop="20150623000000 -0300" channel="CAM" program_id="0000072945" event_id="00000000000096641458" series_key="">
+<title lang="pt">Palavra Aberta</title>
+<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000072945.jpg</image_name>
+<image_broadcast>0000072945</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623000000 -0300" stop="20150623030000 -0300" channel="CAM" program_id="0000317537" event_id="00000000000096641459" series_key="">
+<title lang="pt">Comissão</title>
+<desc>Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade. www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000317537.jpg</image_name>
+<image_broadcast>0000317537</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623030000 -0300" stop="20150623033000 -0300" channel="CAM" program_id="0000018409" event_id="00000000000096641460" series_key="">
+<title lang="pt">Brasil em Debate</title>
+<title lang="en">Brasil em Debate</title>
+<desc>Diferentes pontos de vista marcam os debates sobre assuntos de interesse nacional. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000018409.jpg</image_name>
+<image_broadcast>0000018409</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623033000 -0300" stop="20150623040000 -0300" channel="CAM" program_id="0000081891" event_id="00000000000096641461" series_key="00000000069943000000">
+<title lang="pt">Câmara Hoje</title>
+<desc>Telejornal com a cobertura dos principais acontecimentos do dia na Câmara. Reveja o programa no endereço: www.tv.camara.gov.br</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069943.jpg</image_name>
+<image_broadcast>00000000069943</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623040000 -0300" stop="20150623050000 -0300" channel="CAM" program_id="0000081720" event_id="00000000000096641462" series_key="">
+<title lang="pt">Participação Popular</title>
+<title lang="en">Participação Popular</title>
+<desc>Programa de auditório. A plateia faz perguntas diretamente aos deputados, que esclarecem questões relevantes e mostram as propostas do Congresso referentes ao tema.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000081720.jpg</image_name>
+<image_broadcast>0000081720</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623050000 -0300" stop="20150623060000 -0300" channel="CAM" program_id="0000112175" event_id="00000000000096641463" series_key="">
+<title lang="pt">Câmara Ligada</title>
+<title lang="en">Câmara Ligada</title>
+<desc>Deputados discutem com os jovens os mais variados temas. Presença de banda, DJ, especialistas e estudantes de uma escola ou faculdade.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000112175.jpg</image_name>
+<image_broadcast>0000112175</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623060000 -0300" stop="20150623070000 -0300" channel="CAM" program_id="0000086484" event_id="00000000000096641464" series_key="">
+<title lang="pt">Expressão Nacional</title>
+<title lang="en">Expressão Nacional</title>
+<desc>Debate ao vivo, com a participação do cidadão, sobre os principais temas em discussão na agenda do Congresso Nacional.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000086484.jpg</image_name>
+<image_broadcast>0000086484</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623070000 -0300" stop="20150623073000 -0300" channel="CAM" program_id="0000018409" event_id="00000000000096641465" series_key="">
+<title lang="pt">Brasil em Debate</title>
+<title lang="en">Brasil em Debate</title>
+<desc>Diferentes pontos de vista marcam os debates sobre assuntos de interesse nacional. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000018409.jpg</image_name>
+<image_broadcast>0000018409</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623073000 -0300" stop="20150623074500 -0300" channel="CAM" program_id="0000072945" event_id="00000000000096641466" series_key="">
+<title lang="pt">Palavra Aberta</title>
+<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000072945.jpg</image_name>
+<image_broadcast>0000072945</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623074500 -0300" stop="20150623080000 -0300" channel="CAM" program_id="0000077849" event_id="00000000000096641467" series_key="00000000069945000000">
+<title lang="pt">Câmara Informa</title>
+<desc>Reportagens sobre temas diversos. Reveja o interprograma no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069945.jpg</image_name>
+<image_broadcast>00000000069945</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623080000 -0300" stop="20150623081500 -0300" channel="CAM" program_id="0000072945" event_id="00000000000096641468" series_key="">
+<title lang="pt">Palavra Aberta</title>
+<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000072945.jpg</image_name>
+<image_broadcast>0000072945</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623081500 -0300" stop="20150623083000 -0300" channel="CAM" program_id="0000072945" event_id="00000000000096641469" series_key="">
+<title lang="pt">Palavra Aberta</title>
+<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000072945.jpg</image_name>
+<image_broadcast>0000072945</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623083000 -0300" stop="20150623090000 -0300" channel="CAM" program_id="0000331970" event_id="00000000000096641470" series_key="">
+<title lang="pt">Programa</title>
+<sub-title lang="pt">Ponto de Vista</sub-title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000331970.jpg</image_name>
+<image_broadcast>0000331970</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623090000 -0300" stop="20150623093000 -0300" channel="CAM" program_id="0000077849" event_id="00000000000096641471" series_key="00000000069945000000">
+<title lang="pt">Câmara Informa</title>
+<desc>Reportagens sobre temas diversos. Reveja o interprograma no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069945.jpg</image_name>
+<image_broadcast>00000000069945</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623093000 -0300" stop="20150623100000 -0300" channel="CAM" program_id="0000177434" event_id="00000000000096641472" series_key="00000000069944000000">
+<title lang="pt">Câmara Hoje - Ao Vivo</title>
+<desc>Telejornal com a cobertura dos principais acontecimentos do dia na Câmara. Reveja o programa no endereço: www.tv.camara.gov.br</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069944.jpg</image_name>
+<image_broadcast>00000000069944</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623100000 -0300" stop="20150623130000 -0300" channel="CAM" program_id="0000137293" event_id="00000000000096641473" series_key="">
+<title lang="pt">Comissão</title>
+<title lang="en">Comissão</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000137293.jpg</image_name>
+<image_broadcast>0000137293</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623130000 -0300" stop="20150623134500 -0300" channel="CAM" program_id="0000177434" event_id="00000000000096641474" series_key="00000000069944000000">
+<title lang="pt">Câmara Hoje - Ao Vivo</title>
+<desc>Telejornal com a cobertura dos principais acontecimentos do dia na Câmara. Reveja o programa no endereço: www.tv.camara.gov.br</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069944.jpg</image_name>
+<image_broadcast>00000000069944</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623134500 -0300" stop="20150623140000 -0300" channel="CAM" program_id="0000072945" event_id="00000000000096641475" series_key="">
+<title lang="pt">Palavra Aberta</title>
+<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000072945.jpg</image_name>
+<image_broadcast>0000072945</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623140000 -0300" stop="20150623200000 -0300" channel="CAM" program_id="0000004585" event_id="00000000000096641476" series_key="">
+<title lang="pt">Plenário Ao Vivo</title>
+<desc></desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Político</category>
+<image>
+<image_name position="1">0000004585.jpg</image_name>
+<image_broadcast>0000004585</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623200000 -0300" stop="20150623203000 -0300" channel="CAM" program_id="0000177434" event_id="00000000000096641477" series_key="00000000069944000000">
+<title lang="pt">Câmara Hoje - Ao Vivo</title>
+<desc>Telejornal com a cobertura dos principais acontecimentos do dia na Câmara. Reveja o programa no endereço: www.tv.camara.gov.br</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069944.jpg</image_name>
+<image_broadcast>00000000069944</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623203000 -0300" stop="20150623210000 -0300" channel="CAM" program_id="0000018409" event_id="00000000000096641478" series_key="">
+<title lang="pt">Brasil em Debate</title>
+<title lang="en">Brasil em Debate</title>
+<desc>Diferentes pontos de vista marcam os debates sobre assuntos de interesse nacional. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000018409.jpg</image_name>
+<image_broadcast>0000018409</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623210000 -0300" stop="20150623211500 -0300" channel="CAM" program_id="0000072945" event_id="00000000000096641479" series_key="">
+<title lang="pt">Palavra Aberta</title>
+<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000072945.jpg</image_name>
+<image_broadcast>0000072945</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623211500 -0300" stop="20150623213000 -0300" channel="CAM" program_id="0000072945" event_id="00000000000096641480" series_key="">
+<title lang="pt">Palavra Aberta</title>
+<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000072945.jpg</image_name>
+<image_broadcast>0000072945</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623213000 -0300" stop="20150623223000 -0300" channel="CAM" program_id="0000289297" event_id="00000000000096641481" series_key="">
+<title lang="pt">Expressão Nacional (Ao Vivo)</title>
+<desc>Debate sobre grandes temas da agenda nacional, com deputados e representantes do Governo e da sociedade civil. Participe! 0800 619619 ou expressaonacional@camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000289297.jpg</image_name>
+<image_broadcast>0000289297</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623223000 -0300" stop="20150623230000 -0300" channel="CAM" program_id="0000018409" event_id="00000000000096641482" series_key="">
+<title lang="pt">Brasil em Debate</title>
+<title lang="en">Brasil em Debate</title>
+<desc>Diferentes pontos de vista marcam os debates sobre assuntos de interesse nacional. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000018409.jpg</image_name>
+<image_broadcast>0000018409</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623230000 -0300" stop="20150623233000 -0300" channel="CAM" program_id="0000081891" event_id="00000000000096641483" series_key="00000000069943000000">
+<title lang="pt">Câmara Hoje</title>
+<desc>Telejornal com a cobertura dos principais acontecimentos do dia na Câmara. Reveja o programa no endereço: www.tv.camara.gov.br</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069943.jpg</image_name>
+<image_broadcast>00000000069943</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623233000 -0300" stop="20150623234500 -0300" channel="CAM" program_id="0000072945" event_id="00000000000096641484" series_key="">
+<title lang="pt">Palavra Aberta</title>
+<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000072945.jpg</image_name>
+<image_broadcast>0000072945</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623234500 -0300" stop="20150624000000 -0300" channel="CAM" program_id="0000072945" event_id="00000000000096641485" series_key="">
+<title lang="pt">Palavra Aberta</title>
+<desc>Deputados falam sobre projetos de lei e discussões em pauta nas comissões ou no Plenário. Reveja o programa no endereço:  www.tv.camara.gov.br</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000072945.jpg</image_name>
+<image_broadcast>0000072945</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>

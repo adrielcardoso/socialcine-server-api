@@ -4,846 +4,6 @@
 <display-name lang="pt">TV Espanha</display-name>
 <icon src="tve.gif" />
 </channel>
-<programme start="20150603001500 -0300" stop="20150603024500 -0300" channel="TVE" program_id="0000439070" event_id="00000000000097464997" series_key="">
-<title lang="pt">Historia de Nuestro Cine</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000439070.jpg</image_name>
-<image_broadcast>0000439070</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603024500 -0300" stop="20150603044500 -0300" channel="TVE" program_id="0000164162" event_id="00000000000097464998" series_key="">
-<title lang="pt">La Noche En 24 Horas</title>
-<desc>Informativo diário que repassa e analisa os acontecimentos do dia.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000164162.jpg</image_name>
-<image_broadcast>0000164162</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603044500 -0300" stop="20150603053000 -0300" channel="TVE" program_id="0000028901" event_id="00000000000097464999" series_key="">
-<title lang="pt">En Portada</title>
-<title lang="en">En portada</title>
-<desc>A reportagem é um percurso pelos lugares que marcaram Padre Jorge, da Vila Miséria, da ordem dos Jesuítas.</desc>
-<credits>
-<director>Juan Antonio Sacaluga</director>
-<director>Juan Antonio Sacaluga</director>
-</credits>
-<date>2001</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000028901.jpg</image_name>
-<image_broadcast>0000028901</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Espanha</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603053000 -0300" stop="20150603060000 -0300" channel="TVE" program_id="0000109132" event_id="00000000000097465000" series_key="00000000076902000000">
-<title lang="pt">Notícias 24 Horas</title>
-<desc>Informação nacional e internacional, 24 horas por dias, 365 dias ao ano.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000076902.jpg</image_name>
-<image_broadcast>00000000076902</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603060000 -0300" stop="20150603062500 -0300" channel="TVE" program_id="0000138788" event_id="00000000000097465001" series_key="">
-<title lang="pt">Tres 14</title>
-<title lang="en">Tres 14</title>
-<desc>Programa de divulgação científica que aborda temas relacionados com o conhecimento do ser humano e seu ambiente.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000138788.jpg</image_name>
-<image_broadcast>0000138788</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603062500 -0300" stop="20150603072500 -0300" channel="TVE" program_id="0000254740" event_id="00000000000097465002" series_key="">
-<title lang="pt">Para Todos La 2</title>
-<desc>Para todos La 2 é um Programa magazine e também, que contém outros assuntos de interesse social. Refletimos sobre os temas e aspectos das vida, que mais nos afetam.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000254740.jpg</image_name>
-<image_broadcast>0000254740</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603072500 -0300" stop="20150603082000 -0300" channel="TVE" program_id="0000006201" event_id="00000000000097465003" series_key="">
-<title lang="pt">La Aventura Del Saber</title>
-<title lang="en">La Aventura Del Saber</title>
-<desc>Programa de divulgação multitemático que trata de aproximar todos os públicos ao universo do conhecimento.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000006201.jpg</image_name>
-<image_broadcast>0000006201</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Espanha</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603082000 -0300" stop="20150603100000 -0300" channel="TVE" program_id="0000006220" event_id="00000000000097465004" series_key="">
-<title lang="pt">Los Desayunos de TVE</title>
-<title lang="en">Los Desayunos De TVE</title>
-<desc>Programa de informações que analisa as atualidades com uma mesa de círculos sociais e um convidado.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">0000006220.jpg</image_name>
-<image_broadcast>0000006220</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Espanha</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603100000 -0300" stop="20150603110000 -0300" channel="TVE" program_id="0000083819" event_id="00000000000097465005" series_key="00000000075878000000">
-<title lang="pt">Telediario 1</title>
-<desc>Telediário 1º edição, Apresentado por: Oriol Nolis, Raquel Martínez, Marc Martin e Arseni Cañadas, inclui esportes e previsão do tempo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075878.jpg</image_name>
-<image_broadcast>00000000075878</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603110000 -0300" stop="20150603111000 -0300" channel="TVE" program_id="0000006158" event_id="00000000000097465006" series_key="">
-<title lang="pt">El Tiempo</title>
-<desc>Espaço de informação meteorológica.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000006158.jpg</image_name>
-<image_broadcast>0000006158</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603111000 -0300" stop="20150603145500 -0300" channel="TVE" program_id="0000414077" event_id="00000000000097465007" series_key="00000000075875000000">
-<title lang="pt">La Mañana</title>
-<desc>Revista matinal de 4 horas da televisão espanhola, e uma variedade de conteúdo para toda à família, com informações de serviço público.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075875.jpg</image_name>
-<image_broadcast>00000000075875</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603145500 -0300" stop="20150603153000 -0300" channel="TVE" program_id="0000006264" event_id="00000000000097465008" series_key="">
-<title lang="pt">Saber y Ganar</title>
-<title lang="en">Saber y Ganar</title>
-<desc>Programa cujo objetivo é a divulgação de informação cultural. Três concursantes lutam entre si em diferentes provas, demonstrando seus conhecimentos e agilidade mental.</desc>
-<date>1997</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000006264.jpg</image_name>
-<image_broadcast>0000006264</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Espanha</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603153000 -0300" stop="20150603160000 -0300" channel="TVE" program_id="0000167082" event_id="00000000000097465009" series_key="">
-<title lang="pt">Corazon</title>
-<desc>Revista diária ao vivo, onde em 30 minutos repassamos toda a atualidade social de nosso país.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000167082.jpg</image_name>
-<image_broadcast>0000167082</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603160000 -0300" stop="20150603165500 -0300" channel="TVE" program_id="0000006279" event_id="00000000000097465010" series_key="00000000075879000000">
-<title lang="pt">Telediario 2</title>
-<desc>Telediário 2ª edição.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075879.jpg</image_name>
-<image_broadcast>00000000075879</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603165500 -0300" stop="20150603170000 -0300" channel="TVE" program_id="0000006158" event_id="00000000000097465011" series_key="">
-<title lang="pt">El Tiempo</title>
-<desc>Espaço de informação meteorológica.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000006158.jpg</image_name>
-<image_broadcast>0000006158</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603170000 -0300" stop="20150603175500 -0300" channel="TVE" program_id="0000434052" event_id="00000000000097465012" series_key="">
-<title lang="pt">Acacias, 38</title>
-<desc>Uma série diária onde se narra a vida dos personagens que vivem em uma comunidade de vizinhos, e todas histórias que sucederam ao redor de seus personagens, situada no princípio do século XX em Madrid.</desc>
-<date>2015</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000434052.jpg</image_name>
-<image_broadcast>0000434052</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603175500 -0300" stop="20150603185500 -0300" channel="TVE" program_id="0000435178" event_id="00000000000097465013" series_key="">
-<title lang="pt">Seis Hermanas</title>
-<desc></desc>
-<date>2015</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000435178.jpg</image_name>
-<image_broadcast>0000435178</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603185500 -0300" stop="20150603192500 -0300" channel="TVE" program_id="0000254740" event_id="00000000000097465014" series_key="">
-<title lang="pt">Para Todos La 2</title>
-<desc>Para todos La 2 é um Programa magazine e também, que contém outros assuntos de interesse social. Refletimos sobre os temas e aspectos das vida, que mais nos afetam.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000254740.jpg</image_name>
-<image_broadcast>0000254740</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603192500 -0300" stop="20150603194500 -0300" channel="TVE" program_id="0000106456" event_id="00000000000097465015" series_key="">
-<title lang="pt">Zoom Net</title>
-<desc>Programa de atualidades dedicados aos jogos de vídeo e as novidades em tecnologia em geral.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000106456.jpg</image_name>
-<image_broadcast>0000106456</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603194500 -0300" stop="20150603203000 -0300" channel="TVE" program_id="0000092249" event_id="00000000000097465016" series_key="">
-<title lang="pt">España Directo</title>
-<title lang="en">España Directo</title>
-<desc>Revista de atualidades da tarde, para todos os públicos, com legendas para surdos</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000092249.jpg</image_name>
-<image_broadcast>0000092249</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603203000 -0300" stop="20150603210000 -0300" channel="TVE" program_id="0000415449" event_id="00000000000097465017" series_key="">
-<title lang="pt">Aqui La Tierra</title>
-<desc>Revista de informação meteorológica.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Meteorologia</category>
-<image>
-<image_name position="1">0000415449.jpg</image_name>
-<image_broadcast>0000415449</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603210000 -0300" stop="20150603213000 -0300" channel="TVE" program_id="0000109132" event_id="00000000000097465018" series_key="00000000076902000000">
-<title lang="pt">Notícias 24 Horas</title>
-<desc>Informação nacional e internacional, 24 horas por dias, 365 dias ao ano.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000076902.jpg</image_name>
-<image_broadcast>00000000076902</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603213000 -0300" stop="20150603230500 -0300" channel="TVE" program_id="0000118060" event_id="00000000000097465019" series_key="00000000075866000000">
-<title lang="pt">Aguila Roja</title>
-<desc>Depois de uma dura jornada, Eagle e Satur Red chegam na praia esperando encontrar seu amigo Cipri.  Sua surpresa será enorme quando se deparam com algo inesperado.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Drama</category>
-<image>
-<image_name position="1">00000000075866.jpg</image_name>
-<image_broadcast>00000000075866</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603230500 -0300" stop="20150604002000 -0300" channel="TVE" program_id="0000006145" event_id="00000000000097465020" series_key="00000000075871000000">
-<title lang="pt">El Debate de La 1</title>
-<desc>Programa semanal de informações e crítica cinematográfica.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000075871.jpg</image_name>
-<image_broadcast>00000000075871</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604002000 -0300" stop="20150604020000 -0300" channel="TVE" program_id="0000439070" event_id="00000000000097465021" series_key="">
-<title lang="pt">Historia de Nuestro Cine</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000439070.jpg</image_name>
-<image_broadcast>0000439070</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604020000 -0300" stop="20150604040000 -0300" channel="TVE" program_id="0000164162" event_id="00000000000097465022" series_key="">
-<title lang="pt">La Noche En 24 Horas</title>
-<desc>Informativo diário que repassa e analisa os acontecimentos do dia.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000164162.jpg</image_name>
-<image_broadcast>0000164162</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604040000 -0300" stop="20150604050000 -0300" channel="TVE" program_id="0000226816" event_id="00000000000097465023" series_key="00000000075873000000">
-<title lang="pt">Imprescindibles</title>
-<desc>Através de suas numerosas facetas musicais e diversas formações, descobrimos neste documentário as várias possibilidades do Piano.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075873.jpg</image_name>
-<image_broadcast>00000000075873</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604050000 -0300" stop="20150604060000 -0300" channel="TVE" program_id="0000109132" event_id="00000000000097465024" series_key="00000000076902000000">
-<title lang="pt">Notícias 24 Horas</title>
-<desc>Informação nacional e internacional, 24 horas por dias, 365 dias ao ano.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000076902.jpg</image_name>
-<image_broadcast>00000000076902</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604060000 -0300" stop="20150604061500 -0300" channel="TVE" program_id="0000106456" event_id="00000000000097465025" series_key="">
-<title lang="pt">Zoom Net</title>
-<desc>Programa de atualidades dedicados aos jogos de vídeo e as novidades em tecnologia em geral.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000106456.jpg</image_name>
-<image_broadcast>0000106456</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604061500 -0300" stop="20150604072500 -0300" channel="TVE" program_id="0000254740" event_id="00000000000097465026" series_key="">
-<title lang="pt">Para Todos La 2</title>
-<desc>Para todos La 2 é um Programa magazine e também, que contém outros assuntos de interesse social. Refletimos sobre os temas e aspectos das vida, que mais nos afetam.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000254740.jpg</image_name>
-<image_broadcast>0000254740</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604072500 -0300" stop="20150604082000 -0300" channel="TVE" program_id="0000006201" event_id="00000000000097465027" series_key="">
-<title lang="pt">La Aventura Del Saber</title>
-<title lang="en">La Aventura Del Saber</title>
-<desc>Programa de divulgação multitemático que trata de aproximar todos os públicos ao universo do conhecimento.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000006201.jpg</image_name>
-<image_broadcast>0000006201</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Espanha</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604082000 -0300" stop="20150604100000 -0300" channel="TVE" program_id="0000006220" event_id="00000000000097465028" series_key="">
-<title lang="pt">Los Desayunos de TVE</title>
-<title lang="en">Los Desayunos De TVE</title>
-<desc>Programa de informações que analisa as atualidades com uma mesa de círculos sociais e um convidado.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">0000006220.jpg</image_name>
-<image_broadcast>0000006220</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Espanha</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604100000 -0300" stop="20150604110000 -0300" channel="TVE" program_id="0000083819" event_id="00000000000097465029" series_key="00000000075878000000">
-<title lang="pt">Telediario 1</title>
-<desc>Telediário 1º edição, Apresentado por: Oriol Nolis, Raquel Martínez, Marc Martin e Arseni Cañadas, inclui esportes e previsão do tempo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075878.jpg</image_name>
-<image_broadcast>00000000075878</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604110000 -0300" stop="20150604111000 -0300" channel="TVE" program_id="0000006158" event_id="00000000000097465030" series_key="">
-<title lang="pt">El Tiempo</title>
-<desc>Espaço de informação meteorológica.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000006158.jpg</image_name>
-<image_broadcast>0000006158</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604111000 -0300" stop="20150604145500 -0300" channel="TVE" program_id="0000414077" event_id="00000000000097465031" series_key="00000000075875000000">
-<title lang="pt">La Mañana</title>
-<desc>Revista matinal de 4 horas da televisão espanhola, e uma variedade de conteúdo para toda à família, com informações de serviço público.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075875.jpg</image_name>
-<image_broadcast>00000000075875</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604145500 -0300" stop="20150604153000 -0300" channel="TVE" program_id="0000006264" event_id="00000000000097465032" series_key="">
-<title lang="pt">Saber y Ganar</title>
-<title lang="en">Saber y Ganar</title>
-<desc>Programa cujo objetivo é a divulgação de informação cultural. Três concursantes lutam entre si em diferentes provas, demonstrando seus conhecimentos e agilidade mental.</desc>
-<date>1997</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000006264.jpg</image_name>
-<image_broadcast>0000006264</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Espanha</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604153000 -0300" stop="20150604160000 -0300" channel="TVE" program_id="0000167082" event_id="00000000000097465033" series_key="">
-<title lang="pt">Corazon</title>
-<desc>Revista diária ao vivo, onde em 30 minutos repassamos toda a atualidade social de nosso país.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000167082.jpg</image_name>
-<image_broadcast>0000167082</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604160000 -0300" stop="20150604165500 -0300" channel="TVE" program_id="0000006279" event_id="00000000000097465034" series_key="00000000075879000000">
-<title lang="pt">Telediario 2</title>
-<desc>Telediário 2ª edição.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075879.jpg</image_name>
-<image_broadcast>00000000075879</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604165500 -0300" stop="20150604170000 -0300" channel="TVE" program_id="0000006158" event_id="00000000000097465035" series_key="">
-<title lang="pt">El Tiempo</title>
-<desc>Espaço de informação meteorológica.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000006158.jpg</image_name>
-<image_broadcast>0000006158</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604170000 -0300" stop="20150604175500 -0300" channel="TVE" program_id="0000434052" event_id="00000000000097465036" series_key="">
-<title lang="pt">Acacias, 38</title>
-<desc>Uma série diária onde se narra a vida dos personagens que vivem em uma comunidade de vizinhos, e todas histórias que sucederam ao redor de seus personagens, situada no princípio do século XX em Madrid.</desc>
-<date>2015</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000434052.jpg</image_name>
-<image_broadcast>0000434052</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604175500 -0300" stop="20150604185500 -0300" channel="TVE" program_id="0000435178" event_id="00000000000097465037" series_key="">
-<title lang="pt">Seis Hermanas</title>
-<desc></desc>
-<date>2015</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000435178.jpg</image_name>
-<image_broadcast>0000435178</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604185500 -0300" stop="20150604192500 -0300" channel="TVE" program_id="0000254740" event_id="00000000000097465038" series_key="">
-<title lang="pt">Para Todos La 2</title>
-<desc>Para todos La 2 é um Programa magazine e também, que contém outros assuntos de interesse social. Refletimos sobre os temas e aspectos das vida, que mais nos afetam.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000254740.jpg</image_name>
-<image_broadcast>0000254740</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604192500 -0300" stop="20150604194500 -0300" channel="TVE" program_id="0000138366" event_id="00000000000097465039" series_key="">
-<title lang="pt">Camara Abierta</title>
-<title lang="en">Camara Abierta</title>
-<desc>Programa dedicado à Internet como plataforma de informação, criação e comunicação. A cada semana o programa traz os blogs mais interessantes, os melhores videos, os protagonistas da Internet e a vida no Second Life.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Informática</category>
-<image>
-<image_name position="1">0000138366.jpg</image_name>
-<image_broadcast>0000138366</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Espanha</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604194500 -0300" stop="20150604203000 -0300" channel="TVE" program_id="0000092249" event_id="00000000000097465040" series_key="">
-<title lang="pt">España Directo</title>
-<title lang="en">España Directo</title>
-<desc>Revista de atualidades da tarde, para todos os públicos, com legendas para surdos</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000092249.jpg</image_name>
-<image_broadcast>0000092249</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604203000 -0300" stop="20150604210000 -0300" channel="TVE" program_id="0000415449" event_id="00000000000097465041" series_key="">
-<title lang="pt">Aqui La Tierra</title>
-<desc>Revista de informação meteorológica.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Meteorologia</category>
-<image>
-<image_name position="1">0000415449.jpg</image_name>
-<image_broadcast>0000415449</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604210000 -0300" stop="20150604213000 -0300" channel="TVE" program_id="0000109132" event_id="00000000000097465042" series_key="00000000076902000000">
-<title lang="pt">Notícias 24 Horas</title>
-<desc>Informação nacional e internacional, 24 horas por dias, 365 dias ao ano.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000076902.jpg</image_name>
-<image_broadcast>00000000076902</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604213000 -0300" stop="20150604234000 -0300" channel="TVE" program_id="0000145581" event_id="00000000000097465043" series_key="">
-<title lang="pt">Comando Actualidad</title>
-<title lang="en">Comando Actualidad</title>
-<desc>Para fazer economia, atrevimento ou vontade de provar algo novo: Os gostos astronômicos evoluíram até o impensado. Voltam de maneira inevitável aos velhos hábitos.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000145581.jpg</image_name>
-<image_broadcast>0000145581</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604234000 -0300" stop="20150605031500 -0300" channel="TVE" program_id="0000164162" event_id="00000000000097465044" series_key="">
-<title lang="pt">La Noche En 24 Horas</title>
-<desc>Informativo diário que repassa e analisa os acontecimentos do dia.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000164162.jpg</image_name>
-<image_broadcast>0000164162</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
 <programme start="20150605031500 -0300" stop="20150605050000 -0300" channel="TVE" program_id="0000118060" event_id="00000000000097465045" series_key="00000000075866000000">
 <title lang="pt">Aguila Roja</title>
 <desc>Depois de uma dura jornada, Eagle e Satur Red chegam na praia esperando encontrar seu amigo Cipri.  Sua surpresa será enorme quando se deparam com algo inesperado.</desc>
@@ -8790,6 +7950,926 @@
 <image_name position="1">00000000075870.jpg</image_name>
 <image_broadcast>00000000075870</image_broadcast>
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622001500 -0300" stop="20150622011000 -0300" channel="TVE" program_id="0000006138" event_id="00000000000097465519" series_key="">
+<title lang="pt">Dias De Cine</title>
+<title lang="en">Dias De Cine</title>
+<desc>Programa semanal de informações e críticas cinematográficas.</desc>
+<credits>
+<director>César Abeytua</director>
+<actor>Antonio Gasset</actor>
+<actor>Aitana Sánchez-Gijón</actor>
+<actor>Brian De Palma</actor>
+</credits>
+<date>1991</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000006138.jpg</image_name>
+<image_broadcast>0000006138</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Espanha</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>4/5</value>
+</star-rating>
+</programme>
+<programme start="20150622011000 -0300" stop="20150622013500 -0300" channel="TVE" program_id="0000109132" event_id="00000000000097465520" series_key="00000000076902000000">
+<title lang="pt">Notícias 24 Horas</title>
+<desc>Informação nacional e internacional, 24 horas por dias, 365 dias ao ano.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000076902.jpg</image_name>
+<image_broadcast>00000000076902</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622013500 -0300" stop="20150622022000 -0300" channel="TVE" program_id="0000428995" event_id="00000000000097465521" series_key="">
+<title lang="pt">This is Opera</title>
+<desc></desc>
+<credits>
+<director>Ramon Gener</director>
+<director>Ramon Gener</director>
+</credits>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000428995.jpg</image_name>
+<image_broadcast>0000428995</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622022000 -0300" stop="20150622031500 -0300" channel="TVE" program_id="0000321873" event_id="00000000000097465522" series_key="">
+<title lang="pt">Atencion Obras</title>
+<desc>Magazine Cultural sobre as mais diversas manifestações artísticas conduzido por Cayetana Guillén Cuervo.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000321873.jpg</image_name>
+<image_broadcast>0000321873</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622031500 -0300" stop="20150622033000 -0300" channel="TVE" program_id="0000106456" event_id="00000000000097465523" series_key="">
+<title lang="pt">Zoom Net</title>
+<desc>Programa de atualidades dedicados aos jogos de vídeo e as novidades em tecnologia em geral.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000106456.jpg</image_name>
+<image_broadcast>0000106456</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622033000 -0300" stop="20150622053000 -0300" channel="TVE" program_id="0000443218" event_id="00000000000097465524" series_key="">
+<title lang="pt">Corrida Desde Cáceres</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000443218.jpg</image_name>
+<image_broadcast>0000443218</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622053000 -0300" stop="20150622060000 -0300" channel="TVE" program_id="0000109132" event_id="00000000000097465525" series_key="00000000076902000000">
+<title lang="pt">Notícias 24 Horas</title>
+<desc>Informação nacional e internacional, 24 horas por dias, 365 dias ao ano.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000076902.jpg</image_name>
+<image_broadcast>00000000076902</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622060000 -0300" stop="20150622062000 -0300" channel="TVE" program_id="0000106456" event_id="00000000000097465526" series_key="">
+<title lang="pt">Zoom Net</title>
+<desc>Programa de atualidades dedicados aos jogos de vídeo e as novidades em tecnologia em geral.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000106456.jpg</image_name>
+<image_broadcast>0000106456</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622062000 -0300" stop="20150622072500 -0300" channel="TVE" program_id="0000254740" event_id="00000000000097465527" series_key="">
+<title lang="pt">Para Todos La 2</title>
+<desc>Para todos La 2 é um Programa magazine e também, que contém outros assuntos de interesse social. Refletimos sobre os temas e aspectos das vida, que mais nos afetam.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000254740.jpg</image_name>
+<image_broadcast>0000254740</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622072500 -0300" stop="20150622082000 -0300" channel="TVE" program_id="0000006201" event_id="00000000000097465528" series_key="">
+<title lang="pt">La Aventura Del Saber</title>
+<title lang="en">La Aventura Del Saber</title>
+<desc>Programa de divulgação multitemático que trata de aproximar todos os públicos ao universo do conhecimento.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000006201.jpg</image_name>
+<image_broadcast>0000006201</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Espanha</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622082000 -0300" stop="20150622100000 -0300" channel="TVE" program_id="0000006220" event_id="00000000000097465529" series_key="">
+<title lang="pt">Los Desayunos de TVE</title>
+<title lang="en">Los Desayunos De TVE</title>
+<desc>Programa de informações que analisa as atualidades com uma mesa de círculos sociais e um convidado.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">0000006220.jpg</image_name>
+<image_broadcast>0000006220</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Espanha</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622100000 -0300" stop="20150622110000 -0300" channel="TVE" program_id="0000083819" event_id="00000000000097465530" series_key="00000000075878000000">
+<title lang="pt">Telediario 1</title>
+<desc>Telediário 1º edição, Apresentado por: Oriol Nolis, Raquel Martínez, Marc Martin e Arseni Cañadas, inclui esportes e previsão do tempo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075878.jpg</image_name>
+<image_broadcast>00000000075878</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622110000 -0300" stop="20150622111000 -0300" channel="TVE" program_id="0000006158" event_id="00000000000097465531" series_key="">
+<title lang="pt">El Tiempo</title>
+<desc>Espaço de informação meteorológica.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000006158.jpg</image_name>
+<image_broadcast>0000006158</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622111000 -0300" stop="20150622145000 -0300" channel="TVE" program_id="0000414077" event_id="00000000000097465532" series_key="00000000075875000000">
+<title lang="pt">La Mañana</title>
+<desc>Revista matinal de 4 horas da televisão espanhola, e uma variedade de conteúdo para toda à família, com informações de serviço público.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075875.jpg</image_name>
+<image_broadcast>00000000075875</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622145000 -0300" stop="20150622153000 -0300" channel="TVE" program_id="0000006264" event_id="00000000000097465533" series_key="">
+<title lang="pt">Saber y Ganar</title>
+<title lang="en">Saber y Ganar</title>
+<desc>Programa cujo objetivo é a divulgação de informação cultural. Três concursantes lutam entre si em diferentes provas, demonstrando seus conhecimentos e agilidade mental.</desc>
+<date>1997</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000006264.jpg</image_name>
+<image_broadcast>0000006264</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Espanha</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622153000 -0300" stop="20150622160000 -0300" channel="TVE" program_id="0000167082" event_id="00000000000097465534" series_key="">
+<title lang="pt">Corazon</title>
+<desc>Revista diária ao vivo, onde em 30 minutos repassamos toda a atualidade social de nosso país.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000167082.jpg</image_name>
+<image_broadcast>0000167082</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622160000 -0300" stop="20150622165500 -0300" channel="TVE" program_id="0000006279" event_id="00000000000097465535" series_key="00000000075879000000">
+<title lang="pt">Telediario 2</title>
+<desc>Telediário 2ª edição.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075879.jpg</image_name>
+<image_broadcast>00000000075879</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622165500 -0300" stop="20150622170000 -0300" channel="TVE" program_id="0000006158" event_id="00000000000097465536" series_key="">
+<title lang="pt">El Tiempo</title>
+<desc>Espaço de informação meteorológica.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000006158.jpg</image_name>
+<image_broadcast>0000006158</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622170000 -0300" stop="20150622180000 -0300" channel="TVE" program_id="0000434052" event_id="00000000000097465537" series_key="">
+<title lang="pt">Acacias, 38</title>
+<desc>Uma série diária onde se narra a vida dos personagens que vivem em uma comunidade de vizinhos, e todas histórias que sucederam ao redor de seus personagens, situada no princípio do século XX em Madrid.</desc>
+<date>2015</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000434052.jpg</image_name>
+<image_broadcast>0000434052</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622180000 -0300" stop="20150622185500 -0300" channel="TVE" program_id="0000435178" event_id="00000000000097465538" series_key="">
+<title lang="pt">Seis Hermanas</title>
+<desc></desc>
+<date>2015</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000435178.jpg</image_name>
+<image_broadcast>0000435178</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622185500 -0300" stop="20150622192500 -0300" channel="TVE" program_id="0000254740" event_id="00000000000097465539" series_key="">
+<title lang="pt">Para Todos La 2</title>
+<desc>Para todos La 2 é um Programa magazine e também, que contém outros assuntos de interesse social. Refletimos sobre os temas e aspectos das vida, que mais nos afetam.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000254740.jpg</image_name>
+<image_broadcast>0000254740</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622192500 -0300" stop="20150622194500 -0300" channel="TVE" program_id="0000138366" event_id="00000000000097465540" series_key="">
+<title lang="pt">Camara Abierta</title>
+<title lang="en">Camara Abierta</title>
+<desc>Programa dedicado à Internet como plataforma de informação, criação e comunicação. A cada semana o programa traz os blogs mais interessantes, os melhores videos, os protagonistas da Internet e a vida no Second Life.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Informática</category>
+<image>
+<image_name position="1">0000138366.jpg</image_name>
+<image_broadcast>0000138366</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Espanha</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622194500 -0300" stop="20150622203000 -0300" channel="TVE" program_id="0000092249" event_id="00000000000097465541" series_key="">
+<title lang="pt">España Directo</title>
+<title lang="en">España Directo</title>
+<desc>Revista de atualidades da tarde, para todos os públicos, com legendas para surdos</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000092249.jpg</image_name>
+<image_broadcast>0000092249</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622203000 -0300" stop="20150622210000 -0300" channel="TVE" program_id="0000415449" event_id="00000000000097465542" series_key="">
+<title lang="pt">Aqui La Tierra</title>
+<desc>Revista de informação meteorológica.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Meteorologia</category>
+<image>
+<image_name position="1">0000415449.jpg</image_name>
+<image_broadcast>0000415449</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622210000 -0300" stop="20150622213000 -0300" channel="TVE" program_id="0000109132" event_id="00000000000097465543" series_key="00000000076902000000">
+<title lang="pt">Notícias 24 Horas</title>
+<desc>Informação nacional e internacional, 24 horas por dias, 365 dias ao ano.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000076902.jpg</image_name>
+<image_broadcast>00000000076902</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622213000 -0300" stop="20150623000000 -0300" channel="TVE" program_id="0000440968" event_id="00000000000097465544" series_key="">
+<title lang="pt">Asi de Claro</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000440968.jpg</image_name>
+<image_broadcast>0000440968</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623000000 -0300" stop="20150623010500 -0300" channel="TVE" program_id="0000226816" event_id="00000000000097465545" series_key="00000000075873000000">
+<title lang="pt">Imprescindibles</title>
+<desc>Através de suas numerosas facetas musicais e diversas formações, descobrimos neste documentário as várias possibilidades do Piano.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075873.jpg</image_name>
+<image_broadcast>00000000075873</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623010500 -0300" stop="20150623030500 -0300" channel="TVE" program_id="0000164162" event_id="00000000000097465546" series_key="">
+<title lang="pt">La Noche En 24 Horas</title>
+<desc>Informativo diário que repassa e analisa os acontecimentos do dia.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000164162.jpg</image_name>
+<image_broadcast>0000164162</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623030500 -0300" stop="20150623040000 -0300" channel="TVE" program_id="0000087745" event_id="00000000000097465547" series_key="">
+<title lang="pt">Españoles En El Mundo</title>
+<desc>Programa em que espanhóis que residem fora da Espanha nos mostram lugares de sua moradia e entornos.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000087745.jpg</image_name>
+<image_broadcast>0000087745</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623040000 -0300" stop="20150623043000 -0300" channel="TVE" program_id="0000402710" event_id="00000000000097465548" series_key="">
+<title lang="pt">Flash Moda</title>
+<desc>Revista sobre o mundo da moda, apresentado por Nieves lvarez.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000402710.jpg</image_name>
+<image_broadcast>0000402710</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623043000 -0300" stop="20150623050000 -0300" channel="TVE" program_id="0000432969" event_id="00000000000097465549" series_key="">
+<title lang="pt">Al Punto, Revista de Gastronomia</title>
+<desc>Apresentação gastronômica que informa, entretém e discute com rigor a importância da alimentação na qualidade de vida.</desc>
+<date>2015</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Culinária</category>
+<image>
+<image_name position="1">0000432969.jpg</image_name>
+<image_broadcast>0000432969</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623050000 -0300" stop="20150623060000 -0300" channel="TVE" program_id="0000109132" event_id="00000000000097465550" series_key="00000000076902000000">
+<title lang="pt">Notícias 24 Horas</title>
+<desc>Informação nacional e internacional, 24 horas por dias, 365 dias ao ano.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000076902.jpg</image_name>
+<image_broadcast>00000000076902</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623060000 -0300" stop="20150623061500 -0300" channel="TVE" program_id="0000138366" event_id="00000000000097465551" series_key="">
+<title lang="pt">Camara Abierta</title>
+<title lang="en">Camara Abierta</title>
+<desc>Programa dedicado à Internet como plataforma de informação, criação e comunicação. A cada semana o programa traz os blogs mais interessantes, os melhores videos, os protagonistas da Internet e a vida no Second Life.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Informática</category>
+<image>
+<image_name position="1">0000138366.jpg</image_name>
+<image_broadcast>0000138366</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Espanha</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623061500 -0300" stop="20150623072500 -0300" channel="TVE" program_id="0000254740" event_id="00000000000097465552" series_key="">
+<title lang="pt">Para Todos La 2</title>
+<desc>Para todos La 2 é um Programa magazine e também, que contém outros assuntos de interesse social. Refletimos sobre os temas e aspectos das vida, que mais nos afetam.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000254740.jpg</image_name>
+<image_broadcast>0000254740</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623072500 -0300" stop="20150623082000 -0300" channel="TVE" program_id="0000006201" event_id="00000000000097465553" series_key="">
+<title lang="pt">La Aventura Del Saber</title>
+<title lang="en">La Aventura Del Saber</title>
+<desc>Programa de divulgação multitemático que trata de aproximar todos os públicos ao universo do conhecimento.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000006201.jpg</image_name>
+<image_broadcast>0000006201</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Espanha</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623082000 -0300" stop="20150623100000 -0300" channel="TVE" program_id="0000006220" event_id="00000000000097465554" series_key="">
+<title lang="pt">Los Desayunos de TVE</title>
+<title lang="en">Los Desayunos De TVE</title>
+<desc>Programa de informações que analisa as atualidades com uma mesa de círculos sociais e um convidado.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">0000006220.jpg</image_name>
+<image_broadcast>0000006220</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Espanha</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623100000 -0300" stop="20150623110000 -0300" channel="TVE" program_id="0000083819" event_id="00000000000097465555" series_key="00000000075878000000">
+<title lang="pt">Telediario 1</title>
+<desc>Telediário 1º edição, Apresentado por: Oriol Nolis, Raquel Martínez, Marc Martin e Arseni Cañadas, inclui esportes e previsão do tempo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075878.jpg</image_name>
+<image_broadcast>00000000075878</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623110000 -0300" stop="20150623111000 -0300" channel="TVE" program_id="0000006158" event_id="00000000000097465556" series_key="">
+<title lang="pt">El Tiempo</title>
+<desc>Espaço de informação meteorológica.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000006158.jpg</image_name>
+<image_broadcast>0000006158</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623111000 -0300" stop="20150623145500 -0300" channel="TVE" program_id="0000414077" event_id="00000000000097465557" series_key="00000000075875000000">
+<title lang="pt">La Mañana</title>
+<desc>Revista matinal de 4 horas da televisão espanhola, e uma variedade de conteúdo para toda à família, com informações de serviço público.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075875.jpg</image_name>
+<image_broadcast>00000000075875</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623145500 -0300" stop="20150623153000 -0300" channel="TVE" program_id="0000006264" event_id="00000000000097465558" series_key="">
+<title lang="pt">Saber y Ganar</title>
+<title lang="en">Saber y Ganar</title>
+<desc>Programa cujo objetivo é a divulgação de informação cultural. Três concursantes lutam entre si em diferentes provas, demonstrando seus conhecimentos e agilidade mental.</desc>
+<date>1997</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000006264.jpg</image_name>
+<image_broadcast>0000006264</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Espanha</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623153000 -0300" stop="20150623160000 -0300" channel="TVE" program_id="0000167082" event_id="00000000000097465559" series_key="">
+<title lang="pt">Corazon</title>
+<desc>Revista diária ao vivo, onde em 30 minutos repassamos toda a atualidade social de nosso país.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000167082.jpg</image_name>
+<image_broadcast>0000167082</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623160000 -0300" stop="20150623165500 -0300" channel="TVE" program_id="0000006279" event_id="00000000000097465560" series_key="00000000075879000000">
+<title lang="pt">Telediario 2</title>
+<desc>Telediário 2ª edição.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000075879.jpg</image_name>
+<image_broadcast>00000000075879</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623165500 -0300" stop="20150623170000 -0300" channel="TVE" program_id="0000006158" event_id="00000000000097465561" series_key="">
+<title lang="pt">El Tiempo</title>
+<desc>Espaço de informação meteorológica.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000006158.jpg</image_name>
+<image_broadcast>0000006158</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623170000 -0300" stop="20150623175500 -0300" channel="TVE" program_id="0000434052" event_id="00000000000097465562" series_key="">
+<title lang="pt">Acacias, 38</title>
+<desc>Uma série diária onde se narra a vida dos personagens que vivem em uma comunidade de vizinhos, e todas histórias que sucederam ao redor de seus personagens, situada no princípio do século XX em Madrid.</desc>
+<date>2015</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000434052.jpg</image_name>
+<image_broadcast>0000434052</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623175500 -0300" stop="20150623185500 -0300" channel="TVE" program_id="0000435178" event_id="00000000000097465563" series_key="">
+<title lang="pt">Seis Hermanas</title>
+<desc></desc>
+<date>2015</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000435178.jpg</image_name>
+<image_broadcast>0000435178</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623185500 -0300" stop="20150623192500 -0300" channel="TVE" program_id="0000254740" event_id="00000000000097465564" series_key="">
+<title lang="pt">Para Todos La 2</title>
+<desc>Para todos La 2 é um Programa magazine e também, que contém outros assuntos de interesse social. Refletimos sobre os temas e aspectos das vida, que mais nos afetam.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000254740.jpg</image_name>
+<image_broadcast>0000254740</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623192500 -0300" stop="20150623194500 -0300" channel="TVE" program_id="0000106530" event_id="00000000000097465565" series_key="">
+<title lang="pt">Zoom Tendencias</title>
+<desc>Programa de atualidades sobre as tendências de moda, gastronomia e viagens turísticas.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000106530.jpg</image_name>
+<image_broadcast>0000106530</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623194500 -0300" stop="20150623203000 -0300" channel="TVE" program_id="0000092249" event_id="00000000000097465566" series_key="">
+<title lang="pt">España Directo</title>
+<title lang="en">España Directo</title>
+<desc>Revista de atualidades da tarde, para todos os públicos, com legendas para surdos</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000092249.jpg</image_name>
+<image_broadcast>0000092249</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623203000 -0300" stop="20150623210000 -0300" channel="TVE" program_id="0000415449" event_id="00000000000097465567" series_key="">
+<title lang="pt">Aqui La Tierra</title>
+<desc>Revista de informação meteorológica.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Meteorologia</category>
+<image>
+<image_name position="1">0000415449.jpg</image_name>
+<image_broadcast>0000415449</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623210000 -0300" stop="20150623213000 -0300" channel="TVE" program_id="0000109132" event_id="00000000000097465568" series_key="00000000076902000000">
+<title lang="pt">Notícias 24 Horas</title>
+<desc>Informação nacional e internacional, 24 horas por dias, 365 dias ao ano.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000076902.jpg</image_name>
+<image_broadcast>00000000076902</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623213000 -0300" stop="20150623234000 -0300" channel="TVE" program_id="0000324691" event_id="00000000000097465569" series_key="">
+<title lang="pt">Masterchef</title>
+<desc>Um show de talentos para encontrar o melhor cozinheiro infantil na Espanha. Formato de grande êxito emitido em 145 países.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Culinária</category>
+<image>
+<image_name position="1">0000324691.jpg</image_name>
+<image_broadcast>0000324691</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623234000 -0300" stop="20150624001500 -0300" channel="TVE" program_id="0000428995" event_id="00000000000097465570" series_key="">
+<title lang="pt">This is Opera</title>
+<desc></desc>
+<credits>
+<director>Ramon Gener</director>
+<director>Ramon Gener</director>
+</credits>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000428995.jpg</image_name>
+<image_broadcast>0000428995</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
 <colour>yes</colour>

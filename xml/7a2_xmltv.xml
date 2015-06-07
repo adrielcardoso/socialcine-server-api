@@ -4,7 +4,7 @@
 <display-name lang="pt">PFC 2 - Mediaroom OiTV</display-name>
 <icon src="7a2.gif" />
 </channel>
-<programme start="20150603004000 -0300" stop="20150603040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174229" series_key="">
+<programme start="20150605010000 -0300" stop="20150605040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455935" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -21,7 +21,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150603040000 -0300" stop="20150603070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174230" series_key="">
+<programme start="20150605040000 -0300" stop="20150605070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455936" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -38,7 +38,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150603070000 -0300" stop="20150603100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174231" series_key="">
+<programme start="20150605070000 -0300" stop="20150605100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455937" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -55,7 +55,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150603100000 -0300" stop="20150603130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174232" series_key="">
+<programme start="20150605100000 -0300" stop="20150605130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455938" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -72,7 +72,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150603130000 -0300" stop="20150603180000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174233" series_key="">
+<programme start="20150605130000 -0300" stop="20150605160000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455939" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -89,78 +89,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150603180000 -0300" stop="20150603191000 -0300" channel="7A2" program_id="0000441462" event_id="000000100174234" series_key="00000000076744000000">
-<title lang="pt">Vasco TV - Ep. 09</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">00000000076744.jpg</image_name>
-<image_broadcast>00000000076744</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603191000 -0300" stop="20150603215000 -0300" channel="7A2" program_id="0000071773" event_id="000000100174235" series_key="">
-<title lang="pt">Vasco x Ponte Preta</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000071773.jpg</image_name>
-<image_broadcast>0000071773</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603215000 -0300" stop="20150604001000 -0300" channel="7A2" program_id="0000084304" event_id="000000100174236" series_key="">
-<title lang="pt">Grêmio x Corinthians</title>
-<title lang="en">Grêmio x Corinthians</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000084304.jpg</image_name>
-<image_broadcast>0000084304</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604001000 -0300" stop="20150604012000 -0300" channel="7A2" program_id="0000441234" event_id="000000100174237" series_key="00000000073851000000">
-<title lang="pt">Aqui é Corinthians - Ep. 66</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">00000000073851.jpg</image_name>
-<image_broadcast>00000000073851</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604012000 -0300" stop="20150604070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174238" series_key="">
+<programme start="20150605160000 -0300" stop="20150605183000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455940" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -177,230 +106,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150604070000 -0300" stop="20150604100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174239" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604100000 -0300" stop="20150604130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174240" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604130000 -0300" stop="20150604185000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174241" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604185000 -0300" stop="20150604200000 -0300" channel="7A2" program_id="0000441238" event_id="000000100174242" series_key="00000000075794000000">
-<title lang="pt">TV Inter - Ep. 29</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">00000000075794.jpg</image_name>
-<image_broadcast>00000000075794</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604200000 -0300" stop="20150604204000 -0300" channel="7A2" program_id="0000441236" event_id="000000100174243" series_key="00000000073863000000">
-<title lang="pt">Palmeiras na TV - Ep. 74</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">00000000073863.jpg</image_name>
-<image_broadcast>00000000073863</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604204000 -0300" stop="20150604234000 -0300" channel="7A2" program_id="0000038838" event_id="000000100174244" series_key="">
-<title lang="pt">Palmeiras x Internacional</title>
-<title lang="en">Palmeiras x Internacional</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000038838.jpg</image_name>
-<image_broadcast>0000038838</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604234000 -0300" stop="20150605010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174245" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150605010000 -0300" stop="20150605040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174246" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150605040000 -0300" stop="20150605070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174247" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150605070000 -0300" stop="20150605100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174248" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150605100000 -0300" stop="20150605130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174249" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150605130000 -0300" stop="20150605160000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174250" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150605160000 -0300" stop="20150605183000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174251" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150605183000 -0300" stop="20150605213500 -0300" channel="7A2" program_id="0000219940" event_id="000000100174252" series_key="">
+<programme start="20150605183000 -0300" stop="20150605214500 -0300" channel="7A2" program_id="0000219940" event_id="000000100455941" series_key="">
 <title lang="pt">Náutico x América MG</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -417,24 +123,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605213500 -0300" stop="20150605214500 -0300" channel="7A2" program_id="0000243091" event_id="000000100174253" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150605214500 -0300" stop="20150606003000 -0300" channel="7A2" program_id="0000443996" event_id="000000100174254" series_key="">
+<programme start="20150605214500 -0300" stop="20150606004000 -0300" channel="7A2" program_id="0000443996" event_id="000000100455942" series_key="">
 <title lang="pt">Botafogo x Mogi Mirim</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -451,7 +140,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606003000 -0300" stop="20150606040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174255" series_key="">
+<programme start="20150606004000 -0300" stop="20150606040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455943" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -468,7 +157,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606040000 -0300" stop="20150606070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174256" series_key="">
+<programme start="20150606040000 -0300" stop="20150606070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455944" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -485,7 +174,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606070000 -0300" stop="20150606100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174257" series_key="">
+<programme start="20150606070000 -0300" stop="20150606100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455945" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -502,7 +191,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606100000 -0300" stop="20150606130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174258" series_key="">
+<programme start="20150606100000 -0300" stop="20150606130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455946" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -519,7 +208,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606130000 -0300" stop="20150606143400 -0300" channel="7A2" program_id="0000243091" event_id="000000100174259" series_key="">
+<programme start="20150606130000 -0300" stop="20150606170000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455947" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -536,7 +225,298 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606143400 -0300" stop="20150606182400 -0300" channel="7A2" program_id="0000243091" event_id="000000100174260" series_key="">
+<programme start="20150606170000 -0300" stop="20150606181000 -0300" channel="7A2" program_id="0000443883" event_id="000000100455948" series_key="00000000073857000000">
+<title lang="pt">TV FLA - Ep. 93</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">00000000073857.jpg</image_name>
+<image_broadcast>00000000073857</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150606181000 -0300" stop="20150606210000 -0300" channel="7A2" program_id="0000410770" event_id="000000100455949" series_key="">
+<title lang="pt">Flamengo x Chapecoense</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000410770.jpg</image_name>
+<image_broadcast>0000410770</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150606210000 -0300" stop="20150607001000 -0300" channel="7A2" program_id="0000444023" event_id="000000100455950" series_key="">
+<title lang="pt">Joinville x Corinthians</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000444023.jpg</image_name>
+<image_broadcast>0000444023</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150607001000 -0300" stop="20150607012000 -0300" channel="7A2" program_id="0000443874" event_id="000000100455951" series_key="00000000073851000000">
+<title lang="pt">Aqui é Corinthians - Ep. 67</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">00000000073851.jpg</image_name>
+<image_broadcast>00000000073851</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150607012000 -0300" stop="20150607070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455952" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000243091.jpg</image_name>
+<image_broadcast>0000243091</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150607070000 -0300" stop="20150607100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455953" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000243091.jpg</image_name>
+<image_broadcast>0000243091</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150607100000 -0300" stop="20150607130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455954" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000243091.jpg</image_name>
+<image_broadcast>0000243091</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150607130000 -0300" stop="20150607142000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455955" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000243091.jpg</image_name>
+<image_broadcast>0000243091</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150607142000 -0300" stop="20150607180000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455956" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000243091.jpg</image_name>
+<image_broadcast>0000243091</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150607180000 -0300" stop="20150607191000 -0300" channel="7A2" program_id="0000443877" event_id="000000100455957" series_key="00000000073863000000">
+<title lang="pt">Palmeiras na TV - Ep. 75</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">00000000073863.jpg</image_name>
+<image_broadcast>00000000073863</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150607191000 -0300" stop="20150607221000 -0300" channel="7A2" program_id="0000068967" event_id="000000100455958" series_key="">
+<title lang="pt">Figueirense x Palmeiras</title>
+<title lang="en">Figueirense x Palmeiras</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000068967.jpg</image_name>
+<image_broadcast>0000068967</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150607221000 -0300" stop="20150608040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455959" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000243091.jpg</image_name>
+<image_broadcast>0000243091</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150608040000 -0300" stop="20150608070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455960" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000243091.jpg</image_name>
+<image_broadcast>0000243091</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150608070000 -0300" stop="20150608100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455961" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000243091.jpg</image_name>
+<image_broadcast>0000243091</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150608100000 -0300" stop="20150608130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455962" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000243091.jpg</image_name>
+<image_broadcast>0000243091</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150608130000 -0300" stop="20150608160000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455963" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000243091.jpg</image_name>
+<image_broadcast>0000243091</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150608160000 -0300" stop="20150608190000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455964" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000243091.jpg</image_name>
+<image_broadcast>0000243091</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150608190000 -0300" stop="20150608220000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455965" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -553,7 +533,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606182400 -0300" stop="20150606220000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174261" series_key="">
+<programme start="20150608220000 -0300" stop="20150609010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455966" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -570,7 +550,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606220000 -0300" stop="20150607010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174262" series_key="">
+<programme start="20150609010000 -0300" stop="20150609040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455967" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -587,7 +567,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607010000 -0300" stop="20150607040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174263" series_key="">
+<programme start="20150609040000 -0300" stop="20150609070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455968" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -604,7 +584,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607040000 -0300" stop="20150607070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174264" series_key="">
+<programme start="20150609070000 -0300" stop="20150609100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455969" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -621,7 +601,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607070000 -0300" stop="20150607100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174265" series_key="">
+<programme start="20150609100000 -0300" stop="20150609130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455970" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -638,7 +618,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607100000 -0300" stop="20150607130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174266" series_key="">
+<programme start="20150609130000 -0300" stop="20150609160000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455971" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -655,7 +635,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607130000 -0300" stop="20150607142000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174267" series_key="">
+<programme start="20150609160000 -0300" stop="20150609192400 -0300" channel="7A2" program_id="0000243091" event_id="000000100455972" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -672,7 +652,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607142000 -0300" stop="20150607182400 -0300" channel="7A2" program_id="0000243091" event_id="000000100174268" series_key="">
+<programme start="20150609192400 -0300" stop="20150609214000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455973" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -689,7 +669,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607182400 -0300" stop="20150607220000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174269" series_key="">
+<programme start="20150609214000 -0300" stop="20150609214400 -0300" channel="7A2" program_id="0000243091" event_id="000000100455974" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -706,7 +686,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607220000 -0300" stop="20150608010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174270" series_key="">
+<programme start="20150609214400 -0300" stop="20150610000000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455975" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -723,7 +703,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608010000 -0300" stop="20150608040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174271" series_key="">
+<programme start="20150610000000 -0300" stop="20150610040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455976" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -740,7 +720,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608040000 -0300" stop="20150608070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174272" series_key="">
+<programme start="20150610040000 -0300" stop="20150610070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455977" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -757,7 +737,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608070000 -0300" stop="20150608100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174273" series_key="">
+<programme start="20150610070000 -0300" stop="20150610100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455978" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -774,7 +754,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608100000 -0300" stop="20150608130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174274" series_key="">
+<programme start="20150610100000 -0300" stop="20150610130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455979" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -791,7 +771,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608130000 -0300" stop="20150608160000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174275" series_key="">
+<programme start="20150610130000 -0300" stop="20150610160000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455980" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -808,7 +788,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608160000 -0300" stop="20150608190000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174276" series_key="">
+<programme start="20150610160000 -0300" stop="20150610192400 -0300" channel="7A2" program_id="0000243091" event_id="000000100455981" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -825,7 +805,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608190000 -0300" stop="20150608220000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174277" series_key="">
+<programme start="20150610192400 -0300" stop="20150610214000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455982" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -842,7 +822,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608220000 -0300" stop="20150609010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174278" series_key="">
+<programme start="20150610214000 -0300" stop="20150611010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455983" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -859,7 +839,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609010000 -0300" stop="20150609040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174279" series_key="">
+<programme start="20150611010000 -0300" stop="20150611040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455984" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -876,7 +856,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609040000 -0300" stop="20150609070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174280" series_key="">
+<programme start="20150611040000 -0300" stop="20150611070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455985" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -893,7 +873,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609070000 -0300" stop="20150609100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174281" series_key="">
+<programme start="20150611070000 -0300" stop="20150611100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455986" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -910,7 +890,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609100000 -0300" stop="20150609130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174282" series_key="">
+<programme start="20150611100000 -0300" stop="20150611130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455987" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -927,7 +907,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609130000 -0300" stop="20150609160000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174283" series_key="">
+<programme start="20150611130000 -0300" stop="20150611160000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455988" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -944,7 +924,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609160000 -0300" stop="20150609192400 -0300" channel="7A2" program_id="0000243091" event_id="000000100174284" series_key="">
+<programme start="20150611160000 -0300" stop="20150611190000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455989" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -961,7 +941,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609192400 -0300" stop="20150609214000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174285" series_key="">
+<programme start="20150611190000 -0300" stop="20150611205400 -0300" channel="7A2" program_id="0000243091" event_id="000000100455990" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -978,7 +958,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609214000 -0300" stop="20150609214400 -0300" channel="7A2" program_id="0000243091" event_id="000000100174286" series_key="">
+<programme start="20150611205400 -0300" stop="20150611231000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455991" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -995,7 +975,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609214400 -0300" stop="20150610000000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174287" series_key="">
+<programme start="20150611231000 -0300" stop="20150612010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455992" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1012,7 +992,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610000000 -0300" stop="20150610040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174288" series_key="">
+<programme start="20150612010000 -0300" stop="20150612040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455993" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1029,7 +1009,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610040000 -0300" stop="20150610070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174289" series_key="">
+<programme start="20150612040000 -0300" stop="20150612070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455994" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1046,7 +1026,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610070000 -0300" stop="20150610100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174290" series_key="">
+<programme start="20150612070000 -0300" stop="20150612100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455995" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1063,7 +1043,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610100000 -0300" stop="20150610130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174291" series_key="">
+<programme start="20150612100000 -0300" stop="20150612130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455996" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1080,7 +1060,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610130000 -0300" stop="20150610160000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174292" series_key="">
+<programme start="20150612130000 -0300" stop="20150612160000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455997" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1097,7 +1077,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610160000 -0300" stop="20150610192400 -0300" channel="7A2" program_id="0000243091" event_id="000000100174293" series_key="">
+<programme start="20150612160000 -0300" stop="20150612183000 -0300" channel="7A2" program_id="0000243091" event_id="000000100455998" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1114,7 +1094,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610192400 -0300" stop="20150610214000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174294" series_key="">
+<programme start="20150612183000 -0300" stop="20150612205400 -0300" channel="7A2" program_id="0000243091" event_id="000000100455999" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1131,7 +1111,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610214000 -0300" stop="20150611010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174295" series_key="">
+<programme start="20150612205400 -0300" stop="20150612231000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456000" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1148,7 +1128,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611010000 -0300" stop="20150611040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174296" series_key="">
+<programme start="20150612231000 -0300" stop="20150613010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456001" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1165,7 +1145,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611040000 -0300" stop="20150611070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174297" series_key="">
+<programme start="20150613010000 -0300" stop="20150613040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456002" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1182,7 +1162,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611070000 -0300" stop="20150611100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174298" series_key="">
+<programme start="20150613040000 -0300" stop="20150613070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456003" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1199,7 +1179,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611100000 -0300" stop="20150611130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174299" series_key="">
+<programme start="20150613070000 -0300" stop="20150613100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456004" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1216,7 +1196,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611130000 -0300" stop="20150611160000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174300" series_key="">
+<programme start="20150613100000 -0300" stop="20150613130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456005" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1233,7 +1213,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611160000 -0300" stop="20150611190000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174301" series_key="">
+<programme start="20150613130000 -0300" stop="20150613143400 -0300" channel="7A2" program_id="0000243091" event_id="000000100456006" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1250,7 +1230,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611190000 -0300" stop="20150611205400 -0300" channel="7A2" program_id="0000243091" event_id="000000100174302" series_key="">
+<programme start="20150613143400 -0300" stop="20150613182400 -0300" channel="7A2" program_id="0000243091" event_id="000000100456007" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1267,7 +1247,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611205400 -0300" stop="20150611231000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174303" series_key="">
+<programme start="20150613182400 -0300" stop="20150613220000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456008" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1284,7 +1264,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611231000 -0300" stop="20150612010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174304" series_key="">
+<programme start="20150613220000 -0300" stop="20150614010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456009" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1301,7 +1281,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612010000 -0300" stop="20150612040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174305" series_key="">
+<programme start="20150614010000 -0300" stop="20150614040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456010" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1318,7 +1298,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612040000 -0300" stop="20150612070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174306" series_key="">
+<programme start="20150614040000 -0300" stop="20150614070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456011" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1335,7 +1315,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612070000 -0300" stop="20150612100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174307" series_key="">
+<programme start="20150614070000 -0300" stop="20150614100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456012" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1352,7 +1332,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612100000 -0300" stop="20150612130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174308" series_key="">
+<programme start="20150614100000 -0300" stop="20150614130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456013" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1369,7 +1349,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612130000 -0300" stop="20150612160000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174309" series_key="">
+<programme start="20150614130000 -0300" stop="20150614142000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456014" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1386,7 +1366,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612160000 -0300" stop="20150612183000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174310" series_key="">
+<programme start="20150614142000 -0300" stop="20150614182400 -0300" channel="7A2" program_id="0000243091" event_id="000000100456015" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1403,7 +1383,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612183000 -0300" stop="20150612205400 -0300" channel="7A2" program_id="0000243091" event_id="000000100174311" series_key="">
+<programme start="20150614182400 -0300" stop="20150614220000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456016" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1420,7 +1400,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612205400 -0300" stop="20150612231000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174312" series_key="">
+<programme start="20150614220000 -0300" stop="20150615010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456017" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1437,7 +1417,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612231000 -0300" stop="20150613010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174313" series_key="">
+<programme start="20150615010000 -0300" stop="20150615040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456018" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1454,7 +1434,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613010000 -0300" stop="20150613040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174314" series_key="">
+<programme start="20150615040000 -0300" stop="20150615070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456019" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1471,7 +1451,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613040000 -0300" stop="20150613070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174315" series_key="">
+<programme start="20150615070000 -0300" stop="20150615100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456020" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1488,7 +1468,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613070000 -0300" stop="20150613100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174316" series_key="">
+<programme start="20150615100000 -0300" stop="20150615130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456021" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1505,7 +1485,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613100000 -0300" stop="20150613130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174317" series_key="">
+<programme start="20150615130000 -0300" stop="20150615160000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456022" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1522,7 +1502,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613130000 -0300" stop="20150613143400 -0300" channel="7A2" program_id="0000243091" event_id="000000100174318" series_key="">
+<programme start="20150615160000 -0300" stop="20150615190000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456023" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1539,7 +1519,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613143400 -0300" stop="20150613182400 -0300" channel="7A2" program_id="0000243091" event_id="000000100174319" series_key="">
+<programme start="20150615190000 -0300" stop="20150615220000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456024" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1556,7 +1536,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613182400 -0300" stop="20150613220000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174320" series_key="">
+<programme start="20150615220000 -0300" stop="20150616010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456025" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1573,7 +1553,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613220000 -0300" stop="20150614010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174321" series_key="">
+<programme start="20150616010000 -0300" stop="20150616040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456026" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1590,7 +1570,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614010000 -0300" stop="20150614040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174322" series_key="">
+<programme start="20150616040000 -0300" stop="20150616070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456027" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1607,7 +1587,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614040000 -0300" stop="20150614070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174323" series_key="">
+<programme start="20150616070000 -0300" stop="20150616100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456028" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1624,7 +1604,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614070000 -0300" stop="20150614100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174324" series_key="">
+<programme start="20150616100000 -0300" stop="20150616130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456029" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1641,7 +1621,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614100000 -0300" stop="20150614130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174325" series_key="">
+<programme start="20150616130000 -0300" stop="20150616160000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456030" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1658,7 +1638,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614130000 -0300" stop="20150614142000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174326" series_key="">
+<programme start="20150616160000 -0300" stop="20150616192400 -0300" channel="7A2" program_id="0000243091" event_id="000000100456031" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1675,7 +1655,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614142000 -0300" stop="20150614182400 -0300" channel="7A2" program_id="0000243091" event_id="000000100174327" series_key="">
+<programme start="20150616192400 -0300" stop="20150616214000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456032" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1692,7 +1672,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614182400 -0300" stop="20150614220000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174328" series_key="">
+<programme start="20150616214000 -0300" stop="20150616214400 -0300" channel="7A2" program_id="0000243091" event_id="000000100456033" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1709,7 +1689,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614220000 -0300" stop="20150615010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174329" series_key="">
+<programme start="20150616214400 -0300" stop="20150617000000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456034" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1726,7 +1706,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615010000 -0300" stop="20150615040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174330" series_key="">
+<programme start="20150617000000 -0300" stop="20150617040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456035" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1743,7 +1723,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615040000 -0300" stop="20150615070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174331" series_key="">
+<programme start="20150617040000 -0300" stop="20150617070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456036" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1760,7 +1740,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615070000 -0300" stop="20150615100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174332" series_key="">
+<programme start="20150617070000 -0300" stop="20150617100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456037" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1777,7 +1757,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615100000 -0300" stop="20150615130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174333" series_key="">
+<programme start="20150617100000 -0300" stop="20150617130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456038" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1794,7 +1774,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615130000 -0300" stop="20150615160000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174334" series_key="">
+<programme start="20150617130000 -0300" stop="20150617160000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456039" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1811,7 +1791,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615160000 -0300" stop="20150615190000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174335" series_key="">
+<programme start="20150617160000 -0300" stop="20150617192400 -0300" channel="7A2" program_id="0000243091" event_id="000000100456040" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1828,7 +1808,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615190000 -0300" stop="20150615220000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174336" series_key="">
+<programme start="20150617192400 -0300" stop="20150617214000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456041" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1845,7 +1825,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615220000 -0300" stop="20150616010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174337" series_key="">
+<programme start="20150617214000 -0300" stop="20150618010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456042" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1862,7 +1842,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616010000 -0300" stop="20150616040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174338" series_key="">
+<programme start="20150618010000 -0300" stop="20150618040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456043" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1879,7 +1859,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616040000 -0300" stop="20150616070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174339" series_key="">
+<programme start="20150618040000 -0300" stop="20150618070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456044" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1896,7 +1876,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616070000 -0300" stop="20150616100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174340" series_key="">
+<programme start="20150618070000 -0300" stop="20150618100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456045" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1913,7 +1893,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616100000 -0300" stop="20150616130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174341" series_key="">
+<programme start="20150618100000 -0300" stop="20150618130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456046" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1930,7 +1910,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616130000 -0300" stop="20150616160000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174342" series_key="">
+<programme start="20150618130000 -0300" stop="20150618160000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456047" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1947,7 +1927,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616160000 -0300" stop="20150616192400 -0300" channel="7A2" program_id="0000243091" event_id="000000100174343" series_key="">
+<programme start="20150618160000 -0300" stop="20150618190000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456048" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1964,7 +1944,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616192400 -0300" stop="20150616214000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174344" series_key="">
+<programme start="20150618190000 -0300" stop="20150618205400 -0300" channel="7A2" program_id="0000243091" event_id="000000100456049" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1981,7 +1961,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616214000 -0300" stop="20150616214400 -0300" channel="7A2" program_id="0000243091" event_id="000000100174345" series_key="">
+<programme start="20150618205400 -0300" stop="20150618231000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456050" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1998,7 +1978,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616214400 -0300" stop="20150617000000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174346" series_key="">
+<programme start="20150618231000 -0300" stop="20150619010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456051" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2015,7 +1995,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617000000 -0300" stop="20150617040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174347" series_key="">
+<programme start="20150619010000 -0300" stop="20150619040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456052" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2032,7 +2012,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617040000 -0300" stop="20150617070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174348" series_key="">
+<programme start="20150619040000 -0300" stop="20150619070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456053" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2049,7 +2029,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617070000 -0300" stop="20150617100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174349" series_key="">
+<programme start="20150619070000 -0300" stop="20150619100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456054" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2066,7 +2046,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617100000 -0300" stop="20150617130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174350" series_key="">
+<programme start="20150619100000 -0300" stop="20150619130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456055" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2083,7 +2063,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617130000 -0300" stop="20150617160000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174351" series_key="">
+<programme start="20150619130000 -0300" stop="20150619160000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456056" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2100,7 +2080,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617160000 -0300" stop="20150617192400 -0300" channel="7A2" program_id="0000243091" event_id="000000100174352" series_key="">
+<programme start="20150619160000 -0300" stop="20150619183000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456057" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2117,7 +2097,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617192400 -0300" stop="20150617214000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174353" series_key="">
+<programme start="20150619183000 -0300" stop="20150619205400 -0300" channel="7A2" program_id="0000243091" event_id="000000100456058" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2134,7 +2114,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617214000 -0300" stop="20150618010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174354" series_key="">
+<programme start="20150619205400 -0300" stop="20150619231000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456059" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2151,7 +2131,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618010000 -0300" stop="20150618040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174355" series_key="">
+<programme start="20150619231000 -0300" stop="20150620010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456060" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2168,7 +2148,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618040000 -0300" stop="20150618070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174356" series_key="">
+<programme start="20150620010000 -0300" stop="20150620040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456061" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2185,7 +2165,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618070000 -0300" stop="20150618100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174357" series_key="">
+<programme start="20150620040000 -0300" stop="20150620070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456062" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2202,7 +2182,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618100000 -0300" stop="20150618130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174358" series_key="">
+<programme start="20150620070000 -0300" stop="20150620100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456063" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2219,7 +2199,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618130000 -0300" stop="20150618160000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174359" series_key="">
+<programme start="20150620100000 -0300" stop="20150620130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456064" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2236,7 +2216,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618160000 -0300" stop="20150618190000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174360" series_key="">
+<programme start="20150620130000 -0300" stop="20150620143400 -0300" channel="7A2" program_id="0000243091" event_id="000000100456065" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2253,7 +2233,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618190000 -0300" stop="20150618205400 -0300" channel="7A2" program_id="0000243091" event_id="000000100174361" series_key="">
+<programme start="20150620143400 -0300" stop="20150620182400 -0300" channel="7A2" program_id="0000243091" event_id="000000100456066" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2270,7 +2250,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618205400 -0300" stop="20150618231000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174362" series_key="">
+<programme start="20150620182400 -0300" stop="20150620220000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456067" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2287,7 +2267,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618231000 -0300" stop="20150619010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174363" series_key="">
+<programme start="20150620220000 -0300" stop="20150621010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456068" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2304,7 +2284,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619010000 -0300" stop="20150619040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174364" series_key="">
+<programme start="20150621010000 -0300" stop="20150621040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456069" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2321,7 +2301,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619040000 -0300" stop="20150619070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174365" series_key="">
+<programme start="20150621040000 -0300" stop="20150621070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456070" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2338,7 +2318,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619070000 -0300" stop="20150619100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174366" series_key="">
+<programme start="20150621070000 -0300" stop="20150621100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456071" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2355,7 +2335,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619100000 -0300" stop="20150619130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174367" series_key="">
+<programme start="20150621100000 -0300" stop="20150621130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456072" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2372,7 +2352,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619130000 -0300" stop="20150619160000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174368" series_key="">
+<programme start="20150621130000 -0300" stop="20150621142000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456073" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2389,7 +2369,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619160000 -0300" stop="20150619183000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174369" series_key="">
+<programme start="20150621142000 -0300" stop="20150621182400 -0300" channel="7A2" program_id="0000243091" event_id="000000100456074" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2406,7 +2386,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619183000 -0300" stop="20150619205400 -0300" channel="7A2" program_id="0000243091" event_id="000000100174370" series_key="">
+<programme start="20150621182400 -0300" stop="20150621220000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456075" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2423,7 +2403,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619205400 -0300" stop="20150619231000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174371" series_key="">
+<programme start="20150621220000 -0300" stop="20150622010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456076" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2440,7 +2420,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619231000 -0300" stop="20150620010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174372" series_key="">
+<programme start="20150622010000 -0300" stop="20150622040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456077" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2457,7 +2437,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150620010000 -0300" stop="20150620040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174373" series_key="">
+<programme start="20150622040000 -0300" stop="20150622070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456078" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2474,7 +2454,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150620040000 -0300" stop="20150620070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174374" series_key="">
+<programme start="20150622070000 -0300" stop="20150622100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456079" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2491,7 +2471,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150620070000 -0300" stop="20150620100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174375" series_key="">
+<programme start="20150622100000 -0300" stop="20150622130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456080" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2508,7 +2488,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150620100000 -0300" stop="20150620130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174376" series_key="">
+<programme start="20150622130000 -0300" stop="20150622160000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456081" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2525,7 +2505,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150620130000 -0300" stop="20150620143400 -0300" channel="7A2" program_id="0000243091" event_id="000000100174377" series_key="">
+<programme start="20150622160000 -0300" stop="20150622190000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456082" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2542,7 +2522,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150620143400 -0300" stop="20150620182400 -0300" channel="7A2" program_id="0000243091" event_id="000000100174378" series_key="">
+<programme start="20150622190000 -0300" stop="20150622220000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456083" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2559,7 +2539,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150620182400 -0300" stop="20150620220000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174379" series_key="">
+<programme start="20150622220000 -0300" stop="20150623010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456084" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2576,7 +2556,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150620220000 -0300" stop="20150621010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174380" series_key="">
+<programme start="20150623010000 -0300" stop="20150623040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456085" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2593,7 +2573,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150621010000 -0300" stop="20150621040000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174381" series_key="">
+<programme start="20150623040000 -0300" stop="20150623070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456086" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2610,7 +2590,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150621040000 -0300" stop="20150621070000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174382" series_key="">
+<programme start="20150623070000 -0300" stop="20150623100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456087" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2627,7 +2607,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150621070000 -0300" stop="20150621100000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174383" series_key="">
+<programme start="20150623100000 -0300" stop="20150623130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456088" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2644,7 +2624,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150621100000 -0300" stop="20150621130000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174384" series_key="">
+<programme start="20150623130000 -0300" stop="20150623160000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456089" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2661,7 +2641,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150621130000 -0300" stop="20150621142000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174385" series_key="">
+<programme start="20150623160000 -0300" stop="20150623192400 -0300" channel="7A2" program_id="0000243091" event_id="000000100456090" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2678,7 +2658,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150621142000 -0300" stop="20150621182400 -0300" channel="7A2" program_id="0000243091" event_id="000000100174386" series_key="">
+<programme start="20150623192400 -0300" stop="20150623214000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456091" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2695,7 +2675,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150621182400 -0300" stop="20150621220000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174387" series_key="">
+<programme start="20150623214000 -0300" stop="20150623214400 -0300" channel="7A2" program_id="0000243091" event_id="000000100456092" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2712,7 +2692,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150621220000 -0300" stop="20150622010000 -0300" channel="7A2" program_id="0000243091" event_id="000000100174388" series_key="">
+<programme start="20150623214400 -0300" stop="20150624000000 -0300" channel="7A2" program_id="0000243091" event_id="000000100456093" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>

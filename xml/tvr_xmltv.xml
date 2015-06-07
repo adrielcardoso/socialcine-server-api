@@ -4,1929 +4,6 @@
 <display-name lang="pt">TVE-RS - TVE do Rio Grande do Sul</display-name>
 <icon src="tvr.gif" />
 </channel>
-<programme start="20150603000000 -0300" stop="20150603003000 -0300" channel="TVR" program_id="0000346459" event_id="00000000000097439029" series_key="00000000059400000000">
-<title lang="pt">Caçadores da Alma</title>
-<desc>A série aborda a vida e a obra de fotógrafos brasileiros com destaque em diferentes áreas de atuação, como jornalismo, moda, arte e publicidade.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000059400.jpg</image_name>
-<image_broadcast>00000000059400</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603003000 -0300" stop="20150603030000 -0300" channel="TVR" program_id="0000442021" event_id="00000000000097439030" series_key="">
-<title lang="pt">Mundial Sub-20: Catar x Portugal</title>
-<desc>Vinte e quatro seleções disputam a taça, na vigésima edição do Campeonato Mundial de Futebol Sub-20, da FIFA.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000442021.jpg</image_name>
-<image_broadcast>0000442021</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603030000 -0300" stop="20150603040000 -0300" channel="TVR" program_id="0000091308" event_id="00000000000097439031" series_key="00000000070782000000">
-<title lang="pt">Observatório da Imprensa</title>
-<desc>Apresentado por Alberto Dines, o programa discute o comportamento de jornalistas, jornais, revistas e redes de televisão em relação a um determinado assunto.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000070782.jpg</image_name>
-<image_broadcast>00000000070782</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150603040000 -0300" stop="20150603043000 -0300" channel="TVR" program_id="0000277108" event_id="00000000000097439032" series_key="00000000070761000000">
-<title lang="pt">Telecurso Tecendo o Saber</title>
-<desc>Tecendo o Saber é um projeto que oferece a jovens e adultos a oportunidade de estudar os conteúdos da primeira etapa do ensino fundamental, correspondente às quatro primeiras séries.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000070761.jpg</image_name>
-<image_broadcast>00000000070761</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603043000 -0300" stop="20150603044500 -0300" channel="TVR" program_id="0000202233" event_id="00000000000097439033" series_key="00000000063623000000">
-<title lang="pt">Telecurso Ensino Médio</title>
-<desc>O Telecurso, e uma proposta educacional inovadora voltada para milhões de brasileiros que não concluíram, por algum motivo, os Ensinos Fundamental e Médio.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000063623.jpg</image_name>
-<image_broadcast>00000000063623</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603044500 -0300" stop="20150603050000 -0300" channel="TVR" program_id="0000202234" event_id="00000000000097439034" series_key="00000000074527000000">
-<title lang="pt">Telecurso Ensino Fundamental</title>
-<desc>O Telecurso, uma proposta educacional inovadora voltada para milhões de brasileiros que não concluíram, por algum motivo, os Ensinos Fundamental e Médio.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000074527.jpg</image_name>
-<image_broadcast>00000000074527</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603050000 -0300" stop="20150603051500 -0300" channel="TVR" program_id="0000129474" event_id="00000000000097439035" series_key="00000000070761000000">
-<title lang="pt">Telecurso TEC</title>
-<desc>O Telecurso TEC é um programa de formação técnica de nível médio, de qualificação e habilitação profissional, feito para quem deseja investir na sua educação ou na de seus funcionários.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000070761.jpg</image_name>
-<image_broadcast>00000000070761</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603051500 -0300" stop="20150603053000 -0300" channel="TVR" program_id="0000150838" event_id="00000000000097439036" series_key="00000000063622000000">
-<title lang="pt">Telecurso Profissionalizante</title>
-<desc>O Telecurso é reconhecido mundialmente como uma metodologia que promove um salto de qualidade na educação, tendo beneficiado mais de 5,5 milhões de pessoas nas 27.714 telesalas em todo o Brasil.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000063622.jpg</image_name>
-<image_broadcast>00000000063622</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603053000 -0300" stop="20150603063000 -0300" channel="TVR" program_id="0000058528" event_id="00000000000097439037" series_key="00000000070787000000">
-<title lang="pt">Salto Para o Futuro</title>
-<desc>Programa dirigido especialmente à formação continuada de professores do ensino fundamental e médio, atendendo também a temas de interesse para a educação infantil.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000070787.jpg</image_name>
-<image_broadcast>00000000070787</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603063000 -0300" stop="20150603070000 -0300" channel="TVR" program_id="0000186036" event_id="00000000000097439038" series_key="00000000061872000000">
-<title lang="pt">Nova África</title>
-<desc>A série tem 26 programas temáticos, revelando a diversidade natural e cultural da África, especialmente de alguns povos africanos ligados à origem de nossos ancestrais.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000061872.jpg</image_name>
-<image_broadcast>00000000061872</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603070000 -0300" stop="20150603073000 -0300" channel="TVR" program_id="0000377933" event_id="00000000000097439039" series_key="">
-<title lang="pt">Vitrine do Campo</title>
-<desc>Traz ao público informações sobre o setor que movimenta a economia nacional: o agronegócio. Além de apresentar pesquisas, curiosidades, gastronomia, e os aspectos peculiares da vida no campo.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000377933.jpg</image_name>
-<image_broadcast>0000377933</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603073000 -0300" stop="20150603080000 -0300" channel="TVR" program_id="0000302116" event_id="00000000000097439040" series_key="00000000070736000000">
-<title lang="pt">Bom Para Todos</title>
-<desc>É um canal de comunicação com diversos especialistas que respondem questões sobre saúde, direito, educação, ecologia e muito mais.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000070736.jpg</image_name>
-<image_broadcast>00000000070736</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603080000 -0300" stop="20150603081500 -0300" channel="TVR" program_id="0000113397" event_id="00000000000097439041" series_key="00000000069552000000">
-<title lang="pt">Visual</title>
-<title lang="en">Jornal Visual</title>
-<desc>Primeiro telejornal diário criado para levar informação à comunidade de surdos. Reportagens sobre a inclusão do surdo, assuntos de seu universo; notícias principais do Brasil e do Mundo traduzidos para a Língua Brasileira de Sinais.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069552.jpg</image_name>
-<image_broadcast>00000000069552</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603081500 -0300" stop="20150603084500 -0300" channel="TVR" program_id="0000006866" event_id="00000000000097439042" series_key="">
-<title lang="pt">Cidadania</title>
-<title lang="en">Cidadania</title>
-<desc>Entrevistas sobre temas atuais com a participação de parlamentares, especialistas e representantes da sociedade civil.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000006866.jpg</image_name>
-<image_broadcast>0000006866</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603084500 -0300" stop="20150603093000 -0300" channel="TVR" program_id="0000308868" event_id="00000000000097439043" series_key="">
-<title lang="pt">Espaço Público TVE</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000308868.jpg</image_name>
-<image_broadcast>0000308868</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603093000 -0300" stop="20150603094000 -0300" channel="TVR" program_id="0000418782" event_id="00000000000097439044" series_key="00000000076351000000">
-<title lang="pt">Sarah e o Pato</title>
-<desc>A encantadora série de animação Sarah e o Pato foca no dia a dia das novas experiências e aprendizados da infância. Sarah e o seu amigo pato vivem em uma pequena aldeia e vivenciam aventuras simples, mas emocionantes.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">00000000076351.jpg</image_name>
-<image_broadcast>00000000076351</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603094000 -0300" stop="20150603094900 -0300" channel="TVR" program_id="0000234897" event_id="00000000000097439045" series_key="">
-<title lang="pt">Teatro das Fábulas</title>
-<desc>Acompanha as andanças de um lobo amigável que lidera um grupo de teatro itinerante. Entre os integrantes dessa companhia teatral estão a raposa aspirante a escritora, alguns porquinhos travessos e um coelhinho durão.</desc>
-<category lang="pt">Infantil</category>
-<category lang="pt">Programa</category>
-<image>
-<image_name position="1">0000234897.jpg</image_name>
-<image_broadcast>0000234897</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603094900 -0300" stop="20150603100200 -0300" channel="TVR" program_id="0000170707" event_id="00000000000097439046" series_key="00000000044676000000">
-<title lang="pt">Peixonauta</title>
-<desc>Peixonauta e sua melhor amiga, Marina, moram no EcoZoo, uma mistura de parque de diversões e zoológico. Eles são agentes secretos e sua missão é proteger os animais que vivem no parque.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">00000000044676.jpg</image_name>
-<image_broadcast>00000000044676</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603100200 -0300" stop="20150603101300 -0300" channel="TVR" program_id="0000289472" event_id="00000000000097439047" series_key="">
-<title lang="pt">Os Cupins</title>
-<desc>As aventuras de Cupincha e Cupim, que ajudam a ensinar música enquanto vivem histórias divertidas dentro do piano do multi-instrumentista Joca.</desc>
-<category lang="pt">Infantil</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">0000289472.jpg</image_name>
-<image_broadcast>0000289472</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603101300 -0300" stop="20150603102100 -0300" channel="TVR" program_id="0000339552" event_id="00000000000097439048" series_key="00000000063314000000">
-<title lang="pt">Nilba e os Desastronautas</title>
-<desc>Nilba se acidentou na misteriosa Lua Ervilha. Para poder voltar à Terra, a equipe da S.S. Geniwald vai ter que confiar nas inadequadas estratégias deste alienado capitão, que não é tão experiente como dizia.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">00000000063314.jpg</image_name>
-<image_broadcast>00000000063314</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603102100 -0300" stop="20150603102300 -0300" channel="TVR" program_id="0000429213" event_id="00000000000097439049" series_key="">
-<title lang="pt">Tve Notícias</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000429213.jpg</image_name>
-<image_broadcast>0000429213</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603102300 -0300" stop="20150603103600 -0300" channel="TVR" program_id="0000364651" event_id="00000000000097439050" series_key="">
-<title lang="pt">O Teco-teco</title>
-<desc>O programa apresenta histórias, jogos e desafios e se propõe a colaborar de forma lúdica no processo de construção do conhecimento, estimulando a participação ativa de seu público através da web.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">0000364651.jpg</image_name>
-<image_broadcast>0000364651</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603103600 -0300" stop="20150603104800 -0300" channel="TVR" program_id="0000407425" event_id="00000000000097439051" series_key="">
-<title lang="pt">Jarau</title>
-<desc>Inspirada na lenda gaúcha da "Salamanca do Jarau". Cinco jovens libertam acidentalmente a vilã Taniaguá, uma bruxa das terras mouras que fora aprisionada há centenas de anos pelos deuses guaranis.</desc>
-<category lang="pt">Infantil</category>
-<category lang="pt">Desenho</category>
-<image>
-<image_name position="1">0000407425.jpg</image_name>
-<image_broadcast>0000407425</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603104800 -0300" stop="20150603111500 -0300" channel="TVR" program_id="0000114680" event_id="00000000000097439052" series_key="00000000070818000000">
-<title lang="pt">Dango Balango</title>
-<desc>Dango Balango é um programa infantil cujos bonecos Joduca, Sdruvs e Druzila, criados especialmente pelo grupo Giramundos, participam de diversos quadros que se alternam, de programa para programa.</desc>
-<category lang="pt">Infantil</category>
-<category lang="pt">Programa</category>
-<image>
-<image_name position="1">00000000070818.jpg</image_name>
-<image_broadcast>00000000070818</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603111500 -0300" stop="20150603112800 -0300" channel="TVR" program_id="0000265340" event_id="00000000000097439053" series_key="">
-<title lang="pt">Historietas Assombradas</title>
-<desc>Histórietas Assombradas - A chegada de uma velhinha transforma a rotina de um garoto de 11 anos num universo sem limites para a imaginação.</desc>
-<category lang="pt">Infantil</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">0000265340.jpg</image_name>
-<image_broadcast>0000265340</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603112800 -0300" stop="20150603113000 -0300" channel="TVR" program_id="0000408847" event_id="00000000000097439054" series_key="">
-<title lang="pt">O Pequeno Einstein</title>
-<desc>Respostas a questões básicas da física. Em Pequeno Einstein, o pequeno personagem animado explica de forma simples e divertida os principais aspectos das teorias de Albert Einstein, fórmulas, conceitos e leis da física.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">0000408847.jpg</image_name>
-<image_broadcast>0000408847</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603113000 -0300" stop="20150603120000 -0300" channel="TVR" program_id="0000371688" event_id="00000000000097439055" series_key="00000000072837000000">
-<title lang="pt">Estação Cultura - Vivo</title>
-<desc>Programa de variedades, com música popular brasileira e informação voltada principalmente para educação e cultura.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">00000000072837.jpg</image_name>
-<image_broadcast>00000000072837</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603120000 -0300" stop="20150603123000 -0300" channel="TVR" program_id="0000019744" event_id="00000000000097439056" series_key="00000000066308000000">
-<title lang="pt">Repórter Brasil</title>
-<desc>Único telejornal brasileiro que exibe reportagens feitas diretamente pelo espectador. Os temas que movimentam o dia a dia são tratados com mais tempo e em mais detalhes, de forma muito clara e objetiva.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066308.jpg</image_name>
-<image_broadcast>00000000066308</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603123000 -0300" stop="20150603133000 -0300" channel="TVR" program_id="0000047583" event_id="00000000000097439057" series_key="">
-<title lang="pt">Canal Aberto</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000047583.jpg</image_name>
-<image_broadcast>0000047583</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603133000 -0300" stop="20150603134500 -0300" channel="TVR" program_id="0000418736" event_id="00000000000097439058" series_key="">
-<title lang="pt">Brincadeirinhas Musicais + Clipes Cocoricó</title>
-<desc>O grupo Palavra Cantada entretém a criançada com brincadeiradas musicadas. Em seguida, é a vez da turma do Júlio fazer a festa no paiol com músicas da série infantil.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000418736.jpg</image_name>
-<image_broadcast>0000418736</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603134500 -0300" stop="20150603140000 -0300" channel="TVR" program_id="0000091168" event_id="00000000000097439059" series_key="">
-<title lang="pt">Cocoricó</title>
-<title lang="en">Cocoricó</title>
-<desc>A série traz as aventuras da turminha formada por Júlio, as galinhas Lilica, Zazá e Lola, o cavalo Alípio e outros amigos que vivem histórias divertidas na Fazenda Cocoricó.</desc>
-<date>1996</date>
-<category lang="pt">Infantil</category>
-<category lang="pt">Programa</category>
-<image>
-<image_name position="1">0000091168.jpg</image_name>
-<image_broadcast>0000091168</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>4/5</value>
-</star-rating>
-</programme>
-<programme start="20150603140000 -0300" stop="20150603143000 -0300" channel="TVR" program_id="0000233472" event_id="00000000000097439060" series_key="00000000070173000000">
-<title lang="pt">Bubble Guppies</title>
-<desc>Mergulhe em um mundo aquático de conhecimento e risadas com Bubble Guppies, uma incrível e interativa animação musical.</desc>
-<credits>
-<director>Mark Salisbury</director>
-<director>Mark Salisbury</director>
-</credits>
-<date>2009</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">00000000070173.jpg</image_name>
-<image_broadcast>00000000070173</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>3/5</value>
-</star-rating>
-</programme>
-<programme start="20150603143000 -0300" stop="20150603144500 -0300" channel="TVR" program_id="0000441046" event_id="00000000000097439061" series_key="00000000044756000000">
-<title lang="pt">Peppa Pig</title>
-<title lang="en">Peppa Pig</title>
-<desc>Peppa é uma adorável e irreverente porquinha cor-de-rosa que mora com seu irmão mais novo, George, e seus pais. Sempre brincando muito, ela vive plenamente sua infância ao lado dos amigos e da família.</desc>
-<credits>
-<director>Neville Astley</director>
-<actor>Vozes de Morwenna Banks</actor>
-<actor>Richard Ridings</actor>
-<actor>Lily Snowden-Fine</actor>
-<actor>Andy Hamilton</actor>
-<actor>Oliver and Alice May</actor>
-<actor>John Sparkes</actor>
-</credits>
-<date>2004</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">00000000044756.jpg</image_name>
-<image_broadcast>00000000044756</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Grã-Bretanha</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>3/5</value>
-</star-rating>
-</programme>
-<programme start="20150603144500 -0300" stop="20150603145500 -0300" channel="TVR" program_id="0000106683" event_id="00000000000097439062" series_key="00000000045251000000">
-<title lang="pt">Pocoyo</title>
-<title lang="en">Pocoyo</title>
-<desc>Pocoyo é uma série para crianças e seus pais que conta a história de um menino que descobre o mundo à sua volta. Tudo é novo para ele e há muitas surpresas e oportunidades para brincar e aprender.</desc>
-<credits>
-<director>David Cantolla</director>
-<actor>Stephen Fry</actor>
-</credits>
-<date>2005</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">00000000045251.jpg</image_name>
-<image_broadcast>00000000045251</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>ESP/Reino Unido</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>4/5</value>
-</star-rating>
-</programme>
-<programme start="20150603145500 -0300" stop="20150603150000 -0300" channel="TVR" program_id="0000178272" event_id="00000000000097550127" series_key="00000000025419000000">
-<title lang="pt">Barney e seus Amigos</title>
-<title lang="en">Barney &amp; Friends</title>
-<desc>Enquanto Barney e as crianças mostram como a união familiar pode ser  divertida, Baby Bop e BJ acabam brigando e param de falar um com o outro. Para fazerem as pazes, eles são estimulados a refletir sobre os lados positivos do outro.</desc>
-<credits>
-<director>Jim Rowley</director>
-<director>Jim Rowley</director>
-</credits>
-<date>1992</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">00000000025419.jpg</image_name>
-<image_broadcast>00000000025419</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>2/5</value>
-</star-rating>
-</programme>
-<programme start="20150603150000 -0300" stop="20150603153000 -0300" channel="TVR" program_id="0000082031" event_id="00000000000097439063" series_key="">
-<title lang="pt">Thomas e Seus Amigos</title>
-<title lang="en">Thomas &amp; Friends</title>
-<desc>Thomas é um trem simpático e divertido que vive aventuras mágicas com seus amigos: os trens da estação, um ônibus, um helicóptero e um trator.  As histórias são baseadas em obras clássicas da literatura.</desc>
-<credits>
-<director>David Mitton</director>
-<actor>Vozes de Ringo Starr</actor>
-<actor>Michael Angelis</actor>
-<actor>George Carlin</actor>
-<actor>Alec Baldwin</actor>
-<actor>Michael Brandon</actor>
-</credits>
-<date>1984</date>
-<category lang="pt">Infantil</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">0000082031.jpg</image_name>
-<image_broadcast>0000082031</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Grã-Bretanha</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>3/5</value>
-</star-rating>
-</programme>
-<programme start="20150603153000 -0300" stop="20150603173000 -0300" channel="TVR" program_id="0000442011" event_id="00000000000097439065" series_key="">
-<title lang="pt">Mundial Sub-20: Senegal x Colômbia</title>
-<desc>Vinte e quatro seleções disputam a taça, na vigésima edição do Campeonato Mundial de Futebol Sub-20, da FIFA.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000442011.jpg</image_name>
-<image_broadcast>0000442011</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603173000 -0300" stop="20150603180000 -0300" channel="TVR" program_id="0000441052" event_id="00000000000097439066" series_key="">
-<title lang="pt">Winx Club</title>
-<title lang="en">Winx Club</title>
-<desc>As Winx estão de volta à Terra e são aclamadas por todos, mas uma plataforma de petróleo explode em alto mar e elas devem impedir esse desastre ambiental.</desc>
-<credits>
-<actor>Vozes de Liza Jacqueline</actor>
-<actor>Amy Birnbaum</actor>
-<actor>Helena Evangeliou</actor>
-<actor>Gregory Abbey</actor>
-<actor>Dan Gren</actor>
-<actor>Michael Sinterniklaas</actor>
-</credits>
-<category lang="pt">Infantil</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">0000441052.jpg</image_name>
-<image_broadcast>0000441052</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Itália</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>3/5</value>
-</star-rating>
-</programme>
-<programme start="20150603180000 -0300" stop="20150603183000 -0300" channel="TVR" program_id="0000440185" event_id="00000000000097439067" series_key="00000000063636000000">
-<title lang="pt">Radar</title>
-<desc>O Radar é uma referência no cenário cultural e musical do Rio Grande do Sul com destaque entre o público jovem. O programa é voltado tanto para os novos talentos quanto para as bandas já consagradas do cenário local e nacional</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000063636.jpg</image_name>
-<image_broadcast>00000000063636</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603183000 -0300" stop="20150603190000 -0300" channel="TVR" program_id="0000149875" event_id="00000000000097439068" series_key="00000000039124000000">
-<title lang="pt">Mentes Brilhantes</title>
-<desc>A série retrata histórias de pessoas com capacidades especiais e únicas: um garoto com memória prodigiosa, um gênio que pode enumerar mais números decimais que uma calculadora e um gênio musical, compositor das melodias mais brilhantes.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000039124.jpg</image_name>
-<image_broadcast>00000000039124</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603190000 -0300" stop="20150603193000 -0300" channel="TVR" program_id="0000006866" event_id="00000000000097439069" series_key="">
-<title lang="pt">Cidadania</title>
-<title lang="en">Cidadania</title>
-<desc>Entrevistas sobre temas atuais com a participação de parlamentares, especialistas e representantes da sociedade civil.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000006866.jpg</image_name>
-<image_broadcast>0000006866</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603193000 -0300" stop="20150603200000 -0300" channel="TVR" program_id="0000439954" event_id="00000000000097439070" series_key="00000000076924000000">
-<title lang="pt">Segunda Edição</title>
-<desc>Dalva Bavaresco e Daniel Vasques vão levar ao ar o jornal com meia-hora vai mostrar e repercutir os principais fatos do dia.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000076924.jpg</image_name>
-<image_broadcast>00000000076924</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603200000 -0300" stop="20150603210000 -0300" channel="TVR" program_id="0000082375" event_id="00000000000097439071" series_key="00000000070888000000">
-<title lang="pt">Frente a Frente</title>
-<desc>O programa busca levar aos telespectadores informações e entretenimento através de entrevistas inteligentes e relevantes. Os convidados visam a importância que eles possuem perante a sociedade.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">00000000070888.jpg</image_name>
-<image_broadcast>00000000070888</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150603210000 -0300" stop="20150603220000 -0300" channel="TVR" program_id="0000019744" event_id="00000000000097439072" series_key="00000000066308000000">
-<title lang="pt">Repórter Brasil</title>
-<desc>Único telejornal brasileiro que exibe reportagens feitas diretamente pelo espectador. Os temas que movimentam o dia a dia são tratados com mais tempo e em mais detalhes, de forma muito clara e objetiva.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066308.jpg</image_name>
-<image_broadcast>00000000066308</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603220000 -0300" stop="20150603223000 -0300" channel="TVR" program_id="0000126949" event_id="00000000000097439073" series_key="00000000069550000000">
-<title lang="pt">TVE Repórter</title>
-<title lang="en">TVE Repórter</title>
-<desc>Único do gênero no Rio Grande do Sul, o programa tem como marca a profundidade e a diversidade de temas.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069550.jpg</image_name>
-<image_broadcast>00000000069550</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603223000 -0300" stop="20150603230000 -0300" channel="TVR" program_id="0000443045" event_id="00000000000097439074" series_key="">
-<title lang="pt">Rumos Homenagem</title>
-<desc>Rumos é um programa produzido pelo Itaú Cultural, apresentando artistas de várias regiões do Brasil.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000443045.jpg</image_name>
-<image_broadcast>0000443045</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603230000 -0300" stop="20150603233000 -0300" channel="TVR" program_id="0000440185" event_id="00000000000097439075" series_key="00000000063636000000">
-<title lang="pt">Radar</title>
-<desc>O Radar é uma referência no cenário cultural e musical do Rio Grande do Sul com destaque entre o público jovem. O programa é voltado tanto para os novos talentos quanto para as bandas já consagradas do cenário local e nacional</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000063636.jpg</image_name>
-<image_broadcast>00000000063636</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603233000 -0300" stop="20150604000000 -0300" channel="TVR" program_id="0000180227" event_id="00000000000097439076" series_key="00000000072837000000">
-<title lang="pt">Estação Cultura</title>
-<desc>Programa de variedades, com música popular brasileira e informação voltada principalmente para educação e cultura.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">00000000072837.jpg</image_name>
-<image_broadcast>00000000072837</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604000000 -0300" stop="20150604003000 -0300" channel="TVR" program_id="0000160951" event_id="00000000000097439077" series_key="00000000070864000000">
-<title lang="pt">ETNODOC</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000070864.jpg</image_name>
-<image_broadcast>00000000070864</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604003000 -0300" stop="20150604013000 -0300" channel="TVR" program_id="0000433622" event_id="00000000000097439078" series_key="">
-<title lang="pt">Ver TV</title>
-<desc>Neste programa, um debate sobre a classificação indicativa dos programas de televisão, que está ameaçada por uma ação que tramita no Supremo Tribunal Federal.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000433622.jpg</image_name>
-<image_broadcast>0000433622</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604013000 -0300" stop="20150604020000 -0300" channel="TVR" program_id="0000267917" event_id="00000000000097439079" series_key="00000000068320000000">
-<title lang="pt">Conhecendo Museus</title>
-<desc>Documentários produzidos pela Fundação José de Paiva Netto que apresentam os museus brasileiros de forma dinâmica, estimulando a preservação da memória nacional.</desc>
-<category lang="pt">Documentário</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">00000000068320.jpg</image_name>
-<image_broadcast>00000000068320</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604020000 -0300" stop="20150604023000 -0300" channel="TVR" program_id="0000204339" event_id="00000000000097439080" series_key="00000000070768000000">
-<title lang="pt">Estúdio Móvel</title>
-<desc>É o programa da TV Brasil voltado para o público jovem. A produção busca um retrato do jovem urbano e contemporâneo. Para isso, o tradicional estúdio fisicamente limitado foi transformado em algo móvel.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000070768.jpg</image_name>
-<image_broadcast>00000000070768</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604023000 -0300" stop="20150604034500 -0300" channel="TVR" program_id="0000019776" event_id="00000000000097439081" series_key="00000000070790000000">
-<title lang="pt">Sem Censura</title>
-<desc>Apresentado por Leda Nagle, o programa traz as últimas descobertas da medicina, temas ligados à preservação do meio ambiente, à busca pela melhoria da qualidade de vida, informação cultural, prestação de serviços.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">00000000070790.jpg</image_name>
-<image_broadcast>00000000070790</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604034500 -0300" stop="20150604063000 -0300" channel="TVR" program_id="0000442006" event_id="00000000000097439082" series_key="">
-<title lang="pt">Mundial Sub-20: Hungria X Brasil</title>
-<desc>Vinte e quatro seleções disputam a taça, na vigésima edição do Campeonato Mundial de Futebol Sub-20, da FIFA.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000442006.jpg</image_name>
-<image_broadcast>0000442006</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604063000 -0300" stop="20150604070000 -0300" channel="TVR" program_id="0000147917" event_id="00000000000097439083" series_key="00000000066324000000">
-<title lang="pt">Caminhos da Reportagem</title>
-<desc>Jornalistas viajam pelo país e pelo mundo atrás de grandes histórias, trazendo ao telespectador uma visão diferente, instigante e complexa de cada um dos assuntos escolhidos.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066324.jpg</image_name>
-<image_broadcast>00000000066324</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604070000 -0300" stop="20150604073000 -0300" channel="TVR" program_id="0000376526" event_id="00000000000097439084" series_key="">
-<title lang="pt">Notícias do Campo</title>
-<desc>Produzido pela TV Unifev, o programa traz informações relevantes relacionadas ao mercado agropecuário.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000376526.jpg</image_name>
-<image_broadcast>0000376526</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604073000 -0300" stop="20150604080000 -0300" channel="TVR" program_id="0000301795" event_id="00000000000097439085" series_key="00000000070796000000">
-<title lang="pt">TV é Ciência</title>
-<desc>O programa mostra os avanços científicos e a inovação tecnológica no Brasil e no mundo.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Ciência</category>
-<image>
-<image_name position="1">00000000070796.jpg</image_name>
-<image_broadcast>00000000070796</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604080000 -0300" stop="20150604081500 -0300" channel="TVR" program_id="0000113397" event_id="00000000000097439086" series_key="00000000069552000000">
-<title lang="pt">Visual</title>
-<title lang="en">Jornal Visual</title>
-<desc>Primeiro telejornal diário criado para levar informação à comunidade de surdos. Reportagens sobre a inclusão do surdo, assuntos de seu universo; notícias principais do Brasil e do Mundo traduzidos para a Língua Brasileira de Sinais.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069552.jpg</image_name>
-<image_broadcast>00000000069552</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604081500 -0300" stop="20150604084500 -0300" channel="TVR" program_id="0000006866" event_id="00000000000097439087" series_key="">
-<title lang="pt">Cidadania</title>
-<title lang="en">Cidadania</title>
-<desc>Entrevistas sobre temas atuais com a participação de parlamentares, especialistas e representantes da sociedade civil.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000006866.jpg</image_name>
-<image_broadcast>0000006866</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604084500 -0300" stop="20150604093000 -0300" channel="TVR" program_id="0000308868" event_id="00000000000097439088" series_key="">
-<title lang="pt">Espaço Público TVE</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000308868.jpg</image_name>
-<image_broadcast>0000308868</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604093000 -0300" stop="20150604094000 -0300" channel="TVR" program_id="0000418782" event_id="00000000000097439089" series_key="00000000076351000000">
-<title lang="pt">Sarah e o Pato</title>
-<desc>A encantadora série de animação Sarah e o Pato foca no dia a dia das novas experiências e aprendizados da infância. Sarah e o seu amigo pato vivem em uma pequena aldeia e vivenciam aventuras simples, mas emocionantes.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">00000000076351.jpg</image_name>
-<image_broadcast>00000000076351</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604094000 -0300" stop="20150604094900 -0300" channel="TVR" program_id="0000234897" event_id="00000000000097439090" series_key="">
-<title lang="pt">Teatro das Fábulas</title>
-<desc>Acompanha as andanças de um lobo amigável que lidera um grupo de teatro itinerante. Entre os integrantes dessa companhia teatral estão a raposa aspirante a escritora, alguns porquinhos travessos e um coelhinho durão.</desc>
-<category lang="pt">Infantil</category>
-<category lang="pt">Programa</category>
-<image>
-<image_name position="1">0000234897.jpg</image_name>
-<image_broadcast>0000234897</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604094900 -0300" stop="20150604100200 -0300" channel="TVR" program_id="0000170707" event_id="00000000000097439091" series_key="00000000044676000000">
-<title lang="pt">Peixonauta</title>
-<desc>Peixonauta e sua melhor amiga, Marina, moram no EcoZoo, uma mistura de parque de diversões e zoológico. Eles são agentes secretos e sua missão é proteger os animais que vivem no parque.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">00000000044676.jpg</image_name>
-<image_broadcast>00000000044676</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604100200 -0300" stop="20150604101300 -0300" channel="TVR" program_id="0000289472" event_id="00000000000097439092" series_key="">
-<title lang="pt">Os Cupins</title>
-<desc>As aventuras de Cupincha e Cupim, que ajudam a ensinar música enquanto vivem histórias divertidas dentro do piano do multi-instrumentista Joca.</desc>
-<category lang="pt">Infantil</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">0000289472.jpg</image_name>
-<image_broadcast>0000289472</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604101300 -0300" stop="20150604102100 -0300" channel="TVR" program_id="0000339552" event_id="00000000000097439093" series_key="00000000063314000000">
-<title lang="pt">Nilba e os Desastronautas</title>
-<desc>Nilba se acidentou na misteriosa Lua Ervilha. Para poder voltar à Terra, a equipe da S.S. Geniwald vai ter que confiar nas inadequadas estratégias deste alienado capitão, que não é tão experiente como dizia.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">00000000063314.jpg</image_name>
-<image_broadcast>00000000063314</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604102100 -0300" stop="20150604102300 -0300" channel="TVR" program_id="0000429213" event_id="00000000000097439094" series_key="">
-<title lang="pt">Tve Notícias</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000429213.jpg</image_name>
-<image_broadcast>0000429213</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604102300 -0300" stop="20150604103600 -0300" channel="TVR" program_id="0000364651" event_id="00000000000097439095" series_key="">
-<title lang="pt">O Teco-teco</title>
-<desc>O programa apresenta histórias, jogos e desafios e se propõe a colaborar de forma lúdica no processo de construção do conhecimento, estimulando a participação ativa de seu público através da web.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">0000364651.jpg</image_name>
-<image_broadcast>0000364651</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604103600 -0300" stop="20150604104800 -0300" channel="TVR" program_id="0000407425" event_id="00000000000097439096" series_key="">
-<title lang="pt">Jarau</title>
-<desc>Inspirada na lenda gaúcha da "Salamanca do Jarau". Cinco jovens libertam acidentalmente a vilã Taniaguá, uma bruxa das terras mouras que fora aprisionada há centenas de anos pelos deuses guaranis.</desc>
-<category lang="pt">Infantil</category>
-<category lang="pt">Desenho</category>
-<image>
-<image_name position="1">0000407425.jpg</image_name>
-<image_broadcast>0000407425</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604104800 -0300" stop="20150604111500 -0300" channel="TVR" program_id="0000114680" event_id="00000000000097439097" series_key="00000000070818000000">
-<title lang="pt">Dango Balango</title>
-<desc>Dango Balango é um programa infantil cujos bonecos Joduca, Sdruvs e Druzila, criados especialmente pelo grupo Giramundos, participam de diversos quadros que se alternam, de programa para programa.</desc>
-<category lang="pt">Infantil</category>
-<category lang="pt">Programa</category>
-<image>
-<image_name position="1">00000000070818.jpg</image_name>
-<image_broadcast>00000000070818</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604111500 -0300" stop="20150604112800 -0300" channel="TVR" program_id="0000265340" event_id="00000000000097439098" series_key="">
-<title lang="pt">Historietas Assombradas</title>
-<desc>Histórietas Assombradas - A chegada de uma velhinha transforma a rotina de um garoto de 11 anos num universo sem limites para a imaginação.</desc>
-<category lang="pt">Infantil</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">0000265340.jpg</image_name>
-<image_broadcast>0000265340</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604112800 -0300" stop="20150604113000 -0300" channel="TVR" program_id="0000408847" event_id="00000000000097439099" series_key="">
-<title lang="pt">O Pequeno Einstein</title>
-<desc>Respostas a questões básicas da física. Em Pequeno Einstein, o pequeno personagem animado explica de forma simples e divertida os principais aspectos das teorias de Albert Einstein, fórmulas, conceitos e leis da física.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">0000408847.jpg</image_name>
-<image_broadcast>0000408847</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604113000 -0300" stop="20150604120000 -0300" channel="TVR" program_id="0000371688" event_id="00000000000097439100" series_key="00000000072837000000">
-<title lang="pt">Estação Cultura - Vivo</title>
-<desc>Programa de variedades, com música popular brasileira e informação voltada principalmente para educação e cultura.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">00000000072837.jpg</image_name>
-<image_broadcast>00000000072837</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604120000 -0300" stop="20150604123000 -0300" channel="TVR" program_id="0000019744" event_id="00000000000097439101" series_key="00000000066308000000">
-<title lang="pt">Repórter Brasil</title>
-<desc>Único telejornal brasileiro que exibe reportagens feitas diretamente pelo espectador. Os temas que movimentam o dia a dia são tratados com mais tempo e em mais detalhes, de forma muito clara e objetiva.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066308.jpg</image_name>
-<image_broadcast>00000000066308</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604123000 -0300" stop="20150604130000 -0300" channel="TVR" program_id="0000351544" event_id="00000000000097439102" series_key="">
-<title lang="pt">JC Debate</title>
-<desc>De segunda a sexta-feira, o programa, que conta com a mediação da jornalista Andresa Boni, recebe como convidados especialistas que discutem os assuntos que estão na pauta do dia.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000351544.jpg</image_name>
-<image_broadcast>0000351544</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604130000 -0300" stop="20150604133000 -0300" channel="TVR" program_id="0000082218" event_id="00000000000097550145" series_key="00000000070691000000">
-<title lang="pt">Doug</title>
-<title lang="en">Doug</title>
-<desc>A animação mostra a vida e as imaginações do estudante Doug Funnie. Ao lado do garoto estão seu cachorro Costelinha, os amigos Skeeter Valentine e Patti Maionese, sua irmã mais velha, Judy, e o valentão da escola, Roger Klotz.</desc>
-<credits>
-<director>Carol Millican</director>
-<actor>Vozes de Billy West</actor>
-<actor>Fran Brill</actor>
-<actor>Constance Shulman</actor>
-<actor>Fred Newman</actor>
-<actor>Doug Preis</actor>
-<actor>Becca Lish</actor>
-<actor>Alice Playten</actor>
-<actor>Greg Lee</actor>
-</credits>
-<date>1991</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">00000000070691.jpg</image_name>
-<image_broadcast>00000000070691</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>4/5</value>
-</star-rating>
-</programme>
-<programme start="20150604133000 -0300" stop="20150604134500 -0300" channel="TVR" program_id="0000418736" event_id="00000000000097439103" series_key="">
-<title lang="pt">Brincadeirinhas Musicais + Clipes Cocoricó</title>
-<desc>O grupo Palavra Cantada entretém a criançada com brincadeiradas musicadas. Em seguida, é a vez da turma do Júlio fazer a festa no paiol com músicas da série infantil.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000418736.jpg</image_name>
-<image_broadcast>0000418736</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604134500 -0300" stop="20150604140000 -0300" channel="TVR" program_id="0000091168" event_id="00000000000097439104" series_key="">
-<title lang="pt">Cocoricó</title>
-<title lang="en">Cocoricó</title>
-<desc>A série traz as aventuras da turminha formada por Júlio, as galinhas Lilica, Zazá e Lola, o cavalo Alípio e outros amigos que vivem histórias divertidas na Fazenda Cocoricó.</desc>
-<date>1996</date>
-<category lang="pt">Infantil</category>
-<category lang="pt">Programa</category>
-<image>
-<image_name position="1">0000091168.jpg</image_name>
-<image_broadcast>0000091168</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>4/5</value>
-</star-rating>
-</programme>
-<programme start="20150604140000 -0300" stop="20150604143000 -0300" channel="TVR" program_id="0000233472" event_id="00000000000097439105" series_key="00000000070173000000">
-<title lang="pt">Bubble Guppies</title>
-<desc>Mergulhe em um mundo aquático de conhecimento e risadas com Bubble Guppies, uma incrível e interativa animação musical.</desc>
-<credits>
-<director>Mark Salisbury</director>
-<director>Mark Salisbury</director>
-</credits>
-<date>2009</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">00000000070173.jpg</image_name>
-<image_broadcast>00000000070173</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>3/5</value>
-</star-rating>
-</programme>
-<programme start="20150604143000 -0300" stop="20150604144500 -0300" channel="TVR" program_id="0000441046" event_id="00000000000097439106" series_key="00000000044756000000">
-<title lang="pt">Peppa Pig</title>
-<title lang="en">Peppa Pig</title>
-<desc>Peppa é uma adorável e irreverente porquinha cor-de-rosa que mora com seu irmão mais novo, George, e seus pais. Sempre brincando muito, ela vive plenamente sua infância ao lado dos amigos e da família.</desc>
-<credits>
-<director>Neville Astley</director>
-<actor>Vozes de Morwenna Banks</actor>
-<actor>Richard Ridings</actor>
-<actor>Lily Snowden-Fine</actor>
-<actor>Andy Hamilton</actor>
-<actor>Oliver and Alice May</actor>
-<actor>John Sparkes</actor>
-</credits>
-<date>2004</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">00000000044756.jpg</image_name>
-<image_broadcast>00000000044756</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Grã-Bretanha</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>3/5</value>
-</star-rating>
-</programme>
-<programme start="20150604144500 -0300" stop="20150604145500 -0300" channel="TVR" program_id="0000106683" event_id="00000000000097439107" series_key="00000000045251000000">
-<title lang="pt">Pocoyo</title>
-<title lang="en">Pocoyo</title>
-<desc>Pocoyo é uma série para crianças e seus pais que conta a história de um menino que descobre o mundo à sua volta. Tudo é novo para ele e há muitas surpresas e oportunidades para brincar e aprender.</desc>
-<credits>
-<director>David Cantolla</director>
-<actor>Stephen Fry</actor>
-</credits>
-<date>2005</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">00000000045251.jpg</image_name>
-<image_broadcast>00000000045251</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>ESP/Reino Unido</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>4/5</value>
-</star-rating>
-</programme>
-<programme start="20150604145500 -0300" stop="20150604150000 -0300" channel="TVR" program_id="0000178272" event_id="00000000000097550161" series_key="00000000025419000000">
-<title lang="pt">Barney e seus Amigos</title>
-<title lang="en">Barney &amp; Friends</title>
-<desc>Enquanto Barney e as crianças mostram como a união familiar pode ser  divertida, Baby Bop e BJ acabam brigando e param de falar um com o outro. Para fazerem as pazes, eles são estimulados a refletir sobre os lados positivos do outro.</desc>
-<credits>
-<director>Jim Rowley</director>
-<director>Jim Rowley</director>
-</credits>
-<date>1992</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">00000000025419.jpg</image_name>
-<image_broadcast>00000000025419</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>2/5</value>
-</star-rating>
-</programme>
-<programme start="20150604150000 -0300" stop="20150604153000 -0300" channel="TVR" program_id="0000082031" event_id="00000000000097550163" series_key="">
-<title lang="pt">Thomas e Seus Amigos</title>
-<title lang="en">Thomas &amp; Friends</title>
-<desc>Thomas é um trem simpático e divertido que vive aventuras mágicas com seus amigos: os trens da estação, um ônibus, um helicóptero e um trator.  As histórias são baseadas em obras clássicas da literatura.</desc>
-<credits>
-<director>David Mitton</director>
-<actor>Vozes de Ringo Starr</actor>
-<actor>Michael Angelis</actor>
-<actor>George Carlin</actor>
-<actor>Alec Baldwin</actor>
-<actor>Michael Brandon</actor>
-</credits>
-<date>1984</date>
-<category lang="pt">Infantil</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">0000082031.jpg</image_name>
-<image_broadcast>0000082031</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Grã-Bretanha</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>3/5</value>
-</star-rating>
-</programme>
-<programme start="20150604153000 -0300" stop="20150604154500 -0300" channel="TVR" program_id="0000097130" event_id="00000000000097439108" series_key="">
-<title lang="pt">Pandorga</title>
-<title lang="en">Pandorga</title>
-<desc>Os bonecos Jura, Bete, Nina e Tuca, além de personagens como os apresentadores do Jornal Legal Anete E-mail e Carlos @ Giga Byte mostram diversos quadros onde a participação do público infantil é valorizada.</desc>
-<credits>
-<director>Maria Inês Falcão</director>
-<actor>Vozes de Maria Inês Falcão</actor>
-<actor>Rodrigo Najar</actor>
-<actor>Oscar Simch</actor>
-</credits>
-<category lang="pt">Infantil</category>
-<category lang="pt">Programa</category>
-<image>
-<image_name position="1">0000097130.jpg</image_name>
-<image_broadcast>0000097130</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>3/5</value>
-</star-rating>
-</programme>
-<programme start="20150604154500 -0300" stop="20150604160000 -0300" channel="TVR" program_id="0000428996" event_id="00000000000097439109" series_key="00000000076745000000">
-<title lang="pt">Detetives do Prédio Azul</title>
-<desc>Amigos inseparáveis, Tom, Mila e Capim vestem suas capas superequipadas e desvendam problemas misteriosos que surgem no prédio antigo onde moram, tornando-se os Detetives do Prédio Azul.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">00000000076745.jpg</image_name>
-<image_broadcast>00000000076745</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604160000 -0300" stop="20150604161500 -0300" channel="TVR" program_id="0000380490" event_id="00000000000097439110" series_key="">
-<title lang="pt">Caderninho Verde</title>
-<desc>"Produzido pela TV Cultura em parceria com a Secretaria do Meio Ambiente do Estado de São Paulo, o programete ensina a importância de preservar a natureza ao contar histórias com bonecos, teatro de papel e música."</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000380490.jpg</image_name>
-<image_broadcast>0000380490</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604161500 -0300" stop="20150604164500 -0300" channel="TVR" program_id="0000103052" event_id="00000000000097439111" series_key="">
-<title lang="pt">Angelina Ballerina</title>
-<desc>Série infantil conta a história de Angelina, uma imaginativa, inteligente e determinada ratinha apaixonada pela dança e pela vida.</desc>
-<category lang="pt">Infantil</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">0000103052.jpg</image_name>
-<image_broadcast>0000103052</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604164500 -0300" stop="20150604170000 -0300" channel="TVR" program_id="0000441046" event_id="00000000000097439112" series_key="00000000044756000000">
-<title lang="pt">Peppa Pig</title>
-<title lang="en">Peppa Pig</title>
-<desc>Peppa é uma adorável e irreverente porquinha cor-de-rosa que mora com seu irmão mais novo, George, e seus pais. Sempre brincando muito, ela vive plenamente sua infância ao lado dos amigos e da família.</desc>
-<credits>
-<director>Neville Astley</director>
-<actor>Vozes de Morwenna Banks</actor>
-<actor>Richard Ridings</actor>
-<actor>Lily Snowden-Fine</actor>
-<actor>Andy Hamilton</actor>
-<actor>Oliver and Alice May</actor>
-<actor>John Sparkes</actor>
-</credits>
-<date>2004</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">00000000044756.jpg</image_name>
-<image_broadcast>00000000044756</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Grã-Bretanha</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>3/5</value>
-</star-rating>
-</programme>
-<programme start="20150604170000 -0300" stop="20150604173000 -0300" channel="TVR" program_id="0000407075" event_id="00000000000097439113" series_key="">
-<title lang="pt">Era Uma Vez No Quintal</title>
-<desc>A nova temporada do Quintal da Cultura traz aventuras de Ludovico e Doroteia com personagens mitológicos, criaturas folclóricas e membros da realeza.</desc>
-<category lang="pt">Infantil</category>
-<category lang="pt">Programa</category>
-<image>
-<image_name position="1">0000407075.jpg</image_name>
-<image_broadcast>0000407075</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604173000 -0300" stop="20150604180000 -0300" channel="TVR" program_id="0000441052" event_id="00000000000097550165" series_key="">
-<title lang="pt">Winx Club</title>
-<title lang="en">Winx Club</title>
-<desc>As Winx estão de volta à Terra e são aclamadas por todos, mas uma plataforma de petróleo explode em alto mar e elas devem impedir esse desastre ambiental.</desc>
-<credits>
-<actor>Vozes de Liza Jacqueline</actor>
-<actor>Amy Birnbaum</actor>
-<actor>Helena Evangeliou</actor>
-<actor>Gregory Abbey</actor>
-<actor>Dan Gren</actor>
-<actor>Michael Sinterniklaas</actor>
-</credits>
-<category lang="pt">Infantil</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">0000441052.jpg</image_name>
-<image_broadcast>0000441052</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Itália</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>3/5</value>
-</star-rating>
-</programme>
-<programme start="20150604180000 -0300" stop="20150604183000 -0300" channel="TVR" program_id="0000440185" event_id="00000000000097439114" series_key="00000000063636000000">
-<title lang="pt">Radar</title>
-<desc>O Radar é uma referência no cenário cultural e musical do Rio Grande do Sul com destaque entre o público jovem. O programa é voltado tanto para os novos talentos quanto para as bandas já consagradas do cenário local e nacional</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000063636.jpg</image_name>
-<image_broadcast>00000000063636</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604183000 -0300" stop="20150604190000 -0300" channel="TVR" program_id="0000439957" event_id="00000000000097439115" series_key="00000000076934000000">
-<title lang="pt">Venha Ver Meu Mundo</title>
-<desc>Nesta série de documentários, crianças falam sobre o dia-a-dia, sobre suas famílias e sobre o ambiente em que vivem, apresentando uma diversidade sociocultural e econômica bastante significativa.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000076934.jpg</image_name>
-<image_broadcast>00000000076934</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604190000 -0300" stop="20150604193000 -0300" channel="TVR" program_id="0000006866" event_id="00000000000097439116" series_key="">
-<title lang="pt">Cidadania</title>
-<title lang="en">Cidadania</title>
-<desc>Entrevistas sobre temas atuais com a participação de parlamentares, especialistas e representantes da sociedade civil.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000006866.jpg</image_name>
-<image_broadcast>0000006866</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604193000 -0300" stop="20150604200000 -0300" channel="TVR" program_id="0000439954" event_id="00000000000097439117" series_key="00000000076924000000">
-<title lang="pt">Segunda Edição</title>
-<desc>Dalva Bavaresco e Daniel Vasques vão levar ao ar o jornal com meia-hora vai mostrar e repercutir os principais fatos do dia.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000076924.jpg</image_name>
-<image_broadcast>00000000076924</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604200000 -0300" stop="20150604203000 -0300" channel="TVR" program_id="0000214315" event_id="00000000000097439118" series_key="">
-<title lang="pt">É Geral</title>
-<desc>A riqueza cultural do samba é o ponto de partida do programa É Geral. Resgatando hábitos, formas de expressão corporal e vestimenta, o programa valoriza este estilo musical considerando as influências da atualidade.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000214315.jpg</image_name>
-<image_broadcast>0000214315</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604203000 -0300" stop="20150604204000 -0300" channel="TVR" program_id="0000333093" event_id="00000000000097439119" series_key="">
-<title lang="pt">Horário Político - DEM</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">0000333093.jpg</image_name>
-<image_broadcast>0000333093</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604204000 -0300" stop="20150604210000 -0300" channel="TVR" program_id="0000403639" event_id="00000000000097439120" series_key="">
-<title lang="pt">Mobilidade Urbana</title>
-<desc>O programa traça um painel dos problemas de transporte público em diferentes cidades do Brasil.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000403639.jpg</image_name>
-<image_broadcast>0000403639</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604210000 -0300" stop="20150604220000 -0300" channel="TVR" program_id="0000019744" event_id="00000000000097550168" series_key="00000000066308000000">
-<title lang="pt">Repórter Brasil</title>
-<desc>Único telejornal brasileiro que exibe reportagens feitas diretamente pelo espectador. Os temas que movimentam o dia a dia são tratados com mais tempo e em mais detalhes, de forma muito clara e objetiva.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066308.jpg</image_name>
-<image_broadcast>00000000066308</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604220000 -0300" stop="20150604223000 -0300" channel="TVR" program_id="0000439952" event_id="00000000000097439121" series_key="00000000067180000000">
-<title lang="pt">China Cultura E Modernidade</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">00000000067180.jpg</image_name>
-<image_broadcast>00000000067180</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604223000 -0300" stop="20150604230000 -0300" channel="TVR" program_id="0000443052" event_id="000000100323048" series_key="">
-<title lang="pt">Faces</title>
-<desc>Especialista em células-tronco e engenharia de tecido, Patricia foi conselheira científica do governo brasileiro na elaboração da lei que aprovou as as pequisas com células-tronco embrionárias. Neste ano, foi eleita para o Termis.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">0000443052.jpg</image_name>
-<image_broadcast>0000443052</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604230000 -0300" stop="20150604233000 -0300" channel="TVR" program_id="0000440185" event_id="00000000000097550170" series_key="00000000063636000000">
-<title lang="pt">Radar</title>
-<desc>O Radar é uma referência no cenário cultural e musical do Rio Grande do Sul com destaque entre o público jovem. O programa é voltado tanto para os novos talentos quanto para as bandas já consagradas do cenário local e nacional</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000063636.jpg</image_name>
-<image_broadcast>00000000063636</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604233000 -0300" stop="20150605000000 -0300" channel="TVR" program_id="0000180227" event_id="00000000000097550186" series_key="00000000072837000000">
-<title lang="pt">Estação Cultura</title>
-<desc>Programa de variedades, com música popular brasileira e informação voltada principalmente para educação e cultura.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">00000000072837.jpg</image_name>
-<image_broadcast>00000000072837</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
 <programme start="20150605000000 -0300" stop="20150605003000 -0300" channel="TVR" program_id="0000028976" event_id="00000000000097439123" series_key="00000000070723000000">
 <title lang="pt">Provocações</title>
 <desc>A irreverência de Antônio Abujamra é canalizada em um programa de entrevistas que não se enquadra em nenhuma tipologia criada pela tevê brasileira. Fugindo de rótulos, Abujamra interage com o potencial de análise e reflexão do público.</desc>
@@ -2763,7 +840,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605200000 -0300" stop="20150605210000 -0300" channel="TVR" program_id="0000443044" event_id="000000100323055" series_key="">
+<programme start="20150605200000 -0300" stop="20150605210000 -0300" channel="TVR" program_id="0000443044" event_id="00000000000097439164" series_key="">
 <title lang="pt">Sonzeira</title>
 <desc>Juvenil Silva, uma das maiores revelações da música pernambucana, e a chilena Camila Moreno são as atrações do Sonzeira.</desc>
 <category lang="pt">Variedades</category>
@@ -3181,7 +1258,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606140000 -0300" stop="20150606150000 -0300" channel="TVR" program_id="0000443044" event_id="000000100323060" series_key="">
+<programme start="20150606140000 -0300" stop="20150606150000 -0300" channel="TVR" program_id="0000443044" event_id="00000000000097439189" series_key="">
 <title lang="pt">Sonzeira</title>
 <desc>Juvenil Silva, uma das maiores revelações da música pernambucana, e a chilena Camila Moreno são as atrações do Sonzeira.</desc>
 <category lang="pt">Variedades</category>
@@ -3956,7 +2033,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607233000 -0300" stop="20150608000000 -0300" channel="TVR" program_id="0000443052" event_id="000000100323067" series_key="">
+<programme start="20150607233000 -0300" stop="20150608000000 -0300" channel="TVR" program_id="0000443052" event_id="00000000000097439275" series_key="">
 <title lang="pt">Faces</title>
 <desc>Especialista em células-tronco e engenharia de tecido, Patricia foi conselheira científica do governo brasileiro na elaboração da lei que aprovou as as pequisas com células-tronco embrionárias. Neste ano, foi eleita para o Termis.</desc>
 <category lang="pt">Variedades</category>
@@ -14773,6 +12850,1730 @@
 <image_broadcast>0000221295</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622000000 -0300" stop="20150622011500 -0300" channel="TVR" program_id="0000442882" event_id="00000000000097439934" series_key="">
+<title lang="pt">Soy Loco Por Ti Cinema</title>
+<title lang="en">Empleadas y Patrones</title>
+<desc>Filme documental que aborda as peculiares relações entre as empregadas domésticas e seus patrões. Ricos e pobres compartilham suas vidas debaixo de um mesmo teto, criando laços emocionais muito complexos.</desc>
+<credits>
+<director>Abner Benaim</director>
+<director>Abner Benaim</director>
+</credits>
+<date>2010</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cinema</category>
+<image>
+<image_name position="1">0000442882.jpg</image_name>
+<image_broadcast>0000442882</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Argentina</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 18 anos</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150622011500 -0300" stop="20150622014500 -0300" channel="TVR" program_id="0000251104" event_id="00000000000097439935" series_key="00000000065375000000">
+<title lang="pt">Curta TV</title>
+<desc>Apresentado por Renata Boldrini, cada episódio terá a apresentação de um curta-metragem. O público vai conhecer a produção nacional desses filmes.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Cinema</category>
+<image>
+<image_name position="1">00000000065375.jpg</image_name>
+<image_broadcast>00000000065375</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150622014500 -0300" stop="20150622024500 -0300" channel="TVR" program_id="0000005560" event_id="00000000000097439936" series_key="">
+<title lang="pt">Stadium</title>
+<desc>Notícias dos esportes olímpicos, preparação de atletas e surgimento de talentos da nova geração.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">0000005560.jpg</image_name>
+<image_broadcast>0000005560</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622024500 -0300" stop="20150622030000 -0300" channel="TVR" program_id="0000382065" event_id="00000000000097439937" series_key="">
+<title lang="pt">Curta os Curtas</title>
+<desc>Curta-metragem da tetralogia de Sganzerla, que trata da vinda do cineasta Orson Welles ao Brasil para filmar "It's all true".</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cinema</category>
+<image>
+<image_name position="1">0000382065.jpg</image_name>
+<image_broadcast>0000382065</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150622030000 -0300" stop="20150622040000 -0300" channel="TVR" program_id="0000018145" event_id="00000000000097439938" series_key="00000000070809000000">
+<title lang="pt">Alto Falante</title>
+<title lang="en">Alto Falante</title>
+<desc>Criado em 1997, pelo jornalista Terence Machado, o premiado Alto-Falante é uma revista eletrônica dedicada à música pop e todas as suas vertentes.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">00000000070809.jpg</image_name>
+<image_broadcast>00000000070809</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622040000 -0300" stop="20150622043000 -0300" channel="TVR" program_id="0000012099" event_id="00000000000097439939" series_key="">
+<title lang="pt">Telecurso</title>
+<title lang="en">Telecurso</title>
+<desc>Por meio das matérias curriculares, o cotidiano é posto no centro das ações pedagógicas. É um espaço colaborativo de aprendizagem e entretenimento.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">0000012099.jpg</image_name>
+<image_broadcast>0000012099</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622043000 -0300" stop="20150622044500 -0300" channel="TVR" program_id="0000202233" event_id="00000000000097439940" series_key="00000000063623000000">
+<title lang="pt">Telecurso Ensino Médio</title>
+<desc>O Telecurso, e uma proposta educacional inovadora voltada para milhões de brasileiros que não concluíram, por algum motivo, os Ensinos Fundamental e Médio.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000063623.jpg</image_name>
+<image_broadcast>00000000063623</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622044500 -0300" stop="20150622050000 -0300" channel="TVR" program_id="0000202234" event_id="00000000000097439941" series_key="00000000074527000000">
+<title lang="pt">Telecurso Ensino Fundamental</title>
+<desc>O Telecurso, uma proposta educacional inovadora voltada para milhões de brasileiros que não concluíram, por algum motivo, os Ensinos Fundamental e Médio.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000074527.jpg</image_name>
+<image_broadcast>00000000074527</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622050000 -0300" stop="20150622051500 -0300" channel="TVR" program_id="0000129474" event_id="00000000000097439942" series_key="00000000070761000000">
+<title lang="pt">Telecurso TEC</title>
+<desc>O Telecurso TEC é um programa de formação técnica de nível médio, de qualificação e habilitação profissional, feito para quem deseja investir na sua educação ou na de seus funcionários.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000070761.jpg</image_name>
+<image_broadcast>00000000070761</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622051500 -0300" stop="20150622053000 -0300" channel="TVR" program_id="0000150838" event_id="00000000000097439943" series_key="00000000063622000000">
+<title lang="pt">Telecurso Profissionalizante</title>
+<desc>O Telecurso é reconhecido mundialmente como uma metodologia que promove um salto de qualidade na educação, tendo beneficiado mais de 5,5 milhões de pessoas nas 27.714 telesalas em todo o Brasil.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000063622.jpg</image_name>
+<image_broadcast>00000000063622</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622053000 -0300" stop="20150622063000 -0300" channel="TVR" program_id="0000147917" event_id="00000000000097439944" series_key="00000000066324000000">
+<title lang="pt">Caminhos da Reportagem</title>
+<desc>Jornalistas viajam pelo país e pelo mundo atrás de grandes histórias, trazendo ao telespectador uma visão diferente, instigante e complexa de cada um dos assuntos escolhidos.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066324.jpg</image_name>
+<image_broadcast>00000000066324</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622063000 -0300" stop="20150622070000 -0300" channel="TVR" program_id="0000197929" event_id="00000000000097439945" series_key="00000000070641000000">
+<title lang="pt">América Latina Tal Como Somos</title>
+<desc>O programa "América Latina Tal Como Somos" busca promover o intercâmbio e a integração dos 20 países latino-americanos. Resultado de uma parceria da TV Brasil com a TAL (Televisión América Latina).</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000070641.jpg</image_name>
+<image_broadcast>00000000070641</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622070000 -0300" stop="20150622073000 -0300" channel="TVR" program_id="0000375906" event_id="00000000000097439946" series_key="00000000074096000000">
+<title lang="pt">Tela Rural</title>
+<desc>Um programa que leva você até onde campo e cidade se encontram.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000074096.jpg</image_name>
+<image_broadcast>00000000074096</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622073000 -0300" stop="20150622080000 -0300" channel="TVR" program_id="0000103161" event_id="00000000000097439947" series_key="00000000071003000000">
+<title lang="pt">Viva Bem</title>
+<desc>Um programa de variedades que destaca sobretudo qualidade de vida: saúde, beleza, alimentação, lazer, atividade, moda e outros assuntos.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000071003.jpg</image_name>
+<image_broadcast>00000000071003</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622080000 -0300" stop="20150622081500 -0300" channel="TVR" program_id="0000113397" event_id="00000000000097439948" series_key="00000000069552000000">
+<title lang="pt">Visual</title>
+<title lang="en">Jornal Visual</title>
+<desc>Primeiro telejornal diário criado para levar informação à comunidade de surdos. Reportagens sobre a inclusão do surdo, assuntos de seu universo; notícias principais do Brasil e do Mundo traduzidos para a Língua Brasileira de Sinais.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069552.jpg</image_name>
+<image_broadcast>00000000069552</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622081500 -0300" stop="20150622084500 -0300" channel="TVR" program_id="0000006866" event_id="00000000000097439949" series_key="">
+<title lang="pt">Cidadania</title>
+<title lang="en">Cidadania</title>
+<desc>Entrevistas sobre temas atuais com a participação de parlamentares, especialistas e representantes da sociedade civil.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000006866.jpg</image_name>
+<image_broadcast>0000006866</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622084500 -0300" stop="20150622093000 -0300" channel="TVR" program_id="0000308868" event_id="00000000000097439950" series_key="">
+<title lang="pt">Espaço Público TVE</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000308868.jpg</image_name>
+<image_broadcast>0000308868</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622093000 -0300" stop="20150622094000 -0300" channel="TVR" program_id="0000418782" event_id="00000000000097439951" series_key="00000000076351000000">
+<title lang="pt">Sarah e o Pato</title>
+<desc>A encantadora série de animação Sarah e o Pato foca no dia a dia das novas experiências e aprendizados da infância. Sarah e o seu amigo pato vivem em uma pequena aldeia e vivenciam aventuras simples, mas emocionantes.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">00000000076351.jpg</image_name>
+<image_broadcast>00000000076351</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622094000 -0300" stop="20150622094900 -0300" channel="TVR" program_id="0000234897" event_id="00000000000097439952" series_key="">
+<title lang="pt">Teatro das Fábulas</title>
+<desc>Acompanha as andanças de um lobo amigável que lidera um grupo de teatro itinerante. Entre os integrantes dessa companhia teatral estão a raposa aspirante a escritora, alguns porquinhos travessos e um coelhinho durão.</desc>
+<category lang="pt">Infantil</category>
+<category lang="pt">Programa</category>
+<image>
+<image_name position="1">0000234897.jpg</image_name>
+<image_broadcast>0000234897</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622094900 -0300" stop="20150622100200 -0300" channel="TVR" program_id="0000170707" event_id="00000000000097439953" series_key="00000000044676000000">
+<title lang="pt">Peixonauta</title>
+<desc>Peixonauta e sua melhor amiga, Marina, moram no EcoZoo, uma mistura de parque de diversões e zoológico. Eles são agentes secretos e sua missão é proteger os animais que vivem no parque.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">00000000044676.jpg</image_name>
+<image_broadcast>00000000044676</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622100200 -0300" stop="20150622101300 -0300" channel="TVR" program_id="0000289472" event_id="00000000000097439954" series_key="">
+<title lang="pt">Os Cupins</title>
+<desc>As aventuras de Cupincha e Cupim, que ajudam a ensinar música enquanto vivem histórias divertidas dentro do piano do multi-instrumentista Joca.</desc>
+<category lang="pt">Infantil</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">0000289472.jpg</image_name>
+<image_broadcast>0000289472</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622101300 -0300" stop="20150622102100 -0300" channel="TVR" program_id="0000339552" event_id="00000000000097439955" series_key="00000000063314000000">
+<title lang="pt">Nilba e os Desastronautas</title>
+<desc>Nilba se acidentou na misteriosa Lua Ervilha. Para poder voltar à Terra, a equipe da S.S. Geniwald vai ter que confiar nas inadequadas estratégias deste alienado capitão, que não é tão experiente como dizia.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">00000000063314.jpg</image_name>
+<image_broadcast>00000000063314</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622102100 -0300" stop="20150622102300 -0300" channel="TVR" program_id="0000429213" event_id="00000000000097439956" series_key="">
+<title lang="pt">Tve Notícias</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000429213.jpg</image_name>
+<image_broadcast>0000429213</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622102300 -0300" stop="20150622103600 -0300" channel="TVR" program_id="0000364651" event_id="00000000000097439957" series_key="">
+<title lang="pt">O Teco-teco</title>
+<desc>O programa apresenta histórias, jogos e desafios e se propõe a colaborar de forma lúdica no processo de construção do conhecimento, estimulando a participação ativa de seu público através da web.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">0000364651.jpg</image_name>
+<image_broadcast>0000364651</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622103600 -0300" stop="20150622104800 -0300" channel="TVR" program_id="0000407425" event_id="00000000000097439958" series_key="">
+<title lang="pt">Jarau</title>
+<desc>Inspirada na lenda gaúcha da "Salamanca do Jarau". Cinco jovens libertam acidentalmente a vilã Taniaguá, uma bruxa das terras mouras que fora aprisionada há centenas de anos pelos deuses guaranis.</desc>
+<category lang="pt">Infantil</category>
+<category lang="pt">Desenho</category>
+<image>
+<image_name position="1">0000407425.jpg</image_name>
+<image_broadcast>0000407425</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622104800 -0300" stop="20150622111500 -0300" channel="TVR" program_id="0000114680" event_id="00000000000097439959" series_key="00000000070818000000">
+<title lang="pt">Dango Balango</title>
+<desc>Dango Balango é um programa infantil cujos bonecos Joduca, Sdruvs e Druzila, criados especialmente pelo grupo Giramundos, participam de diversos quadros que se alternam, de programa para programa.</desc>
+<category lang="pt">Infantil</category>
+<category lang="pt">Programa</category>
+<image>
+<image_name position="1">00000000070818.jpg</image_name>
+<image_broadcast>00000000070818</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622111500 -0300" stop="20150622112800 -0300" channel="TVR" program_id="0000265340" event_id="00000000000097439960" series_key="">
+<title lang="pt">Historietas Assombradas</title>
+<desc>Histórietas Assombradas - A chegada de uma velhinha transforma a rotina de um garoto de 11 anos num universo sem limites para a imaginação.</desc>
+<category lang="pt">Infantil</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">0000265340.jpg</image_name>
+<image_broadcast>0000265340</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622112800 -0300" stop="20150622113000 -0300" channel="TVR" program_id="0000408847" event_id="00000000000097439961" series_key="">
+<title lang="pt">O Pequeno Einstein</title>
+<desc>Respostas a questões básicas da física. Em Pequeno Einstein, o pequeno personagem animado explica de forma simples e divertida os principais aspectos das teorias de Albert Einstein, fórmulas, conceitos e leis da física.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Infantil</category>
+<image>
+<image_name position="1">0000408847.jpg</image_name>
+<image_broadcast>0000408847</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622113000 -0300" stop="20150622120000 -0300" channel="TVR" program_id="0000371688" event_id="00000000000097439962" series_key="00000000072837000000">
+<title lang="pt">Estação Cultura - Vivo</title>
+<desc>Programa de variedades, com música popular brasileira e informação voltada principalmente para educação e cultura.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">00000000072837.jpg</image_name>
+<image_broadcast>00000000072837</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622120000 -0300" stop="20150622123000 -0300" channel="TVR" program_id="0000019744" event_id="00000000000097439963" series_key="00000000066308000000">
+<title lang="pt">Repórter Brasil</title>
+<desc>Único telejornal brasileiro que exibe reportagens feitas diretamente pelo espectador. Os temas que movimentam o dia a dia são tratados com mais tempo e em mais detalhes, de forma muito clara e objetiva.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066308.jpg</image_name>
+<image_broadcast>00000000066308</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622123000 -0300" stop="20150622133000 -0300" channel="TVR" program_id="0000047583" event_id="00000000000097439964" series_key="">
+<title lang="pt">Canal Aberto</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000047583.jpg</image_name>
+<image_broadcast>0000047583</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622133000 -0300" stop="20150622134500 -0300" channel="TVR" program_id="0000418736" event_id="00000000000097439965" series_key="">
+<title lang="pt">Brincadeirinhas Musicais + Clipes Cocoricó</title>
+<desc>O grupo Palavra Cantada entretém a criançada com brincadeiradas musicadas. Em seguida, é a vez da turma do Júlio fazer a festa no paiol com músicas da série infantil.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000418736.jpg</image_name>
+<image_broadcast>0000418736</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622134500 -0300" stop="20150622140000 -0300" channel="TVR" program_id="0000091168" event_id="00000000000097439966" series_key="">
+<title lang="pt">Cocoricó</title>
+<title lang="en">Cocoricó</title>
+<desc>A série traz as aventuras da turminha formada por Júlio, as galinhas Lilica, Zazá e Lola, o cavalo Alípio e outros amigos que vivem histórias divertidas na Fazenda Cocoricó.</desc>
+<date>1996</date>
+<category lang="pt">Infantil</category>
+<category lang="pt">Programa</category>
+<image>
+<image_name position="1">0000091168.jpg</image_name>
+<image_broadcast>0000091168</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>4/5</value>
+</star-rating>
+</programme>
+<programme start="20150622140000 -0300" stop="20150622143000 -0300" channel="TVR" program_id="0000233472" event_id="00000000000097439967" series_key="00000000070173000000">
+<title lang="pt">Bubble Guppies</title>
+<desc>Mergulhe em um mundo aquático de conhecimento e risadas com Bubble Guppies, uma incrível e interativa animação musical.</desc>
+<credits>
+<director>Mark Salisbury</director>
+<director>Mark Salisbury</director>
+</credits>
+<date>2009</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">00000000070173.jpg</image_name>
+<image_broadcast>00000000070173</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150622143000 -0300" stop="20150622144500 -0300" channel="TVR" program_id="0000441046" event_id="00000000000097439968" series_key="00000000044756000000">
+<title lang="pt">Peppa Pig</title>
+<title lang="en">Peppa Pig</title>
+<desc>Peppa é uma adorável e irreverente porquinha cor-de-rosa que mora com seu irmão mais novo, George, e seus pais. Sempre brincando muito, ela vive plenamente sua infância ao lado dos amigos e da família.</desc>
+<credits>
+<director>Neville Astley</director>
+<actor>Vozes de Morwenna Banks</actor>
+<actor>Richard Ridings</actor>
+<actor>Lily Snowden-Fine</actor>
+<actor>Andy Hamilton</actor>
+<actor>Oliver and Alice May</actor>
+<actor>John Sparkes</actor>
+</credits>
+<date>2004</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">00000000044756.jpg</image_name>
+<image_broadcast>00000000044756</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Grã-Bretanha</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150622144500 -0300" stop="20150622153000 -0300" channel="TVR" program_id="0000106683" event_id="00000000000097439969" series_key="00000000045251000000">
+<title lang="pt">Pocoyo</title>
+<title lang="en">Pocoyo</title>
+<desc>Pocoyo é uma série para crianças e seus pais que conta a história de um menino que descobre o mundo à sua volta. Tudo é novo para ele e há muitas surpresas e oportunidades para brincar e aprender.</desc>
+<credits>
+<director>David Cantolla</director>
+<actor>Stephen Fry</actor>
+</credits>
+<date>2005</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Infantil</category>
+<image>
+<image_name position="1">00000000045251.jpg</image_name>
+<image_broadcast>00000000045251</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>ESP/Reino Unido</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>4/5</value>
+</star-rating>
+</programme>
+<programme start="20150622153000 -0300" stop="20150622154500 -0300" channel="TVR" program_id="0000097130" event_id="00000000000097439970" series_key="">
+<title lang="pt">Pandorga</title>
+<title lang="en">Pandorga</title>
+<desc>Os bonecos Jura, Bete, Nina e Tuca, além de personagens como os apresentadores do Jornal Legal Anete E-mail e Carlos @ Giga Byte mostram diversos quadros onde a participação do público infantil é valorizada.</desc>
+<credits>
+<director>Maria Inês Falcão</director>
+<actor>Vozes de Maria Inês Falcão</actor>
+<actor>Rodrigo Najar</actor>
+<actor>Oscar Simch</actor>
+</credits>
+<category lang="pt">Infantil</category>
+<category lang="pt">Programa</category>
+<image>
+<image_name position="1">0000097130.jpg</image_name>
+<image_broadcast>0000097130</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150622154500 -0300" stop="20150622160000 -0300" channel="TVR" program_id="0000428996" event_id="00000000000097439971" series_key="00000000076745000000">
+<title lang="pt">Detetives do Prédio Azul</title>
+<desc>Amigos inseparáveis, Tom, Mila e Capim vestem suas capas superequipadas e desvendam problemas misteriosos que surgem no prédio antigo onde moram, tornando-se os Detetives do Prédio Azul.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Infantil</category>
+<image>
+<image_name position="1">00000000076745.jpg</image_name>
+<image_broadcast>00000000076745</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622160000 -0300" stop="20150622162000 -0300" channel="TVR" program_id="0000082031" event_id="00000000000097439972" series_key="">
+<title lang="pt">Thomas e Seus Amigos</title>
+<title lang="en">Thomas &amp; Friends</title>
+<desc>Thomas é um trem simpático e divertido que vive aventuras mágicas com seus amigos: os trens da estação, um ônibus, um helicóptero e um trator.  As histórias são baseadas em obras clássicas da literatura.</desc>
+<credits>
+<director>David Mitton</director>
+<actor>Vozes de Ringo Starr</actor>
+<actor>Michael Angelis</actor>
+<actor>George Carlin</actor>
+<actor>Alec Baldwin</actor>
+<actor>Michael Brandon</actor>
+</credits>
+<date>1984</date>
+<category lang="pt">Infantil</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">0000082031.jpg</image_name>
+<image_broadcast>0000082031</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Grã-Bretanha</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150622162000 -0300" stop="20150622164500 -0300" channel="TVR" program_id="0000380490" event_id="00000000000097439973" series_key="">
+<title lang="pt">Caderninho Verde</title>
+<desc>"Produzido pela TV Cultura em parceria com a Secretaria do Meio Ambiente do Estado de São Paulo, o programete ensina a importância de preservar a natureza ao contar histórias com bonecos, teatro de papel e música."</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000380490.jpg</image_name>
+<image_broadcast>0000380490</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622164500 -0300" stop="20150622170000 -0300" channel="TVR" program_id="0000441046" event_id="00000000000097439974" series_key="00000000044756000000">
+<title lang="pt">Peppa Pig</title>
+<title lang="en">Peppa Pig</title>
+<desc>Peppa é uma adorável e irreverente porquinha cor-de-rosa que mora com seu irmão mais novo, George, e seus pais. Sempre brincando muito, ela vive plenamente sua infância ao lado dos amigos e da família.</desc>
+<credits>
+<director>Neville Astley</director>
+<actor>Vozes de Morwenna Banks</actor>
+<actor>Richard Ridings</actor>
+<actor>Lily Snowden-Fine</actor>
+<actor>Andy Hamilton</actor>
+<actor>Oliver and Alice May</actor>
+<actor>John Sparkes</actor>
+</credits>
+<date>2004</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">00000000044756.jpg</image_name>
+<image_broadcast>00000000044756</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Grã-Bretanha</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150622170000 -0300" stop="20150622180000 -0300" channel="TVR" program_id="0000407075" event_id="00000000000097439975" series_key="">
+<title lang="pt">Era Uma Vez No Quintal</title>
+<desc>A nova temporada do Quintal da Cultura traz aventuras de Ludovico e Doroteia com personagens mitológicos, criaturas folclóricas e membros da realeza.</desc>
+<category lang="pt">Infantil</category>
+<category lang="pt">Programa</category>
+<image>
+<image_name position="1">0000407075.jpg</image_name>
+<image_broadcast>0000407075</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622180000 -0300" stop="20150622183000 -0300" channel="TVR" program_id="0000440185" event_id="00000000000097439976" series_key="00000000063636000000">
+<title lang="pt">Radar</title>
+<desc>O Radar é uma referência no cenário cultural e musical do Rio Grande do Sul com destaque entre o público jovem. O programa é voltado tanto para os novos talentos quanto para as bandas já consagradas do cenário local e nacional</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">00000000063636.jpg</image_name>
+<image_broadcast>00000000063636</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622183000 -0300" stop="20150622190000 -0300" channel="TVR" program_id="0000255437" event_id="00000000000097439977" series_key="00000000065619000000">
+<title lang="pt">Julie e os Fantasmas</title>
+<desc>Um dia, Julie coloca um vinil antigo para tocar e liberta uma banda de fantasmas que muda a sua vida. Eles provocam confusões, mas também vão ajudá-la a enfrentar seus medos e desenvolver seu talento: a música!</desc>
+<credits>
+<actor>Mariana Lessa</actor>
+<actor>Michel Joelsas</actor>
+<actor>Marcelo Pires</actor>
+<actor>Bruno Sigrist</actor>
+<actor>Fabio Rabello</actor>
+</credits>
+<date>2011</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Juvenil</category>
+<image>
+<image_name position="1">00000000065619.jpg</image_name>
+<image_broadcast>00000000065619</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622190000 -0300" stop="20150622193000 -0300" channel="TVR" program_id="0000006866" event_id="00000000000097439978" series_key="">
+<title lang="pt">Cidadania</title>
+<title lang="en">Cidadania</title>
+<desc>Entrevistas sobre temas atuais com a participação de parlamentares, especialistas e representantes da sociedade civil.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000006866.jpg</image_name>
+<image_broadcast>0000006866</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622193000 -0300" stop="20150622200000 -0300" channel="TVR" program_id="0000439954" event_id="00000000000097439979" series_key="00000000076924000000">
+<title lang="pt">Segunda Edição</title>
+<desc>Dalva Bavaresco e Daniel Vasques vão levar ao ar o jornal com meia-hora vai mostrar e repercutir os principais fatos do dia.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000076924.jpg</image_name>
+<image_broadcast>00000000076924</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622200000 -0300" stop="20150622220000 -0300" channel="TVR" program_id="0000245530" event_id="00000000000097439980" series_key="">
+<title lang="pt">Obra Prima</title>
+<desc>O programa Obra Prima é o meio de comunicação entre empresas e consumidores, através da participação de profissionais de arquitetura, engenharia e design.</desc>
+<credits>
+<actor>Andréia Moreno</actor>
+</credits>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000245530.jpg</image_name>
+<image_broadcast>0000245530</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622220000 -0300" stop="20150622233000 -0300" channel="TVR" program_id="0000011293" event_id="00000000000097439981" series_key="00000000072543000000">
+<title lang="pt">Roda Viva</title>
+<desc>Augusto Nunes mediará a atração e terá a companhia de seis entrevistadores, que mudarão a cada semana, de acordo com a área de atuação do entrevistado.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">00000000072543.jpg</image_name>
+<image_broadcast>00000000072543</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622233000 -0300" stop="20150623000000 -0300" channel="TVR" program_id="0000440185" event_id="00000000000097439982" series_key="00000000063636000000">
+<title lang="pt">Radar</title>
+<desc>O Radar é uma referência no cenário cultural e musical do Rio Grande do Sul com destaque entre o público jovem. O programa é voltado tanto para os novos talentos quanto para as bandas já consagradas do cenário local e nacional</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">00000000063636.jpg</image_name>
+<image_broadcast>00000000063636</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623000000 -0300" stop="20150623003000 -0300" channel="TVR" program_id="0000180227" event_id="00000000000097439983" series_key="00000000072837000000">
+<title lang="pt">Estação Cultura</title>
+<desc>Programa de variedades, com música popular brasileira e informação voltada principalmente para educação e cultura.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">00000000072837.jpg</image_name>
+<image_broadcast>00000000072837</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623003000 -0300" stop="20150623013000 -0300" channel="TVR" program_id="0000300740" event_id="00000000000097439984" series_key="00000000070814000000">
+<title lang="pt">Brasilianas</title>
+<desc>As políticas públicas que afetam a vida dos brasileiros são a matéria-prima dos debates comandados por Luís Nassif sobre temas importantes que estimulam a cidadania e ajudam na formação do espírito crítico dos cidadãos.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000070814.jpg</image_name>
+<image_broadcast>00000000070814</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623013000 -0300" stop="20150623020000 -0300" channel="TVR" program_id="0000186045" event_id="00000000000097439985" series_key="00000000070640000000">
+<title lang="pt">A TV Que se Faz no Mundo</title>
+<desc>A série mostra como funcionam televisões de diversas partes do mundo, como Iraque, Sibéria, Nepal, Gana, Afeganistão e Paraguai.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000070640.jpg</image_name>
+<image_broadcast>00000000070640</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623020000 -0300" stop="20150623023000 -0300" channel="TVR" program_id="0000204339" event_id="00000000000097439986" series_key="00000000070768000000">
+<title lang="pt">Estúdio Móvel</title>
+<desc>É o programa da TV Brasil voltado para o público jovem. A produção busca um retrato do jovem urbano e contemporâneo. Para isso, o tradicional estúdio fisicamente limitado foi transformado em algo móvel.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000070768.jpg</image_name>
+<image_broadcast>00000000070768</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623023000 -0300" stop="20150623040000 -0300" channel="TVR" program_id="0000019776" event_id="00000000000097439987" series_key="00000000070790000000">
+<title lang="pt">Sem Censura</title>
+<desc>Apresentado por Leda Nagle, o programa traz as últimas descobertas da medicina, temas ligados à preservação do meio ambiente, à busca pela melhoria da qualidade de vida, informação cultural, prestação de serviços.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">00000000070790.jpg</image_name>
+<image_broadcast>00000000070790</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623040000 -0300" stop="20150623043000 -0300" channel="TVR" program_id="0000277108" event_id="00000000000097439988" series_key="00000000070761000000">
+<title lang="pt">Telecurso Tecendo o Saber</title>
+<desc>Tecendo o Saber é um projeto que oferece a jovens e adultos a oportunidade de estudar os conteúdos da primeira etapa do ensino fundamental, correspondente às quatro primeiras séries.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000070761.jpg</image_name>
+<image_broadcast>00000000070761</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623043000 -0300" stop="20150623044500 -0300" channel="TVR" program_id="0000202233" event_id="00000000000097439989" series_key="00000000063623000000">
+<title lang="pt">Telecurso Ensino Médio</title>
+<desc>O Telecurso, e uma proposta educacional inovadora voltada para milhões de brasileiros que não concluíram, por algum motivo, os Ensinos Fundamental e Médio.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000063623.jpg</image_name>
+<image_broadcast>00000000063623</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623044500 -0300" stop="20150623050000 -0300" channel="TVR" program_id="0000202234" event_id="00000000000097439990" series_key="00000000074527000000">
+<title lang="pt">Telecurso Ensino Fundamental</title>
+<desc>O Telecurso, uma proposta educacional inovadora voltada para milhões de brasileiros que não concluíram, por algum motivo, os Ensinos Fundamental e Médio.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000074527.jpg</image_name>
+<image_broadcast>00000000074527</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623050000 -0300" stop="20150623051500 -0300" channel="TVR" program_id="0000129474" event_id="00000000000097439991" series_key="00000000070761000000">
+<title lang="pt">Telecurso TEC</title>
+<desc>O Telecurso TEC é um programa de formação técnica de nível médio, de qualificação e habilitação profissional, feito para quem deseja investir na sua educação ou na de seus funcionários.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000070761.jpg</image_name>
+<image_broadcast>00000000070761</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623051500 -0300" stop="20150623053000 -0300" channel="TVR" program_id="0000150838" event_id="00000000000097439992" series_key="00000000063622000000">
+<title lang="pt">Telecurso Profissionalizante</title>
+<desc>O Telecurso é reconhecido mundialmente como uma metodologia que promove um salto de qualidade na educação, tendo beneficiado mais de 5,5 milhões de pessoas nas 27.714 telesalas em todo o Brasil.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000063622.jpg</image_name>
+<image_broadcast>00000000063622</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623053000 -0300" stop="20150623063000 -0300" channel="TVR" program_id="0000147917" event_id="00000000000097439993" series_key="00000000066324000000">
+<title lang="pt">Caminhos da Reportagem</title>
+<desc>Jornalistas viajam pelo país e pelo mundo atrás de grandes histórias, trazendo ao telespectador uma visão diferente, instigante e complexa de cada um dos assuntos escolhidos.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066324.jpg</image_name>
+<image_broadcast>00000000066324</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623063000 -0300" stop="20150623070000 -0300" channel="TVR" program_id="0000228983" event_id="00000000000097439994" series_key="00000000070868000000">
+<title lang="pt">Para Todos</title>
+<desc>O programa apresenta manifestações artísticas de vários lugares do país, produzindo uma revista eletrônica que não é pautada exclusivamente pelo eixo Rio-São Paulo.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000070868.jpg</image_name>
+<image_broadcast>00000000070868</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623070000 -0300" stop="20150623073000 -0300" channel="TVR" program_id="0000424372" event_id="00000000000097439995" series_key="">
+<title lang="pt">Terra Sul</title>
+<desc>Programa semanal voltado para as questões que envolvem a agropecuária da região Sul do Brasil.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Meio Ambiente</category>
+<image>
+<image_name position="1">0000424372.jpg</image_name>
+<image_broadcast>0000424372</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623073000 -0300" stop="20150623080000 -0300" channel="TVR" program_id="0000286353" event_id="00000000000097439996" series_key="00000000070783000000">
+<title lang="pt">Opção Saúde</title>
+<desc>Fala sobre qualidade de vida, bem-estar e saúde, com dicas para uma alimentação mais saudável, sugestões de exercícios físicos e prevenção de doenças, além da opinião e análise de profissionais da saúde.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Saúde</category>
+<image>
+<image_name position="1">00000000070783.jpg</image_name>
+<image_broadcast>00000000070783</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623080000 -0300" stop="20150623081500 -0300" channel="TVR" program_id="0000113397" event_id="00000000000097439997" series_key="00000000069552000000">
+<title lang="pt">Visual</title>
+<title lang="en">Jornal Visual</title>
+<desc>Primeiro telejornal diário criado para levar informação à comunidade de surdos. Reportagens sobre a inclusão do surdo, assuntos de seu universo; notícias principais do Brasil e do Mundo traduzidos para a Língua Brasileira de Sinais.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069552.jpg</image_name>
+<image_broadcast>00000000069552</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623081500 -0300" stop="20150623084500 -0300" channel="TVR" program_id="0000006866" event_id="00000000000097439998" series_key="">
+<title lang="pt">Cidadania</title>
+<title lang="en">Cidadania</title>
+<desc>Entrevistas sobre temas atuais com a participação de parlamentares, especialistas e representantes da sociedade civil.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000006866.jpg</image_name>
+<image_broadcast>0000006866</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623084500 -0300" stop="20150623093000 -0300" channel="TVR" program_id="0000308868" event_id="00000000000097439999" series_key="">
+<title lang="pt">Espaço Público TVE</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000308868.jpg</image_name>
+<image_broadcast>0000308868</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623093000 -0300" stop="20150623094000 -0300" channel="TVR" program_id="0000418782" event_id="00000000000097440000" series_key="00000000076351000000">
+<title lang="pt">Sarah e o Pato</title>
+<desc>A encantadora série de animação Sarah e o Pato foca no dia a dia das novas experiências e aprendizados da infância. Sarah e o seu amigo pato vivem em uma pequena aldeia e vivenciam aventuras simples, mas emocionantes.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">00000000076351.jpg</image_name>
+<image_broadcast>00000000076351</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623094000 -0300" stop="20150623094900 -0300" channel="TVR" program_id="0000234897" event_id="00000000000097440001" series_key="">
+<title lang="pt">Teatro das Fábulas</title>
+<desc>Acompanha as andanças de um lobo amigável que lidera um grupo de teatro itinerante. Entre os integrantes dessa companhia teatral estão a raposa aspirante a escritora, alguns porquinhos travessos e um coelhinho durão.</desc>
+<category lang="pt">Infantil</category>
+<category lang="pt">Programa</category>
+<image>
+<image_name position="1">0000234897.jpg</image_name>
+<image_broadcast>0000234897</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623094900 -0300" stop="20150623100200 -0300" channel="TVR" program_id="0000170707" event_id="00000000000097440002" series_key="00000000044676000000">
+<title lang="pt">Peixonauta</title>
+<desc>Peixonauta e sua melhor amiga, Marina, moram no EcoZoo, uma mistura de parque de diversões e zoológico. Eles são agentes secretos e sua missão é proteger os animais que vivem no parque.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">00000000044676.jpg</image_name>
+<image_broadcast>00000000044676</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623100200 -0300" stop="20150623101300 -0300" channel="TVR" program_id="0000289472" event_id="00000000000097440003" series_key="">
+<title lang="pt">Os Cupins</title>
+<desc>As aventuras de Cupincha e Cupim, que ajudam a ensinar música enquanto vivem histórias divertidas dentro do piano do multi-instrumentista Joca.</desc>
+<category lang="pt">Infantil</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">0000289472.jpg</image_name>
+<image_broadcast>0000289472</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623101300 -0300" stop="20150623102100 -0300" channel="TVR" program_id="0000339552" event_id="00000000000097440004" series_key="00000000063314000000">
+<title lang="pt">Nilba e os Desastronautas</title>
+<desc>Nilba se acidentou na misteriosa Lua Ervilha. Para poder voltar à Terra, a equipe da S.S. Geniwald vai ter que confiar nas inadequadas estratégias deste alienado capitão, que não é tão experiente como dizia.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">00000000063314.jpg</image_name>
+<image_broadcast>00000000063314</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623102100 -0300" stop="20150623102300 -0300" channel="TVR" program_id="0000429213" event_id="00000000000097440005" series_key="">
+<title lang="pt">Tve Notícias</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000429213.jpg</image_name>
+<image_broadcast>0000429213</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623102300 -0300" stop="20150623103600 -0300" channel="TVR" program_id="0000364651" event_id="00000000000097440006" series_key="">
+<title lang="pt">O Teco-teco</title>
+<desc>O programa apresenta histórias, jogos e desafios e se propõe a colaborar de forma lúdica no processo de construção do conhecimento, estimulando a participação ativa de seu público através da web.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">0000364651.jpg</image_name>
+<image_broadcast>0000364651</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623103600 -0300" stop="20150623104800 -0300" channel="TVR" program_id="0000407425" event_id="00000000000097440007" series_key="">
+<title lang="pt">Jarau</title>
+<desc>Inspirada na lenda gaúcha da "Salamanca do Jarau". Cinco jovens libertam acidentalmente a vilã Taniaguá, uma bruxa das terras mouras que fora aprisionada há centenas de anos pelos deuses guaranis.</desc>
+<category lang="pt">Infantil</category>
+<category lang="pt">Desenho</category>
+<image>
+<image_name position="1">0000407425.jpg</image_name>
+<image_broadcast>0000407425</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623104800 -0300" stop="20150623111500 -0300" channel="TVR" program_id="0000114680" event_id="00000000000097440008" series_key="00000000070818000000">
+<title lang="pt">Dango Balango</title>
+<desc>Dango Balango é um programa infantil cujos bonecos Joduca, Sdruvs e Druzila, criados especialmente pelo grupo Giramundos, participam de diversos quadros que se alternam, de programa para programa.</desc>
+<category lang="pt">Infantil</category>
+<category lang="pt">Programa</category>
+<image>
+<image_name position="1">00000000070818.jpg</image_name>
+<image_broadcast>00000000070818</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623111500 -0300" stop="20150623112800 -0300" channel="TVR" program_id="0000265340" event_id="00000000000097440009" series_key="">
+<title lang="pt">Historietas Assombradas</title>
+<desc>Histórietas Assombradas - A chegada de uma velhinha transforma a rotina de um garoto de 11 anos num universo sem limites para a imaginação.</desc>
+<category lang="pt">Infantil</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">0000265340.jpg</image_name>
+<image_broadcast>0000265340</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623112800 -0300" stop="20150623113000 -0300" channel="TVR" program_id="0000408847" event_id="00000000000097440010" series_key="">
+<title lang="pt">O Pequeno Einstein</title>
+<desc>Respostas a questões básicas da física. Em Pequeno Einstein, o pequeno personagem animado explica de forma simples e divertida os principais aspectos das teorias de Albert Einstein, fórmulas, conceitos e leis da física.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Infantil</category>
+<image>
+<image_name position="1">0000408847.jpg</image_name>
+<image_broadcast>0000408847</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623113000 -0300" stop="20150623120000 -0300" channel="TVR" program_id="0000371688" event_id="00000000000097440011" series_key="00000000072837000000">
+<title lang="pt">Estação Cultura - Vivo</title>
+<desc>Programa de variedades, com música popular brasileira e informação voltada principalmente para educação e cultura.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">00000000072837.jpg</image_name>
+<image_broadcast>00000000072837</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623120000 -0300" stop="20150623123000 -0300" channel="TVR" program_id="0000019744" event_id="00000000000097440012" series_key="00000000066308000000">
+<title lang="pt">Repórter Brasil</title>
+<desc>Único telejornal brasileiro que exibe reportagens feitas diretamente pelo espectador. Os temas que movimentam o dia a dia são tratados com mais tempo e em mais detalhes, de forma muito clara e objetiva.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066308.jpg</image_name>
+<image_broadcast>00000000066308</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623123000 -0300" stop="20150623133000 -0300" channel="TVR" program_id="0000047583" event_id="00000000000097440013" series_key="">
+<title lang="pt">Canal Aberto</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000047583.jpg</image_name>
+<image_broadcast>0000047583</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623133000 -0300" stop="20150623134500 -0300" channel="TVR" program_id="0000418736" event_id="00000000000097440014" series_key="">
+<title lang="pt">Brincadeirinhas Musicais + Clipes Cocoricó</title>
+<desc>O grupo Palavra Cantada entretém a criançada com brincadeiradas musicadas. Em seguida, é a vez da turma do Júlio fazer a festa no paiol com músicas da série infantil.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000418736.jpg</image_name>
+<image_broadcast>0000418736</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623134500 -0300" stop="20150623140000 -0300" channel="TVR" program_id="0000091168" event_id="00000000000097440015" series_key="">
+<title lang="pt">Cocoricó</title>
+<title lang="en">Cocoricó</title>
+<desc>A série traz as aventuras da turminha formada por Júlio, as galinhas Lilica, Zazá e Lola, o cavalo Alípio e outros amigos que vivem histórias divertidas na Fazenda Cocoricó.</desc>
+<date>1996</date>
+<category lang="pt">Infantil</category>
+<category lang="pt">Programa</category>
+<image>
+<image_name position="1">0000091168.jpg</image_name>
+<image_broadcast>0000091168</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>4/5</value>
+</star-rating>
+</programme>
+<programme start="20150623140000 -0300" stop="20150623143000 -0300" channel="TVR" program_id="0000233472" event_id="00000000000097440016" series_key="00000000070173000000">
+<title lang="pt">Bubble Guppies</title>
+<desc>Mergulhe em um mundo aquático de conhecimento e risadas com Bubble Guppies, uma incrível e interativa animação musical.</desc>
+<credits>
+<director>Mark Salisbury</director>
+<director>Mark Salisbury</director>
+</credits>
+<date>2009</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">00000000070173.jpg</image_name>
+<image_broadcast>00000000070173</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150623143000 -0300" stop="20150623144500 -0300" channel="TVR" program_id="0000441046" event_id="00000000000097440017" series_key="00000000044756000000">
+<title lang="pt">Peppa Pig</title>
+<title lang="en">Peppa Pig</title>
+<desc>Peppa é uma adorável e irreverente porquinha cor-de-rosa que mora com seu irmão mais novo, George, e seus pais. Sempre brincando muito, ela vive plenamente sua infância ao lado dos amigos e da família.</desc>
+<credits>
+<director>Neville Astley</director>
+<actor>Vozes de Morwenna Banks</actor>
+<actor>Richard Ridings</actor>
+<actor>Lily Snowden-Fine</actor>
+<actor>Andy Hamilton</actor>
+<actor>Oliver and Alice May</actor>
+<actor>John Sparkes</actor>
+</credits>
+<date>2004</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">00000000044756.jpg</image_name>
+<image_broadcast>00000000044756</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Grã-Bretanha</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150623144500 -0300" stop="20150623153000 -0300" channel="TVR" program_id="0000106683" event_id="00000000000097440018" series_key="00000000045251000000">
+<title lang="pt">Pocoyo</title>
+<title lang="en">Pocoyo</title>
+<desc>Pocoyo é uma série para crianças e seus pais que conta a história de um menino que descobre o mundo à sua volta. Tudo é novo para ele e há muitas surpresas e oportunidades para brincar e aprender.</desc>
+<credits>
+<director>David Cantolla</director>
+<actor>Stephen Fry</actor>
+</credits>
+<date>2005</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Infantil</category>
+<image>
+<image_name position="1">00000000045251.jpg</image_name>
+<image_broadcast>00000000045251</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>ESP/Reino Unido</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>4/5</value>
+</star-rating>
+</programme>
+<programme start="20150623153000 -0300" stop="20150623180000 -0300" channel="TVR" program_id="0000442003" event_id="00000000000097440019" series_key="">
+<title lang="pt">Mundial Sub-20: Argetina X Gana</title>
+<desc>Vinte e quatro seleções disputam a taça, na vigésima edição do Campeonato Mundial de Futebol Sub-20, da FIFA.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000442003.jpg</image_name>
+<image_broadcast>0000442003</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623180000 -0300" stop="20150623183000 -0300" channel="TVR" program_id="0000440185" event_id="00000000000097440020" series_key="00000000063636000000">
+<title lang="pt">Radar</title>
+<desc>O Radar é uma referência no cenário cultural e musical do Rio Grande do Sul com destaque entre o público jovem. O programa é voltado tanto para os novos talentos quanto para as bandas já consagradas do cenário local e nacional</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">00000000063636.jpg</image_name>
+<image_broadcast>00000000063636</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623183000 -0300" stop="20150623190000 -0300" channel="TVR" program_id="0000432906" event_id="00000000000097440021" series_key="">
+<title lang="pt">Meu Lugar</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000432906.jpg</image_name>
+<image_broadcast>0000432906</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623190000 -0300" stop="20150623193000 -0300" channel="TVR" program_id="0000006866" event_id="00000000000097440022" series_key="">
+<title lang="pt">Cidadania</title>
+<title lang="en">Cidadania</title>
+<desc>Entrevistas sobre temas atuais com a participação de parlamentares, especialistas e representantes da sociedade civil.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000006866.jpg</image_name>
+<image_broadcast>0000006866</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623193000 -0300" stop="20150623200000 -0300" channel="TVR" program_id="0000439954" event_id="00000000000097440023" series_key="00000000076924000000">
+<title lang="pt">Segunda Edição</title>
+<desc>Dalva Bavaresco e Daniel Vasques vão levar ao ar o jornal com meia-hora vai mostrar e repercutir os principais fatos do dia.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000076924.jpg</image_name>
+<image_broadcast>00000000076924</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623200000 -0300" stop="20150623220000 -0300" channel="TVR" program_id="0000443035" event_id="00000000000097440024" series_key="">
+<title lang="pt">É Show</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000443035.jpg</image_name>
+<image_broadcast>0000443035</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623220000 -0300" stop="20150624000000 -0300" channel="TVR" program_id="0000007787" event_id="00000000000097440025" series_key="00000000076729000000">
+<title lang="pt">Cartão Verde</title>
+<title lang="en">Cartão Verde</title>
+<desc>Apresentado por Vladir Lemos, o Cartão Verde é um dos mais respeitados programas esportivos da televisão brasileira. A atração tem como comentaristas o ex-jogador Roberto Rivellino e os jornalistas Vitor Birner e Celso Unzelte.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000076729.jpg</image_name>
+<image_broadcast>00000000076729</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
 <rating system="Advisory">
 <value>Programa livre para todas as idades</value>
 </rating>

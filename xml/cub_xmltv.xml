@@ -4,1402 +4,6 @@
 <display-name lang="pt">TV Cultura Belém</display-name>
 <icon src="cub.gif" />
 </channel>
-<programme start="20150603003000 -0300" stop="20150603013000 -0300" channel="CUB" program_id="0000091308" event_id="00000000000095885521" series_key="00000000070782000000">
-<title lang="pt">Observatório da Imprensa</title>
-<desc>Apresentado por Alberto Dines, o programa discute o comportamento de jornalistas, jornais, revistas e redes de televisão em relação a um determinado assunto.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000070782.jpg</image_name>
-<image_broadcast>00000000070782</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150603013000 -0300" stop="20150603020000 -0300" channel="CUB" program_id="0000186036" event_id="00000000000095885522" series_key="00000000061872000000">
-<title lang="pt">Nova África</title>
-<desc>A série tem 26 programas temáticos, revelando a diversidade natural e cultural da África, especialmente de alguns povos africanos ligados à origem de nossos ancestrais.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000061872.jpg</image_name>
-<image_broadcast>00000000061872</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603020000 -0300" stop="20150603023000 -0300" channel="CUB" program_id="0000204339" event_id="00000000000095885523" series_key="00000000070768000000">
-<title lang="pt">Estúdio Móvel</title>
-<desc>É o programa da TV Brasil voltado para o público jovem. A produção busca um retrato do jovem urbano e contemporâneo. Para isso, o tradicional estúdio fisicamente limitado foi transformado em algo móvel.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000070768.jpg</image_name>
-<image_broadcast>00000000070768</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603023000 -0300" stop="20150603040000 -0300" channel="CUB" program_id="0000019776" event_id="00000000000095885524" series_key="00000000070790000000">
-<title lang="pt">Sem Censura</title>
-<title lang="en">Sem Censura</title>
-<desc>Apresentado por Leda Nagle, o programa traz as últimas descobertas da medicina, temas ligados à preservação do meio ambiente, à busca pela melhoria da qualidade de vida, informação cultural, prestação de serviços.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">00000000070790.jpg</image_name>
-<image_broadcast>00000000070790</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603040000 -0300" stop="20150603043000 -0300" channel="CUB" program_id="0000277108" event_id="00000000000095885525" series_key="00000000070871000000">
-<title lang="pt">Telecurso Tecendo o Saber</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000070871.jpg</image_name>
-<image_broadcast>00000000070871</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603043000 -0300" stop="20150603044500 -0300" channel="CUB" program_id="0000202233" event_id="00000000000095885526" series_key="00000000063623000000">
-<title lang="pt">Telecurso Ensino Médio</title>
-<desc>O Telecurso, e uma proposta educacional inovadora voltada para milhões de brasileiros que não concluíram, por algum motivo, os Ensinos Fundamental e Médio.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000063623.jpg</image_name>
-<image_broadcast>00000000063623</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603044500 -0300" stop="20150603053000 -0300" channel="CUB" program_id="0000202234" event_id="00000000000095885527" series_key="00000000063624000000">
-<title lang="pt">Telecurso Ensino Fundamental</title>
-<desc>O Telecurso, uma proposta educacional inovadora voltada para milhões de brasileiros que não concluíram, por algum motivo, os Ensinos Fundamental e Médio.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000063624.jpg</image_name>
-<image_broadcast>00000000063624</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603053000 -0300" stop="20150603063000 -0300" channel="CUB" program_id="0000007874" event_id="00000000000095885528" series_key="">
-<title lang="pt">Um Salto Para o Futuro</title>
-<title lang="en">Um Salto Para o Futuro</title>
-<desc>Um programa de Educação à Distância realizado pela TV Escola e produzido pela TVE Brasil, que tem como proposta a formação continuada e o aperfeiçoamento de docentes que trabalham em Educação.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">0000007874.jpg</image_name>
-<image_broadcast>0000007874</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603063000 -0300" stop="20150603073000 -0300" channel="CUB" program_id="0000147917" event_id="00000000000095885529" series_key="00000000066324000000">
-<title lang="pt">Caminhos da Reportagem</title>
-<title lang="en">Caminhos da Reportagem</title>
-<desc>Jornalistas viajam pelo país e pelo mundo atrás de grandes histórias, trazendo ao telespectador uma visão diferente, instigante e complexa de cada um dos assuntos escolhidos.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066324.jpg</image_name>
-<image_broadcast>00000000066324</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603073000 -0300" stop="20150603080000 -0300" channel="CUB" program_id="0000302116" event_id="00000000000095885530" series_key="00000000070736000000">
-<title lang="pt">Bom Para Todos</title>
-<desc>É um canal de comunicação com diversos especialistas que respondem questões sobre saúde, direito, educação, ecologia e muito mais.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000070736.jpg</image_name>
-<image_broadcast>00000000070736</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603080000 -0300" stop="20150603081500 -0300" channel="CUB" program_id="0000113397" event_id="00000000000095885531" series_key="00000000069552000000">
-<title lang="pt">Visual</title>
-<title lang="en">Jornal Visual</title>
-<desc>Primeiro telejornal diário criado para levar informação à comunidade de surdos. Reportagens sobre a inclusão do surdo, assuntos de seu universo; notícias principais do Brasil e do Mundo traduzidos para a Língua Brasileira de Sinais.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069552.jpg</image_name>
-<image_broadcast>00000000069552</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603081500 -0300" stop="20150603084500 -0300" channel="CUB" program_id="0000219876" event_id="00000000000095885532" series_key="00000000070350000000">
-<title lang="pt">Hora da Criança</title>
-<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">00000000070350.jpg</image_name>
-<image_broadcast>00000000070350</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603084500 -0300" stop="20150603090000 -0300" channel="CUB" program_id="0000187656" event_id="00000000000095885533" series_key="00000000068314000000">
-<title lang="pt">Escola pra Cachorro</title>
-<title lang="en">Doggie Day Care</title>
-<desc>Escola Pra Cachorro apresenta a história de cinco simpáticos cachorrinhos - Lucas, Lili, Koda, Suki e Pedro - que juntos vão à escola todas as manhãs. Lá eles brincam, aprendem e fazem muitas amizades.</desc>
-<credits>
-<director>Stefan Leblanc</director>
-<director>Stefan Leblanc</director>
-</credits>
-<date>2009</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">00000000068314.jpg</image_name>
-<image_broadcast>00000000068314</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Canadá/Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603090000 -0300" stop="20150603093000 -0300" channel="CUB" program_id="0000236902" event_id="00000000000095885534" series_key="">
-<title lang="pt">Tromba Trem</title>
-<desc>Tromba Trem conta a história de um elefante sem memória, uma tamanduá vegetariana e uma colônia de cupins que acredita ser de outro planeta.</desc>
-<credits>
-<director>Zé Brandão</director>
-<director>Zé Brandão</director>
-</credits>
-<category lang="pt">Infantil</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">0000236902.jpg</image_name>
-<image_broadcast>0000236902</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603093000 -0300" stop="20150603100000 -0300" channel="CUB" program_id="0000219876" event_id="00000000000095885535" series_key="00000000070350000000">
-<title lang="pt">Hora da Criança</title>
-<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">00000000070350.jpg</image_name>
-<image_broadcast>00000000070350</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603100000 -0300" stop="20150603103000 -0300" channel="CUB" program_id="0000219876" event_id="00000000000095885536" series_key="00000000070350000000">
-<title lang="pt">Hora da Criança</title>
-<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">00000000070350.jpg</image_name>
-<image_broadcast>00000000070350</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603103000 -0300" stop="20150603110000 -0300" channel="CUB" program_id="0000219876" event_id="00000000000095885537" series_key="00000000070350000000">
-<title lang="pt">Hora da Criança</title>
-<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">00000000070350.jpg</image_name>
-<image_broadcast>00000000070350</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603110000 -0300" stop="20150603111500 -0300" channel="CUB" program_id="0000219876" event_id="00000000000095885538" series_key="00000000070350000000">
-<title lang="pt">Hora da Criança</title>
-<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">00000000070350.jpg</image_name>
-<image_broadcast>00000000070350</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603111500 -0300" stop="20150603113000 -0300" channel="CUB" program_id="0000219876" event_id="00000000000095885539" series_key="00000000070350000000">
-<title lang="pt">Hora da Criança</title>
-<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">00000000070350.jpg</image_name>
-<image_broadcast>00000000070350</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603113000 -0300" stop="20150603120000 -0300" channel="CUB" program_id="0000344314" event_id="00000000000095885540" series_key="00000000054468000000">
-<title lang="pt">Karku</title>
-<desc>Narra a história de Emília, uma simpática e bonita menina de 13 anos, que chegou à capital para viver com os seus tios. Em seu novo colégio conhecerá grandes colegas, com quem constituirá uma profunda amizade. Telenovela juvenil de origem chilena.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Juvenil</category>
-<image>
-<image_name position="1">00000000054468.jpg</image_name>
-<image_broadcast>00000000054468</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603120000 -0300" stop="20150603123000 -0300" channel="CUB" program_id="0000019744" event_id="00000000000095885541" series_key="00000000066308000000">
-<title lang="pt">Repórter Brasil</title>
-<desc>Único telejornal brasileiro que exibe reportagens feitas diretamente pelo espectador. Os temas que movimentam o dia a dia são tratados com mais tempo e em mais detalhes, de forma muito clara e objetiva.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066308.jpg</image_name>
-<image_broadcast>00000000066308</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603123000 -0300" stop="20150603124500 -0300" channel="CUB" program_id="0000278148" event_id="00000000000095885542" series_key="00000000070815000000">
-<title lang="pt">Cocoricó na Cidade</title>
-<desc>Nesta fase, que conta com 26 episódios semanais, todos com direito a clipes musicais, a Turminha continua hospedada no apartamento do primo João, que mora com seus pais, Dora e Noel, e seu irmão Rodolfinho.</desc>
-<category lang="pt">Infantil</category>
-<category lang="pt">Programa</category>
-<image>
-<image_name position="1">00000000070815.jpg</image_name>
-<image_broadcast>00000000070815</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603124500 -0300" stop="20150603133000 -0300" channel="CUB" program_id="0000219876" event_id="00000000000095885543" series_key="00000000070350000000">
-<title lang="pt">Hora da Criança</title>
-<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">00000000070350.jpg</image_name>
-<image_broadcast>00000000070350</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603133000 -0300" stop="20150603140000 -0300" channel="CUB" program_id="0000019776" event_id="00000000000095885544" series_key="00000000070790000000">
-<title lang="pt">Sem Censura</title>
-<title lang="en">Sem Censura</title>
-<desc>Apresentado por Leda Nagle, o programa traz as últimas descobertas da medicina, temas ligados à preservação do meio ambiente, à busca pela melhoria da qualidade de vida, informação cultural, prestação de serviços.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">00000000070790.jpg</image_name>
-<image_broadcast>00000000070790</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603140000 -0300" stop="20150603160000 -0300" channel="CUB" program_id="0000349861" event_id="00000000000095885545" series_key="">
-<title lang="pt">Cozinha Amazônica</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Culinária</category>
-<image>
-<image_name position="1">0000349861.jpg</image_name>
-<image_broadcast>0000349861</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603160000 -0300" stop="20150603173000 -0300" channel="CUB" program_id="0000019776" event_id="00000000000095885546" series_key="00000000070790000000">
-<title lang="pt">Sem Censura</title>
-<title lang="en">Sem Censura</title>
-<desc>Apresentado por Leda Nagle, o programa traz as últimas descobertas da medicina, temas ligados à preservação do meio ambiente, à busca pela melhoria da qualidade de vida, informação cultural, prestação de serviços.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">00000000070790.jpg</image_name>
-<image_broadcast>00000000070790</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603173000 -0300" stop="20150603180000 -0300" channel="CUB" program_id="0000301035" event_id="00000000000095885547" series_key="00000000068523000000">
-<title lang="pt">Nova Amazônia  </title>
-<desc>O programa une todas as formas de conhecimento originadas na região amazônica, tanto o que diz a ciência quanto o que dizem os povos da floresta.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000068523.jpg</image_name>
-<image_broadcast>00000000068523</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603180000 -0300" stop="20150603183000 -0300" channel="CUB" program_id="0000204339" event_id="00000000000095885548" series_key="00000000070768000000">
-<title lang="pt">Estúdio Móvel</title>
-<desc>É o programa da TV Brasil voltado para o público jovem. A produção busca um retrato do jovem urbano e contemporâneo. Para isso, o tradicional estúdio fisicamente limitado foi transformado em algo móvel.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000070768.jpg</image_name>
-<image_broadcast>00000000070768</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603183000 -0300" stop="20150603190000 -0300" channel="CUB" program_id="0000091182" event_id="00000000000095885549" series_key="00000000066297000000">
-<title lang="pt">Jornal da Cultura</title>
-<title lang="en">Jornal da Cultura</title>
-<desc>O Jornal da Cultura se diferencia pela análise dos assuntos mais importantes do dia. O telejornal conta com novos quadros e a participação de duplas de debatedores, que se revezam no decorrer da semana.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066297.jpg</image_name>
-<image_broadcast>00000000066297</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603190000 -0300" stop="20150603193000 -0300" channel="CUB" program_id="0000095904" event_id="00000000000095885550" series_key="00000000070791000000">
-<title lang="pt">Sementes</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000070791.jpg</image_name>
-<image_broadcast>00000000070791</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603193000 -0300" stop="20150603200000 -0300" channel="CUB" program_id="0000345143" event_id="00000000000095885551" series_key="00000000061871000000">
-<title lang="pt">Maratona Musicograma</title>
-<desc>Série musical da TV Brasil que resgata a história dessa arte, a partir da digitalização do acervo da emissora. O programa semanal traz em cada episódio dois grandes nomes da MPB.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000061871.jpg</image_name>
-<image_broadcast>00000000061871</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603200000 -0300" stop="20150603210000 -0300" channel="CUB" program_id="0000157141" event_id="00000000000095885552" series_key="">
-<title lang="pt">3 a 1</title>
-<desc>O programa entrevista personalidades para descortinar temas de amplo interesse. O 3 a 1 tem formato variável, ora com 1 convidado e 3 entrevistadores ou 2 convidados e o apresentador, ora temático, com 3 debatedores e o apresentador.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000157141.jpg</image_name>
-<image_broadcast>0000157141</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603210000 -0300" stop="20150603220000 -0300" channel="CUB" program_id="0000019744" event_id="00000000000095885553" series_key="00000000066308000000">
-<title lang="pt">Repórter Brasil</title>
-<desc>Único telejornal brasileiro que exibe reportagens feitas diretamente pelo espectador. Os temas que movimentam o dia a dia são tratados com mais tempo e em mais detalhes, de forma muito clara e objetiva.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066308.jpg</image_name>
-<image_broadcast>00000000066308</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603220000 -0300" stop="20150603223000 -0300" channel="CUB" program_id="0000348970" event_id="00000000000095885554" series_key="00000000067405000000">
-<title lang="pt">Isolados</title>
-<desc></desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000067405.jpg</image_name>
-<image_broadcast>00000000067405</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603223000 -0300" stop="20150603233000 -0300" channel="CUB" program_id="0000330613" event_id="00000000000095885555" series_key="00000000069135000000">
-<title lang="pt">Impressões do Brasil</title>
-<desc>Impressões do Brasil é uma série do gênero entrevista documental onde cada episódio da série retrata um grande escritor brasileiro contemporâneo, ainda em atividade, nos gêneros romance, poesia, conto crônica e memória.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000069135.jpg</image_name>
-<image_broadcast>00000000069135</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603233000 -0300" stop="20150604003000 -0300" channel="CUB" program_id="0000326557" event_id="00000000000095885556" series_key="00000000070299000000">
-<title lang="pt">A TV Que o Brasil Está Pensando</title>
-<desc>Programa faz reflexões sobre vários assuntos que são abordados na Tv brasileira e que fazem parte do cotidiano. Na forma de debate e discussões a cerca dos gêneros de vários programas que ganham destaque e sucesso.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000070299.jpg</image_name>
-<image_broadcast>00000000070299</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604003000 -0300" stop="20150604013000 -0300" channel="CUB" program_id="0000101702" event_id="00000000000095885557" series_key="00000000068315000000">
-<title lang="pt">Ver TV</title>
-<title lang="en">Ver TV</title>
-<desc>Programa semanal que discute as funções, a programação, os avanços tecnológicos e as questões éticas de uma TV de qualidade, comprometida com a cidadania.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">00000000068315.jpg</image_name>
-<image_broadcast>00000000068315</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604013000 -0300" stop="20150604020000 -0300" channel="CUB" program_id="0000300155" event_id="00000000000095885558" series_key="00000000070812000000">
-<title lang="pt">Arte do Artista</title>
-<desc>A produção faz um panorama das artes no Brasil por meio de entrevistas com convidados ilustres e grandes nomes representantes da arte brasileira.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000070812.jpg</image_name>
-<image_broadcast>00000000070812</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604020000 -0300" stop="20150604023000 -0300" channel="CUB" program_id="0000204339" event_id="00000000000095885559" series_key="00000000070768000000">
-<title lang="pt">Estúdio Móvel</title>
-<desc>É o programa da TV Brasil voltado para o público jovem. A produção busca um retrato do jovem urbano e contemporâneo. Para isso, o tradicional estúdio fisicamente limitado foi transformado em algo móvel.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000070768.jpg</image_name>
-<image_broadcast>00000000070768</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604023000 -0300" stop="20150604040000 -0300" channel="CUB" program_id="0000019776" event_id="00000000000095885560" series_key="00000000070790000000">
-<title lang="pt">Sem Censura</title>
-<title lang="en">Sem Censura</title>
-<desc>Apresentado por Leda Nagle, o programa traz as últimas descobertas da medicina, temas ligados à preservação do meio ambiente, à busca pela melhoria da qualidade de vida, informação cultural, prestação de serviços.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">00000000070790.jpg</image_name>
-<image_broadcast>00000000070790</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604040000 -0300" stop="20150604043000 -0300" channel="CUB" program_id="0000277108" event_id="00000000000095885561" series_key="00000000070871000000">
-<title lang="pt">Telecurso Tecendo o Saber</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000070871.jpg</image_name>
-<image_broadcast>00000000070871</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604043000 -0300" stop="20150604044500 -0300" channel="CUB" program_id="0000202233" event_id="00000000000095885562" series_key="00000000063623000000">
-<title lang="pt">Telecurso Ensino Médio</title>
-<desc>O Telecurso, e uma proposta educacional inovadora voltada para milhões de brasileiros que não concluíram, por algum motivo, os Ensinos Fundamental e Médio.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000063623.jpg</image_name>
-<image_broadcast>00000000063623</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604044500 -0300" stop="20150604050000 -0300" channel="CUB" program_id="0000202234" event_id="00000000000095885563" series_key="00000000063624000000">
-<title lang="pt">Telecurso Ensino Fundamental</title>
-<desc>O Telecurso, uma proposta educacional inovadora voltada para milhões de brasileiros que não concluíram, por algum motivo, os Ensinos Fundamental e Médio.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000063624.jpg</image_name>
-<image_broadcast>00000000063624</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604050000 -0300" stop="20150604051500 -0300" channel="CUB" program_id="0000129474" event_id="00000000000095885564" series_key="00000000070761000000">
-<title lang="pt">Telecurso TEC</title>
-<desc>O Telecurso TEC é um programa de formação técnica de nível médio, de qualificação e habilitação profissional, feito para quem deseja investir na sua educação ou na de seus funcionários.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000070761.jpg</image_name>
-<image_broadcast>00000000070761</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604051500 -0300" stop="20150604053000 -0300" channel="CUB" program_id="0000150838" event_id="00000000000095885565" series_key="00000000063622000000">
-<title lang="pt">Telecurso Profissionalizante</title>
-<desc>O Telecurso é reconhecido mundialmente como uma metodologia que promove um salto de qualidade na educação, tendo beneficiado mais de 5,5 milhões de pessoas nas 27.714 telesalas em todo o Brasil.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000063622.jpg</image_name>
-<image_broadcast>00000000063622</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604053000 -0300" stop="20150604060000 -0300" channel="CUB" program_id="0000348287" event_id="00000000000095885566" series_key="00000000070641000000">
-<title lang="pt">América Latina Tal Como Somos</title>
-<desc></desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000070641.jpg</image_name>
-<image_broadcast>00000000070641</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604060000 -0300" stop="20150604063000 -0300" channel="CUB" program_id="0000348290" event_id="00000000000095885567" series_key="">
-<title lang="pt">Mochileiros do Futebol</title>
-<desc></desc>
-<category lang="pt">Documentário</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">0000348290.jpg</image_name>
-<image_broadcast>0000348290</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604063000 -0300" stop="20150604073000 -0300" channel="CUB" program_id="0000147917" event_id="00000000000095885568" series_key="00000000066324000000">
-<title lang="pt">Caminhos da Reportagem</title>
-<title lang="en">Caminhos da Reportagem</title>
-<desc>Jornalistas viajam pelo país e pelo mundo atrás de grandes histórias, trazendo ao telespectador uma visão diferente, instigante e complexa de cada um dos assuntos escolhidos.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066324.jpg</image_name>
-<image_broadcast>00000000066324</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604073000 -0300" stop="20150604080000 -0300" channel="CUB" program_id="0000191332" event_id="00000000000095885569" series_key="00000000070796000000">
-<title lang="pt">Tv é Ciência</title>
-<desc>Os avanços da ciência, as inovações tecnológicas, as descobertas do universo e da astronomia, entre outros assuntos, são apresentados no programa.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Ciência</category>
-<image>
-<image_name position="1">00000000070796.jpg</image_name>
-<image_broadcast>00000000070796</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604080000 -0300" stop="20150604081500 -0300" channel="CUB" program_id="0000113397" event_id="00000000000095885570" series_key="00000000069552000000">
-<title lang="pt">Visual</title>
-<title lang="en">Jornal Visual</title>
-<desc>Primeiro telejornal diário criado para levar informação à comunidade de surdos. Reportagens sobre a inclusão do surdo, assuntos de seu universo; notícias principais do Brasil e do Mundo traduzidos para a Língua Brasileira de Sinais.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069552.jpg</image_name>
-<image_broadcast>00000000069552</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604081500 -0300" stop="20150604084500 -0300" channel="CUB" program_id="0000219876" event_id="00000000000095885571" series_key="00000000070350000000">
-<title lang="pt">Hora da Criança</title>
-<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">00000000070350.jpg</image_name>
-<image_broadcast>00000000070350</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604084500 -0300" stop="20150604090000 -0300" channel="CUB" program_id="0000187656" event_id="00000000000095885572" series_key="00000000068314000000">
-<title lang="pt">Escola pra Cachorro</title>
-<title lang="en">Doggie Day Care</title>
-<desc>Escola Pra Cachorro apresenta a história de cinco simpáticos cachorrinhos - Lucas, Lili, Koda, Suki e Pedro - que juntos vão à escola todas as manhãs. Lá eles brincam, aprendem e fazem muitas amizades.</desc>
-<credits>
-<director>Stefan Leblanc</director>
-<director>Stefan Leblanc</director>
-</credits>
-<date>2009</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">00000000068314.jpg</image_name>
-<image_broadcast>00000000068314</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Canadá/Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604090000 -0300" stop="20150604093000 -0300" channel="CUB" program_id="0000236902" event_id="00000000000095885573" series_key="">
-<title lang="pt">Tromba Trem</title>
-<desc>Tromba Trem conta a história de um elefante sem memória, uma tamanduá vegetariana e uma colônia de cupins que acredita ser de outro planeta.</desc>
-<credits>
-<director>Zé Brandão</director>
-<director>Zé Brandão</director>
-</credits>
-<category lang="pt">Infantil</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">0000236902.jpg</image_name>
-<image_broadcast>0000236902</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604093000 -0300" stop="20150604100000 -0300" channel="CUB" program_id="0000219876" event_id="00000000000095885574" series_key="00000000070350000000">
-<title lang="pt">Hora da Criança</title>
-<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">00000000070350.jpg</image_name>
-<image_broadcast>00000000070350</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604100000 -0300" stop="20150604103000 -0300" channel="CUB" program_id="0000219876" event_id="00000000000095885575" series_key="00000000070350000000">
-<title lang="pt">Hora da Criança</title>
-<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">00000000070350.jpg</image_name>
-<image_broadcast>00000000070350</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604103000 -0300" stop="20150604110000 -0300" channel="CUB" program_id="0000219876" event_id="00000000000095885576" series_key="00000000070350000000">
-<title lang="pt">Hora da Criança</title>
-<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">00000000070350.jpg</image_name>
-<image_broadcast>00000000070350</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604110000 -0300" stop="20150604111500 -0300" channel="CUB" program_id="0000219876" event_id="00000000000095885577" series_key="00000000070350000000">
-<title lang="pt">Hora da Criança</title>
-<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">00000000070350.jpg</image_name>
-<image_broadcast>00000000070350</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604111500 -0300" stop="20150604113000 -0300" channel="CUB" program_id="0000219876" event_id="00000000000095885578" series_key="00000000070350000000">
-<title lang="pt">Hora da Criança</title>
-<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">00000000070350.jpg</image_name>
-<image_broadcast>00000000070350</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604113000 -0300" stop="20150604120000 -0300" channel="CUB" program_id="0000344314" event_id="00000000000095885579" series_key="00000000054468000000">
-<title lang="pt">Karku</title>
-<desc>Narra a história de Emília, uma simpática e bonita menina de 13 anos, que chegou à capital para viver com os seus tios. Em seu novo colégio conhecerá grandes colegas, com quem constituirá uma profunda amizade. Telenovela juvenil de origem chilena.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Juvenil</category>
-<image>
-<image_name position="1">00000000054468.jpg</image_name>
-<image_broadcast>00000000054468</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604120000 -0300" stop="20150604123000 -0300" channel="CUB" program_id="0000019744" event_id="00000000000095885580" series_key="00000000066308000000">
-<title lang="pt">Repórter Brasil</title>
-<desc>Único telejornal brasileiro que exibe reportagens feitas diretamente pelo espectador. Os temas que movimentam o dia a dia são tratados com mais tempo e em mais detalhes, de forma muito clara e objetiva.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066308.jpg</image_name>
-<image_broadcast>00000000066308</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604123000 -0300" stop="20150604124500 -0300" channel="CUB" program_id="0000278148" event_id="00000000000095885581" series_key="00000000070815000000">
-<title lang="pt">Cocoricó na Cidade</title>
-<desc>Nesta fase, que conta com 26 episódios semanais, todos com direito a clipes musicais, a Turminha continua hospedada no apartamento do primo João, que mora com seus pais, Dora e Noel, e seu irmão Rodolfinho.</desc>
-<category lang="pt">Infantil</category>
-<category lang="pt">Programa</category>
-<image>
-<image_name position="1">00000000070815.jpg</image_name>
-<image_broadcast>00000000070815</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604124500 -0300" stop="20150604131500 -0300" channel="CUB" program_id="0000219876" event_id="00000000000095885582" series_key="00000000070350000000">
-<title lang="pt">Hora da Criança</title>
-<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">00000000070350.jpg</image_name>
-<image_broadcast>00000000070350</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604131500 -0300" stop="20150604133000 -0300" channel="CUB" program_id="0000045836" event_id="00000000000095885583" series_key="00000000068317000000">
-<title lang="pt">Catalendas</title>
-<title lang="en">Catalendas</title>
-<desc>Catalendas utiliza o criativo universo de teatro de bonecos para explorar lendas e tradições brasileiras, contadas pelo macaco Preguinho e por Dona Preguiça.</desc>
-<category lang="pt">Infantil</category>
-<category lang="pt">Programa</category>
-<image>
-<image_name position="1">00000000068317.jpg</image_name>
-<image_broadcast>00000000068317</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604133000 -0300" stop="20150604134500 -0300" channel="CUB" program_id="0000349866" event_id="00000000000095885584" series_key="">
-<title lang="pt">Serenata Dun Dun</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000349866.jpg</image_name>
-<image_broadcast>0000349866</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604134500 -0300" stop="20150604140000 -0300" channel="CUB" program_id="0000142389" event_id="00000000000095885585" series_key="00000000066811000000">
-<title lang="pt">Itaú Cultural</title>
-<desc></desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">00000000066811.jpg</image_name>
-<image_broadcast>00000000066811</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604140000 -0300" stop="20150604143000 -0300" channel="CUB" program_id="0000095904" event_id="00000000000095885586" series_key="00000000070791000000">
-<title lang="pt">Sementes</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000070791.jpg</image_name>
-<image_broadcast>00000000070791</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604143000 -0300" stop="20150604160000 -0300" channel="CUB" program_id="0000019776" event_id="00000000000095885587" series_key="00000000070790000000">
-<title lang="pt">Sem Censura</title>
-<title lang="en">Sem Censura</title>
-<desc>Apresentado por Leda Nagle, o programa traz as últimas descobertas da medicina, temas ligados à preservação do meio ambiente, à busca pela melhoria da qualidade de vida, informação cultural, prestação de serviços.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">00000000070790.jpg</image_name>
-<image_broadcast>00000000070790</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604160000 -0300" stop="20150604173000 -0300" channel="CUB" program_id="0000019776" event_id="00000000000095885588" series_key="00000000070790000000">
-<title lang="pt">Sem Censura</title>
-<title lang="en">Sem Censura</title>
-<desc>Apresentado por Leda Nagle, o programa traz as últimas descobertas da medicina, temas ligados à preservação do meio ambiente, à busca pela melhoria da qualidade de vida, informação cultural, prestação de serviços.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">00000000070790.jpg</image_name>
-<image_broadcast>00000000070790</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604173000 -0300" stop="20150604180000 -0300" channel="CUB" program_id="0000239347" event_id="00000000000095885589" series_key="00000000064705000000">
-<title lang="pt">+ Ação</title>
-<desc>Programa semanal de esportes de ação e de aventura, que viaja por todo o Brasil em busca de roteiros ecoturísticos e imagens de tirar o fôlego. Produção da Rede Minas.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Viagem</category>
-<image>
-<image_name position="1">00000000064705.jpg</image_name>
-<image_broadcast>00000000064705</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604180000 -0300" stop="20150604183000 -0300" channel="CUB" program_id="0000204339" event_id="00000000000095885590" series_key="00000000070768000000">
-<title lang="pt">Estúdio Móvel</title>
-<desc>É o programa da TV Brasil voltado para o público jovem. A produção busca um retrato do jovem urbano e contemporâneo. Para isso, o tradicional estúdio fisicamente limitado foi transformado em algo móvel.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000070768.jpg</image_name>
-<image_broadcast>00000000070768</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604183000 -0300" stop="20150604190000 -0300" channel="CUB" program_id="0000091182" event_id="00000000000095885591" series_key="00000000066297000000">
-<title lang="pt">Jornal da Cultura</title>
-<title lang="en">Jornal da Cultura</title>
-<desc>O Jornal da Cultura se diferencia pela análise dos assuntos mais importantes do dia. O telejornal conta com novos quadros e a participação de duplas de debatedores, que se revezam no decorrer da semana.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066297.jpg</image_name>
-<image_broadcast>00000000066297</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604190000 -0300" stop="20150604193000 -0300" channel="CUB" program_id="0000142492" event_id="00000000000095885592" series_key="">
-<title lang="pt">Invasão</title>
-<desc>Vanessa De Leon comanda o Invasão. Uma revista eletrônica que leva ao telespectador produtos e serviços de qualidade.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000142492.jpg</image_name>
-<image_broadcast>0000142492</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604193000 -0300" stop="20150604194500 -0300" channel="CUB" program_id="0000349866" event_id="00000000000095885593" series_key="">
-<title lang="pt">Serenata Dun Dun</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000349866.jpg</image_name>
-<image_broadcast>0000349866</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604194500 -0300" stop="20150604200000 -0300" channel="CUB" program_id="0000349865" event_id="00000000000095885594" series_key="">
-<title lang="pt">Protótipo</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000349865.jpg</image_name>
-<image_broadcast>0000349865</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604200000 -0300" stop="20150604203000 -0300" channel="CUB" program_id="0000349864" event_id="00000000000095885595" series_key="">
-<title lang="pt">Na Pauta</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000349864.jpg</image_name>
-<image_broadcast>0000349864</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604203000 -0300" stop="20150604204000 -0300" channel="CUB" program_id="0000255383" event_id="00000000000095885596" series_key="">
-<title lang="pt">Propaganda Partidária</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">0000255383.jpg</image_name>
-<image_broadcast>0000255383</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604204000 -0300" stop="20150604210000 -0300" channel="CUB" program_id="0000252419" event_id="00000000000095885597" series_key="00000000070840000000">
-<title lang="pt">O Público Na Tv</title>
-<desc>Produzido pela Ouvidoria da Empresa Brasil de Comunicação (EBC), trata sobre os principais questionamentos enviados pelos telespectadores.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000070840.jpg</image_name>
-<image_broadcast>00000000070840</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604210000 -0300" stop="20150604220000 -0300" channel="CUB" program_id="0000019744" event_id="00000000000095885598" series_key="00000000066308000000">
-<title lang="pt">Repórter Brasil</title>
-<desc>Único telejornal brasileiro que exibe reportagens feitas diretamente pelo espectador. Os temas que movimentam o dia a dia são tratados com mais tempo e em mais detalhes, de forma muito clara e objetiva.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066308.jpg</image_name>
-<image_broadcast>00000000066308</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604220000 -0300" stop="20150604230000 -0300" channel="CUB" program_id="0000147917" event_id="00000000000095885599" series_key="00000000066324000000">
-<title lang="pt">Caminhos da Reportagem</title>
-<title lang="en">Caminhos da Reportagem</title>
-<desc>Jornalistas viajam pelo país e pelo mundo atrás de grandes histórias, trazendo ao telespectador uma visão diferente, instigante e complexa de cada um dos assuntos escolhidos.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066324.jpg</image_name>
-<image_broadcast>00000000066324</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604230000 -0300" stop="20150604233000 -0300" channel="CUB" program_id="0000348962" event_id="00000000000095885600" series_key="00000000070640000000">
-<title lang="pt">A TV que se faz no Mundo</title>
-<desc>O programa reúne produções audiovisuais de outros países e apresenta os destaques da programação de diversas emissoras estrangeiras.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000070640.jpg</image_name>
-<image_broadcast>00000000070640</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604233000 -0300" stop="20150605010000 -0300" channel="CUB" program_id="0000326557" event_id="00000000000095885601" series_key="00000000070299000000">
-<title lang="pt">A TV Que o Brasil Está Pensando</title>
-<desc>Programa faz reflexões sobre vários assuntos que são abordados na Tv brasileira e que fazem parte do cotidiano. Na forma de debate e discussões a cerca dos gêneros de vários programas que ganham destaque e sucesso.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000070299.jpg</image_name>
-<image_broadcast>00000000070299</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
 <programme start="20150605010000 -0300" stop="20150605013000 -0300" channel="CUB" program_id="0000212729" event_id="00000000000096015920" series_key="00000000030522000000">
 <title lang="pt">DOC TV - Latino Americano</title>
 <desc>Documentários inéditos, cada um rodado em um país da América do Sul e Central, e dirigido por um cineasta do lugar correspondente, são exibidos semanalmente no DOCTV Latinoamérica.</desc>
@@ -12383,5 +10987,1329 @@
 <star-rating>
 <value>4/5</value>
 </star-rating>
+</programme>
+<programme start="20150622003000 -0300" stop="20150622010000 -0300" channel="CUB" program_id="0000251104" event_id="00000000000096947702" series_key="00000000065375000000">
+<title lang="pt">Curta TV</title>
+<desc>Apresentado por Renata Boldrini, cada episódio terá a apresentação de um curta-metragem. O público vai conhecer a produção nacional desses filmes.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Cinema</category>
+<image>
+<image_name position="1">00000000065375.jpg</image_name>
+<image_broadcast>00000000065375</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150622010000 -0300" stop="20150622020000 -0300" channel="CUB" program_id="0000082514" event_id="00000000000096947703" series_key="00000000070867000000">
+<title lang="pt">No Mundo da Bola</title>
+<desc>O programa é apresentado por Sergio du Bocage e conta com a participação fixa dos comentaristas Márcio Guedes, Alberto Léo e do experiente jornalista Orlando Duarte.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000070867.jpg</image_name>
+<image_broadcast>00000000070867</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622020000 -0300" stop="20150622030000 -0300" channel="CUB" program_id="0000212729" event_id="00000000000096947704" series_key="00000000030522000000">
+<title lang="pt">DOC TV - Latino Americano</title>
+<desc>Documentários inéditos, cada um rodado em um país da América do Sul e Central, e dirigido por um cineasta do lugar correspondente, são exibidos semanalmente no DOCTV Latinoamérica.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000030522.jpg</image_name>
+<image_broadcast>00000000030522</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622030000 -0300" stop="20150622040000 -0300" channel="CUB" program_id="0000347174" event_id="00000000000096947705" series_key="00000000030522000000">
+<title lang="pt">DOC TV</title>
+<sub-title lang="pt">Novos Olhares</sub-title>
+<desc></desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000030522.jpg</image_name>
+<image_broadcast>00000000030522</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622040000 -0300" stop="20150622043000 -0300" channel="CUB" program_id="0000277108" event_id="00000000000096947706" series_key="00000000070871000000">
+<title lang="pt">Telecurso Tecendo o Saber</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000070871.jpg</image_name>
+<image_broadcast>00000000070871</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622043000 -0300" stop="20150622044500 -0300" channel="CUB" program_id="0000202233" event_id="00000000000096947707" series_key="00000000063623000000">
+<title lang="pt">Telecurso Ensino Médio</title>
+<desc>O Telecurso, e uma proposta educacional inovadora voltada para milhões de brasileiros que não concluíram, por algum motivo, os Ensinos Fundamental e Médio.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000063623.jpg</image_name>
+<image_broadcast>00000000063623</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622044500 -0300" stop="20150622050000 -0300" channel="CUB" program_id="0000202234" event_id="00000000000096947708" series_key="00000000063624000000">
+<title lang="pt">Telecurso Ensino Fundamental</title>
+<desc>O Telecurso, uma proposta educacional inovadora voltada para milhões de brasileiros que não concluíram, por algum motivo, os Ensinos Fundamental e Médio.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000063624.jpg</image_name>
+<image_broadcast>00000000063624</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622050000 -0300" stop="20150622053000 -0300" channel="CUB" program_id="0000129474" event_id="00000000000096947709" series_key="00000000070761000000">
+<title lang="pt">Telecurso TEC</title>
+<desc>O Telecurso TEC é um programa de formação técnica de nível médio, de qualificação e habilitação profissional, feito para quem deseja investir na sua educação ou na de seus funcionários.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000070761.jpg</image_name>
+<image_broadcast>00000000070761</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622053000 -0300" stop="20150622060000 -0300" channel="CUB" program_id="0000348287" event_id="00000000000096947710" series_key="00000000070641000000">
+<title lang="pt">América Latina Tal Como Somos</title>
+<desc></desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000070641.jpg</image_name>
+<image_broadcast>00000000070641</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622060000 -0300" stop="20150622063000 -0300" channel="CUB" program_id="0000348290" event_id="00000000000096947711" series_key="">
+<title lang="pt">Mochileiros do Futebol</title>
+<desc></desc>
+<category lang="pt">Documentário</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">0000348290.jpg</image_name>
+<image_broadcast>0000348290</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622063000 -0300" stop="20150622073000 -0300" channel="CUB" program_id="0000147917" event_id="00000000000096947712" series_key="00000000066324000000">
+<title lang="pt">Caminhos da Reportagem</title>
+<title lang="en">Caminhos da Reportagem</title>
+<desc>Jornalistas viajam pelo país e pelo mundo atrás de grandes histórias, trazendo ao telespectador uma visão diferente, instigante e complexa de cada um dos assuntos escolhidos.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066324.jpg</image_name>
+<image_broadcast>00000000066324</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622073000 -0300" stop="20150622080000 -0300" channel="CUB" program_id="0000300274" event_id="00000000000096947713" series_key="00000000070781000000">
+<title lang="pt">Taxista Empreendedor</title>
+<desc>A série traz histórias, dados e dicas para ajudar motoristas do país todo a inovar no atendimento, buscar novas oportunidades e fazer do táxi um bom negócio.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000070781.jpg</image_name>
+<image_broadcast>00000000070781</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622080000 -0300" stop="20150622081500 -0300" channel="CUB" program_id="0000113397" event_id="00000000000096947714" series_key="00000000069552000000">
+<title lang="pt">Visual</title>
+<title lang="en">Jornal Visual</title>
+<desc>Primeiro telejornal diário criado para levar informação à comunidade de surdos. Reportagens sobre a inclusão do surdo, assuntos de seu universo; notícias principais do Brasil e do Mundo traduzidos para a Língua Brasileira de Sinais.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069552.jpg</image_name>
+<image_broadcast>00000000069552</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622081500 -0300" stop="20150622084500 -0300" channel="CUB" program_id="0000219876" event_id="00000000000096947715" series_key="00000000070350000000">
+<title lang="pt">Hora da Criança</title>
+<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Infantil</category>
+<image>
+<image_name position="1">00000000070350.jpg</image_name>
+<image_broadcast>00000000070350</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622084500 -0300" stop="20150622090000 -0300" channel="CUB" program_id="0000187656" event_id="00000000000096947716" series_key="00000000068314000000">
+<title lang="pt">Escola pra Cachorro</title>
+<title lang="en">Doggie Day Care</title>
+<desc>Escola Pra Cachorro apresenta a história de cinco simpáticos cachorrinhos - Lucas, Lili, Koda, Suki e Pedro - que juntos vão à escola todas as manhãs. Lá eles brincam, aprendem e fazem muitas amizades.</desc>
+<credits>
+<director>Stefan Leblanc</director>
+<director>Stefan Leblanc</director>
+</credits>
+<date>2009</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">00000000068314.jpg</image_name>
+<image_broadcast>00000000068314</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Canadá/Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622090000 -0300" stop="20150622093000 -0300" channel="CUB" program_id="0000236902" event_id="00000000000096947717" series_key="">
+<title lang="pt">Tromba Trem</title>
+<desc>Tromba Trem conta a história de um elefante sem memória, uma tamanduá vegetariana e uma colônia de cupins que acredita ser de outro planeta.</desc>
+<credits>
+<director>Zé Brandão</director>
+<director>Zé Brandão</director>
+</credits>
+<category lang="pt">Infantil</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">0000236902.jpg</image_name>
+<image_broadcast>0000236902</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622093000 -0300" stop="20150622100000 -0300" channel="CUB" program_id="0000219876" event_id="00000000000096947718" series_key="00000000070350000000">
+<title lang="pt">Hora da Criança</title>
+<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Infantil</category>
+<image>
+<image_name position="1">00000000070350.jpg</image_name>
+<image_broadcast>00000000070350</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622100000 -0300" stop="20150622103000 -0300" channel="CUB" program_id="0000219876" event_id="00000000000096947719" series_key="00000000070350000000">
+<title lang="pt">Hora da Criança</title>
+<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Infantil</category>
+<image>
+<image_name position="1">00000000070350.jpg</image_name>
+<image_broadcast>00000000070350</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622103000 -0300" stop="20150622110000 -0300" channel="CUB" program_id="0000219876" event_id="00000000000096947720" series_key="00000000070350000000">
+<title lang="pt">Hora da Criança</title>
+<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Infantil</category>
+<image>
+<image_name position="1">00000000070350.jpg</image_name>
+<image_broadcast>00000000070350</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622110000 -0300" stop="20150622111500 -0300" channel="CUB" program_id="0000219876" event_id="00000000000096947721" series_key="00000000070350000000">
+<title lang="pt">Hora da Criança</title>
+<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Infantil</category>
+<image>
+<image_name position="1">00000000070350.jpg</image_name>
+<image_broadcast>00000000070350</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622111500 -0300" stop="20150622113000 -0300" channel="CUB" program_id="0000219876" event_id="00000000000096947722" series_key="00000000070350000000">
+<title lang="pt">Hora da Criança</title>
+<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Infantil</category>
+<image>
+<image_name position="1">00000000070350.jpg</image_name>
+<image_broadcast>00000000070350</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622113000 -0300" stop="20150622120000 -0300" channel="CUB" program_id="0000344314" event_id="00000000000096947723" series_key="00000000054468000000">
+<title lang="pt">Karku</title>
+<desc>Narra a história de Emília, uma simpática e bonita menina de 13 anos, que chegou à capital para viver com os seus tios. Em seu novo colégio conhecerá grandes colegas, com quem constituirá uma profunda amizade. Telenovela juvenil de origem chilena.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Juvenil</category>
+<image>
+<image_name position="1">00000000054468.jpg</image_name>
+<image_broadcast>00000000054468</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622120000 -0300" stop="20150622123000 -0300" channel="CUB" program_id="0000019744" event_id="00000000000096947724" series_key="00000000066308000000">
+<title lang="pt">Repórter Brasil</title>
+<desc>Único telejornal brasileiro que exibe reportagens feitas diretamente pelo espectador. Os temas que movimentam o dia a dia são tratados com mais tempo e em mais detalhes, de forma muito clara e objetiva.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066308.jpg</image_name>
+<image_broadcast>00000000066308</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622123000 -0300" stop="20150622124500 -0300" channel="CUB" program_id="0000278148" event_id="00000000000096947725" series_key="00000000070815000000">
+<title lang="pt">Cocoricó na Cidade</title>
+<desc>Nesta fase, que conta com 26 episódios semanais, todos com direito a clipes musicais, a Turminha continua hospedada no apartamento do primo João, que mora com seus pais, Dora e Noel, e seu irmão Rodolfinho.</desc>
+<category lang="pt">Infantil</category>
+<category lang="pt">Programa</category>
+<image>
+<image_name position="1">00000000070815.jpg</image_name>
+<image_broadcast>00000000070815</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622124500 -0300" stop="20150622133000 -0300" channel="CUB" program_id="0000219876" event_id="00000000000096947726" series_key="00000000070350000000">
+<title lang="pt">Hora da Criança</title>
+<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Infantil</category>
+<image>
+<image_name position="1">00000000070350.jpg</image_name>
+<image_broadcast>00000000070350</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622133000 -0300" stop="20150622140000 -0300" channel="CUB" program_id="0000110716" event_id="00000000000096947727" series_key="00000000070810000000">
+<title lang="pt">Anabel</title>
+<title lang="en">Anabel</title>
+<desc>A série brasileira Anabel, exclusiva na TV Rá Tim Bum, traz a esperta garotinha de sete anos que adora desvendar mistérios. A cada episódio, a pequena passa por fantásticas aventuras, desvenda crimes, viaja pelo futuro e mais...</desc>
+<category lang="pt">Infantil</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">00000000070810.jpg</image_name>
+<image_broadcast>00000000070810</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622140000 -0300" stop="20150622143000 -0300" channel="CUB" program_id="0000349864" event_id="00000000000096947728" series_key="">
+<title lang="pt">Na Pauta</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000349864.jpg</image_name>
+<image_broadcast>0000349864</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622143000 -0300" stop="20150622160000 -0300" channel="CUB" program_id="0000019776" event_id="00000000000096947729" series_key="00000000070790000000">
+<title lang="pt">Sem Censura</title>
+<title lang="en">Sem Censura</title>
+<desc>Apresentado por Leda Nagle, o programa traz as últimas descobertas da medicina, temas ligados à preservação do meio ambiente, à busca pela melhoria da qualidade de vida, informação cultural, prestação de serviços.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">00000000070790.jpg</image_name>
+<image_broadcast>00000000070790</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622160000 -0300" stop="20150622173000 -0300" channel="CUB" program_id="0000019776" event_id="00000000000096947730" series_key="00000000070790000000">
+<title lang="pt">Sem Censura</title>
+<title lang="en">Sem Censura</title>
+<desc>Apresentado por Leda Nagle, o programa traz as últimas descobertas da medicina, temas ligados à preservação do meio ambiente, à busca pela melhoria da qualidade de vida, informação cultural, prestação de serviços.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">00000000070790.jpg</image_name>
+<image_broadcast>00000000070790</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622173000 -0300" stop="20150622180000 -0300" channel="CUB" program_id="0000186030" event_id="00000000000096947731" series_key="00000000068316000000">
+<title lang="pt">Rede Jovem Cidadania</title>
+<desc>Produzido por jovens da Região Metropolitana de Belo Horizonte, que estão à frente de ações de mobilização, comunicação, cultura e cidadania nas mais diversas comunidades.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000068316.jpg</image_name>
+<image_broadcast>00000000068316</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622180000 -0300" stop="20150622183000 -0300" channel="CUB" program_id="0000204339" event_id="00000000000096947732" series_key="00000000070768000000">
+<title lang="pt">Estúdio Móvel</title>
+<desc>É o programa da TV Brasil voltado para o público jovem. A produção busca um retrato do jovem urbano e contemporâneo. Para isso, o tradicional estúdio fisicamente limitado foi transformado em algo móvel.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000070768.jpg</image_name>
+<image_broadcast>00000000070768</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622183000 -0300" stop="20150622190000 -0300" channel="CUB" program_id="0000091182" event_id="00000000000096947733" series_key="00000000066297000000">
+<title lang="pt">Jornal da Cultura</title>
+<title lang="en">Jornal da Cultura</title>
+<desc>O Jornal da Cultura se diferencia pela análise dos assuntos mais importantes do dia. O telejornal conta com novos quadros e a participação de duplas de debatedores, que se revezam no decorrer da semana.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066297.jpg</image_name>
+<image_broadcast>00000000066297</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622190000 -0300" stop="20150622193000 -0300" channel="CUB" program_id="0000349860" event_id="00000000000096947734" series_key="">
+<title lang="pt">Coxia</title>
+<sub-title lang="pt">Valda Marques</sub-title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000349860.jpg</image_name>
+<image_broadcast>0000349860</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622193000 -0300" stop="20150622200000 -0300" channel="CUB" program_id="0000345143" event_id="00000000000096947735" series_key="00000000061871000000">
+<title lang="pt">Maratona Musicograma</title>
+<desc>Série musical da TV Brasil que resgata a história dessa arte, a partir da digitalização do acervo da emissora. O programa semanal traz em cada episódio dois grandes nomes da MPB.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">00000000061871.jpg</image_name>
+<image_broadcast>00000000061871</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622200000 -0300" stop="20150622210000 -0300" channel="CUB" program_id="0000349863" event_id="00000000000096947736" series_key="">
+<title lang="pt">Esporte Cultura</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000349863.jpg</image_name>
+<image_broadcast>0000349863</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622210000 -0300" stop="20150622220000 -0300" channel="CUB" program_id="0000019744" event_id="00000000000096947737" series_key="00000000066308000000">
+<title lang="pt">Repórter Brasil</title>
+<desc>Único telejornal brasileiro que exibe reportagens feitas diretamente pelo espectador. Os temas que movimentam o dia a dia são tratados com mais tempo e em mais detalhes, de forma muito clara e objetiva.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066308.jpg</image_name>
+<image_broadcast>00000000066308</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622220000 -0300" stop="20150622233000 -0300" channel="CUB" program_id="0000011293" event_id="00000000000096947738" series_key="00000000070563000000">
+<title lang="pt">Roda Viva</title>
+<desc>Augusto Nunes mediará a atração e terá a companhia de seis entrevistadores, que mudarão a cada semana, de acordo com a área de atuação do entrevistado.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">00000000070563.jpg</image_name>
+<image_broadcast>00000000070563</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622233000 -0300" stop="20150623010000 -0300" channel="CUB" program_id="0000326557" event_id="00000000000096947739" series_key="00000000070299000000">
+<title lang="pt">A TV Que o Brasil Está Pensando</title>
+<desc>Programa faz reflexões sobre vários assuntos que são abordados na Tv brasileira e que fazem parte do cotidiano. Na forma de debate e discussões a cerca dos gêneros de vários programas que ganham destaque e sucesso.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000070299.jpg</image_name>
+<image_broadcast>00000000070299</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623010000 -0300" stop="20150623013000 -0300" channel="CUB" program_id="0000300740" event_id="00000000000097103035" series_key="00000000070814000000">
+<title lang="pt">Brasilianas</title>
+<desc>As políticas públicas que afetam a vida dos brasileiros são a matéria-prima dos debates comandados por Luís Nassif sobre temas importantes que estimulam a cidadania e ajudam na formação do espírito crítico dos cidadãos.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000070814.jpg</image_name>
+<image_broadcast>00000000070814</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623013000 -0300" stop="20150623020000 -0300" channel="CUB" program_id="0000300274" event_id="00000000000097103036" series_key="00000000070781000000">
+<title lang="pt">Taxista Empreendedor</title>
+<desc>A série traz histórias, dados e dicas para ajudar motoristas do país todo a inovar no atendimento, buscar novas oportunidades e fazer do táxi um bom negócio.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000070781.jpg</image_name>
+<image_broadcast>00000000070781</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623020000 -0300" stop="20150623023000 -0300" channel="CUB" program_id="0000204339" event_id="00000000000097103037" series_key="00000000070768000000">
+<title lang="pt">Estúdio Móvel</title>
+<desc>É o programa da TV Brasil voltado para o público jovem. A produção busca um retrato do jovem urbano e contemporâneo. Para isso, o tradicional estúdio fisicamente limitado foi transformado em algo móvel.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000070768.jpg</image_name>
+<image_broadcast>00000000070768</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623023000 -0300" stop="20150623040000 -0300" channel="CUB" program_id="0000019776" event_id="00000000000097103038" series_key="00000000070790000000">
+<title lang="pt">Sem Censura</title>
+<title lang="en">Sem Censura</title>
+<desc>Apresentado por Leda Nagle, o programa traz as últimas descobertas da medicina, temas ligados à preservação do meio ambiente, à busca pela melhoria da qualidade de vida, informação cultural, prestação de serviços.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">00000000070790.jpg</image_name>
+<image_broadcast>00000000070790</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623040000 -0300" stop="20150623043000 -0300" channel="CUB" program_id="0000277108" event_id="00000000000097103039" series_key="00000000070871000000">
+<title lang="pt">Telecurso Tecendo o Saber</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000070871.jpg</image_name>
+<image_broadcast>00000000070871</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623043000 -0300" stop="20150623053000 -0300" channel="CUB" program_id="0000202233" event_id="00000000000097103040" series_key="00000000063623000000">
+<title lang="pt">Telecurso Ensino Médio</title>
+<desc>O Telecurso, e uma proposta educacional inovadora voltada para milhões de brasileiros que não concluíram, por algum motivo, os Ensinos Fundamental e Médio.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000063623.jpg</image_name>
+<image_broadcast>00000000063623</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623053000 -0300" stop="20150623060000 -0300" channel="CUB" program_id="0000348287" event_id="00000000000097103041" series_key="00000000070641000000">
+<title lang="pt">América Latina Tal Como Somos</title>
+<desc></desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000070641.jpg</image_name>
+<image_broadcast>00000000070641</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623060000 -0300" stop="20150623063000 -0300" channel="CUB" program_id="0000348290" event_id="00000000000097103042" series_key="">
+<title lang="pt">Mochileiros do Futebol</title>
+<desc></desc>
+<category lang="pt">Documentário</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">0000348290.jpg</image_name>
+<image_broadcast>0000348290</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623063000 -0300" stop="20150623073000 -0300" channel="CUB" program_id="0000147917" event_id="00000000000097103043" series_key="00000000066324000000">
+<title lang="pt">Caminhos da Reportagem</title>
+<title lang="en">Caminhos da Reportagem</title>
+<desc>Jornalistas viajam pelo país e pelo mundo atrás de grandes histórias, trazendo ao telespectador uma visão diferente, instigante e complexa de cada um dos assuntos escolhidos.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066324.jpg</image_name>
+<image_broadcast>00000000066324</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623073000 -0300" stop="20150623080000 -0300" channel="CUB" program_id="0000286353" event_id="00000000000097103044" series_key="00000000070783000000">
+<title lang="pt">Opção Saúde</title>
+<desc>Fala sobre qualidade de vida, bem-estar e saúde, com dicas para uma alimentação mais saudável, sugestões de exercícios físicos e prevenção de doenças, além da opinião e análise de profissionais da saúde.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Saúde</category>
+<image>
+<image_name position="1">00000000070783.jpg</image_name>
+<image_broadcast>00000000070783</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623080000 -0300" stop="20150623081500 -0300" channel="CUB" program_id="0000113397" event_id="00000000000097103045" series_key="00000000069552000000">
+<title lang="pt">Visual</title>
+<title lang="en">Jornal Visual</title>
+<desc>Primeiro telejornal diário criado para levar informação à comunidade de surdos. Reportagens sobre a inclusão do surdo, assuntos de seu universo; notícias principais do Brasil e do Mundo traduzidos para a Língua Brasileira de Sinais.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069552.jpg</image_name>
+<image_broadcast>00000000069552</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623081500 -0300" stop="20150623084500 -0300" channel="CUB" program_id="0000219876" event_id="00000000000097103046" series_key="00000000070350000000">
+<title lang="pt">Hora da Criança</title>
+<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Infantil</category>
+<image>
+<image_name position="1">00000000070350.jpg</image_name>
+<image_broadcast>00000000070350</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623084500 -0300" stop="20150623090000 -0300" channel="CUB" program_id="0000187656" event_id="00000000000097103047" series_key="00000000068314000000">
+<title lang="pt">Escola pra Cachorro</title>
+<title lang="en">Doggie Day Care</title>
+<desc>Escola Pra Cachorro apresenta a história de cinco simpáticos cachorrinhos - Lucas, Lili, Koda, Suki e Pedro - que juntos vão à escola todas as manhãs. Lá eles brincam, aprendem e fazem muitas amizades.</desc>
+<credits>
+<director>Stefan Leblanc</director>
+<director>Stefan Leblanc</director>
+</credits>
+<date>2009</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">00000000068314.jpg</image_name>
+<image_broadcast>00000000068314</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Canadá/Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623090000 -0300" stop="20150623093000 -0300" channel="CUB" program_id="0000236902" event_id="00000000000097103048" series_key="">
+<title lang="pt">Tromba Trem</title>
+<desc>Tromba Trem conta a história de um elefante sem memória, uma tamanduá vegetariana e uma colônia de cupins que acredita ser de outro planeta.</desc>
+<credits>
+<director>Zé Brandão</director>
+<director>Zé Brandão</director>
+</credits>
+<category lang="pt">Infantil</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">0000236902.jpg</image_name>
+<image_broadcast>0000236902</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623093000 -0300" stop="20150623100000 -0300" channel="CUB" program_id="0000219876" event_id="00000000000097103049" series_key="00000000070350000000">
+<title lang="pt">Hora da Criança</title>
+<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Infantil</category>
+<image>
+<image_name position="1">00000000070350.jpg</image_name>
+<image_broadcast>00000000070350</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623100000 -0300" stop="20150623103000 -0300" channel="CUB" program_id="0000219876" event_id="00000000000097103050" series_key="00000000070350000000">
+<title lang="pt">Hora da Criança</title>
+<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Infantil</category>
+<image>
+<image_name position="1">00000000070350.jpg</image_name>
+<image_broadcast>00000000070350</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623103000 -0300" stop="20150623110000 -0300" channel="CUB" program_id="0000219876" event_id="00000000000097103051" series_key="00000000070350000000">
+<title lang="pt">Hora da Criança</title>
+<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Infantil</category>
+<image>
+<image_name position="1">00000000070350.jpg</image_name>
+<image_broadcast>00000000070350</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623110000 -0300" stop="20150623111500 -0300" channel="CUB" program_id="0000219876" event_id="00000000000097103052" series_key="00000000070350000000">
+<title lang="pt">Hora da Criança</title>
+<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Infantil</category>
+<image>
+<image_name position="1">00000000070350.jpg</image_name>
+<image_broadcast>00000000070350</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623111500 -0300" stop="20150623113000 -0300" channel="CUB" program_id="0000219876" event_id="00000000000097103053" series_key="00000000070350000000">
+<title lang="pt">Hora da Criança</title>
+<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Infantil</category>
+<image>
+<image_name position="1">00000000070350.jpg</image_name>
+<image_broadcast>00000000070350</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623113000 -0300" stop="20150623120000 -0300" channel="CUB" program_id="0000344314" event_id="00000000000097103054" series_key="00000000054468000000">
+<title lang="pt">Karku</title>
+<desc>Narra a história de Emília, uma simpática e bonita menina de 13 anos, que chegou à capital para viver com os seus tios. Em seu novo colégio conhecerá grandes colegas, com quem constituirá uma profunda amizade. Telenovela juvenil de origem chilena.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Juvenil</category>
+<image>
+<image_name position="1">00000000054468.jpg</image_name>
+<image_broadcast>00000000054468</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623120000 -0300" stop="20150623123000 -0300" channel="CUB" program_id="0000019744" event_id="00000000000097103055" series_key="00000000066308000000">
+<title lang="pt">Repórter Brasil</title>
+<desc>Único telejornal brasileiro que exibe reportagens feitas diretamente pelo espectador. Os temas que movimentam o dia a dia são tratados com mais tempo e em mais detalhes, de forma muito clara e objetiva.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066308.jpg</image_name>
+<image_broadcast>00000000066308</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623123000 -0300" stop="20150623124500 -0300" channel="CUB" program_id="0000278148" event_id="00000000000097103056" series_key="00000000070815000000">
+<title lang="pt">Cocoricó na Cidade</title>
+<desc>Nesta fase, que conta com 26 episódios semanais, todos com direito a clipes musicais, a Turminha continua hospedada no apartamento do primo João, que mora com seus pais, Dora e Noel, e seu irmão Rodolfinho.</desc>
+<category lang="pt">Infantil</category>
+<category lang="pt">Programa</category>
+<image>
+<image_name position="1">00000000070815.jpg</image_name>
+<image_broadcast>00000000070815</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623124500 -0300" stop="20150623133000 -0300" channel="CUB" program_id="0000219876" event_id="00000000000097103057" series_key="00000000070350000000">
+<title lang="pt">Hora da Criança</title>
+<desc>O projeto vem preencher uma lacuna na formação audiovisual e cultural das crianças e já está em sua quarta edição. Os filmes foram realizados através do Edital Curta Criança.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Infantil</category>
+<image>
+<image_name position="1">00000000070350.jpg</image_name>
+<image_broadcast>00000000070350</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623133000 -0300" stop="20150623140000 -0300" channel="CUB" program_id="0000110716" event_id="00000000000097103058" series_key="00000000070810000000">
+<title lang="pt">Anabel</title>
+<title lang="en">Anabel</title>
+<desc>A série brasileira Anabel, exclusiva na TV Rá Tim Bum, traz a esperta garotinha de sete anos que adora desvendar mistérios. A cada episódio, a pequena passa por fantásticas aventuras, desvenda crimes, viaja pelo futuro e mais...</desc>
+<category lang="pt">Infantil</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">00000000070810.jpg</image_name>
+<image_broadcast>00000000070810</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623140000 -0300" stop="20150623143000 -0300" channel="CUB" program_id="0000349860" event_id="00000000000097103059" series_key="">
+<title lang="pt">Coxia</title>
+<sub-title lang="pt">Valda Marques</sub-title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000349860.jpg</image_name>
+<image_broadcast>0000349860</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623143000 -0300" stop="20150623160000 -0300" channel="CUB" program_id="0000019776" event_id="00000000000097103060" series_key="00000000070790000000">
+<title lang="pt">Sem Censura</title>
+<title lang="en">Sem Censura</title>
+<desc>Apresentado por Leda Nagle, o programa traz as últimas descobertas da medicina, temas ligados à preservação do meio ambiente, à busca pela melhoria da qualidade de vida, informação cultural, prestação de serviços.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">00000000070790.jpg</image_name>
+<image_broadcast>00000000070790</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623160000 -0300" stop="20150623173000 -0300" channel="CUB" program_id="0000019776" event_id="00000000000097103061" series_key="00000000070790000000">
+<title lang="pt">Sem Censura</title>
+<title lang="en">Sem Censura</title>
+<desc>Apresentado por Leda Nagle, o programa traz as últimas descobertas da medicina, temas ligados à preservação do meio ambiente, à busca pela melhoria da qualidade de vida, informação cultural, prestação de serviços.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">00000000070790.jpg</image_name>
+<image_broadcast>00000000070790</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623173000 -0300" stop="20150623180000 -0300" channel="CUB" program_id="0000267917" event_id="00000000000097103062" series_key="00000000068320000000">
+<title lang="pt">Conhecendo Museus</title>
+<desc>Documentários produzidos pela Fundação José de Paiva Netto que apresentam os museus brasileiros de forma dinâmica, estimulando a preservação da memória nacional.</desc>
+<category lang="pt">Documentário</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">00000000068320.jpg</image_name>
+<image_broadcast>00000000068320</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623180000 -0300" stop="20150623183000 -0300" channel="CUB" program_id="0000204339" event_id="00000000000097103063" series_key="00000000070768000000">
+<title lang="pt">Estúdio Móvel</title>
+<desc>É o programa da TV Brasil voltado para o público jovem. A produção busca um retrato do jovem urbano e contemporâneo. Para isso, o tradicional estúdio fisicamente limitado foi transformado em algo móvel.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000070768.jpg</image_name>
+<image_broadcast>00000000070768</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623183000 -0300" stop="20150623190000 -0300" channel="CUB" program_id="0000091182" event_id="00000000000097103064" series_key="00000000066297000000">
+<title lang="pt">Jornal da Cultura</title>
+<title lang="en">Jornal da Cultura</title>
+<desc>O Jornal da Cultura se diferencia pela análise dos assuntos mais importantes do dia. O telejornal conta com novos quadros e a participação de duplas de debatedores, que se revezam no decorrer da semana.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066297.jpg</image_name>
+<image_broadcast>00000000066297</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623190000 -0300" stop="20150623193000 -0300" channel="CUB" program_id="0000349858" event_id="00000000000097103065" series_key="">
+<title lang="pt">Arquivo Cultura</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000349858.jpg</image_name>
+<image_broadcast>0000349858</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623193000 -0300" stop="20150623200000 -0300" channel="CUB" program_id="0000345143" event_id="00000000000097103066" series_key="00000000061871000000">
+<title lang="pt">Maratona Musicograma</title>
+<desc>Série musical da TV Brasil que resgata a história dessa arte, a partir da digitalização do acervo da emissora. O programa semanal traz em cada episódio dois grandes nomes da MPB.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">00000000061871.jpg</image_name>
+<image_broadcast>00000000061871</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623200000 -0300" stop="20150623203000 -0300" channel="CUB" program_id="0000091308" event_id="00000000000097103067" series_key="00000000070782000000">
+<title lang="pt">Observatório da Imprensa</title>
+<desc>Apresentado por Alberto Dines, o programa discute o comportamento de jornalistas, jornais, revistas e redes de televisão em relação a um determinado assunto.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000070782.jpg</image_name>
+<image_broadcast>00000000070782</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150623203000 -0300" stop="20150623204000 -0300" channel="CUB" program_id="0000255383" event_id="00000000000097103068" series_key="">
+<title lang="pt">Propaganda Partidária</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000255383.jpg</image_name>
+<image_broadcast>0000255383</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623204000 -0300" stop="20150623210000 -0300" channel="CUB" program_id="0000091308" event_id="00000000000097103069" series_key="00000000070782000000">
+<title lang="pt">Observatório da Imprensa</title>
+<desc>Apresentado por Alberto Dines, o programa discute o comportamento de jornalistas, jornais, revistas e redes de televisão em relação a um determinado assunto.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000070782.jpg</image_name>
+<image_broadcast>00000000070782</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150623210000 -0300" stop="20150623220000 -0300" channel="CUB" program_id="0000019744" event_id="00000000000097103070" series_key="00000000066308000000">
+<title lang="pt">Repórter Brasil</title>
+<desc>Único telejornal brasileiro que exibe reportagens feitas diretamente pelo espectador. Os temas que movimentam o dia a dia são tratados com mais tempo e em mais detalhes, de forma muito clara e objetiva.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066308.jpg</image_name>
+<image_broadcast>00000000066308</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623220000 -0300" stop="20150623230000 -0300" channel="CUB" program_id="0000161791" event_id="00000000000097103071" series_key="00000000070788000000">
+<title lang="pt">Samba na Gamboa</title>
+<title lang="en">Samba na Gamboa</title>
+<desc>O sambista símbolo da novíssima geração do samba, Diogo Nogueira, recebe convidados para noitadas do samba, canta músicas de seu próprio repertório, lançamentos e clássicos. A série busca histórias, memórias e casos da nossa música mais popular.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">00000000070788.jpg</image_name>
+<image_broadcast>00000000070788</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623230000 -0300" stop="20150623233000 -0300" channel="CUB" program_id="0000300155" event_id="00000000000097103072" series_key="00000000070812000000">
+<title lang="pt">Arte do Artista</title>
+<desc>A produção faz um panorama das artes no Brasil por meio de entrevistas com convidados ilustres e grandes nomes representantes da arte brasileira.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000070812.jpg</image_name>
+<image_broadcast>00000000070812</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623233000 -0300" stop="20150624003000 -0300" channel="CUB" program_id="0000326557" event_id="00000000000097103073" series_key="00000000070299000000">
+<title lang="pt">A TV Que o Brasil Está Pensando</title>
+<desc>Programa faz reflexões sobre vários assuntos que são abordados na Tv brasileira e que fazem parte do cotidiano. Na forma de debate e discussões a cerca dos gêneros de vários programas que ganham destaque e sucesso.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000070299.jpg</image_name>
+<image_broadcast>00000000070299</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
 </programme>
 </tv>

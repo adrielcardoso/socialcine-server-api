@@ -4,1863 +4,6 @@
 <display-name lang="pt">TV  Cesumar - Maringá</display-name>
 <icon src="ces.gif" />
 </channel>
-<programme start="20150603000000 -0300" stop="20150603002500 -0300" channel="CES" program_id="0000098063" event_id="00000000000095877651" series_key="00000000069642000000">
-<title lang="pt">Jornal Futura</title>
-<title lang="en">Jornal Futura</title>
-<desc>Programa jornalístico, no formato de revista eletrônica interativa, que busca reportar projetos e ações voltados para questões sociais, que levam à reflexão sobre os problemas do nosso dia a dia e suas possíveis soluções.</desc>
-<credits>
-<actor>Adriana Couto</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069642.jpg</image_name>
-<image_broadcast>00000000069642</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603002500 -0300" stop="20150603005000 -0300" channel="CES" program_id="0000203326" event_id="00000000000095877653" series_key="">
-<title lang="pt">Conexão Futura</title>
-<desc>O Conexão Futura tem a preocupação de informar com uma linguagem simples sobre caminhos possíveis para a construção da cidadania.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000203326.jpg</image_name>
-<image_broadcast>0000203326</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603005000 -0300" stop="20150603010000 -0300" channel="CES" program_id="0000344744" event_id="00000000000095877655" series_key="00000000071469000000">
-<title lang="pt">Euronews</title>
-<desc>A Euronews é um canal de notícias internacional com programas e matérias sobre ciência, tecnologia e educação que são exibidos em diversos países e línguas do mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071469.jpg</image_name>
-<image_broadcast>00000000071469</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603010000 -0300" stop="20150603013000 -0300" channel="CES" program_id="0000409082" event_id="00000000000095877657" series_key="00000000068600000047">
-<title lang="pt">Mit Blossoms</title>
-<sub-title lang="pt">Ep. 47</sub-title>
-<desc>O objetivo desta aula é ilustrar como uma experiência diária comum muitas vezes pode proporcionar um momento de aprendizagem.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000068600.jpg</image_name>
-<image_broadcast>00000000068600</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.47.</episode-num>
-<episode-num system="onscreen">47</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603013000 -0300" stop="20150603020000 -0300" channel="CES" program_id="0000255725" event_id="00000000000095877659" series_key="00000000044647000071">
-<title lang="pt">Passagem Para...</title>
-<sub-title lang="pt">Ep. 71</sub-title>
-<desc>A terceira temporada do programa é sobre a América Latina e a viagem começa pela Costa Rica. O primeiro programa apresenta o país que tem o melhor índice de desenvolvimento humano da América Central.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000044647.jpg</image_name>
-<image_broadcast>00000000044647</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.71.</episode-num>
-<episode-num system="onscreen">71</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603020000 -0300" stop="20150603021500 -0300" channel="CES" program_id="0000098064" event_id="00000000000095877661" series_key="00000000070020000000">
-<title lang="pt">Sala de Notícias</title>
-<title lang="en">Sala de Notícias</title>
-<desc>Jornal temático, com 20 minutos de duração, que aprofunda e discute as notícias de grande exposição na mídia. A cada edição, o Sala de Notícias reúne material dos principais telejornais além de reportagens próprias.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000070020.jpg</image_name>
-<image_broadcast>00000000070020</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603021500 -0300" stop="20150603023000 -0300" channel="CES" program_id="0000344744" event_id="00000000000095877663" series_key="00000000071469000000">
-<title lang="pt">Euronews</title>
-<desc>A Euronews é um canal de notícias internacional com programas e matérias sobre ciência, tecnologia e educação que são exibidos em diversos países e línguas do mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071469.jpg</image_name>
-<image_broadcast>00000000071469</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603023000 -0300" stop="20150603030000 -0300" channel="CES" program_id="0000197884" event_id="00000000000095877665" series_key="00000000044647000125">
-<title lang="pt">Passagem Para...</title>
-<sub-title lang="pt">Ep. 125</sub-title>
-<desc>As Bahamas são apresentadas por aquilo que o Passagem Para... evita em todos os outros países: o turismo, que emprega mais de 50% da população.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000044647.jpg</image_name>
-<image_broadcast>00000000044647</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.125.</episode-num>
-<episode-num system="onscreen">125</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603030000 -0300" stop="20150603033000 -0300" channel="CES" program_id="0000421114" event_id="00000000000095877668" series_key="00000000056823000005">
-<title lang="pt">Futura Profissão</title>
-<sub-title lang="pt">Ep. 5</sub-title>
-<desc>Preservar a natureza ainda é um grande desafio para a indústria. O técnico em meio ambiente é o profissional responsável em propor soluções criativas, analisar os impactos das atividades e garantir o desenvolvimento sustentável das empresas.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000056823.jpg</image_name>
-<image_broadcast>00000000056823</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.5.</episode-num>
-<episode-num system="onscreen">5</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603033000 -0300" stop="20150603040000 -0300" channel="CES" program_id="0000325187" event_id="00000000000095877670" series_key="00000000068536001008">
-<title lang="pt">Sexo no Sofá</title>
-<title lang="en">Sexo no Sofá: 08</title>
-<sub-title lang="pt">Temp. 1 - Ep. 8</sub-title>
-<desc>Sexo no Sofá quer saber o que você faz quando pinta um clima e você está sozinho. Juliana ouve as divertidas histórias sobre masturbação do seu amigo produtor musical Miranda.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000068536.jpg</image_name>
-<image_broadcast>00000000068536</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">1.8.</episode-num>
-<episode-num system="onscreen">8</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 16 anos</value>
-</rating>
-</programme>
-<programme start="20150603040000 -0300" stop="20150603043000 -0300" channel="CES" program_id="0000401951" event_id="00000000000095877672" series_key="">
-<title lang="pt">Guiados Pelo Sabor</title>
-<sub-title lang="pt">Ep. 2</sub-title>
-<desc>Harry e Talytha encontram-se com Marcia, uma especialista em pão de queijo. Depois, vão ao restaurante Trindade, onde Harry cozinha com o chef Felipe Rameh.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Culinária</category>
-<image>
-<image_name position="1">0000401951.jpg</image_name>
-<image_broadcast>0000401951</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.2.</episode-num>
-<episode-num system="onscreen">2</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603043000 -0300" stop="20150603050000 -0300" channel="CES" program_id="0000421199" event_id="00000000000095877674" series_key="00000000057419000146">
-<title lang="pt">Revelando os Brasis</title>
-<sub-title lang="pt">Ep. 146</sub-title>
-<desc>Um homem e uma serra. O que isso tem em comum? Qual o elo entre eles? Um bicho homem ou um homem bicho? Um ermitão? Um sábio? Um curandeiro? Afinal, o que é esse homem? De onde veio?</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">00000000057419.jpg</image_name>
-<image_broadcast>00000000057419</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.146.</episode-num>
-<episode-num system="onscreen">146</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603050000 -0300" stop="20150603051500 -0300" channel="CES" program_id="0000392287" event_id="00000000000095877676" series_key="00000000074527000044">
-<title lang="pt">Novo Telecurso</title>
-<sub-title lang="pt">Ensino Fundamental - Ep. 44</sub-title>
-<desc>Nesta teleaula você aprenderá o que é um círculo e o que é uma circunferência, além de conhecer vários elementos, como o raio, o diâmetro, a corda e o arco.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000074527.jpg</image_name>
-<image_broadcast>00000000074527</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.44.</episode-num>
-<episode-num system="onscreen">44</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603051500 -0300" stop="20150603053000 -0300" channel="CES" program_id="0000421188" event_id="00000000000095877678" series_key="00000000076237000003">
-<title lang="pt">Novo Telecurso</title>
-<sub-title lang="pt">Ensino Médio - Ep. 3</sub-title>
-<desc>Na terceira teleaula você vai aprender sobre os valores. Vai ver que os valores são entidades virtuais. Eles não existem na realidade. Não são propriedades dos objetos.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000076237.jpg</image_name>
-<image_broadcast>00000000076237</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.3.</episode-num>
-<episode-num system="onscreen">3</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603053000 -0300" stop="20150603054500 -0300" channel="CES" program_id="0000318621" event_id="00000000000095877680" series_key="00000000070761000000">
-<title lang="pt">Telecurso Tec</title>
-<sub-title lang="pt">Gestão de Pessoas</sub-title>
-<desc>O que são processos de recrutamento e seleção nas organizações, como são feitos. Comercial: Omo TotalTeste comparativo.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000070761.jpg</image_name>
-<image_broadcast>00000000070761</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603054500 -0300" stop="20150603060000 -0300" channel="CES" program_id="0000150838" event_id="00000000000095877683" series_key="00000000063622000000">
-<title lang="pt">Telecurso Profissionalizante</title>
-<desc>O Telecurso é reconhecido mundialmente como uma metodologia que promove um salto de qualidade na educação, tendo beneficiado mais de 5,5 milhões de pessoas nas 27.714 telesalas em todo o Brasil.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000063622.jpg</image_name>
-<image_broadcast>00000000063622</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603060000 -0300" stop="20150603063000 -0300" channel="CES" program_id="0000207207" event_id="00000000000095877685" series_key="00000000061914000000">
-<title lang="pt">Estação Saúde</title>
-<sub-title lang="pt">Hanseniase</sub-title>
-<desc>A hanseníase é uma doença cercada de preconceitos e popularmente conhecida como lepra. Vamos saber mais sobre grupos de apoio, prevenção, sintomas e o tratamento da hanseníase.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000061914.jpg</image_name>
-<image_broadcast>00000000061914</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603063000 -0300" stop="20150603070000 -0300" channel="CES" program_id="0000407347" event_id="00000000000095877687" series_key="00000000064254000027">
-<title lang="pt">Dinheiro no Bolso</title>
-<sub-title lang="pt">Ep. 27</sub-title>
-<desc>"Dinheiro no bolso entra na reta final da terceira temporada e no sétimo episódio o tema é "poupar: verdades e mitos".</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Reality Show</category>
-<image>
-<image_name position="1">00000000064254.jpg</image_name>
-<image_broadcast>00000000064254</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.27.</episode-num>
-<episode-num system="onscreen">27</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603070000 -0300" stop="20150603071000 -0300" channel="CES" program_id="0000344744" event_id="00000000000095877689" series_key="00000000071469000000">
-<title lang="pt">Euronews</title>
-<desc>A Euronews é um canal de notícias internacional com programas e matérias sobre ciência, tecnologia e educação que são exibidos em diversos países e línguas do mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071469.jpg</image_name>
-<image_broadcast>00000000071469</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603071000 -0300" stop="20150603073000 -0300" channel="CES" program_id="0000098063" event_id="00000000000095877691" series_key="00000000069642000000">
-<title lang="pt">Jornal Futura</title>
-<title lang="en">Jornal Futura</title>
-<desc>Programa jornalístico, no formato de revista eletrônica interativa, que busca reportar projetos e ações voltados para questões sociais, que levam à reflexão sobre os problemas do nosso dia a dia e suas possíveis soluções.</desc>
-<credits>
-<actor>Adriana Couto</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069642.jpg</image_name>
-<image_broadcast>00000000069642</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603073000 -0300" stop="20150603080000 -0300" channel="CES" program_id="0000203326" event_id="00000000000095877693" series_key="">
-<title lang="pt">Conexão Futura</title>
-<desc>O Conexão Futura tem a preocupação de informar com uma linguagem simples sobre caminhos possíveis para a construção da cidadania.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000203326.jpg</image_name>
-<image_broadcast>0000203326</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603080000 -0300" stop="20150603093000 -0300" channel="CES" program_id="0000404545" event_id="00000000000095877695" series_key="00000000075302000000">
-<title lang="pt">Paio e Dongo</title>
-<desc>A grande ênfase da série Paio&amp;Dongo é promover o brincar, ao dar relevo para experiências lúdicas em seus roteiros e situações ficcionais.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000075302.jpg</image_name>
-<image_broadcast>00000000075302</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603093000 -0300" stop="20150603100000 -0300" channel="CES" program_id="0000318544" event_id="00000000000095877697" series_key="00000000073653000000">
-<title lang="pt">Mundo da Leitura</title>
-<sub-title lang="pt">A Forca</sub-title>
-<desc>Gali-Leu e Alberto estão jogando xadrez no Mundo da Leitura. Alberto conta para Gali-Leu que uma psicóloga conversou com a sua turma da escola sobre bullying. Assista a história "A forca".</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000073653.jpg</image_name>
-<image_broadcast>00000000073653</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603100000 -0300" stop="20150603103000 -0300" channel="CES" program_id="0000207416" event_id="00000000000095877699" series_key="00000000061904000000">
-<title lang="pt">Sítio do Picapau Amarelo</title>
-<desc>Seriado infantil baseado na obra de Monteiro Lobato.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">00000000061904.jpg</image_name>
-<image_broadcast>00000000061904</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603103000 -0300" stop="20150603110000 -0300" channel="CES" program_id="0000246590" event_id="00000000000095877701" series_key="00000000064597000004">
-<title lang="pt">Aventuras com os Kratts</title>
-<sub-title lang="pt">Ep. 4</sub-title>
-<desc>Em uma missão para descobrir o segredo das habilidades voadoras do lagarto Draco, Martin e Chris descobrem um complô tramado pela malvada estilista Donita Donata, que tem capturado estas criaturas incríveis para integrá-las à sua coleção de outono.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">00000000064597.jpg</image_name>
-<image_broadcast>00000000064597</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.4.</episode-num>
-<episode-num system="onscreen">4</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603110000 -0300" stop="20150603120000 -0300" channel="CES" program_id="0000404545" event_id="00000000000095877703" series_key="00000000075302000000">
-<title lang="pt">Paio e Dongo</title>
-<desc>A grande ênfase da série Paio&amp;Dongo é promover o brincar, ao dar relevo para experiências lúdicas em seus roteiros e situações ficcionais.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000075302.jpg</image_name>
-<image_broadcast>00000000075302</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603120000 -0300" stop="20150603125000 -0300" channel="CES" program_id="0000302145" event_id="00000000000095877705" series_key="">
-<title lang="pt">Comunidade do Conhecimento</title>
-<desc>Programa produzido por Wall Baurinuevo.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000302145.jpg</image_name>
-<image_broadcast>0000302145</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603125000 -0300" stop="20150603133000 -0300" channel="CES" program_id="0000298331" event_id="00000000000095877707" series_key="">
-<title lang="pt">Entendendo Direito</title>
-<desc>Programa voltado ao mundo dos direitos e deveres do cidadão, entrevistas com advogados, promotores, juízes e acadêmicos de Direito.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">0000298331.jpg</image_name>
-<image_broadcast>0000298331</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603133000 -0300" stop="20150603140000 -0300" channel="CES" program_id="0000412631" event_id="00000000000095877709" series_key="00000000022967000184">
-<title lang="pt">Afinando a Língua</title>
-<sub-title lang="pt">Ep. 184</sub-title>
-<desc>Se poema vira letra de música, música também pode virar poema? A partir deste mote, Antônio Cícero, Adriana Calcanhoto e Tony Bellotto emplacam uma conversa leve e  despretensiosa sobre composição de poesia e de letra de música.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000022967.jpg</image_name>
-<image_broadcast>00000000022967</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.184.</episode-num>
-<episode-num system="onscreen">184</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603140000 -0300" stop="20150603143000 -0300" channel="CES" program_id="0000397967" event_id="00000000000095877711" series_key="00000000073656000093">
-<title lang="pt">Tempos de Escola</title>
-<sub-title lang="pt">Ep. 93</sub-title>
-<desc>"É um bom exemplo de escola pública que dá certo". A declaração do árbitro de futebol Leonardo Gaciba é sobre a Escola Municipal Pelotense, na qual estudou entre os anos de 83 a 87.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">00000000073656.jpg</image_name>
-<image_broadcast>00000000073656</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.93.</episode-num>
-<episode-num system="onscreen">93</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603143000 -0300" stop="20150603143500 -0300" channel="CES" program_id="0000203326" event_id="00000000000095877713" series_key="">
-<title lang="pt">Conexão Futura</title>
-<desc>O Conexão Futura tem a preocupação de informar com uma linguagem simples sobre caminhos possíveis para a construção da cidadania.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000203326.jpg</image_name>
-<image_broadcast>0000203326</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603143500 -0300" stop="20150603145000 -0300" channel="CES" program_id="0000098064" event_id="00000000000095877715" series_key="00000000070020000000">
-<title lang="pt">Sala de Notícias</title>
-<title lang="en">Sala de Notícias</title>
-<desc>Jornal temático, com 20 minutos de duração, que aprofunda e discute as notícias de grande exposição na mídia. A cada edição, o Sala de Notícias reúne material dos principais telejornais além de reportagens próprias.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000070020.jpg</image_name>
-<image_broadcast>00000000070020</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603145000 -0300" stop="20150603150000 -0300" channel="CES" program_id="0000203326" event_id="00000000000095877717" series_key="">
-<title lang="pt">Conexão Futura</title>
-<desc>O Conexão Futura tem a preocupação de informar com uma linguagem simples sobre caminhos possíveis para a construção da cidadania.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000203326.jpg</image_name>
-<image_broadcast>0000203326</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603150000 -0300" stop="20150603152500 -0300" channel="CES" program_id="0000391082" event_id="00000000000095877719" series_key="00000000072077000013">
-<title lang="pt">Nota 10 - Votorantin</title>
-<sub-title lang="pt">Ep. 13</sub-title>
-<desc>Cultura e arte estão em toda parte. O Nota 10 mostra a Casa de Cultura da Maré, projeto do Rio de Janeiro que leva oficinas culturais de teatro, música e dança a jovens de poucas oportunidades no contato com arte.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000072077.jpg</image_name>
-<image_broadcast>00000000072077</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.13.</episode-num>
-<episode-num system="onscreen">13</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603152500 -0300" stop="20150603155000 -0300" channel="CES" program_id="0000203326" event_id="00000000000095877722" series_key="">
-<title lang="pt">Conexão Futura</title>
-<desc>O Conexão Futura tem a preocupação de informar com uma linguagem simples sobre caminhos possíveis para a construção da cidadania.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000203326.jpg</image_name>
-<image_broadcast>0000203326</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603155000 -0300" stop="20150603160000 -0300" channel="CES" program_id="0000344744" event_id="00000000000095877724" series_key="00000000071469000000">
-<title lang="pt">Euronews</title>
-<desc>A Euronews é um canal de notícias internacional com programas e matérias sobre ciência, tecnologia e educação que são exibidos em diversos países e línguas do mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071469.jpg</image_name>
-<image_broadcast>00000000071469</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603160000 -0300" stop="20150603162500 -0300" channel="CES" program_id="0000207201" event_id="00000000000095877726" series_key="00000000061914000000">
-<title lang="pt">Estação Saúde</title>
-<sub-title lang="pt">Infecções Alimentares</sub-title>
-<desc>O episódio sobre infecções alimentares mostra que a melhor maneira de lidar com esse problema é a prevenção.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000061914.jpg</image_name>
-<image_broadcast>00000000061914</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603162500 -0300" stop="20150603163000 -0300" channel="CES" program_id="0000301130" event_id="00000000000095877728" series_key="">
-<title lang="pt">Boletim Futura</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000301130.jpg</image_name>
-<image_broadcast>0000301130</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603163000 -0300" stop="20150603170000 -0300" channel="CES" program_id="0000414786" event_id="00000000000095877730" series_key="00000000075914000000">
-<title lang="pt">Projetoempreender</title>
-<desc>Neste episódio da série #projetoempreender, a gaúcha Ana Paula vai contar como foi todo o processo de criação da sua doceria Preta Pretinha.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000075914.jpg</image_name>
-<image_broadcast>00000000075914</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603170000 -0300" stop="20150603173000 -0300" channel="CES" program_id="0000098063" event_id="00000000000095877731" series_key="00000000069642000000">
-<title lang="pt">Jornal Futura</title>
-<title lang="en">Jornal Futura</title>
-<desc>Programa jornalístico, no formato de revista eletrônica interativa, que busca reportar projetos e ações voltados para questões sociais, que levam à reflexão sobre os problemas do nosso dia a dia e suas possíveis soluções.</desc>
-<credits>
-<actor>Adriana Couto</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069642.jpg</image_name>
-<image_broadcast>00000000069642</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603173000 -0300" stop="20150603183000 -0300" channel="CES" program_id="0000302145" event_id="00000000000095877732" series_key="">
-<title lang="pt">Comunidade do Conhecimento</title>
-<desc>Programa produzido por Wall Baurinuevo.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000302145.jpg</image_name>
-<image_broadcast>0000302145</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603183000 -0300" stop="20150603190000 -0300" channel="CES" program_id="0000353853" event_id="00000000000095877733" series_key="">
-<title lang="pt">Bravo</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000353853.jpg</image_name>
-<image_broadcast>0000353853</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603190000 -0300" stop="20150603193000 -0300" channel="CES" program_id="0000422874" event_id="00000000000095877734" series_key="00000000076292000000">
-<title lang="pt">Freemind</title>
-<desc></desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000076292.jpg</image_name>
-<image_broadcast>00000000076292</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603193000 -0300" stop="20150603200000 -0300" channel="CES" program_id="0000197883" event_id="00000000000095877735" series_key="00000000044647000126">
-<title lang="pt">Passagem Para...</title>
-<sub-title lang="pt">Ep. 126</sub-title>
-<desc>Nas Bahamas, um dos destinos turísticos mais desejados do mundo, existem praias fantásticas onde não há nenhum turista. Longe dos complexos hoteleiros, Luís Nachbin vai a três das 700 ilhas que formam o país.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000044647.jpg</image_name>
-<image_broadcast>00000000044647</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.126.</episode-num>
-<episode-num system="onscreen">126</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603200000 -0300" stop="20150603203000 -0300" channel="CES" program_id="0000392281" event_id="00000000000095877736" series_key="00000000073429000009">
-<title lang="pt">Minha Rua</title>
-<sub-title lang="pt">Ep. 9</sub-title>
-<desc>Leandro Firmino vai à periferia de Londres, na Inglaterra,  e conhece o All Star, que nasceu do esforço de imigrantes africanos  e alimenta o sonho de jovens boxeadores.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000073429.jpg</image_name>
-<image_broadcast>00000000073429</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.9.</episode-num>
-<episode-num system="onscreen">9</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603203000 -0300" stop="20150603210000 -0300" channel="CES" program_id="0000409029" event_id="00000000000095877737" series_key="00000000069641000307">
-<title lang="pt">Cidades e Soluções</title>
-<sub-title lang="pt">Ep. 307</sub-title>
-<desc>A busca por soluções para um mundo sustentável é o objetivo do programa. Apresentado por André Trigueiro, o programa destaca iniciativas que já dão resultado e podem ser replicadas num país onde 80% da população vive em cidades.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069641.jpg</image_name>
-<image_broadcast>00000000069641</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.307.</episode-num>
-<episode-num system="onscreen">307</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603210000 -0300" stop="20150603213000 -0300" channel="CES" program_id="0000302148" event_id="00000000000095877738" series_key="">
-<title lang="pt">Dia de Campo</title>
-<desc>Programa da Embrapa que aborda temas variados, como agroenergia, agricultura e agroindústria, passando pela aqüicultura, segurança alimentar, meio ambiente, pecuária, nanotecnologia e bancos de germoplasma.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">0000302148.jpg</image_name>
-<image_broadcast>0000302148</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603213000 -0300" stop="20150603220000 -0300" channel="CES" program_id="0000422874" event_id="00000000000095877739" series_key="00000000076292000000">
-<title lang="pt">Freemind</title>
-<desc></desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000076292.jpg</image_name>
-<image_broadcast>00000000076292</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603220000 -0300" stop="20150603230000 -0300" channel="CES" program_id="0000302145" event_id="00000000000095877740" series_key="">
-<title lang="pt">Comunidade do Conhecimento</title>
-<desc>Programa produzido por Wall Baurinuevo.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000302145.jpg</image_name>
-<image_broadcast>0000302145</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603230000 -0300" stop="20150603233000 -0300" channel="CES" program_id="0000421192" event_id="00000000000095877741" series_key="00000000063632000119">
-<title lang="pt">Profissão Repórter</title>
-<sub-title lang="pt">Ep. 119</sub-title>
-<desc>A transexualidade é a não-identificação com o gênero de nascimento. O Profissão Repórter aborda essa transformação na infância, na juventude e na fase mais adulta da vida.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000063632.jpg</image_name>
-<image_broadcast>00000000063632</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.119.</episode-num>
-<episode-num system="onscreen">119</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603233000 -0300" stop="20150604000000 -0300" channel="CES" program_id="0000242778" event_id="00000000000095877742" series_key="00000000064326000013">
-<title lang="pt">Entre Fronteiras</title>
-<sub-title lang="pt">Ep. 13</sub-title>
-<desc>Em Porto Velho, capital de Rondônia, Luís Nachbin convive com a rotina de um presídio feminino que é lar de mais de cem presas.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000064326.jpg</image_name>
-<image_broadcast>00000000064326</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.13.</episode-num>
-<episode-num system="onscreen">13</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604000000 -0300" stop="20150604002500 -0300" channel="CES" program_id="0000098063" event_id="00000000000095877743" series_key="00000000069642000000">
-<title lang="pt">Jornal Futura</title>
-<title lang="en">Jornal Futura</title>
-<desc>Programa jornalístico, no formato de revista eletrônica interativa, que busca reportar projetos e ações voltados para questões sociais, que levam à reflexão sobre os problemas do nosso dia a dia e suas possíveis soluções.</desc>
-<credits>
-<actor>Adriana Couto</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069642.jpg</image_name>
-<image_broadcast>00000000069642</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604002500 -0300" stop="20150604005000 -0300" channel="CES" program_id="0000203326" event_id="00000000000095877744" series_key="">
-<title lang="pt">Conexão Futura</title>
-<desc>O Conexão Futura tem a preocupação de informar com uma linguagem simples sobre caminhos possíveis para a construção da cidadania.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000203326.jpg</image_name>
-<image_broadcast>0000203326</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604005000 -0300" stop="20150604010000 -0300" channel="CES" program_id="0000344744" event_id="00000000000095877745" series_key="00000000071469000000">
-<title lang="pt">Euronews</title>
-<desc>A Euronews é um canal de notícias internacional com programas e matérias sobre ciência, tecnologia e educação que são exibidos em diversos países e línguas do mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071469.jpg</image_name>
-<image_broadcast>00000000071469</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604010000 -0300" stop="20150604013000 -0300" channel="CES" program_id="0000409087" event_id="00000000000095877746" series_key="00000000068600000033">
-<title lang="pt">Mit Blossoms</title>
-<sub-title lang="pt">Ep. 33</sub-title>
-<desc>A aula busca esclarecer como o câncer é causado por mutações que se acumulam ao longo do tempo no DNA das células, como os genes cancerígenos estão envolvidos no crescimento e na divisão das células normais.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000068600.jpg</image_name>
-<image_broadcast>00000000068600</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.33.</episode-num>
-<episode-num system="onscreen">33</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604013000 -0300" stop="20150604020000 -0300" channel="CES" program_id="0000255728" event_id="00000000000095877747" series_key="00000000044647000072">
-<title lang="pt">Passagem Para...</title>
-<sub-title lang="pt">Ep. 72</sub-title>
-<desc>Passagem Para apresenta Monteverde, um dos 34 parques nacionais da Costa Rica. A política de conservação ambiental costarriquenha é avançada e atenta à força do turismo no país.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000044647.jpg</image_name>
-<image_broadcast>00000000044647</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.72.</episode-num>
-<episode-num system="onscreen">72</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604020000 -0300" stop="20150604021500 -0300" channel="CES" program_id="0000098064" event_id="00000000000095877748" series_key="00000000070020000000">
-<title lang="pt">Sala de Notícias</title>
-<title lang="en">Sala de Notícias</title>
-<desc>Jornal temático, com 20 minutos de duração, que aprofunda e discute as notícias de grande exposição na mídia. A cada edição, o Sala de Notícias reúne material dos principais telejornais além de reportagens próprias.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000070020.jpg</image_name>
-<image_broadcast>00000000070020</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604021500 -0300" stop="20150604023000 -0300" channel="CES" program_id="0000344744" event_id="00000000000095877749" series_key="00000000071469000000">
-<title lang="pt">Euronews</title>
-<desc>A Euronews é um canal de notícias internacional com programas e matérias sobre ciência, tecnologia e educação que são exibidos em diversos países e línguas do mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071469.jpg</image_name>
-<image_broadcast>00000000071469</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604023000 -0300" stop="20150604030000 -0300" channel="CES" program_id="0000404614" event_id="00000000000095877750" series_key="00000000072550000151">
-<title lang="pt">Um Pé de Quê?</title>
-<sub-title lang="pt">Ep. 151</sub-title>
-<desc>Hoje a gente vai falar do Mamão, a árvore-mãe dos quintais brasileiros. E não é só por que ela tem mamas e dá leite. Ela, como uma boa mãe, pensa em tudo.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000072550.jpg</image_name>
-<image_broadcast>00000000072550</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.151.</episode-num>
-<episode-num system="onscreen">151</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604030000 -0300" stop="20150604040000 -0300" channel="CES" program_id="0000245754" event_id="00000000000095877751" series_key="00000000060025000201">
-<title lang="pt">Mundo.Doc</title>
-<sub-title lang="pt">Ep. 201</sub-title>
-<desc>O universo sempre existiu? Como se tornou um lugar que pode abrigar a vida? Novas pistas das fronteiras da ciência são apresentadas pelo dinâmico astrofísico, Dr. Neil de Grasse Tyson.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000060025.jpg</image_name>
-<image_broadcast>00000000060025</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.201.</episode-num>
-<episode-num system="onscreen">201</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604040000 -0300" stop="20150604043000 -0300" channel="CES" program_id="0000393416" event_id="00000000000095877752" series_key="00000000072077000013">
-<title lang="pt">Nota 10</title>
-<sub-title lang="pt">A Cor da Cultura - Ep. 13</sub-title>
-<desc>Musicalidade - O apresentador Léo Madeira visita a Escola Especial da Penitenciária Lemos de Brito em Salvador-BA. Memória - O apresentador Léo Madeira visita a Creche Centro Infantil Amélia Crispim em Belo Horizonte-MG.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000072077.jpg</image_name>
-<image_broadcast>00000000072077</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.13.</episode-num>
-<episode-num system="onscreen">13</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604043000 -0300" stop="20150604050000 -0300" channel="CES" program_id="0000397967" event_id="00000000000095877753" series_key="00000000073656000093">
-<title lang="pt">Tempos de Escola</title>
-<sub-title lang="pt">Ep. 93</sub-title>
-<desc>"É um bom exemplo de escola pública que dá certo". A declaração do árbitro de futebol Leonardo Gaciba é sobre a Escola Municipal Pelotense, na qual estudou entre os anos de 83 a 87.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">00000000073656.jpg</image_name>
-<image_broadcast>00000000073656</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.93.</episode-num>
-<episode-num system="onscreen">93</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604050000 -0300" stop="20150604051500 -0300" channel="CES" program_id="0000372935" event_id="00000000000095877754" series_key="00000000074527000030">
-<title lang="pt">Novo Telecurso</title>
-<sub-title lang="pt">Ensino Fundamental - Ep. 30</sub-title>
-<desc>Esta teleaula vai relembrar os melhores momentos da sessão "What's up?", na qual você estudou muitas palavras em Inglês que todo mundo está acostumado a ouvir e a usar aqui no Brasil, mesmo que seja de um jeitinho bem brasileiro.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000074527.jpg</image_name>
-<image_broadcast>00000000074527</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.30.</episode-num>
-<episode-num system="onscreen">30</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604051500 -0300" stop="20150604053000 -0300" channel="CES" program_id="0000421186" event_id="00000000000095877755" series_key="00000000076236000004">
-<title lang="pt">Novo Telecurso</title>
-<sub-title lang="pt">Ensino Médio - Ep. 4</sub-title>
-<desc>Na teleaula quatro você vai aprender sobre a ética. Vai ver que a ética tem a ver com a discussão dos valores e da moral. Vai ver, porém, que ser ético não consiste apenas em seguir a moral dominante da sociedade.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000076236.jpg</image_name>
-<image_broadcast>00000000076236</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.4.</episode-num>
-<episode-num system="onscreen">4</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604053000 -0300" stop="20150604054500 -0300" channel="CES" program_id="0000224449" event_id="00000000000095877756" series_key="00000000070761000000">
-<title lang="pt">Telecurso Tec</title>
-<sub-title lang="pt">Gestão de pessoas</sub-title>
-<desc>A importância do treinamento contínuo dos funcionários na organização contemporânea. Como as organizações estão investindo na formação dos funcionários. Comercial: Garoto Propaganda.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000070761.jpg</image_name>
-<image_broadcast>00000000070761</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604054500 -0300" stop="20150604060000 -0300" channel="CES" program_id="0000150838" event_id="00000000000095877757" series_key="00000000063622000000">
-<title lang="pt">Telecurso Profissionalizante</title>
-<desc>O Telecurso é reconhecido mundialmente como uma metodologia que promove um salto de qualidade na educação, tendo beneficiado mais de 5,5 milhões de pessoas nas 27.714 telesalas em todo o Brasil.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000063622.jpg</image_name>
-<image_broadcast>00000000063622</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604060000 -0300" stop="20150604063000 -0300" channel="CES" program_id="0000207208" event_id="00000000000095877758" series_key="00000000061914000000">
-<title lang="pt">Estação Saúde</title>
-<sub-title lang="pt">Tuberculose</sub-title>
-<desc>A tuberculose é uma doença que infecta um terço da população mundial. Neste programa, aprendemos a importância de seguir o tratamento até o fim, já que a recaída da doença pode provocar um quadro ainda mais grave.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000061914.jpg</image_name>
-<image_broadcast>00000000061914</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604063000 -0300" stop="20150604070000 -0300" channel="CES" program_id="0000412631" event_id="00000000000095877759" series_key="00000000022967000184">
-<title lang="pt">Afinando a Língua</title>
-<sub-title lang="pt">Ep. 184</sub-title>
-<desc>Se poema vira letra de música, música também pode virar poema? A partir deste mote, Antônio Cícero, Adriana Calcanhoto e Tony Bellotto emplacam uma conversa leve e  despretensiosa sobre composição de poesia e de letra de música.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000022967.jpg</image_name>
-<image_broadcast>00000000022967</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.184.</episode-num>
-<episode-num system="onscreen">184</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604070000 -0300" stop="20150604071000 -0300" channel="CES" program_id="0000344744" event_id="00000000000095877760" series_key="00000000071469000000">
-<title lang="pt">Euronews</title>
-<desc>A Euronews é um canal de notícias internacional com programas e matérias sobre ciência, tecnologia e educação que são exibidos em diversos países e línguas do mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071469.jpg</image_name>
-<image_broadcast>00000000071469</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604071000 -0300" stop="20150604073000 -0300" channel="CES" program_id="0000098063" event_id="00000000000095877761" series_key="00000000069642000000">
-<title lang="pt">Jornal Futura</title>
-<title lang="en">Jornal Futura</title>
-<desc>Programa jornalístico, no formato de revista eletrônica interativa, que busca reportar projetos e ações voltados para questões sociais, que levam à reflexão sobre os problemas do nosso dia a dia e suas possíveis soluções.</desc>
-<credits>
-<actor>Adriana Couto</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069642.jpg</image_name>
-<image_broadcast>00000000069642</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604073000 -0300" stop="20150604080000 -0300" channel="CES" program_id="0000203326" event_id="00000000000095877762" series_key="">
-<title lang="pt">Conexão Futura</title>
-<desc>O Conexão Futura tem a preocupação de informar com uma linguagem simples sobre caminhos possíveis para a construção da cidadania.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000203326.jpg</image_name>
-<image_broadcast>0000203326</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604080000 -0300" stop="20150604093000 -0300" channel="CES" program_id="0000404545" event_id="00000000000095877763" series_key="00000000075302000000">
-<title lang="pt">Paio e Dongo</title>
-<desc>A grande ênfase da série Paio&amp;Dongo é promover o brincar, ao dar relevo para experiências lúdicas em seus roteiros e situações ficcionais.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000075302.jpg</image_name>
-<image_broadcast>00000000075302</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604093000 -0300" stop="20150604100000 -0300" channel="CES" program_id="0000321109" event_id="00000000000095877764" series_key="00000000073653000000">
-<title lang="pt">Mundo da Leitura</title>
-<sub-title lang="pt">O Onça e o Gato</sub-title>
-<desc>Menino hipnotizado pela Ratazana chega em casa e fala para sua mãe que Gali-Leu o magoou. O que será que vai acontecer? Assista a história "O onça e o gato" na Contação.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000073653.jpg</image_name>
-<image_broadcast>00000000073653</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604100000 -0300" stop="20150604103000 -0300" channel="CES" program_id="0000207416" event_id="00000000000095877765" series_key="00000000061904000000">
-<title lang="pt">Sítio do Picapau Amarelo</title>
-<desc>Seriado infantil baseado na obra de Monteiro Lobato.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">00000000061904.jpg</image_name>
-<image_broadcast>00000000061904</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604103000 -0300" stop="20150604110000 -0300" channel="CES" program_id="0000246589" event_id="00000000000095877766" series_key="00000000064597000005">
-<title lang="pt">Aventuras com os Kratts</title>
-<sub-title lang="pt">Ep. 5</sub-title>
-<desc>Aviva miniaturiza Chris e Martin para uma fascinante missão subterrânea, em que encontrarão minhocas e desvendarão um mistério: por que elas sobem à superfície quando chove?</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">00000000064597.jpg</image_name>
-<image_broadcast>00000000064597</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.5.</episode-num>
-<episode-num system="onscreen">5</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604110000 -0300" stop="20150604120000 -0300" channel="CES" program_id="0000404545" event_id="00000000000095877767" series_key="00000000075302000000">
-<title lang="pt">Paio e Dongo</title>
-<desc>A grande ênfase da série Paio&amp;Dongo é promover o brincar, ao dar relevo para experiências lúdicas em seus roteiros e situações ficcionais.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000075302.jpg</image_name>
-<image_broadcast>00000000075302</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604120000 -0300" stop="20150604130000 -0300" channel="CES" program_id="0000302145" event_id="00000000000095877768" series_key="">
-<title lang="pt">Comunidade do Conhecimento</title>
-<desc>Programa produzido por Wall Baurinuevo.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000302145.jpg</image_name>
-<image_broadcast>0000302145</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604130000 -0300" stop="20150604133000 -0300" channel="CES" program_id="0000373976" event_id="00000000000095877769" series_key="">
-<title lang="pt">Mercado &amp; Cia</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000373976.jpg</image_name>
-<image_broadcast>0000373976</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604133000 -0300" stop="20150604140000 -0300" channel="CES" program_id="0000366615" event_id="00000000000095877770" series_key="00000000073657000190">
-<title lang="pt">Umas Palavras</title>
-<sub-title lang="pt">Ep. 190</sub-title>
-<desc>O escritor pernambucano   Raimundo Carrero  fala de sua obra que inclui 17 romances,  1 livro de contos pelo qual ganhou o prêmio Jabuti em 2000 e dois livros de ensaio sobre o fazer literário.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000073657.jpg</image_name>
-<image_broadcast>00000000073657</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.190.</episode-num>
-<episode-num system="onscreen">190</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604140000 -0300" stop="20150604143000 -0300" channel="CES" program_id="0000421192" event_id="00000000000095877771" series_key="00000000063632000119">
-<title lang="pt">Profissão Repórter</title>
-<sub-title lang="pt">Ep. 119</sub-title>
-<desc>A transexualidade é a não-identificação com o gênero de nascimento. O Profissão Repórter aborda essa transformação na infância, na juventude e na fase mais adulta da vida.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000063632.jpg</image_name>
-<image_broadcast>00000000063632</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.119.</episode-num>
-<episode-num system="onscreen">119</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604143000 -0300" stop="20150604143500 -0300" channel="CES" program_id="0000203326" event_id="00000000000095877772" series_key="">
-<title lang="pt">Conexão Futura</title>
-<desc>O Conexão Futura tem a preocupação de informar com uma linguagem simples sobre caminhos possíveis para a construção da cidadania.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000203326.jpg</image_name>
-<image_broadcast>0000203326</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604143500 -0300" stop="20150604145000 -0300" channel="CES" program_id="0000098064" event_id="00000000000095877773" series_key="00000000070020000000">
-<title lang="pt">Sala de Notícias</title>
-<title lang="en">Sala de Notícias</title>
-<desc>Jornal temático, com 20 minutos de duração, que aprofunda e discute as notícias de grande exposição na mídia. A cada edição, o Sala de Notícias reúne material dos principais telejornais além de reportagens próprias.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000070020.jpg</image_name>
-<image_broadcast>00000000070020</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604145000 -0300" stop="20150604150000 -0300" channel="CES" program_id="0000203326" event_id="00000000000095877774" series_key="">
-<title lang="pt">Conexão Futura</title>
-<desc>O Conexão Futura tem a preocupação de informar com uma linguagem simples sobre caminhos possíveis para a construção da cidadania.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000203326.jpg</image_name>
-<image_broadcast>0000203326</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604150000 -0300" stop="20150604152500 -0300" channel="CES" program_id="0000391086" event_id="00000000000095877775" series_key="00000000072077000014">
-<title lang="pt">Nota 10 - Votorantin</title>
-<sub-title lang="pt">Ep. 14</sub-title>
-<desc>Neste programa uma entrevista com a socióloga Ana Paula Corti esclarece os princípios da chamada pedagogia da juventude, que tem como objetivo ampliar os conhecimentos que a escola tem de seus alunos e diminuir a distância simbólica que os separa.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000072077.jpg</image_name>
-<image_broadcast>00000000072077</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.14.</episode-num>
-<episode-num system="onscreen">14</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604152500 -0300" stop="20150604155000 -0300" channel="CES" program_id="0000203326" event_id="00000000000095877776" series_key="">
-<title lang="pt">Conexão Futura</title>
-<desc>O Conexão Futura tem a preocupação de informar com uma linguagem simples sobre caminhos possíveis para a construção da cidadania.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Cultural</category>
-<image>
-<image_name position="1">0000203326.jpg</image_name>
-<image_broadcast>0000203326</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604155000 -0300" stop="20150604160000 -0300" channel="CES" program_id="0000344744" event_id="00000000000095877777" series_key="00000000071469000000">
-<title lang="pt">Euronews</title>
-<desc>A Euronews é um canal de notícias internacional com programas e matérias sobre ciência, tecnologia e educação que são exibidos em diversos países e línguas do mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000071469.jpg</image_name>
-<image_broadcast>00000000071469</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604160000 -0300" stop="20150604162500 -0300" channel="CES" program_id="0000207202" event_id="00000000000095877778" series_key="00000000061914000000">
-<title lang="pt">Estação Saúde</title>
-<sub-title lang="pt">Diabetes</sub-title>
-<desc>O conceito central do programa é o alerta de que diabetes é uma doença crônica, que pode gerar complicações para diversos órgãos.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000061914.jpg</image_name>
-<image_broadcast>00000000061914</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604162500 -0300" stop="20150604163000 -0300" channel="CES" program_id="0000301130" event_id="00000000000095877779" series_key="">
-<title lang="pt">Boletim Futura</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000301130.jpg</image_name>
-<image_broadcast>0000301130</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604163000 -0300" stop="20150604170000 -0300" channel="CES" program_id="0000392281" event_id="00000000000095877780" series_key="00000000073429000009">
-<title lang="pt">Minha Rua</title>
-<sub-title lang="pt">Ep. 9</sub-title>
-<desc>Leandro Firmino vai à periferia de Londres, na Inglaterra,  e conhece o All Star, que nasceu do esforço de imigrantes africanos  e alimenta o sonho de jovens boxeadores.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000073429.jpg</image_name>
-<image_broadcast>00000000073429</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.9.</episode-num>
-<episode-num system="onscreen">9</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604170000 -0300" stop="20150604173000 -0300" channel="CES" program_id="0000098063" event_id="00000000000095877781" series_key="00000000069642000000">
-<title lang="pt">Jornal Futura</title>
-<title lang="en">Jornal Futura</title>
-<desc>Programa jornalístico, no formato de revista eletrônica interativa, que busca reportar projetos e ações voltados para questões sociais, que levam à reflexão sobre os problemas do nosso dia a dia e suas possíveis soluções.</desc>
-<credits>
-<actor>Adriana Couto</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069642.jpg</image_name>
-<image_broadcast>00000000069642</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604173000 -0300" stop="20150604183000 -0300" channel="CES" program_id="0000302145" event_id="00000000000095877782" series_key="">
-<title lang="pt">Comunidade do Conhecimento</title>
-<desc>Programa produzido por Wall Baurinuevo.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000302145.jpg</image_name>
-<image_broadcast>0000302145</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604183000 -0300" stop="20150604190000 -0300" channel="CES" program_id="0000353853" event_id="00000000000095877783" series_key="">
-<title lang="pt">Bravo</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000353853.jpg</image_name>
-<image_broadcast>0000353853</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604190000 -0300" stop="20150604193000 -0300" channel="CES" program_id="0000422874" event_id="00000000000095877784" series_key="00000000076292000000">
-<title lang="pt">Freemind</title>
-<desc></desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000076292.jpg</image_name>
-<image_broadcast>00000000076292</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604193000 -0300" stop="20150604200000 -0300" channel="CES" program_id="0000318411" event_id="00000000000095877785" series_key="00000000068406000000">
-<title lang="pt">Família Imperial</title>
-<sub-title lang="pt">Dia do Fico</sub-title>
-<desc>A amizade de Iara e Jonas com o pequeno Dom Pedro I rendeu um convite para um jantar no palácio de Dom João. Iara está ansiosa para o jantar: ela quer deixar de ser "Boca Virgem".</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Infantil</category>
-<image>
-<image_name position="1">00000000068406.jpg</image_name>
-<image_broadcast>00000000068406</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604200000 -0300" stop="20150604201000 -0300" channel="CES" program_id="0000381492" event_id="00000000000095877786" series_key="00000000073424000015">
-<title lang="pt">Cores do Futebol</title>
-<sub-title lang="pt">Ep. 15</sub-title>
-<desc></desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000073424.jpg</image_name>
-<image_broadcast>00000000073424</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.15.</episode-num>
-<episode-num system="onscreen">15</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604201000 -0300" stop="20150604204000 -0300" channel="CES" program_id="0000262998" event_id="00000000000095877787" series_key="00000000067288000000">
-<title lang="pt">Nossos Atletas</title>
-<desc>A série Nossos Atletas revela o cotidiano de esportistas latino-americanos</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Documentário</category>
-<image>
-<image_name position="1">00000000067288.jpg</image_name>
-<image_broadcast>00000000067288</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604204000 -0300" stop="20150604210000 -0300" channel="CES" program_id="0000348785" event_id="00000000000095877788" series_key="00000000071264000000">
-<title lang="pt">Futurando</title>
-<desc>Como você imagina o nosso futuro? Você já pensou como a tecnologia pode melhorar a nossa vida? O Futurando, revista semanal produzida pela Deustch Welle, vai atrás dessas respostas.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000071264.jpg</image_name>
-<image_broadcast>00000000071264</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604210000 -0300" stop="20150604213000 -0300" channel="CES" program_id="0000298331" event_id="00000000000095877789" series_key="">
-<title lang="pt">Entendendo Direito</title>
-<desc>Programa voltado ao mundo dos direitos e deveres do cidadão, entrevistas com advogados, promotores, juízes e acadêmicos de Direito.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">0000298331.jpg</image_name>
-<image_broadcast>0000298331</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604213000 -0300" stop="20150604220000 -0300" channel="CES" program_id="0000422874" event_id="00000000000095877790" series_key="00000000076292000000">
-<title lang="pt">Freemind</title>
-<desc></desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000076292.jpg</image_name>
-<image_broadcast>00000000076292</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604220000 -0300" stop="20150604230000 -0300" channel="CES" program_id="0000302145" event_id="00000000000095877791" series_key="">
-<title lang="pt">Comunidade do Conhecimento</title>
-<desc>Programa produzido por Wall Baurinuevo.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000302145.jpg</image_name>
-<image_broadcast>0000302145</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604230000 -0300" stop="20150605000000 -0300" channel="CES" program_id="0000334129" event_id="00000000000095877792" series_key="">
-<title lang="pt">Culto e Cultura</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000334129.jpg</image_name>
-<image_broadcast>0000334129</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
 <programme start="20150605000000 -0300" stop="20150605002500 -0300" channel="CES" program_id="0000098063" event_id="00000000000096013795" series_key="00000000069642000000">
 <title lang="pt">Jornal Futura</title>
 <title lang="en">Jornal Futura</title>
@@ -16367,6 +14510,1852 @@
 </image>
 <episode-num system="xmltv_ns">.22.</episode-num>
 <episode-num system="onscreen">22</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622000000 -0300" stop="20150622003000 -0300" channel="CES" program_id="0000418744" event_id="00000000000096947045" series_key="">
+<title lang="pt">Video Palestra</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000418744.jpg</image_name>
+<image_broadcast>0000418744</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622003000 -0300" stop="20150622005000 -0300" channel="CES" program_id="0000262998" event_id="00000000000096947046" series_key="00000000067288000000">
+<title lang="pt">Nossos Atletas</title>
+<desc>A série Nossos Atletas revela o cotidiano de esportistas latino-americanos</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000067288.jpg</image_name>
+<image_broadcast>00000000067288</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622005000 -0300" stop="20150622010000 -0300" channel="CES" program_id="0000344744" event_id="00000000000096947047" series_key="00000000071469000000">
+<title lang="pt">Euronews</title>
+<desc>A Euronews é um canal de notícias internacional com programas e matérias sobre ciência, tecnologia e educação que são exibidos em diversos países e línguas do mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000071469.jpg</image_name>
+<image_broadcast>00000000071469</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622010000 -0300" stop="20150622013000 -0300" channel="CES" program_id="0000409100" event_id="00000000000096947048" series_key="00000000068600000045">
+<title lang="pt">Mit Blossoms</title>
+<sub-title lang="pt">Ep. 45</sub-title>
+<desc>A aula busca esclarecer o significado da força centrífuga através das Leis de Newton, em particular, a Lei da Inércia.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000068600.jpg</image_name>
+<image_broadcast>00000000068600</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.45.</episode-num>
+<episode-num system="onscreen">45</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622013000 -0300" stop="20150622020000 -0300" channel="CES" program_id="0000239741" event_id="00000000000096947049" series_key="00000000044647000143">
+<title lang="pt">Passagem Para...</title>
+<sub-title lang="pt">Ep. 143</sub-title>
+<desc>Em Cuba, Luís Nachbin não é um viajante solitário. Pela primeira vez, ele trabalha acompanhado da mulher e da filha.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000044647.jpg</image_name>
+<image_broadcast>00000000044647</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.143.</episode-num>
+<episode-num system="onscreen">143</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622020000 -0300" stop="20150622021500 -0300" channel="CES" program_id="0000098064" event_id="00000000000096947050" series_key="00000000070020000000">
+<title lang="pt">Sala de Notícias</title>
+<title lang="en">Sala de Notícias</title>
+<desc>Jornal temático, com 20 minutos de duração, que aprofunda e discute as notícias de grande exposição na mídia. A cada edição, o Sala de Notícias reúne material dos principais telejornais além de reportagens próprias.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000070020.jpg</image_name>
+<image_broadcast>00000000070020</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622021500 -0300" stop="20150622023000 -0300" channel="CES" program_id="0000344744" event_id="00000000000096947051" series_key="00000000071469000000">
+<title lang="pt">Euronews</title>
+<desc>A Euronews é um canal de notícias internacional com programas e matérias sobre ciência, tecnologia e educação que são exibidos em diversos países e línguas do mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000071469.jpg</image_name>
+<image_broadcast>00000000071469</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622023000 -0300" stop="20150622040000 -0300" channel="CES" program_id="0000391094" event_id="00000000000096947052" series_key="">
+<title lang="pt">Tati a Garota</title>
+<desc>A costureira Manuela, mãe solteira de Tati, de sete anos, muda-se do subúrbio para Copacabana, na esperança de conseguir melhor freguesia. Tati, inteligente, encantadora, é ao mesmo tempo sofrida e humilhada pelas outras crianças por não ter pai.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cinema</category>
+<image>
+<image_name position="1">0000391094.jpg</image_name>
+<image_broadcast>0000391094</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622040000 -0300" stop="20150622043000 -0300" channel="CES" program_id="0000348785" event_id="00000000000096947053" series_key="00000000071264000000">
+<title lang="pt">Futurando</title>
+<desc>Como você imagina o nosso futuro? Você já pensou como a tecnologia pode melhorar a nossa vida? O Futurando, revista semanal produzida pela Deustch Welle, vai atrás dessas respostas.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000071264.jpg</image_name>
+<image_broadcast>00000000071264</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622043000 -0300" stop="20150622050000 -0300" channel="CES" program_id="0000404613" event_id="00000000000096947054" series_key="00000000072550000150">
+<title lang="pt">Um Pé de Quê?</title>
+<sub-title lang="pt">Ep. 150</sub-title>
+<desc>Regina Casé vai à colônia japonesa de Conquista, em Nova Friburgo - RJ, conhecer uma fruta do extremo oriente que recebeu por aqui o seu nome japonês: Caqui.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000072550.jpg</image_name>
+<image_broadcast>00000000072550</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.150.</episode-num>
+<episode-num system="onscreen">150</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622050000 -0300" stop="20150622051500 -0300" channel="CES" program_id="0000389274" event_id="00000000000096947055" series_key="00000000074527000043">
+<title lang="pt">Novo Telecurso</title>
+<sub-title lang="pt">Ensino Fundamental - Ep. 43</sub-title>
+<desc>Nesta teleaula você verá que existem muitas formas de comunicar as ideias e que a Matemática é uma dessas formas. Além disso, ficará sabendo que a linguagem Matemática se comunica através de símbolos universais.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000074527.jpg</image_name>
+<image_broadcast>00000000074527</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.43.</episode-num>
+<episode-num system="onscreen">43</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622051500 -0300" stop="20150622053000 -0300" channel="CES" program_id="0000421185" event_id="00000000000096947056" series_key="00000000076235000001">
+<title lang="pt">Novo Telecurso</title>
+<sub-title lang="pt">Ensino Médio - Ep. 1</sub-title>
+<desc>Na primeira teleaula de Filosofia você vai aprender sobre a origem da Filosofia. Vai ver que a  mitologia também é uma maneira de explicar o mundo, mas de um jeito fantasioso, com a ajuda de deuses e entes sobrenaturais.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000076235.jpg</image_name>
+<image_broadcast>00000000076235</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.1.</episode-num>
+<episode-num system="onscreen">1</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622053000 -0300" stop="20150622054500 -0300" channel="CES" program_id="0000224437" event_id="00000000000096947057" series_key="00000000070761000000">
+<title lang="pt">Telecurso Tec</title>
+<sub-title lang="pt">A estrutura da organização e o trab alho em equipe</sub-title>
+<desc>A importância do trabalho em equipe com a descentralização de decisões, troca de funções, valorização do conhecimento técnico. Comercial: Casal Unibanco.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000070761.jpg</image_name>
+<image_broadcast>00000000070761</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622054500 -0300" stop="20150622060000 -0300" channel="CES" program_id="0000150838" event_id="00000000000096947058" series_key="00000000063622000000">
+<title lang="pt">Telecurso Profissionalizante</title>
+<desc>O Telecurso é reconhecido mundialmente como uma metodologia que promove um salto de qualidade na educação, tendo beneficiado mais de 5,5 milhões de pessoas nas 27.714 telesalas em todo o Brasil.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000063622.jpg</image_name>
+<image_broadcast>00000000063622</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622060000 -0300" stop="20150622063000 -0300" channel="CES" program_id="0000207205" event_id="00000000000096947059" series_key="00000000061914000000">
+<title lang="pt">Estação Saúde</title>
+<sub-title lang="pt">Gripes e Resfriados</sub-title>
+<desc>Gripes e resfriados são doenças comuns e, justamente por conta disso, muita gente acha que sabe como tratá-las.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000061914.jpg</image_name>
+<image_broadcast>00000000061914</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622063000 -0300" stop="20150622070000 -0300" channel="CES" program_id="0000404531" event_id="00000000000096947060" series_key="00000000056823000004">
+<title lang="pt">Futura Profissão</title>
+<sub-title lang="pt">Técnico em Refrigeração e Climatização - Ep. 4</sub-title>
+<desc>A geladeira e o ar condicionado fazem parte do dia a dia do nosso país tropical. Mas como o controle da temperatura funciona em larga escala? Quem cuida desse desafio é o técnico em refrigeração e climatização.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000056823.jpg</image_name>
+<image_broadcast>00000000056823</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.4.</episode-num>
+<episode-num system="onscreen">4</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622070000 -0300" stop="20150622071000 -0300" channel="CES" program_id="0000344744" event_id="00000000000096947061" series_key="00000000071469000000">
+<title lang="pt">Euronews</title>
+<desc>A Euronews é um canal de notícias internacional com programas e matérias sobre ciência, tecnologia e educação que são exibidos em diversos países e línguas do mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000071469.jpg</image_name>
+<image_broadcast>00000000071469</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622071000 -0300" stop="20150622073000 -0300" channel="CES" program_id="0000098063" event_id="00000000000096947062" series_key="00000000069642000000">
+<title lang="pt">Jornal Futura</title>
+<title lang="en">Jornal Futura</title>
+<desc>Programa jornalístico, no formato de revista eletrônica interativa, que busca reportar projetos e ações voltados para questões sociais, que levam à reflexão sobre os problemas do nosso dia a dia e suas possíveis soluções.</desc>
+<credits>
+<actor>Adriana Couto</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069642.jpg</image_name>
+<image_broadcast>00000000069642</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622073000 -0300" stop="20150622080000 -0300" channel="CES" program_id="0000203326" event_id="00000000000096947063" series_key="">
+<title lang="pt">Conexão Futura</title>
+<desc>O Conexão Futura tem a preocupação de informar com uma linguagem simples sobre caminhos possíveis para a construção da cidadania.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000203326.jpg</image_name>
+<image_broadcast>0000203326</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622080000 -0300" stop="20150622093000 -0300" channel="CES" program_id="0000404545" event_id="00000000000096947064" series_key="00000000075302000000">
+<title lang="pt">Paio e Dongo</title>
+<desc>A grande ênfase da série Paio&amp;Dongo é promover o brincar, ao dar relevo para experiências lúdicas em seus roteiros e situações ficcionais.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000075302.jpg</image_name>
+<image_broadcast>00000000075302</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622093000 -0300" stop="20150622100000 -0300" channel="CES" program_id="0000318546" event_id="00000000000096947065" series_key="00000000073653000000">
+<title lang="pt">Mundo da Leitura</title>
+<sub-title lang="pt">O Cavalheirismo do Macaco</sub-title>
+<desc>Gali-Leu está com Alice e Alberto no Mundo da Leitura. Natália está atendendo as crianças quando Reco-Reco chega. Mas além de falar, ele está piando, e garante que é um pássaro. Assista a história "O cavalheirismo do macaco".</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000073653.jpg</image_name>
+<image_broadcast>00000000073653</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622100000 -0300" stop="20150622103000 -0300" channel="CES" program_id="0000207416" event_id="00000000000096947066" series_key="00000000061904000000">
+<title lang="pt">Sítio do Picapau Amarelo</title>
+<desc>Seriado infantil baseado na obra de Monteiro Lobato.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Infantil</category>
+<image>
+<image_name position="1">00000000061904.jpg</image_name>
+<image_broadcast>00000000061904</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622103000 -0300" stop="20150622110000 -0300" channel="CES" program_id="0000246581" event_id="00000000000096947067" series_key="00000000064597000002">
+<title lang="pt">Aventuras com os Kratts</title>
+<sub-title lang="pt">Ep. 2</sub-title>
+<desc>Os irmãos Kratt estão testando o protótipo de submarino de Aviva quando a embarcação fica presa em uma batalha entre um cachalote e uma lula-gigante, afundando nas profundezas. Martin e Chris vestem trajes especiais para procurar o submarino.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Infantil</category>
+<image>
+<image_name position="1">00000000064597.jpg</image_name>
+<image_broadcast>00000000064597</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.2.</episode-num>
+<episode-num system="onscreen">2</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622110000 -0300" stop="20150622120000 -0300" channel="CES" program_id="0000404545" event_id="00000000000096947068" series_key="00000000075302000000">
+<title lang="pt">Paio e Dongo</title>
+<desc>A grande ênfase da série Paio&amp;Dongo é promover o brincar, ao dar relevo para experiências lúdicas em seus roteiros e situações ficcionais.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000075302.jpg</image_name>
+<image_broadcast>00000000075302</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622120000 -0300" stop="20150622130000 -0300" channel="CES" program_id="0000302145" event_id="00000000000096947069" series_key="">
+<title lang="pt">Comunidade do Conhecimento</title>
+<desc>Programa produzido por Wall Baurinuevo.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000302145.jpg</image_name>
+<image_broadcast>0000302145</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622130000 -0300" stop="20150622133000 -0300" channel="CES" program_id="0000353853" event_id="00000000000096947070" series_key="">
+<title lang="pt">Bravo</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000353853.jpg</image_name>
+<image_broadcast>0000353853</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622133000 -0300" stop="20150622140000 -0300" channel="CES" program_id="0000404613" event_id="00000000000096947071" series_key="00000000072550000150">
+<title lang="pt">Um Pé de Quê?</title>
+<sub-title lang="pt">Ep. 150</sub-title>
+<desc>Regina Casé vai à colônia japonesa de Conquista, em Nova Friburgo - RJ, conhecer uma fruta do extremo oriente que recebeu por aqui o seu nome japonês: Caqui.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000072550.jpg</image_name>
+<image_broadcast>00000000072550</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.150.</episode-num>
+<episode-num system="onscreen">150</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622140000 -0300" stop="20150622143000 -0300" channel="CES" program_id="0000345328" event_id="00000000000096947072" series_key="00000000071025000000">
+<title lang="pt">Sobre Rodas</title>
+<desc>O episódio de estreia da série é dedicado aos "artistas de rua", mestres na arte de entreter o público.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">00000000071025.jpg</image_name>
+<image_broadcast>00000000071025</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622143000 -0300" stop="20150622143500 -0300" channel="CES" program_id="0000203326" event_id="00000000000096947073" series_key="">
+<title lang="pt">Conexão Futura</title>
+<desc>O Conexão Futura tem a preocupação de informar com uma linguagem simples sobre caminhos possíveis para a construção da cidadania.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000203326.jpg</image_name>
+<image_broadcast>0000203326</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622143500 -0300" stop="20150622145000 -0300" channel="CES" program_id="0000098064" event_id="00000000000096947074" series_key="00000000070020000000">
+<title lang="pt">Sala de Notícias</title>
+<title lang="en">Sala de Notícias</title>
+<desc>Jornal temático, com 20 minutos de duração, que aprofunda e discute as notícias de grande exposição na mídia. A cada edição, o Sala de Notícias reúne material dos principais telejornais além de reportagens próprias.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000070020.jpg</image_name>
+<image_broadcast>00000000070020</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622145000 -0300" stop="20150622150000 -0300" channel="CES" program_id="0000203326" event_id="00000000000096947075" series_key="">
+<title lang="pt">Conexão Futura</title>
+<desc>O Conexão Futura tem a preocupação de informar com uma linguagem simples sobre caminhos possíveis para a construção da cidadania.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000203326.jpg</image_name>
+<image_broadcast>0000203326</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622150000 -0300" stop="20150622152500 -0300" channel="CES" program_id="0000391057" event_id="00000000000096947076" series_key="00000000072077000011">
+<title lang="pt">Nota 10 - Vale</title>
+<sub-title lang="pt">Ep. 11</sub-title>
+<desc>Nota 10 apresenta o conceito e a metodologia da educação afetivo-sexual. A apresentadora viaja até Ouro Preto, Minas Gerais, para conhecer de perto dois projetos pedagógicos que vêm contribuindo para o desenvolvimento de relações interpessoais.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000072077.jpg</image_name>
+<image_broadcast>00000000072077</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.11.</episode-num>
+<episode-num system="onscreen">11</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622152500 -0300" stop="20150622155000 -0300" channel="CES" program_id="0000203326" event_id="00000000000096947077" series_key="">
+<title lang="pt">Conexão Futura</title>
+<desc>O Conexão Futura tem a preocupação de informar com uma linguagem simples sobre caminhos possíveis para a construção da cidadania.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000203326.jpg</image_name>
+<image_broadcast>0000203326</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622155000 -0300" stop="20150622160000 -0300" channel="CES" program_id="0000344744" event_id="00000000000096947078" series_key="00000000071469000000">
+<title lang="pt">Euronews</title>
+<desc>A Euronews é um canal de notícias internacional com programas e matérias sobre ciência, tecnologia e educação que são exibidos em diversos países e línguas do mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000071469.jpg</image_name>
+<image_broadcast>00000000071469</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622160000 -0300" stop="20150622162500 -0300" channel="CES" program_id="0000210448" event_id="00000000000096947079" series_key="00000000061914000000">
+<title lang="pt">Estação Saúde</title>
+<sub-title lang="pt">Gravidez de Risco</sub-title>
+<desc>O Estação Saúde mostra, neste episódio, que o acompanhamento médico e a informação são fundamentais para qualquer gestante, e mais ainda para aquelas que correm algum risco.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000061914.jpg</image_name>
+<image_broadcast>00000000061914</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622162500 -0300" stop="20150622163000 -0300" channel="CES" program_id="0000301130" event_id="00000000000096947080" series_key="">
+<title lang="pt">Boletim Futura</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000301130.jpg</image_name>
+<image_broadcast>0000301130</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622163000 -0300" stop="20150622170000 -0300" channel="CES" program_id="0000097478" event_id="00000000000096947081" series_key="00000000063602000000">
+<title lang="pt">Pequenas Empresas, Grandes Negócios</title>
+<title lang="en">Pequenas Empresas, Grandes Negócios</title>
+<desc>O programa Pequenas Empresas, Grandes Negócios transmite ideias e alternativas de sobrevivência para pessoas que desejam desenvolver uma atividade própria.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000063602.jpg</image_name>
+<image_broadcast>00000000063602</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622170000 -0300" stop="20150622173000 -0300" channel="CES" program_id="0000098063" event_id="00000000000096947082" series_key="00000000069642000000">
+<title lang="pt">Jornal Futura</title>
+<title lang="en">Jornal Futura</title>
+<desc>Programa jornalístico, no formato de revista eletrônica interativa, que busca reportar projetos e ações voltados para questões sociais, que levam à reflexão sobre os problemas do nosso dia a dia e suas possíveis soluções.</desc>
+<credits>
+<actor>Adriana Couto</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069642.jpg</image_name>
+<image_broadcast>00000000069642</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622173000 -0300" stop="20150622183000 -0300" channel="CES" program_id="0000302145" event_id="00000000000096947083" series_key="">
+<title lang="pt">Comunidade do Conhecimento</title>
+<desc>Programa produzido por Wall Baurinuevo.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000302145.jpg</image_name>
+<image_broadcast>0000302145</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622183000 -0300" stop="20150622190000 -0300" channel="CES" program_id="0000353853" event_id="00000000000096947084" series_key="">
+<title lang="pt">Bravo</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000353853.jpg</image_name>
+<image_broadcast>0000353853</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622190000 -0300" stop="20150622193000 -0300" channel="CES" program_id="0000422874" event_id="00000000000096947085" series_key="00000000076292000000">
+<title lang="pt">Freemind</title>
+<desc></desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000076292.jpg</image_name>
+<image_broadcast>00000000076292</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622193000 -0300" stop="20150622200000 -0300" channel="CES" program_id="0000421114" event_id="00000000000096947086" series_key="00000000056823000005">
+<title lang="pt">Futura Profissão</title>
+<sub-title lang="pt">Ep. 5</sub-title>
+<desc>Preservar a natureza ainda é um grande desafio para a indústria. O técnico em meio ambiente é o profissional responsável em propor soluções criativas, analisar os impactos das atividades e garantir o desenvolvimento sustentável das empresas.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000056823.jpg</image_name>
+<image_broadcast>00000000056823</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.5.</episode-num>
+<episode-num system="onscreen">5</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622200000 -0300" stop="20150622201500 -0300" channel="CES" program_id="0000378257" event_id="00000000000096947087" series_key="">
+<title lang="pt">Learning World</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000378257.jpg</image_name>
+<image_broadcast>0000378257</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622201500 -0300" stop="20150622203000 -0300" channel="CES" program_id="0000378257" event_id="00000000000096947088" series_key="">
+<title lang="pt">Learning World</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000378257.jpg</image_name>
+<image_broadcast>0000378257</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622203000 -0300" stop="20150622210000 -0300" channel="CES" program_id="0000273844" event_id="00000000000096947089" series_key="">
+<title lang="pt">Vida de República</title>
+<sub-title lang="pt">Ep. 2</sub-title>
+<desc>Leandra chega em casa cansada, e Joana, a mais recente moradora da república, está explicando  para os outros moradores como, a partir de agora, eles devem seguir algumas novas regras na casa.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">0000273844.jpg</image_name>
+<image_broadcast>0000273844</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.2.</episode-num>
+<episode-num system="onscreen">2</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622210000 -0300" stop="20150622213000 -0300" channel="CES" program_id="0000422874" event_id="00000000000096947090" series_key="00000000076292000000">
+<title lang="pt">Freemind</title>
+<desc></desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000076292.jpg</image_name>
+<image_broadcast>00000000076292</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622213000 -0300" stop="20150622220000 -0300" channel="CES" program_id="0000422874" event_id="00000000000096947091" series_key="00000000076292000000">
+<title lang="pt">Freemind</title>
+<desc></desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000076292.jpg</image_name>
+<image_broadcast>00000000076292</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622220000 -0300" stop="20150622230000 -0300" channel="CES" program_id="0000302145" event_id="00000000000096947092" series_key="">
+<title lang="pt">Comunidade do Conhecimento</title>
+<desc>Programa produzido por Wall Baurinuevo.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000302145.jpg</image_name>
+<image_broadcast>0000302145</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622230000 -0300" stop="20150622233000 -0300" channel="CES" program_id="0000401951" event_id="00000000000096947093" series_key="">
+<title lang="pt">Guiados Pelo Sabor</title>
+<sub-title lang="pt">Ep. 2</sub-title>
+<desc>Harry e Talytha encontram-se com Marcia, uma especialista em pão de queijo. Depois, vão ao restaurante Trindade, onde Harry cozinha com o chef Felipe Rameh.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Culinária</category>
+<image>
+<image_name position="1">0000401951.jpg</image_name>
+<image_broadcast>0000401951</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.2.</episode-num>
+<episode-num system="onscreen">2</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622233000 -0300" stop="20150623000000 -0300" channel="CES" program_id="0000242777" event_id="00000000000096947094" series_key="00000000064326000011">
+<title lang="pt">Entre Fronteiras</title>
+<sub-title lang="pt">Ep. 11</sub-title>
+<desc>Na estrada, a caminho da fronteira com a Bolívia, mora um cubano. A casa é uma cabana de plástico e a única ocupação são as revistas e o rádio, ligado invariavelmente no noticiário político.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000064326.jpg</image_name>
+<image_broadcast>00000000064326</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.11.</episode-num>
+<episode-num system="onscreen">11</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623000000 -0300" stop="20150623002500 -0300" channel="CES" program_id="0000098063" event_id="00000000000097100447" series_key="00000000069642000000">
+<title lang="pt">Jornal Futura</title>
+<title lang="en">Jornal Futura</title>
+<desc>Programa jornalístico, no formato de revista eletrônica interativa, que busca reportar projetos e ações voltados para questões sociais, que levam à reflexão sobre os problemas do nosso dia a dia e suas possíveis soluções.</desc>
+<credits>
+<actor>Adriana Couto</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069642.jpg</image_name>
+<image_broadcast>00000000069642</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623002500 -0300" stop="20150623005000 -0300" channel="CES" program_id="0000203326" event_id="00000000000097100448" series_key="">
+<title lang="pt">Conexão Futura</title>
+<desc>O Conexão Futura tem a preocupação de informar com uma linguagem simples sobre caminhos possíveis para a construção da cidadania.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000203326.jpg</image_name>
+<image_broadcast>0000203326</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623005000 -0300" stop="20150623010000 -0300" channel="CES" program_id="0000344744" event_id="00000000000097100449" series_key="00000000071469000000">
+<title lang="pt">Euronews</title>
+<desc>A Euronews é um canal de notícias internacional com programas e matérias sobre ciência, tecnologia e educação que são exibidos em diversos países e línguas do mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000071469.jpg</image_name>
+<image_broadcast>00000000071469</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623010000 -0300" stop="20150623013000 -0300" channel="CES" program_id="0000409090" event_id="00000000000097100450" series_key="00000000068600000046">
+<title lang="pt">Mit Blossoms</title>
+<sub-title lang="pt">Ep. 46</sub-title>
+<desc>Esta aula apresenta uma visão abrangente da diabetes, incluindo suas causas e sintomas. Fala também sobre os processos biológicos que levam a ela e quais hábitos saudáveis devem ser adotados para sua prevenção.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000068600.jpg</image_name>
+<image_broadcast>00000000068600</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.46.</episode-num>
+<episode-num system="onscreen">46</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623013000 -0300" stop="20150623020000 -0300" channel="CES" program_id="0000239742" event_id="00000000000097100451" series_key="00000000044647000144">
+<title lang="pt">Passagem Para...</title>
+<sub-title lang="pt">Ep. 144</sub-title>
+<desc>A cidade de Sancti Spíritus é uma das paradas da viagem de Luís Nachbin e família por Cuba. É também onde vive Liudmila Quincoses, uma escritora de cartas de amor.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000044647.jpg</image_name>
+<image_broadcast>00000000044647</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.144.</episode-num>
+<episode-num system="onscreen">144</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623020000 -0300" stop="20150623021500 -0300" channel="CES" program_id="0000098064" event_id="00000000000097100452" series_key="00000000070020000000">
+<title lang="pt">Sala de Notícias</title>
+<title lang="en">Sala de Notícias</title>
+<desc>Jornal temático, com 20 minutos de duração, que aprofunda e discute as notícias de grande exposição na mídia. A cada edição, o Sala de Notícias reúne material dos principais telejornais além de reportagens próprias.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000070020.jpg</image_name>
+<image_broadcast>00000000070020</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623021500 -0300" stop="20150623023000 -0300" channel="CES" program_id="0000344744" event_id="00000000000097100453" series_key="00000000071469000000">
+<title lang="pt">Euronews</title>
+<desc>A Euronews é um canal de notícias internacional com programas e matérias sobre ciência, tecnologia e educação que são exibidos em diversos países e línguas do mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000071469.jpg</image_name>
+<image_broadcast>00000000071469</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623023000 -0300" stop="20150623030000 -0300" channel="CES" program_id="0000418722" event_id="00000000000097100454" series_key="00000000076144000000">
+<title lang="pt">Camarote.21</title>
+<desc>O programa, mostra toda a diversidade cultural da Europa. A cada semana, é apresentada a cultura do século 21: uma janela aberta para as novas tendências do mundo artístico.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">00000000076144.jpg</image_name>
+<image_broadcast>00000000076144</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623030000 -0300" stop="20150623033000 -0300" channel="CES" program_id="0000273844" event_id="00000000000097100455" series_key="">
+<title lang="pt">Vida de República</title>
+<sub-title lang="pt">Ep. 2</sub-title>
+<desc>Leandra chega em casa cansada, e Joana, a mais recente moradora da república, está explicando  para os outros moradores como, a partir de agora, eles devem seguir algumas novas regras na casa.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">0000273844.jpg</image_name>
+<image_broadcast>0000273844</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.2.</episode-num>
+<episode-num system="onscreen">2</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623033000 -0300" stop="20150623040000 -0300" channel="CES" program_id="0000348929" event_id="00000000000097100456" series_key="00000000063632000005">
+<title lang="pt">Profissão Repórter</title>
+<sub-title lang="pt">Ep. 5</sub-title>
+<desc>Caco Barcellos revela histórias de moradores de rua de São Paulo afetados por transtornos mentais. Sua equipe percorre o manicômio mais antigo do país, o Hospital São Pedro, em Porto Alegre.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000063632.jpg</image_name>
+<image_broadcast>00000000063632</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.5.</episode-num>
+<episode-num system="onscreen">5</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623040000 -0300" stop="20150623041000 -0300" channel="CES" program_id="0000378257" event_id="00000000000097100457" series_key="">
+<title lang="pt">Learning World</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000378257.jpg</image_name>
+<image_broadcast>0000378257</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623041000 -0300" stop="20150623042000 -0300" channel="CES" program_id="0000378257" event_id="00000000000097100458" series_key="">
+<title lang="pt">Learning World</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000378257.jpg</image_name>
+<image_broadcast>0000378257</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623042000 -0300" stop="20150623043000 -0300" channel="CES" program_id="0000298797" event_id="00000000000097100459" series_key="">
+<title lang="pt">Futurapédia</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">0000298797.jpg</image_name>
+<image_broadcast>0000298797</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623043000 -0300" stop="20150623050000 -0300" channel="CES" program_id="0000345328" event_id="00000000000097100460" series_key="00000000071025000000">
+<title lang="pt">Sobre Rodas</title>
+<desc>O episódio de estreia da série é dedicado aos "artistas de rua", mestres na arte de entreter o público.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">00000000071025.jpg</image_name>
+<image_broadcast>00000000071025</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623050000 -0300" stop="20150623051500 -0300" channel="CES" program_id="0000366363" event_id="00000000000097100461" series_key="00000000074527000029">
+<title lang="pt">Novo Telecurso</title>
+<sub-title lang="pt">Ensino Fundamental - Ep. 29</sub-title>
+<desc>Nesta teleaula, você vai ver como foi o processo de ocupação da região norte e ainda vai ver quais são as principais características socioeconômicas culturais do norte do país.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000074527.jpg</image_name>
+<image_broadcast>00000000074527</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.29.</episode-num>
+<episode-num system="onscreen">29</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623051500 -0300" stop="20150623053000 -0300" channel="CES" program_id="0000421184" event_id="00000000000097100462" series_key="00000000076234000002">
+<title lang="pt">Novo Telecurso</title>
+<sub-title lang="pt">Ensino Médio - Ep. 2</sub-title>
+<desc>Na teleaula dois você vai aprender sobre a lógica, a disciplina da filosofia que estuda as regras do raciocínio. Vai ver que silogismo é uma forma de raciocínio formado de duas premissas ou juízos, e uma conclusão.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000076234.jpg</image_name>
+<image_broadcast>00000000076234</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.2.</episode-num>
+<episode-num system="onscreen">2</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623053000 -0300" stop="20150623054500 -0300" channel="CES" program_id="0000224448" event_id="00000000000097100463" series_key="00000000070761000000">
+<title lang="pt">Telecurso Tec</title>
+<sub-title lang="pt">Gestão de pessoas</sub-title>
+<desc>Os recursos humanos como o bem mais valioso das organizações. A importância da área de gestão de pessoas e seu alinhamento com o planejamento estratégico das organizações. Comercial: Meu primeiro sutiã.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000070761.jpg</image_name>
+<image_broadcast>00000000070761</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623054500 -0300" stop="20150623060000 -0300" channel="CES" program_id="0000150838" event_id="00000000000097100464" series_key="00000000063622000000">
+<title lang="pt">Telecurso Profissionalizante</title>
+<desc>O Telecurso é reconhecido mundialmente como uma metodologia que promove um salto de qualidade na educação, tendo beneficiado mais de 5,5 milhões de pessoas nas 27.714 telesalas em todo o Brasil.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000063622.jpg</image_name>
+<image_broadcast>00000000063622</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623060000 -0300" stop="20150623063000 -0300" channel="CES" program_id="0000207206" event_id="00000000000097100465" series_key="00000000061914000000">
+<title lang="pt">Estação Saúde</title>
+<sub-title lang="pt">Meningite</sub-title>
+<desc>O Estação Saúde esclarece as principais dúvidas a respeito da meningite, fala das formas de prevenção e dos diferentes tipos da doença.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000061914.jpg</image_name>
+<image_broadcast>00000000061914</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623063000 -0300" stop="20150623070000 -0300" channel="CES" program_id="0000097478" event_id="00000000000097100466" series_key="00000000063602000000">
+<title lang="pt">Pequenas Empresas, Grandes Negócios</title>
+<title lang="en">Pequenas Empresas, Grandes Negócios</title>
+<desc>O programa Pequenas Empresas, Grandes Negócios transmite ideias e alternativas de sobrevivência para pessoas que desejam desenvolver uma atividade própria.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000063602.jpg</image_name>
+<image_broadcast>00000000063602</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623070000 -0300" stop="20150623071000 -0300" channel="CES" program_id="0000344744" event_id="00000000000097100467" series_key="00000000071469000000">
+<title lang="pt">Euronews</title>
+<desc>A Euronews é um canal de notícias internacional com programas e matérias sobre ciência, tecnologia e educação que são exibidos em diversos países e línguas do mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000071469.jpg</image_name>
+<image_broadcast>00000000071469</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623071000 -0300" stop="20150623073000 -0300" channel="CES" program_id="0000098063" event_id="00000000000097100468" series_key="00000000069642000000">
+<title lang="pt">Jornal Futura</title>
+<title lang="en">Jornal Futura</title>
+<desc>Programa jornalístico, no formato de revista eletrônica interativa, que busca reportar projetos e ações voltados para questões sociais, que levam à reflexão sobre os problemas do nosso dia a dia e suas possíveis soluções.</desc>
+<credits>
+<actor>Adriana Couto</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069642.jpg</image_name>
+<image_broadcast>00000000069642</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623073000 -0300" stop="20150623080000 -0300" channel="CES" program_id="0000203326" event_id="00000000000097100469" series_key="">
+<title lang="pt">Conexão Futura</title>
+<desc>O Conexão Futura tem a preocupação de informar com uma linguagem simples sobre caminhos possíveis para a construção da cidadania.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000203326.jpg</image_name>
+<image_broadcast>0000203326</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623080000 -0300" stop="20150623093000 -0300" channel="CES" program_id="0000404545" event_id="00000000000097100470" series_key="00000000075302000000">
+<title lang="pt">Paio e Dongo</title>
+<desc>A grande ênfase da série Paio&amp;Dongo é promover o brincar, ao dar relevo para experiências lúdicas em seus roteiros e situações ficcionais.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000075302.jpg</image_name>
+<image_broadcast>00000000075302</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623093000 -0300" stop="20150623100000 -0300" channel="CES" program_id="0000318545" event_id="00000000000097100471" series_key="00000000073653000000">
+<title lang="pt">Mundo da Leitura</title>
+<sub-title lang="pt">A Tartaruga Aviadora</sub-title>
+<desc>É noite, e Ratazana está na sua toca, preocupada com Reco-Reco. Até que nosso ratinho gago chega, piando. O que irá acontecer? No Contação, assista a história "A tartaruga aviadora" e aprenda, na Oficina, a fazer uma tiara maluca.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000073653.jpg</image_name>
+<image_broadcast>00000000073653</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623100000 -0300" stop="20150623103000 -0300" channel="CES" program_id="0000207416" event_id="00000000000097100472" series_key="00000000061904000000">
+<title lang="pt">Sítio do Picapau Amarelo</title>
+<desc>Seriado infantil baseado na obra de Monteiro Lobato.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Infantil</category>
+<image>
+<image_name position="1">00000000061904.jpg</image_name>
+<image_broadcast>00000000061904</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623103000 -0300" stop="20150623110000 -0300" channel="CES" program_id="0000246468" event_id="00000000000097100473" series_key="00000000064597000003">
+<title lang="pt">Aventuras com os Kratts</title>
+<sub-title lang="pt">Ep. 3</sub-title>
+<desc>Quando um porco-da-terra vai parar sem querer na mochila de Chris, a equipe vai de porta em porta para tentar devolvê-lo à sua toca. No caminho, eles descobrem como este animal africano manipula a terra para alterar a paisagem.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Infantil</category>
+<image>
+<image_name position="1">00000000064597.jpg</image_name>
+<image_broadcast>00000000064597</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.3.</episode-num>
+<episode-num system="onscreen">3</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623110000 -0300" stop="20150623120000 -0300" channel="CES" program_id="0000404545" event_id="00000000000097100474" series_key="00000000075302000000">
+<title lang="pt">Paio e Dongo</title>
+<desc>A grande ênfase da série Paio&amp;Dongo é promover o brincar, ao dar relevo para experiências lúdicas em seus roteiros e situações ficcionais.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000075302.jpg</image_name>
+<image_broadcast>00000000075302</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623120000 -0300" stop="20150623130000 -0300" channel="CES" program_id="0000302145" event_id="00000000000097100475" series_key="">
+<title lang="pt">Comunidade do Conhecimento</title>
+<desc>Programa produzido por Wall Baurinuevo.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000302145.jpg</image_name>
+<image_broadcast>0000302145</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623130000 -0300" stop="20150623133000 -0300" channel="CES" program_id="0000302148" event_id="00000000000097100476" series_key="">
+<title lang="pt">Dia de Campo</title>
+<desc>Programa da Embrapa que aborda temas variados, como agroenergia, agricultura e agroindústria, passando pela aqüicultura, segurança alimentar, meio ambiente, pecuária, nanotecnologia e bancos de germoplasma.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">0000302148.jpg</image_name>
+<image_broadcast>0000302148</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623133000 -0300" stop="20150623140000 -0300" channel="CES" program_id="0000407347" event_id="00000000000097100477" series_key="00000000064254000027">
+<title lang="pt">Dinheiro no Bolso</title>
+<sub-title lang="pt">Ep. 27</sub-title>
+<desc>"Dinheiro no bolso entra na reta final da terceira temporada e no sétimo episódio o tema é "poupar: verdades e mitos".</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Reality Show</category>
+<image>
+<image_name position="1">00000000064254.jpg</image_name>
+<image_broadcast>00000000064254</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.27.</episode-num>
+<episode-num system="onscreen">27</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623140000 -0300" stop="20150623143000 -0300" channel="CES" program_id="0000421199" event_id="00000000000097100478" series_key="00000000057419000146">
+<title lang="pt">Revelando os Brasis</title>
+<sub-title lang="pt">Ep. 146</sub-title>
+<desc>Um homem e uma serra. O que isso tem em comum? Qual o elo entre eles? Um bicho homem ou um homem bicho? Um ermitão? Um sábio? Um curandeiro? Afinal, o que é esse homem? De onde veio?</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">00000000057419.jpg</image_name>
+<image_broadcast>00000000057419</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.146.</episode-num>
+<episode-num system="onscreen">146</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623143000 -0300" stop="20150623143500 -0300" channel="CES" program_id="0000203326" event_id="00000000000097100479" series_key="">
+<title lang="pt">Conexão Futura</title>
+<desc>O Conexão Futura tem a preocupação de informar com uma linguagem simples sobre caminhos possíveis para a construção da cidadania.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000203326.jpg</image_name>
+<image_broadcast>0000203326</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623143500 -0300" stop="20150623145000 -0300" channel="CES" program_id="0000098064" event_id="00000000000097100480" series_key="00000000070020000000">
+<title lang="pt">Sala de Notícias</title>
+<title lang="en">Sala de Notícias</title>
+<desc>Jornal temático, com 20 minutos de duração, que aprofunda e discute as notícias de grande exposição na mídia. A cada edição, o Sala de Notícias reúne material dos principais telejornais além de reportagens próprias.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000070020.jpg</image_name>
+<image_broadcast>00000000070020</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623145000 -0300" stop="20150623150000 -0300" channel="CES" program_id="0000203326" event_id="00000000000097100481" series_key="">
+<title lang="pt">Conexão Futura</title>
+<desc>O Conexão Futura tem a preocupação de informar com uma linguagem simples sobre caminhos possíveis para a construção da cidadania.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000203326.jpg</image_name>
+<image_broadcast>0000203326</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623150000 -0300" stop="20150623152500 -0300" channel="CES" program_id="0000391079" event_id="00000000000097100482" series_key="00000000072077000012">
+<title lang="pt">Nota 10 - Votorantin</title>
+<sub-title lang="pt">Ep. 12</sub-title>
+<desc>Valorizar a arte e a cultura na educação dos jovens pode mudar o futuro de uma geração. O Nota 10 mostra o projeto A Arte do Brincante, dos dançarinos Antônio Nóbrega e Rosane Almeida, que forma arte-educadores a partir de oficinas.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000072077.jpg</image_name>
+<image_broadcast>00000000072077</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.12.</episode-num>
+<episode-num system="onscreen">12</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623152500 -0300" stop="20150623155000 -0300" channel="CES" program_id="0000203326" event_id="00000000000097100483" series_key="">
+<title lang="pt">Conexão Futura</title>
+<desc>O Conexão Futura tem a preocupação de informar com uma linguagem simples sobre caminhos possíveis para a construção da cidadania.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">0000203326.jpg</image_name>
+<image_broadcast>0000203326</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623155000 -0300" stop="20150623160000 -0300" channel="CES" program_id="0000344744" event_id="00000000000097100484" series_key="00000000071469000000">
+<title lang="pt">Euronews</title>
+<desc>A Euronews é um canal de notícias internacional com programas e matérias sobre ciência, tecnologia e educação que são exibidos em diversos países e línguas do mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000071469.jpg</image_name>
+<image_broadcast>00000000071469</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623160000 -0300" stop="20150623162500 -0300" channel="CES" program_id="0000207219" event_id="00000000000097100485" series_key="00000000061914000000">
+<title lang="pt">Estação Saúde</title>
+<sub-title lang="pt">Obesidade</sub-title>
+<desc></desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000061914.jpg</image_name>
+<image_broadcast>00000000061914</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623162500 -0300" stop="20150623163000 -0300" channel="CES" program_id="0000301130" event_id="00000000000097100486" series_key="">
+<title lang="pt">Boletim Futura</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000301130.jpg</image_name>
+<image_broadcast>0000301130</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623163000 -0300" stop="20150623170000 -0300" channel="CES" program_id="0000290940" event_id="00000000000097100487" series_key="00000000070878000000">
+<title lang="pt">Aprender a Empreender</title>
+<sub-title lang="pt">Fluxo de Caixa</sub-title>
+<desc>Os cobradores começam a procurar Helena. Arnaldo se propõe a dar consultoria para ela, mas sabendo que ela não aceitaria, resolvem usar Bruno pra se fingir de consultor e repassar seus conselhos.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000070878.jpg</image_name>
+<image_broadcast>00000000070878</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623170000 -0300" stop="20150623173000 -0300" channel="CES" program_id="0000098063" event_id="00000000000097100488" series_key="00000000069642000000">
+<title lang="pt">Jornal Futura</title>
+<title lang="en">Jornal Futura</title>
+<desc>Programa jornalístico, no formato de revista eletrônica interativa, que busca reportar projetos e ações voltados para questões sociais, que levam à reflexão sobre os problemas do nosso dia a dia e suas possíveis soluções.</desc>
+<credits>
+<actor>Adriana Couto</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069642.jpg</image_name>
+<image_broadcast>00000000069642</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623173000 -0300" stop="20150623183000 -0300" channel="CES" program_id="0000302145" event_id="00000000000097100489" series_key="">
+<title lang="pt">Comunidade do Conhecimento</title>
+<desc>Programa produzido por Wall Baurinuevo.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000302145.jpg</image_name>
+<image_broadcast>0000302145</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623183000 -0300" stop="20150623190000 -0300" channel="CES" program_id="0000353853" event_id="00000000000097100490" series_key="">
+<title lang="pt">Bravo</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000353853.jpg</image_name>
+<image_broadcast>0000353853</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623190000 -0300" stop="20150623193000 -0300" channel="CES" program_id="0000422874" event_id="00000000000097100491" series_key="00000000076292000000">
+<title lang="pt">Freemind</title>
+<desc></desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000076292.jpg</image_name>
+<image_broadcast>00000000076292</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623193000 -0300" stop="20150623200000 -0300" channel="CES" program_id="0000364743" event_id="00000000000097100492" series_key="00000000071760000006">
+<title lang="pt">Gps</title>
+<sub-title lang="pt">Ep. 6</sub-title>
+<desc>Na costa de Cartagena, entre banhistas e lanchas, a química computacional e ambiental alerta sobre os perigos da exposição à contaminação do ar e da água, situação comum a todos nós.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000071760.jpg</image_name>
+<image_broadcast>00000000071760</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.6.</episode-num>
+<episode-num system="onscreen">6</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623200000 -0300" stop="20150623201000 -0300" channel="CES" program_id="0000298797" event_id="00000000000097100493" series_key="">
+<title lang="pt">Futurapédia</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">0000298797.jpg</image_name>
+<image_broadcast>0000298797</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623201000 -0300" stop="20150623210000 -0300" channel="CES" program_id="0000010326" event_id="00000000000097100494" series_key="00000000072187000000">
+<title lang="pt">Globo Rural</title>
+<desc>O programa Globo Rural traz notícias sobre agronegócios, empreendimentos rurais e os principais índices do setor agrícola.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000072187.jpg</image_name>
+<image_broadcast>00000000072187</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623210000 -0300" stop="20150623220000 -0300" channel="CES" program_id="0000332452" event_id="00000000000097100495" series_key="">
+<title lang="pt">Sala Debate</title>
+<desc>O Sala Debate é um espaço de reflexão de temas da atualidade, que valoriza os diferentes pontos de vista relativos aos assuntos abordados.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000332452.jpg</image_name>
+<image_broadcast>0000332452</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623220000 -0300" stop="20150623230000 -0300" channel="CES" program_id="0000302145" event_id="00000000000097100496" series_key="">
+<title lang="pt">Comunidade do Conhecimento</title>
+<desc>Programa produzido por Wall Baurinuevo.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000302145.jpg</image_name>
+<image_broadcast>0000302145</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623230000 -0300" stop="20150623233000 -0300" channel="CES" program_id="0000214127" event_id="00000000000097100497" series_key="">
+<title lang="pt">No Rancho da Prosa</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000214127.jpg</image_name>
+<image_broadcast>0000214127</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623233000 -0300" stop="20150624000000 -0300" channel="CES" program_id="0000242768" event_id="00000000000097100498" series_key="00000000064326000012">
+<title lang="pt">Entre Fronteiras</title>
+<sub-title lang="pt">Ep. 12</sub-title>
+<desc>A cidadezinha brasileira de Cândido Godói, perto da fronteira com a Argentina, é conhecida por uma taxa extraordinária de nascimento de gêmeos.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000064326.jpg</image_name>
+<image_broadcast>00000000064326</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.12.</episode-num>
+<episode-num system="onscreen">12</episode-num>
 <video>
 <colour>yes</colour>
 </video>

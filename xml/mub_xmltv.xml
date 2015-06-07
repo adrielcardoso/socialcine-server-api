@@ -4,1303 +4,6 @@
 <display-name lang="pt">Music Box Brasil</display-name>
 <icon src="mub.gif" />
 </channel>
-<programme start="20150603000000 -0300" stop="20150603010000 -0300" channel="MUB" program_id="0000324295" event_id="00000000000097645196" series_key="">
-<title lang="pt">Jukebox</title>
-<desc>O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000324295.jpg</image_name>
-<image_broadcast>0000324295</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603010000 -0300" stop="20150603020000 -0300" channel="MUB" program_id="0000376226" event_id="00000000000097645197" series_key="">
-<title lang="pt">Music Box In Concert</title>
-<sub-title lang="pt">Giovanni Sagaz Interpreta Ernesto Nazareth</sub-title>
-<desc>O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000376226.jpg</image_name>
-<image_broadcast>0000376226</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603020000 -0300" stop="20150603021300 -0300" channel="MUB" program_id="0000401404" event_id="00000000000097645198" series_key="">
-<title lang="pt">Music Drops</title>
-<desc>No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000401404.jpg</image_name>
-<image_broadcast>0000401404</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603021300 -0300" stop="20150603023000 -0300" channel="MUB" program_id="0000410584" event_id="00000000000097645199" series_key="">
-<title lang="pt">Making Of</title>
-<desc>O que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
-<image>
-<image_name position="1">0000410584.jpg</image_name>
-<image_broadcast>0000410584</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603023000 -0300" stop="20150603025000 -0300" channel="MUB" program_id="0000416355" event_id="00000000000097645200" series_key="00000000075356000001">
-<title lang="pt">Dando as Letras</title>
-<sub-title lang="pt">Ep. 1</sub-title>
-<desc>Com a apresentação de "Allan Dias Castro", o "Dando as Letras" é um programa que traz a diversidade da música brasileira. Os artistas participam cantando suas canções mais conhecidas e contando suas histórias musicais.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000075356.jpg</image_name>
-<image_broadcast>00000000075356</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.1.</episode-num>
-<episode-num system="onscreen">1</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603025000 -0300" stop="20150603030000 -0300" channel="MUB" program_id="0000401395" event_id="00000000000097645201" series_key="">
-<title lang="pt">Music Drops</title>
-<desc>No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000401395.jpg</image_name>
-<image_broadcast>0000401395</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603030000 -0300" stop="20150603040000 -0300" channel="MUB" program_id="0000324295" event_id="00000000000097645202" series_key="">
-<title lang="pt">Jukebox</title>
-<desc>O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000324295.jpg</image_name>
-<image_broadcast>0000324295</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603040000 -0300" stop="20150603051000 -0300" channel="MUB" program_id="0000384592" event_id="00000000000097645203" series_key="">
-<title lang="pt">Music Box In Concert</title>
-<desc>O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.</desc>
-<category lang="pt">Espetáculo</category>
-<category lang="pt">Show</category>
-<image>
-<image_name position="1">0000384592.jpg</image_name>
-<image_broadcast>0000384592</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603051000 -0300" stop="20150603052000 -0300" channel="MUB" program_id="0000401395" event_id="00000000000097645204" series_key="">
-<title lang="pt">Music Drops</title>
-<desc>No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000401395.jpg</image_name>
-<image_broadcast>0000401395</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603052000 -0300" stop="20150603055500 -0300" channel="MUB" program_id="0000401390" event_id="00000000000097645205" series_key="">
-<title lang="pt">Making Of</title>
-<desc>No Making Of você confere tudo o que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
-<image>
-<image_name position="1">0000401390.jpg</image_name>
-<image_broadcast>0000401390</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603055500 -0300" stop="20150603060000 -0300" channel="MUB" program_id="0000410643" event_id="00000000000097645206" series_key="">
-<title lang="pt">Music Drops</title>
-<desc>No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000410643.jpg</image_name>
-<image_broadcast>0000410643</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603060000 -0300" stop="20150603063000 -0300" channel="MUB" program_id="0000346620" event_id="00000000000097645207" series_key="00000000071123000000">
-<title lang="pt">Babilônia</title>
-<desc>Todos as bandas que estão chegando no Music Box Brazil vêm para a Babilônia. A faixa conta com videoclipes independentes de bandas que ainda estão no comecinho de sua trajetória, mas que já arrasam!</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000071123.jpg</image_name>
-<image_broadcast>00000000071123</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603063000 -0300" stop="20150603073000 -0300" channel="MUB" program_id="0000348849" event_id="00000000000097645208" series_key="">
-<title lang="pt">Palco Brasil</title>
-<sub-title lang="pt">Quaternaglia</sub-title>
-<desc>No Palco Brasil você encontra shows acústicos de artistas dos mais variados gêneros musicais de todo o país. Para todos os gostos. Para todas as horas.</desc>
-<date>2012</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000348849.jpg</image_name>
-<image_broadcast>0000348849</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603073000 -0300" stop="20150603080000 -0300" channel="MUB" program_id="0000348850" event_id="00000000000097645209" series_key="">
-<title lang="pt">Palco Brasil</title>
-<sub-title lang="pt">Rogério Rochlitz</sub-title>
-<desc>No Palco Brasil você encontra shows acústicos de artistas dos mais variados gêneros musicais de todo o país. Para todos os gostos. Para todas as horas.</desc>
-<date>2012</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000348850.jpg</image_name>
-<image_broadcast>0000348850</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603080000 -0300" stop="20150603083000 -0300" channel="MUB" program_id="0000324295" event_id="00000000000097645210" series_key="">
-<title lang="pt">Jukebox</title>
-<desc>O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000324295.jpg</image_name>
-<image_broadcast>0000324295</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603083000 -0300" stop="20150603100000 -0300" channel="MUB" program_id="0000401437" event_id="00000000000097645211" series_key="">
-<title lang="pt">Terra Brasilis</title>
-<desc>Shows do TERRA BRASILIS.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000401437.jpg</image_name>
-<image_broadcast>0000401437</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603100000 -0300" stop="20150603112000 -0300" channel="MUB" program_id="0000405902" event_id="00000000000097645212" series_key="">
-<title lang="pt">Music Box In Concert</title>
-<desc>O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.</desc>
-<category lang="pt">Espetáculo</category>
-<category lang="pt">Show</category>
-<image>
-<image_name position="1">0000405902.jpg</image_name>
-<image_broadcast>0000405902</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603112000 -0300" stop="20150603113000 -0300" channel="MUB" program_id="0000428365" event_id="00000000000097645213" series_key="">
-<title lang="pt">Making Of</title>
-<desc>O que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
-<image>
-<image_name position="1">0000428365.jpg</image_name>
-<image_broadcast>0000428365</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603113000 -0300" stop="20150603120000 -0300" channel="MUB" program_id="0000401303" event_id="00000000000097645214" series_key="">
-<title lang="pt">Curta o Som</title>
-<sub-title lang="pt">Temp. 1 - Ep. 6</sub-title>
-<desc>O Curta o Som é um programa que leva para o estúdio grandes bandas e novos artistas de destaque no cenário musical brasileiro.</desc>
-<date>2013</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000401303.jpg</image_name>
-<image_broadcast>0000401303</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<episode-num system="xmltv_ns">1.6.</episode-num>
-<episode-num system="onscreen">6</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603120000 -0300" stop="20150603130000 -0300" channel="MUB" program_id="0000324295" event_id="00000000000097645215" series_key="">
-<title lang="pt">Jukebox</title>
-<desc>O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000324295.jpg</image_name>
-<image_broadcast>0000324295</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603130000 -0300" stop="20150603142200 -0300" channel="MUB" program_id="0000363968" event_id="00000000000097645216" series_key="">
-<title lang="pt">Music Box in Concert</title>
-<sub-title lang="pt">Leo Gandelman</sub-title>
-<desc>O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000363968.jpg</image_name>
-<image_broadcast>0000363968</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603142200 -0300" stop="20150603144500 -0300" channel="MUB" program_id="0000401328" event_id="00000000000097645217" series_key="">
-<title lang="pt">Making Of</title>
-<desc>No Making Of você confere tudo o que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
-<image>
-<image_name position="1">0000401328.jpg</image_name>
-<image_broadcast>0000401328</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603144500 -0300" stop="20150603145400 -0300" channel="MUB" program_id="0000432840" event_id="00000000000097645218" series_key="">
-<title lang="pt">Rio Som e Cena</title>
-<desc>Um programa que exibe trechos de shows de grandes nomes da música brasileira, como Hermeto Pascoal, Monobloco e Agnaldo Timóteo.</desc>
-<category lang="pt">Espetáculo</category>
-<category lang="pt">Show</category>
-<image>
-<image_name position="1">0000432840.jpg</image_name>
-<image_broadcast>0000432840</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603145400 -0300" stop="20150603150000 -0300" channel="MUB" program_id="0000401375" event_id="00000000000097645219" series_key="">
-<title lang="pt">Making Of</title>
-<desc>No Making Of você confere tudo o que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
-<image>
-<image_name position="1">0000401375.jpg</image_name>
-<image_broadcast>0000401375</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603150000 -0300" stop="20150603160000 -0300" channel="MUB" program_id="0000324295" event_id="00000000000097645220" series_key="">
-<title lang="pt">Jukebox</title>
-<desc>O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000324295.jpg</image_name>
-<image_broadcast>0000324295</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603160000 -0300" stop="20150603172600 -0300" channel="MUB" program_id="0000428389" event_id="00000000000097645221" series_key="">
-<title lang="pt">Music Box In Concert</title>
-<desc>O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.</desc>
-<category lang="pt">Espetáculo</category>
-<category lang="pt">Show</category>
-<image>
-<image_name position="1">0000428389.jpg</image_name>
-<image_broadcast>0000428389</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603172600 -0300" stop="20150603173600 -0300" channel="MUB" program_id="0000428400" event_id="00000000000097645222" series_key="">
-<title lang="pt">Music Drops</title>
-<desc>No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000428400.jpg</image_name>
-<image_broadcast>0000428400</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603173600 -0300" stop="20150603180000 -0300" channel="MUB" program_id="0000401389" event_id="00000000000097645223" series_key="">
-<title lang="pt">Making Of</title>
-<desc>No Making Of você confere tudo o que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
-<image>
-<image_name position="1">0000401389.jpg</image_name>
-<image_broadcast>0000401389</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603180000 -0300" stop="20150603191600 -0300" channel="MUB" program_id="0000363941" event_id="00000000000097645224" series_key="">
-<title lang="pt">Cine Music</title>
-<desc>Filmes do CINE MUSIC.</desc>
-<date>2009</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000363941.jpg</image_name>
-<image_broadcast>0000363941</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603191600 -0300" stop="20150603195000 -0300" channel="MUB" program_id="0000389858" event_id="00000000000097645225" series_key="">
-<title lang="pt">Cine Music</title>
-<desc>Filmes do CINE MUSIC.</desc>
-<date>2012</date>
-<category lang="pt">Espetáculo</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000389858.jpg</image_name>
-<image_broadcast>0000389858</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603195000 -0300" stop="20150603200000 -0300" channel="MUB" program_id="0000401413" event_id="00000000000097645226" series_key="">
-<title lang="pt">Music Drops</title>
-<desc>No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000401413.jpg</image_name>
-<image_broadcast>0000401413</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603200000 -0300" stop="20150603203000 -0300" channel="MUB" program_id="0000346643" event_id="00000000000097645227" series_key="00000000071124000000">
-<title lang="pt">Sonar</title>
-<desc>Se você gosta de indie, de pop e de rock'n'roll, o Sonar é o seu lugar. O programa reúne videoclipes de bandas independentes brasileiras que investem nesses gêneros.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000071124.jpg</image_name>
-<image_broadcast>00000000071124</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603203000 -0300" stop="20150603212500 -0300" channel="MUB" program_id="0000437302" event_id="00000000000097645228" series_key="">
-<title lang="pt">Terra Brasilis</title>
-<desc>Shows do TERRA BRASILIS.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000437302.jpg</image_name>
-<image_broadcast>0000437302</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603212500 -0300" stop="20150603220000 -0300" channel="MUB" program_id="0000401317" event_id="00000000000097645229" series_key="">
-<title lang="pt">Making Of</title>
-<desc>No Making Of você confere tudo o que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
-<image>
-<image_name position="1">0000401317.jpg</image_name>
-<image_broadcast>0000401317</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603220000 -0300" stop="20150603223000 -0300" channel="MUB" program_id="0000442624" event_id="00000000000097645230" series_key="">
-<title lang="pt">Lá Em Casa Sessions</title>
-<sub-title lang="pt">Temp. 1 - Ep. 9</sub-title>
-<desc>O programa promove um encontro descontraído com músicos brasileiros de diferente regiões. A atração conta com 13 episódios, cada um deles com uma banda convidada.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000442624.jpg</image_name>
-<image_broadcast>0000442624</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<episode-num system="xmltv_ns">1.9.</episode-num>
-<episode-num system="onscreen">9</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603223000 -0300" stop="20150603234600 -0300" channel="MUB" program_id="0000376229" event_id="00000000000097645231" series_key="">
-<title lang="pt">Music Box In Concert: Samburá - Ao Vivo</title>
-<desc>O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.</desc>
-<category lang="pt">Espetáculo</category>
-<category lang="pt">Show</category>
-<image>
-<image_name position="1">0000376229.jpg</image_name>
-<image_broadcast>0000376229</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603234600 -0300" stop="20150604000000 -0300" channel="MUB" program_id="0000437170" event_id="00000000000097645232" series_key="">
-<title lang="pt">Making Of</title>
-<desc>O que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
-<image>
-<image_name position="1">0000437170.jpg</image_name>
-<image_broadcast>0000437170</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604000000 -0300" stop="20150604010000 -0300" channel="MUB" program_id="0000324295" event_id="00000000000097645233" series_key="">
-<title lang="pt">Jukebox</title>
-<desc>O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000324295.jpg</image_name>
-<image_broadcast>0000324295</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604010000 -0300" stop="20150604022200 -0300" channel="MUB" program_id="0000363968" event_id="00000000000097645234" series_key="">
-<title lang="pt">Music Box in Concert</title>
-<sub-title lang="pt">Leo Gandelman</sub-title>
-<desc>O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000363968.jpg</image_name>
-<image_broadcast>0000363968</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604022200 -0300" stop="20150604024500 -0300" channel="MUB" program_id="0000401328" event_id="00000000000097645235" series_key="">
-<title lang="pt">Making Of</title>
-<desc>No Making Of você confere tudo o que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
-<image>
-<image_name position="1">0000401328.jpg</image_name>
-<image_broadcast>0000401328</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604024500 -0300" stop="20150604025400 -0300" channel="MUB" program_id="0000432840" event_id="00000000000097645236" series_key="">
-<title lang="pt">Rio Som e Cena</title>
-<desc>Um programa que exibe trechos de shows de grandes nomes da música brasileira, como Hermeto Pascoal, Monobloco e Agnaldo Timóteo.</desc>
-<category lang="pt">Espetáculo</category>
-<category lang="pt">Show</category>
-<image>
-<image_name position="1">0000432840.jpg</image_name>
-<image_broadcast>0000432840</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604025400 -0300" stop="20150604030000 -0300" channel="MUB" program_id="0000401375" event_id="00000000000097645237" series_key="">
-<title lang="pt">Making Of</title>
-<desc>No Making Of você confere tudo o que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
-<image>
-<image_name position="1">0000401375.jpg</image_name>
-<image_broadcast>0000401375</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604030000 -0300" stop="20150604040000 -0300" channel="MUB" program_id="0000324295" event_id="00000000000097645238" series_key="">
-<title lang="pt">Jukebox</title>
-<desc>O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000324295.jpg</image_name>
-<image_broadcast>0000324295</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604040000 -0300" stop="20150604052600 -0300" channel="MUB" program_id="0000428389" event_id="00000000000097645239" series_key="">
-<title lang="pt">Music Box In Concert</title>
-<desc>O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.</desc>
-<category lang="pt">Espetáculo</category>
-<category lang="pt">Show</category>
-<image>
-<image_name position="1">0000428389.jpg</image_name>
-<image_broadcast>0000428389</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604052600 -0300" stop="20150604053600 -0300" channel="MUB" program_id="0000428400" event_id="00000000000097645240" series_key="">
-<title lang="pt">Music Drops</title>
-<desc>No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000428400.jpg</image_name>
-<image_broadcast>0000428400</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604053600 -0300" stop="20150604060000 -0300" channel="MUB" program_id="0000401389" event_id="00000000000097645241" series_key="">
-<title lang="pt">Making Of</title>
-<desc>No Making Of você confere tudo o que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
-<image>
-<image_name position="1">0000401389.jpg</image_name>
-<image_broadcast>0000401389</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604060000 -0300" stop="20150604071600 -0300" channel="MUB" program_id="0000363941" event_id="00000000000097645242" series_key="">
-<title lang="pt">Cine Music</title>
-<desc>Filmes do CINE MUSIC.</desc>
-<date>2009</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000363941.jpg</image_name>
-<image_broadcast>0000363941</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604071600 -0300" stop="20150604075000 -0300" channel="MUB" program_id="0000389858" event_id="00000000000097645243" series_key="">
-<title lang="pt">Cine Music</title>
-<desc>Filmes do CINE MUSIC.</desc>
-<date>2012</date>
-<category lang="pt">Espetáculo</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000389858.jpg</image_name>
-<image_broadcast>0000389858</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604075000 -0300" stop="20150604080000 -0300" channel="MUB" program_id="0000401413" event_id="00000000000097645244" series_key="">
-<title lang="pt">Music Drops</title>
-<desc>No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000401413.jpg</image_name>
-<image_broadcast>0000401413</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604080000 -0300" stop="20150604083000 -0300" channel="MUB" program_id="0000346643" event_id="00000000000097645245" series_key="00000000071124000000">
-<title lang="pt">Sonar</title>
-<desc>Se você gosta de indie, de pop e de rock'n'roll, o Sonar é o seu lugar. O programa reúne videoclipes de bandas independentes brasileiras que investem nesses gêneros.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000071124.jpg</image_name>
-<image_broadcast>00000000071124</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604083000 -0300" stop="20150604092500 -0300" channel="MUB" program_id="0000437302" event_id="00000000000097645246" series_key="">
-<title lang="pt">Terra Brasilis</title>
-<desc>Shows do TERRA BRASILIS.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000437302.jpg</image_name>
-<image_broadcast>0000437302</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604092500 -0300" stop="20150604100000 -0300" channel="MUB" program_id="0000401317" event_id="00000000000097645247" series_key="">
-<title lang="pt">Making Of</title>
-<desc>No Making Of você confere tudo o que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
-<image>
-<image_name position="1">0000401317.jpg</image_name>
-<image_broadcast>0000401317</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604100000 -0300" stop="20150604103000 -0300" channel="MUB" program_id="0000442624" event_id="00000000000097645248" series_key="">
-<title lang="pt">Lá Em Casa Sessions</title>
-<sub-title lang="pt">Temp. 1 - Ep. 9</sub-title>
-<desc>O programa promove um encontro descontraído com músicos brasileiros de diferente regiões. A atração conta com 13 episódios, cada um deles com uma banda convidada.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000442624.jpg</image_name>
-<image_broadcast>0000442624</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<episode-num system="xmltv_ns">1.9.</episode-num>
-<episode-num system="onscreen">9</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604103000 -0300" stop="20150604114600 -0300" channel="MUB" program_id="0000376229" event_id="00000000000097645249" series_key="">
-<title lang="pt">Music Box In Concert: Samburá - Ao Vivo</title>
-<desc>O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.</desc>
-<category lang="pt">Espetáculo</category>
-<category lang="pt">Show</category>
-<image>
-<image_name position="1">0000376229.jpg</image_name>
-<image_broadcast>0000376229</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604114600 -0300" stop="20150604120000 -0300" channel="MUB" program_id="0000437170" event_id="00000000000097645250" series_key="">
-<title lang="pt">Making Of</title>
-<desc>O que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
-<image>
-<image_name position="1">0000437170.jpg</image_name>
-<image_broadcast>0000437170</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604120000 -0300" stop="20150604130000 -0300" channel="MUB" program_id="0000324295" event_id="00000000000097645251" series_key="">
-<title lang="pt">Jukebox</title>
-<desc>O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000324295.jpg</image_name>
-<image_broadcast>0000324295</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604130000 -0300" stop="20150604145000 -0300" channel="MUB" program_id="0000381228" event_id="00000000000097645252" series_key="">
-<title lang="pt">Music Box In Concert</title>
-<desc>O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.</desc>
-<category lang="pt">Espetáculo</category>
-<category lang="pt">Show</category>
-<image>
-<image_name position="1">0000381228.jpg</image_name>
-<image_broadcast>0000381228</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604145000 -0300" stop="20150604150000 -0300" channel="MUB" program_id="0000401321" event_id="00000000000097645253" series_key="">
-<title lang="pt">Making Of</title>
-<desc>No Making Of você confere tudo o que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
-<image>
-<image_name position="1">0000401321.jpg</image_name>
-<image_broadcast>0000401321</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604150000 -0300" stop="20150604160000 -0300" channel="MUB" program_id="0000324295" event_id="00000000000097645254" series_key="">
-<title lang="pt">Jukebox</title>
-<desc>O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000324295.jpg</image_name>
-<image_broadcast>0000324295</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604160000 -0300" stop="20150604171700 -0300" channel="MUB" program_id="0000405903" event_id="00000000000097645255" series_key="">
-<title lang="pt">Music Box In Concert</title>
-<desc>O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.</desc>
-<category lang="pt">Espetáculo</category>
-<category lang="pt">Show</category>
-<image>
-<image_name position="1">0000405903.jpg</image_name>
-<image_broadcast>0000405903</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604171700 -0300" stop="20150604172600 -0300" channel="MUB" program_id="0000410640" event_id="00000000000097645256" series_key="">
-<title lang="pt">Music Drops</title>
-<desc>No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000410640.jpg</image_name>
-<image_broadcast>0000410640</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604172600 -0300" stop="20150604180000 -0300" channel="MUB" program_id="0000401386" event_id="00000000000097645257" series_key="">
-<title lang="pt">Making Of</title>
-<desc>No Making Of você confere tudo o que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
-<image>
-<image_name position="1">0000401386.jpg</image_name>
-<image_broadcast>0000401386</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604180000 -0300" stop="20150604183000 -0300" channel="MUB" program_id="0000346620" event_id="00000000000097645258" series_key="00000000071123000000">
-<title lang="pt">Babilônia</title>
-<desc>Todos as bandas que estão chegando no Music Box Brazil vêm para a Babilônia. A faixa conta com videoclipes independentes de bandas que ainda estão no comecinho de sua trajetória, mas que já arrasam!</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000071123.jpg</image_name>
-<image_broadcast>00000000071123</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604183000 -0300" stop="20150604194400 -0300" channel="MUB" program_id="0000348837" event_id="00000000000097645259" series_key="">
-<title lang="pt">Palco Brasil</title>
-<sub-title lang="pt">Katia B</sub-title>
-<desc>No Palco Brasil você encontra shows acústicos de artistas dos mais variados gêneros musicais de todo o país. Para todos os gostos. Para todas as horas.</desc>
-<credits>
-<director>Katia B e Instituto Itaú Cultural</director>
-<director>Katia B e Instituto Itaú Cultural</director>
-</credits>
-<date>2012</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000348837.jpg</image_name>
-<image_broadcast>0000348837</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604194400 -0300" stop="20150604195400 -0300" channel="MUB" program_id="0000416464" event_id="00000000000097645260" series_key="">
-<title lang="pt">Music Drops</title>
-<desc>No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000416464.jpg</image_name>
-<image_broadcast>0000416464</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604195400 -0300" stop="20150604200000 -0300" channel="MUB" program_id="0000432839" event_id="00000000000097645261" series_key="">
-<title lang="pt">Rio Som e Cena</title>
-<desc>Um programa que exibe trechos de shows de grandes nomes da música brasileira, como Hermeto Pascoal, Monobloco e Agnaldo Timóteo.</desc>
-<category lang="pt">Espetáculo</category>
-<category lang="pt">Show</category>
-<image>
-<image_name position="1">0000432839.jpg</image_name>
-<image_broadcast>0000432839</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604200000 -0300" stop="20150604203000 -0300" channel="MUB" program_id="0000324295" event_id="00000000000097645262" series_key="">
-<title lang="pt">Jukebox</title>
-<desc>O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000324295.jpg</image_name>
-<image_broadcast>0000324295</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604203000 -0300" stop="20150604215200 -0300" channel="MUB" program_id="0000401452" event_id="00000000000097645263" series_key="">
-<title lang="pt">Terra Brasilis</title>
-<desc>Shows do TERRA BRASILIS.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000401452.jpg</image_name>
-<image_broadcast>0000401452</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604215200 -0300" stop="20150604220000 -0300" channel="MUB" program_id="0000401400" event_id="00000000000097645264" series_key="">
-<title lang="pt">Music Drops</title>
-<desc>No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000401400.jpg</image_name>
-<image_broadcast>0000401400</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604220000 -0300" stop="20150604232300 -0300" channel="MUB" program_id="0000368360" event_id="00000000000097645265" series_key="">
-<title lang="pt">Music Box In Concert</title>
-<sub-title lang="pt">Autoramas</sub-title>
-<desc>O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000368360.jpg</image_name>
-<image_broadcast>0000368360</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604232300 -0300" stop="20150604233000 -0300" channel="MUB" program_id="0000432843" event_id="00000000000097645266" series_key="">
-<title lang="pt">Rio Som e Cena</title>
-<desc>Um programa que exibe trechos de shows de grandes nomes da música brasileira, como Hermeto Pascoal, Monobloco e Agnaldo Timóteo.</desc>
-<category lang="pt">Espetáculo</category>
-<category lang="pt">Show</category>
-<image>
-<image_name position="1">0000432843.jpg</image_name>
-<image_broadcast>0000432843</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604233000 -0300" stop="20150604235000 -0300" channel="MUB" program_id="0000416360" event_id="00000000000097645267" series_key="00000000075356000006">
-<title lang="pt">Dando as Letras</title>
-<sub-title lang="pt">Ep. 6</sub-title>
-<desc>Com a apresentação de "Allan Dias Castro", o "Dando as Letras" é um programa que traz a diversidade da música brasileira. Os artistas participam cantando suas canções mais conhecidas e contando suas histórias musicais.</desc>
-<category lang="pt">Séries</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000075356.jpg</image_name>
-<image_broadcast>00000000075356</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<episode-num system="xmltv_ns">.6.</episode-num>
-<episode-num system="onscreen">6</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604235000 -0300" stop="20150605000000 -0300" channel="MUB" program_id="0000428398" event_id="00000000000097645268" series_key="">
-<title lang="pt">Music Drops</title>
-<desc>No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000428398.jpg</image_name>
-<image_broadcast>0000428398</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
 <programme start="20150605000000 -0300" stop="20150605010000 -0300" channel="MUB" program_id="0000324295" event_id="00000000000097645269" series_key="">
 <title lang="pt">Jukebox</title>
 <desc>O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.</desc>
@@ -12325,6 +11028,1216 @@
 <image_broadcast>0000401385</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622000000 -0300" stop="20150622010000 -0300" channel="MUB" program_id="0000324295" event_id="00000000000097645886" series_key="">
+<title lang="pt">Jukebox</title>
+<desc>O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000324295.jpg</image_name>
+<image_broadcast>0000324295</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622010000 -0300" stop="20150622014900 -0300" channel="MUB" program_id="0000376225" event_id="00000000000097645887" series_key="">
+<title lang="pt">Music Box In Concert</title>
+<sub-title lang="pt">Giana Cervi</sub-title>
+<desc>O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000376225.jpg</image_name>
+<image_broadcast>0000376225</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622014900 -0300" stop="20150622022500 -0300" channel="MUB" program_id="0000325440" event_id="00000000000097645888" series_key="">
+<title lang="pt">Music Box in Concert</title>
+<sub-title lang="pt">Mv Bill</sub-title>
+<desc>O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000325440.jpg</image_name>
+<image_broadcast>0000325440</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622022500 -0300" stop="20150622030000 -0300" channel="MUB" program_id="0000401390" event_id="00000000000097645889" series_key="">
+<title lang="pt">Making Of</title>
+<desc>No Making Of você confere tudo o que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cinema</category>
+<image>
+<image_name position="1">0000401390.jpg</image_name>
+<image_broadcast>0000401390</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622030000 -0300" stop="20150622040000 -0300" channel="MUB" program_id="0000324295" event_id="00000000000097645890" series_key="">
+<title lang="pt">Jukebox</title>
+<desc>O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000324295.jpg</image_name>
+<image_broadcast>0000324295</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622040000 -0300" stop="20150622045500 -0300" channel="MUB" program_id="0000328617" event_id="00000000000097645891" series_key="">
+<title lang="pt">Music Box in Concert</title>
+<sub-title lang="pt">Claus e Vanessa</sub-title>
+<desc>O show é resultado de uma mescla dos hits dos dois primeiros discos da dupla. Apresentado para mais de 2500 pessoas, o espetáculo que contou com a direção de Heron Domingues e que contagiou o público presente.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000328617.jpg</image_name>
+<image_broadcast>0000328617</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622045500 -0300" stop="20150622054000 -0300" channel="MUB" program_id="0000401328" event_id="00000000000097645892" series_key="">
+<title lang="pt">Making Of</title>
+<desc>No Making Of você confere tudo o que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cinema</category>
+<image>
+<image_name position="1">0000401328.jpg</image_name>
+<image_broadcast>0000401328</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622054000 -0300" stop="20150622060000 -0300" channel="MUB" program_id="0000427673" event_id="00000000000097645893" series_key="">
+<title lang="pt">Music Drops</title>
+<desc>No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000427673.jpg</image_name>
+<image_broadcast>0000427673</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622060000 -0300" stop="20150622063000 -0300" channel="MUB" program_id="0000346643" event_id="00000000000097645894" series_key="00000000071124000000">
+<title lang="pt">Sonar</title>
+<desc>Se você gosta de indie, de pop e de rock'n'roll, o Sonar é o seu lugar. O programa reúne videoclipes de bandas independentes brasileiras que investem nesses gêneros.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">00000000071124.jpg</image_name>
+<image_broadcast>00000000071124</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622063000 -0300" stop="20150622073000 -0300" channel="MUB" program_id="0000348748" event_id="00000000000097645895" series_key="">
+<title lang="pt">Palco Brasil</title>
+<sub-title lang="pt">Siba e a Fuloresta</sub-title>
+<desc>No Palco Brasil você encontra shows acústicos de artistas dos mais variados gêneros musicais de todo o país. Para todos os gostos. Para todas as horas.</desc>
+<date>2008</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000348748.jpg</image_name>
+<image_broadcast>0000348748</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622073000 -0300" stop="20150622080000 -0300" channel="MUB" program_id="0000405892" event_id="00000000000097645896" series_key="">
+<title lang="pt">Lá Em Casa Sessions</title>
+<sub-title lang="pt">Temp. 1 - Ep. 11</sub-title>
+<desc>O programa promove um encontro descontraído com músicos brasileiros de diferente regiões. A atração conta com 13 episódios, cada um deles com uma banda convidada.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000405892.jpg</image_name>
+<image_broadcast>0000405892</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<episode-num system="xmltv_ns">1.11.</episode-num>
+<episode-num system="onscreen">11</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622080000 -0300" stop="20150622083000 -0300" channel="MUB" program_id="0000324295" event_id="00000000000097645897" series_key="">
+<title lang="pt">Jukebox</title>
+<desc>O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000324295.jpg</image_name>
+<image_broadcast>0000324295</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622083000 -0300" stop="20150622100000 -0300" channel="MUB" program_id="0000442735" event_id="00000000000097645898" series_key="">
+<title lang="pt">Terra Brasilis</title>
+<desc>Shows do TERRA BRASILIS.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000442735.jpg</image_name>
+<image_broadcast>0000442735</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622100000 -0300" stop="20150622110000 -0300" channel="MUB" program_id="0000325459" event_id="00000000000097645899" series_key="">
+<title lang="pt">Music Box in Concert: Roupa Nova - Cruzeiro</title>
+<desc>Roupa Nova surpreende mais uma vez, agora, pela primeira vez, gravando em um super transatlântico! Cruzeiro Roupa Nova: três dias de muito sol, muito som e muito astral.</desc>
+<category lang="pt">Espetáculo</category>
+<category lang="pt">Show</category>
+<image>
+<image_name position="1">0000325459.jpg</image_name>
+<image_broadcast>0000325459</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622110000 -0300" stop="20150622113500 -0300" channel="MUB" program_id="0000401362" event_id="00000000000097645900" series_key="">
+<title lang="pt">Making Of</title>
+<desc>No Making Of você confere tudo o que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cinema</category>
+<image>
+<image_name position="1">0000401362.jpg</image_name>
+<image_broadcast>0000401362</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622113500 -0300" stop="20150622114200 -0300" channel="MUB" program_id="0000401398" event_id="00000000000097645901" series_key="">
+<title lang="pt">Music Drops</title>
+<desc>No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000401398.jpg</image_name>
+<image_broadcast>0000401398</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622114200 -0300" stop="20150622120000 -0300" channel="MUB" program_id="0000401385" event_id="00000000000097645902" series_key="">
+<title lang="pt">Making Of</title>
+<desc>No Making Of você confere tudo o que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cinema</category>
+<image>
+<image_name position="1">0000401385.jpg</image_name>
+<image_broadcast>0000401385</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622120000 -0300" stop="20150622130000 -0300" channel="MUB" program_id="0000324295" event_id="00000000000097645903" series_key="">
+<title lang="pt">Jukebox</title>
+<desc>O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000324295.jpg</image_name>
+<image_broadcast>0000324295</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622130000 -0300" stop="20150622145000 -0300" channel="MUB" program_id="0000381228" event_id="00000000000097645904" series_key="">
+<title lang="pt">Music Box In Concert</title>
+<desc>O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.</desc>
+<category lang="pt">Espetáculo</category>
+<category lang="pt">Show</category>
+<image>
+<image_name position="1">0000381228.jpg</image_name>
+<image_broadcast>0000381228</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622145000 -0300" stop="20150622150000 -0300" channel="MUB" program_id="0000442703" event_id="00000000000097645905" series_key="">
+<title lang="pt">Making Of</title>
+<desc>O que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cinema</category>
+<image>
+<image_name position="1">0000442703.jpg</image_name>
+<image_broadcast>0000442703</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622150000 -0300" stop="20150622160000 -0300" channel="MUB" program_id="0000324295" event_id="00000000000097645906" series_key="">
+<title lang="pt">Jukebox</title>
+<desc>O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000324295.jpg</image_name>
+<image_broadcast>0000324295</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622160000 -0300" stop="20150622170000 -0300" channel="MUB" program_id="0000387699" event_id="00000000000097645907" series_key="">
+<title lang="pt">Music Box In Concert</title>
+<desc></desc>
+<category lang="pt">Espetáculo</category>
+<category lang="pt">Show</category>
+<image>
+<image_name position="1">0000387699.jpg</image_name>
+<image_broadcast>0000387699</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622170000 -0300" stop="20150622180000 -0300" channel="MUB" program_id="0000372401" event_id="00000000000097645908" series_key="">
+<title lang="pt">Music Box In Concert</title>
+<desc>O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000372401.jpg</image_name>
+<image_broadcast>0000372401</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622180000 -0300" stop="20150622194000 -0300" channel="MUB" program_id="0000353659" event_id="00000000000097645909" series_key="">
+<title lang="pt">Cine Music</title>
+<desc>Em 1930, o nordeste brasileiro está em guerra. Tropas do exército perseguem os cangaceiros. Uma mulher vive nesse fogo cruzado: Maria.</desc>
+<date>2008</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000353659.jpg</image_name>
+<image_broadcast>0000353659</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622194000 -0300" stop="20150622200000 -0300" channel="MUB" program_id="0000401385" event_id="00000000000097645910" series_key="">
+<title lang="pt">Making Of</title>
+<desc>No Making Of você confere tudo o que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cinema</category>
+<image>
+<image_name position="1">0000401385.jpg</image_name>
+<image_broadcast>0000401385</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622200000 -0300" stop="20150622203000 -0300" channel="MUB" program_id="0000324295" event_id="00000000000097645911" series_key="">
+<title lang="pt">Jukebox</title>
+<desc>O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000324295.jpg</image_name>
+<image_broadcast>0000324295</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622203000 -0300" stop="20150622214000 -0300" channel="MUB" program_id="0000432820" event_id="00000000000097645912" series_key="">
+<title lang="pt">Terra Brasilis</title>
+<desc>Shows do TERRA BRASILIS.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000432820.jpg</image_name>
+<image_broadcast>0000432820</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622214000 -0300" stop="20150622220000 -0300" channel="MUB" program_id="0000410584" event_id="00000000000097645913" series_key="">
+<title lang="pt">Making Of</title>
+<desc>O que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cinema</category>
+<image>
+<image_name position="1">0000410584.jpg</image_name>
+<image_broadcast>0000410584</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622220000 -0300" stop="20150622234000 -0300" channel="MUB" program_id="0000387702" event_id="00000000000097645914" series_key="">
+<title lang="pt">Music Box In Concert</title>
+<desc></desc>
+<category lang="pt">Espetáculo</category>
+<category lang="pt">Show</category>
+<image>
+<image_name position="1">0000387702.jpg</image_name>
+<image_broadcast>0000387702</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622234000 -0300" stop="20150622235200 -0300" channel="MUB" program_id="0000428392" event_id="00000000000097645915" series_key="">
+<title lang="pt">Music Drops</title>
+<desc>No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000428392.jpg</image_name>
+<image_broadcast>0000428392</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622235200 -0300" stop="20150623000000 -0300" channel="MUB" program_id="0000432839" event_id="00000000000097645916" series_key="">
+<title lang="pt">Rio Som e Cena</title>
+<desc>Um programa que exibe trechos de shows de grandes nomes da música brasileira, como Hermeto Pascoal, Monobloco e Agnaldo Timóteo.</desc>
+<category lang="pt">Espetáculo</category>
+<category lang="pt">Show</category>
+<image>
+<image_name position="1">0000432839.jpg</image_name>
+<image_broadcast>0000432839</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623000000 -0300" stop="20150623010000 -0300" channel="MUB" program_id="0000324295" event_id="00000000000097645917" series_key="">
+<title lang="pt">Jukebox</title>
+<desc>O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000324295.jpg</image_name>
+<image_broadcast>0000324295</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623010000 -0300" stop="20150623025000 -0300" channel="MUB" program_id="0000381228" event_id="00000000000097645918" series_key="">
+<title lang="pt">Music Box In Concert</title>
+<desc>O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.</desc>
+<category lang="pt">Espetáculo</category>
+<category lang="pt">Show</category>
+<image>
+<image_name position="1">0000381228.jpg</image_name>
+<image_broadcast>0000381228</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623025000 -0300" stop="20150623030000 -0300" channel="MUB" program_id="0000442703" event_id="00000000000097645919" series_key="">
+<title lang="pt">Making Of</title>
+<desc>O que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cinema</category>
+<image>
+<image_name position="1">0000442703.jpg</image_name>
+<image_broadcast>0000442703</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623030000 -0300" stop="20150623040000 -0300" channel="MUB" program_id="0000324295" event_id="00000000000097645920" series_key="">
+<title lang="pt">Jukebox</title>
+<desc>O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000324295.jpg</image_name>
+<image_broadcast>0000324295</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623040000 -0300" stop="20150623050000 -0300" channel="MUB" program_id="0000387699" event_id="00000000000097645921" series_key="">
+<title lang="pt">Music Box In Concert</title>
+<desc></desc>
+<category lang="pt">Espetáculo</category>
+<category lang="pt">Show</category>
+<image>
+<image_name position="1">0000387699.jpg</image_name>
+<image_broadcast>0000387699</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623050000 -0300" stop="20150623060000 -0300" channel="MUB" program_id="0000372401" event_id="00000000000097645922" series_key="">
+<title lang="pt">Music Box In Concert</title>
+<desc>O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000372401.jpg</image_name>
+<image_broadcast>0000372401</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623060000 -0300" stop="20150623074000 -0300" channel="MUB" program_id="0000353659" event_id="00000000000097645923" series_key="">
+<title lang="pt">Cine Music</title>
+<desc>Em 1930, o nordeste brasileiro está em guerra. Tropas do exército perseguem os cangaceiros. Uma mulher vive nesse fogo cruzado: Maria.</desc>
+<date>2008</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000353659.jpg</image_name>
+<image_broadcast>0000353659</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623074000 -0300" stop="20150623080000 -0300" channel="MUB" program_id="0000401385" event_id="00000000000097645924" series_key="">
+<title lang="pt">Making Of</title>
+<desc>No Making Of você confere tudo o que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cinema</category>
+<image>
+<image_name position="1">0000401385.jpg</image_name>
+<image_broadcast>0000401385</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623080000 -0300" stop="20150623083000 -0300" channel="MUB" program_id="0000324295" event_id="00000000000097645925" series_key="">
+<title lang="pt">Jukebox</title>
+<desc>O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000324295.jpg</image_name>
+<image_broadcast>0000324295</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623083000 -0300" stop="20150623094000 -0300" channel="MUB" program_id="0000432820" event_id="00000000000097645926" series_key="">
+<title lang="pt">Terra Brasilis</title>
+<desc>Shows do TERRA BRASILIS.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000432820.jpg</image_name>
+<image_broadcast>0000432820</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623094000 -0300" stop="20150623100000 -0300" channel="MUB" program_id="0000410584" event_id="00000000000097645927" series_key="">
+<title lang="pt">Making Of</title>
+<desc>O que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cinema</category>
+<image>
+<image_name position="1">0000410584.jpg</image_name>
+<image_broadcast>0000410584</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623100000 -0300" stop="20150623114000 -0300" channel="MUB" program_id="0000387702" event_id="00000000000097645928" series_key="">
+<title lang="pt">Music Box In Concert</title>
+<desc></desc>
+<category lang="pt">Espetáculo</category>
+<category lang="pt">Show</category>
+<image>
+<image_name position="1">0000387702.jpg</image_name>
+<image_broadcast>0000387702</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623114000 -0300" stop="20150623115200 -0300" channel="MUB" program_id="0000428392" event_id="00000000000097645929" series_key="">
+<title lang="pt">Music Drops</title>
+<desc>No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000428392.jpg</image_name>
+<image_broadcast>0000428392</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623115200 -0300" stop="20150623120000 -0300" channel="MUB" program_id="0000432839" event_id="00000000000097645930" series_key="">
+<title lang="pt">Rio Som e Cena</title>
+<desc>Um programa que exibe trechos de shows de grandes nomes da música brasileira, como Hermeto Pascoal, Monobloco e Agnaldo Timóteo.</desc>
+<category lang="pt">Espetáculo</category>
+<category lang="pt">Show</category>
+<image>
+<image_name position="1">0000432839.jpg</image_name>
+<image_broadcast>0000432839</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623120000 -0300" stop="20150623130000 -0300" channel="MUB" program_id="0000324295" event_id="00000000000097645931" series_key="">
+<title lang="pt">Jukebox</title>
+<desc>O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000324295.jpg</image_name>
+<image_broadcast>0000324295</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623130000 -0300" stop="20150623135500 -0300" channel="MUB" program_id="0000428374" event_id="00000000000097645932" series_key="">
+<title lang="pt">Music Box In Concert</title>
+<desc>O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.</desc>
+<category lang="pt">Espetáculo</category>
+<category lang="pt">Show</category>
+<image>
+<image_name position="1">0000428374.jpg</image_name>
+<image_broadcast>0000428374</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623135500 -0300" stop="20150623143000 -0300" channel="MUB" program_id="0000405896" event_id="00000000000097645933" series_key="">
+<title lang="pt">Making Of</title>
+<desc>No Making Of você confere tudo o que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cinema</category>
+<image>
+<image_name position="1">0000405896.jpg</image_name>
+<image_broadcast>0000405896</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623143000 -0300" stop="20150623144500 -0300" channel="MUB" program_id="0000416358" event_id="00000000000097645934" series_key="00000000075356000004">
+<title lang="pt">Dando as Letras</title>
+<sub-title lang="pt">Ep. 4</sub-title>
+<desc>Com a apresentação de "Allan Dias Castro", o "Dando as Letras" é um programa que traz a diversidade da música brasileira. Os artistas participam cantando suas canções mais conhecidas e contando suas histórias musicais.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">00000000075356.jpg</image_name>
+<image_broadcast>00000000075356</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<episode-num system="xmltv_ns">.4.</episode-num>
+<episode-num system="onscreen">4</episode-num>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623144500 -0300" stop="20150623145500 -0300" channel="MUB" program_id="0000427674" event_id="00000000000097645935" series_key="">
+<title lang="pt">Music Drops</title>
+<desc>No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000427674.jpg</image_name>
+<image_broadcast>0000427674</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623145500 -0300" stop="20150623150000 -0300" channel="MUB" program_id="0000437297" event_id="00000000000097645936" series_key="">
+<title lang="pt">Rio Som e Cena</title>
+<desc>Um programa que exibe trechos de shows de grandes nomes da música brasileira, como Hermeto Pascoal, Monobloco e Agnaldo Timóteo.</desc>
+<category lang="pt">Espetáculo</category>
+<category lang="pt">Show</category>
+<image>
+<image_name position="1">0000437297.jpg</image_name>
+<image_broadcast>0000437297</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623150000 -0300" stop="20150623160000 -0300" channel="MUB" program_id="0000324295" event_id="00000000000097645937" series_key="">
+<title lang="pt">Jukebox</title>
+<desc>O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000324295.jpg</image_name>
+<image_broadcast>0000324295</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623160000 -0300" stop="20150623171000 -0300" channel="MUB" program_id="0000442707" event_id="00000000000097645938" series_key="">
+<title lang="pt">Music Box In Concert</title>
+<desc>O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.</desc>
+<category lang="pt">Espetáculo</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000442707.jpg</image_name>
+<image_broadcast>0000442707</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623171000 -0300" stop="20150623172000 -0300" channel="MUB" program_id="0000401394" event_id="00000000000097645939" series_key="">
+<title lang="pt">Music Drops</title>
+<desc>No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000401394.jpg</image_name>
+<image_broadcast>0000401394</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623172000 -0300" stop="20150623174000 -0300" channel="MUB" program_id="0000401376" event_id="00000000000097645940" series_key="">
+<title lang="pt">Making Of</title>
+<desc>No Making Of você confere tudo o que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cinema</category>
+<image>
+<image_name position="1">0000401376.jpg</image_name>
+<image_broadcast>0000401376</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623174000 -0300" stop="20150623175300 -0300" channel="MUB" program_id="0000401395" event_id="00000000000097645941" series_key="">
+<title lang="pt">Music Drops</title>
+<desc>No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000401395.jpg</image_name>
+<image_broadcast>0000401395</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623175300 -0300" stop="20150623180000 -0300" channel="MUB" program_id="0000432833" event_id="00000000000097645942" series_key="">
+<title lang="pt">Rio Som e Cena</title>
+<desc>Um programa que exibe trechos de shows de grandes nomes da música brasileira, como Hermeto Pascoal, Monobloco e Agnaldo Timóteo.</desc>
+<category lang="pt">Espetáculo</category>
+<category lang="pt">Show</category>
+<image>
+<image_name position="1">0000432833.jpg</image_name>
+<image_broadcast>0000432833</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623180000 -0300" stop="20150623183000 -0300" channel="MUB" program_id="0000346620" event_id="00000000000097645943" series_key="00000000071123000000">
+<title lang="pt">Babilônia</title>
+<desc>Todos as bandas que estão chegando no Music Box Brazil vêm para a Babilônia. A faixa conta com videoclipes independentes de bandas que ainda estão no comecinho de sua trajetória, mas que já arrasam!</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">00000000071123.jpg</image_name>
+<image_broadcast>00000000071123</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623183000 -0300" stop="20150623190000 -0300" channel="MUB" program_id="0000348848" event_id="00000000000097645944" series_key="">
+<title lang="pt">Palco Brasil</title>
+<sub-title lang="pt">Projeto B</sub-title>
+<desc>No Palco Brasil você encontra shows acústicos de artistas dos mais variados gêneros musicais de todo o país. Para todos os gostos. Para todas as horas.</desc>
+<date>2012</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000348848.jpg</image_name>
+<image_broadcast>0000348848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623190000 -0300" stop="20150623193000 -0300" channel="MUB" program_id="0000348739" event_id="00000000000097645945" series_key="">
+<title lang="pt">Palco Brasil</title>
+<sub-title lang="pt">João Parahyba</sub-title>
+<desc>No Palco Brasil você encontra shows acústicos de artistas dos mais variados gêneros musicais de todo o país. Para todos os gostos. Para todas as horas.</desc>
+<date>2012</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000348739.jpg</image_name>
+<image_broadcast>0000348739</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623193000 -0300" stop="20150623200000 -0300" channel="MUB" program_id="0000348839" event_id="00000000000097645946" series_key="">
+<title lang="pt">Palco Brasil</title>
+<sub-title lang="pt">Mario Seve</sub-title>
+<desc>No Palco Brasil você encontra shows acústicos de artistas dos mais variados gêneros musicais de todo o país. Para todos os gostos. Para todas as horas.</desc>
+<date>2012</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000348839.jpg</image_name>
+<image_broadcast>0000348839</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623200000 -0300" stop="20150623203000 -0300" channel="MUB" program_id="0000324295" event_id="00000000000097645947" series_key="">
+<title lang="pt">Jukebox</title>
+<desc>O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000324295.jpg</image_name>
+<image_broadcast>0000324295</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623203000 -0300" stop="20150623214200 -0300" channel="MUB" program_id="0000401444" event_id="00000000000097645948" series_key="">
+<title lang="pt">Terra Brasilis</title>
+<desc>Shows do TERRA BRASILIS.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000401444.jpg</image_name>
+<image_broadcast>0000401444</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623214200 -0300" stop="20150623215000 -0300" channel="MUB" program_id="0000437286" event_id="00000000000097645949" series_key="">
+<title lang="pt">Music Drops</title>
+<desc>No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000437286.jpg</image_name>
+<image_broadcast>0000437286</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623215000 -0300" stop="20150623220000 -0300" channel="MUB" program_id="0000428365" event_id="00000000000097645950" series_key="">
+<title lang="pt">Making Of</title>
+<desc>O que acontece no aquecimento dos shows de grandes artistas. Aqui você acompanha os bastidores, as conversas e toda a preparação que antecede as apresentações.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cinema</category>
+<image>
+<image_name position="1">0000428365.jpg</image_name>
+<image_broadcast>0000428365</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623220000 -0300" stop="20150623231000 -0300" channel="MUB" program_id="0000428370" event_id="00000000000097645951" series_key="">
+<title lang="pt">Music Box In Concert</title>
+<desc>O Music Box Brazil leva você até a primeira fila para conferir os melhores shows do Brasil, sem distinção de gênero. Do axé ao rock, do pop ao sertanejo, os melhores artistas estão no Music Box in Concert.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000428370.jpg</image_name>
+<image_broadcast>0000428370</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623231000 -0300" stop="20150623232000 -0300" channel="MUB" program_id="0000432831" event_id="00000000000097645952" series_key="">
+<title lang="pt">Music Drops</title>
+<desc>No intervalo da programação o Music Drops traz pequenas, porém intensas, doses de entrevistas com artistas nacionais.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000432831.jpg</image_name>
+<image_broadcast>0000432831</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623232000 -0300" stop="20150623233000 -0300" channel="MUB" program_id="0000432838" event_id="00000000000097645953" series_key="">
+<title lang="pt">Rio Som e Cena</title>
+<desc>Um programa que exibe trechos de shows de grandes nomes da música brasileira, como Hermeto Pascoal, Monobloco e Agnaldo Timóteo.</desc>
+<category lang="pt">Espetáculo</category>
+<category lang="pt">Show</category>
+<image>
+<image_name position="1">0000432838.jpg</image_name>
+<image_broadcast>0000432838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623233000 -0300" stop="20150624000000 -0300" channel="MUB" program_id="0000405882" event_id="00000000000097645954" series_key="">
+<title lang="pt">Curta o Som</title>
+<sub-title lang="pt">Temp. 1 - Ep. 9</sub-title>
+<desc>O Curta o Som é um programa que leva para o estúdio grandes bandas e novos artistas de destaque no cenário musical brasileiro.</desc>
+<date>2013</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000405882.jpg</image_name>
+<image_broadcast>0000405882</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<episode-num system="xmltv_ns">1.9.</episode-num>
+<episode-num system="onscreen">9</episode-num>
 <video>
 <colour>yes</colour>
 </video>

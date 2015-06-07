@@ -4,7 +4,7 @@
 <display-name lang="pt">Premiere 2 - Net Fortaleza</display-name>
 <icon src="rt2.gif" />
 </channel>
-<programme start="20150603003000 -0300" stop="20150603030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283793" series_key="">
+<programme start="20150605000000 -0300" stop="20150605030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544500" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -21,7 +21,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150603030000 -0300" stop="20150603060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283794" series_key="">
+<programme start="20150605030000 -0300" stop="20150605060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544501" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -38,7 +38,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150603060000 -0300" stop="20150603090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283795" series_key="">
+<programme start="20150605060000 -0300" stop="20150605090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544502" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -55,7 +55,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150603090000 -0300" stop="20150603120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283796" series_key="">
+<programme start="20150605090000 -0300" stop="20150605120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544503" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -72,7 +72,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150603120000 -0300" stop="20150603183000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283797" series_key="">
+<programme start="20150605120000 -0300" stop="20150605150000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544504" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -89,77 +89,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150603183000 -0300" stop="20150603192500 -0300" channel="RT2" program_id="0000441462" event_id="000000100283798" series_key="00000000076744000000">
-<title lang="pt">Vasco TV - Ep. 09</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">00000000076744.jpg</image_name>
-<image_broadcast>00000000076744</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603192500 -0300" stop="20150603215500 -0300" channel="RT2" program_id="0000014131" event_id="000000100283799" series_key="">
-<title lang="pt">Vasco x Ponte Preta - Vivo</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000014131.jpg</image_name>
-<image_broadcast>0000014131</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603215500 -0300" stop="20150604001000 -0300" channel="RT2" program_id="0000012331" event_id="000000100283800" series_key="">
-<title lang="pt">Grêmio x Corinthians - Vivo</title>
-<title lang="en">Grêmio x Corinthians - Vivo</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000012331.jpg</image_name>
-<image_broadcast>0000012331</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604001000 -0300" stop="20150604011000 -0300" channel="RT2" program_id="0000441234" event_id="000000100283801" series_key="00000000073851000000">
-<title lang="pt">Aqui é Corinthians - Ep. 66</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">00000000073851.jpg</image_name>
-<image_broadcast>00000000073851</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604011000 -0300" stop="20150604060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283802" series_key="">
+<programme start="20150605150000 -0300" stop="20150605192500 -0300" channel="RT2" program_id="0000338763" event_id="000000100544505" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -176,247 +106,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150604060000 -0300" stop="20150604090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283803" series_key="">
-<title lang="pt">Premiere</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338763.jpg</image_name>
-<image_broadcast>0000338763</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604090000 -0300" stop="20150604120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283804" series_key="">
-<title lang="pt">Premiere</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338763.jpg</image_name>
-<image_broadcast>0000338763</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604120000 -0300" stop="20150604150000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283805" series_key="">
-<title lang="pt">Premiere</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338763.jpg</image_name>
-<image_broadcast>0000338763</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604150000 -0300" stop="20150604192000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283806" series_key="">
-<title lang="pt">Premiere</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338763.jpg</image_name>
-<image_broadcast>0000338763</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604192000 -0300" stop="20150604200000 -0300" channel="RT2" program_id="0000441238" event_id="000000100283807" series_key="00000000075794000000">
-<title lang="pt">TV Inter - Ep. 29</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">00000000075794.jpg</image_name>
-<image_broadcast>00000000075794</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604200000 -0300" stop="20150604205500 -0300" channel="RT2" program_id="0000441236" event_id="000000100283808" series_key="00000000073863000000">
-<title lang="pt">Palmeiras na TV - Ep. 74</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">00000000073863.jpg</image_name>
-<image_broadcast>00000000073863</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604205500 -0300" stop="20150604233000 -0300" channel="RT2" program_id="0000183206" event_id="000000100283809" series_key="">
-<title lang="pt">Palmeiras x Internacional - Vivo</title>
-<title lang="en">Palmeiras x Internacional - Vivo</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000183206.jpg</image_name>
-<image_broadcast>0000183206</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604233000 -0300" stop="20150605000000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283810" series_key="">
-<title lang="pt">Premiere</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338763.jpg</image_name>
-<image_broadcast>0000338763</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150605000000 -0300" stop="20150605030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283811" series_key="">
-<title lang="pt">Premiere</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338763.jpg</image_name>
-<image_broadcast>0000338763</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150605030000 -0300" stop="20150605060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283812" series_key="">
-<title lang="pt">Premiere</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338763.jpg</image_name>
-<image_broadcast>0000338763</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150605060000 -0300" stop="20150605090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283813" series_key="">
-<title lang="pt">Premiere</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338763.jpg</image_name>
-<image_broadcast>0000338763</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150605090000 -0300" stop="20150605120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283814" series_key="">
-<title lang="pt">Premiere</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338763.jpg</image_name>
-<image_broadcast>0000338763</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150605120000 -0300" stop="20150605150000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283815" series_key="">
-<title lang="pt">Premiere</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338763.jpg</image_name>
-<image_broadcast>0000338763</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150605150000 -0300" stop="20150605192500 -0300" channel="RT2" program_id="0000338763" event_id="000000100283816" series_key="">
-<title lang="pt">Premiere</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338763.jpg</image_name>
-<image_broadcast>0000338763</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150605192500 -0300" stop="20150605214500 -0300" channel="RT2" program_id="0000206249" event_id="000000100283817" series_key="">
+<programme start="20150605192500 -0300" stop="20150605214500 -0300" channel="RT2" program_id="0000206249" event_id="000000100544506" series_key="">
 <title lang="pt">Náutico x América MG - Vivo</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -433,7 +123,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605214500 -0300" stop="20150606003000 -0300" channel="RT2" program_id="0000444014" event_id="000000100283818" series_key="">
+<programme start="20150605214500 -0300" stop="20150606003000 -0300" channel="RT2" program_id="0000444014" event_id="000000100544507" series_key="">
 <title lang="pt">Botafogo RJ x Mogi Mirim - Vivo</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -450,7 +140,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606003000 -0300" stop="20150606030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283819" series_key="">
+<programme start="20150606003000 -0300" stop="20150606030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544508" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -467,7 +157,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606030000 -0300" stop="20150606060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283820" series_key="">
+<programme start="20150606030000 -0300" stop="20150606060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544509" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -484,7 +174,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606060000 -0300" stop="20150606090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283821" series_key="">
+<programme start="20150606060000 -0300" stop="20150606090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544510" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -501,7 +191,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606090000 -0300" stop="20150606120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283822" series_key="">
+<programme start="20150606090000 -0300" stop="20150606120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544511" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -518,7 +208,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606120000 -0300" stop="20150606145000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283823" series_key="">
+<programme start="20150606120000 -0300" stop="20150606145000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544512" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -535,7 +225,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606145000 -0300" stop="20150606170000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283824" series_key="">
+<programme start="20150606145000 -0300" stop="20150606173000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544513" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -552,15 +242,15 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606170000 -0300" stop="20150606172000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283825" series_key="">
-<title lang="pt">Premiere</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<programme start="20150606173000 -0300" stop="20150606182500 -0300" channel="RT2" program_id="0000443883" event_id="000000100544514" series_key="00000000073857000000">
+<title lang="pt">TV FLA - Ep. 93</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000338763.jpg</image_name>
-<image_broadcast>0000338763</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
+<image_name position="1">00000000073857.jpg</image_name>
+<image_broadcast>00000000073857</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
 <video>
 <colour>yes</colour>
@@ -569,14 +259,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606172000 -0300" stop="20150606193000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283826" series_key="">
-<title lang="pt">Premiere</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<programme start="20150606182500 -0300" stop="20150606210000 -0300" channel="RT2" program_id="0000408840" event_id="000000100544515" series_key="">
+<title lang="pt">Flamengo x Chapecoense - Vivo</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000338763.jpg</image_name>
-<image_broadcast>0000338763</image_broadcast>
+<image_name position="1">0000408840.jpg</image_name>
+<image_broadcast>0000408840</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
@@ -586,7 +276,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606193000 -0300" stop="20150606210000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283827" series_key="">
+<programme start="20150606210000 -0300" stop="20150606215500 -0300" channel="RT2" program_id="0000338763" event_id="000000100544516" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -603,14 +293,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606210000 -0300" stop="20150607000000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283828" series_key="">
-<title lang="pt">Premiere</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<programme start="20150606215500 -0300" stop="20150607001000 -0300" channel="RT2" program_id="0000444026" event_id="000000100544517" series_key="">
+<title lang="pt">Joinville x Corinthians - Vivo</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000338763.jpg</image_name>
-<image_broadcast>0000338763</image_broadcast>
+<image_name position="1">0000444026.jpg</image_name>
+<image_broadcast>0000444026</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
@@ -620,15 +310,15 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607000000 -0300" stop="20150607030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283829" series_key="">
-<title lang="pt">Premiere</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<programme start="20150607001000 -0300" stop="20150607011000 -0300" channel="RT2" program_id="0000443874" event_id="000000100544518" series_key="00000000073851000000">
+<title lang="pt">Aqui é Corinthians - Ep. 67</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000338763.jpg</image_name>
-<image_broadcast>0000338763</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
+<image_name position="1">00000000073851.jpg</image_name>
+<image_broadcast>00000000073851</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
 <video>
 <colour>yes</colour>
@@ -637,7 +327,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607030000 -0300" stop="20150607060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283830" series_key="">
+<programme start="20150607011000 -0300" stop="20150607060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544519" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -654,7 +344,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607060000 -0300" stop="20150607090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283831" series_key="">
+<programme start="20150607060000 -0300" stop="20150607090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544520" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -671,7 +361,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607090000 -0300" stop="20150607120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283832" series_key="">
+<programme start="20150607090000 -0300" stop="20150607120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544521" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -688,7 +378,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607120000 -0300" stop="20150607145500 -0300" channel="RT2" program_id="0000338763" event_id="000000100283833" series_key="">
+<programme start="20150607120000 -0300" stop="20150607145500 -0300" channel="RT2" program_id="0000338763" event_id="000000100544522" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -705,7 +395,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607145500 -0300" stop="20150607171000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283834" series_key="">
+<programme start="20150607145500 -0300" stop="20150607183000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544523" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -722,15 +412,15 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607171000 -0300" stop="20150607172500 -0300" channel="RT2" program_id="0000338763" event_id="000000100283835" series_key="">
-<title lang="pt">Premiere</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<programme start="20150607183000 -0300" stop="20150607191000 -0300" channel="RT2" program_id="0000443877" event_id="000000100544524" series_key="00000000073863000000">
+<title lang="pt">Palmeiras na TV - Ep. 75</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000338763.jpg</image_name>
-<image_broadcast>0000338763</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
+<image_name position="1">00000000073863.jpg</image_name>
+<image_broadcast>00000000073863</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
 <video>
 <colour>yes</colour>
@@ -739,7 +429,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607172500 -0300" stop="20150607194000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283836" series_key="">
+<programme start="20150607191000 -0300" stop="20150607192500 -0300" channel="RT2" program_id="0000338763" event_id="000000100544525" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -756,16 +446,18 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607194000 -0300" stop="20150608000000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283837" series_key="">
-<title lang="pt">Premiere</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<programme start="20150607192500 -0300" stop="20150607220000 -0300" channel="RT2" program_id="0000132339" event_id="000000100544526" series_key="">
+<title lang="pt">Figueirense x Palmeiras - Vivo</title>
+<title lang="en">Figueirense x Palmeiras - Vivo</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000338763.jpg</image_name>
-<image_broadcast>0000338763</image_broadcast>
+<image_name position="1">0000132339.jpg</image_name>
+<image_broadcast>0000132339</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
+<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -773,7 +465,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608000000 -0300" stop="20150608030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283838" series_key="">
+<programme start="20150607220000 -0300" stop="20150608030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544527" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -790,7 +482,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608030000 -0300" stop="20150608060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283839" series_key="">
+<programme start="20150608030000 -0300" stop="20150608060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544528" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -807,7 +499,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608060000 -0300" stop="20150608090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283840" series_key="">
+<programme start="20150608060000 -0300" stop="20150608090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544529" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -824,7 +516,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608090000 -0300" stop="20150608120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283841" series_key="">
+<programme start="20150608090000 -0300" stop="20150608120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544530" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -841,7 +533,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608120000 -0300" stop="20150608150000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283842" series_key="">
+<programme start="20150608120000 -0300" stop="20150608150000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544531" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -858,7 +550,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608150000 -0300" stop="20150608180000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283843" series_key="">
+<programme start="20150608150000 -0300" stop="20150608180000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544532" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -875,7 +567,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608180000 -0300" stop="20150608210000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283844" series_key="">
+<programme start="20150608180000 -0300" stop="20150608210000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544533" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -892,7 +584,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608210000 -0300" stop="20150609000000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283845" series_key="">
+<programme start="20150608210000 -0300" stop="20150609000000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544534" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -909,7 +601,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609000000 -0300" stop="20150609030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283846" series_key="">
+<programme start="20150609000000 -0300" stop="20150609030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544535" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -926,7 +618,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609030000 -0300" stop="20150609060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283847" series_key="">
+<programme start="20150609030000 -0300" stop="20150609060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544536" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -943,7 +635,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609060000 -0300" stop="20150609090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283848" series_key="">
+<programme start="20150609060000 -0300" stop="20150609090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544537" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -960,7 +652,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609090000 -0300" stop="20150609120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283849" series_key="">
+<programme start="20150609090000 -0300" stop="20150609120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544538" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -977,7 +669,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609120000 -0300" stop="20150609150000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283850" series_key="">
+<programme start="20150609120000 -0300" stop="20150609150000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544539" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -994,7 +686,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609150000 -0300" stop="20150609183000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283851" series_key="">
+<programme start="20150609150000 -0300" stop="20150609183000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544540" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1011,7 +703,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609183000 -0300" stop="20150609204000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283852" series_key="">
+<programme start="20150609183000 -0300" stop="20150609204000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544541" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1028,7 +720,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609204000 -0300" stop="20150609204500 -0300" channel="RT2" program_id="0000338763" event_id="000000100283853" series_key="">
+<programme start="20150609204000 -0300" stop="20150609204500 -0300" channel="RT2" program_id="0000338763" event_id="000000100544542" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1045,7 +737,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609204500 -0300" stop="20150609233000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283854" series_key="">
+<programme start="20150609204500 -0300" stop="20150609233000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544543" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1062,7 +754,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609233000 -0300" stop="20150610030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283855" series_key="">
+<programme start="20150609233000 -0300" stop="20150610030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544544" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1079,7 +771,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610030000 -0300" stop="20150610060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283856" series_key="">
+<programme start="20150610030000 -0300" stop="20150610060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544545" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1096,7 +788,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610060000 -0300" stop="20150610090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283857" series_key="">
+<programme start="20150610060000 -0300" stop="20150610090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544546" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1113,7 +805,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610090000 -0300" stop="20150610120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283858" series_key="">
+<programme start="20150610090000 -0300" stop="20150610120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544547" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1130,7 +822,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610120000 -0300" stop="20150610155000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283859" series_key="">
+<programme start="20150610120000 -0300" stop="20150610155000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544548" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1147,7 +839,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610155000 -0300" stop="20150610183000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283860" series_key="">
+<programme start="20150610155000 -0300" stop="20150610183000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544549" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1164,7 +856,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610183000 -0300" stop="20150610210000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283861" series_key="">
+<programme start="20150610183000 -0300" stop="20150610210000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544550" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1181,7 +873,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610210000 -0300" stop="20150610233000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283862" series_key="">
+<programme start="20150610210000 -0300" stop="20150610233000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544551" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1198,7 +890,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610233000 -0300" stop="20150611030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283863" series_key="">
+<programme start="20150610233000 -0300" stop="20150611030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544552" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1215,7 +907,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611030000 -0300" stop="20150611060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283864" series_key="">
+<programme start="20150611030000 -0300" stop="20150611060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544553" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1232,7 +924,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611060000 -0300" stop="20150611090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283865" series_key="">
+<programme start="20150611060000 -0300" stop="20150611090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544554" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1249,7 +941,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611090000 -0300" stop="20150611120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283866" series_key="">
+<programme start="20150611090000 -0300" stop="20150611120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544555" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1266,7 +958,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611120000 -0300" stop="20150611150000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283867" series_key="">
+<programme start="20150611120000 -0300" stop="20150611150000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544556" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1283,7 +975,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611150000 -0300" stop="20150611182000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283868" series_key="">
+<programme start="20150611150000 -0300" stop="20150611182000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544557" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1300,7 +992,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611182000 -0300" stop="20150611210000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283869" series_key="">
+<programme start="20150611182000 -0300" stop="20150611210000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544558" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1317,7 +1009,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611210000 -0300" stop="20150612000000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283870" series_key="">
+<programme start="20150611210000 -0300" stop="20150612000000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544559" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1334,7 +1026,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612000000 -0300" stop="20150612030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283871" series_key="">
+<programme start="20150612000000 -0300" stop="20150612030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544560" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1351,7 +1043,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612030000 -0300" stop="20150612060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283872" series_key="">
+<programme start="20150612030000 -0300" stop="20150612060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544561" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1368,7 +1060,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612060000 -0300" stop="20150612090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283873" series_key="">
+<programme start="20150612060000 -0300" stop="20150612090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544562" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1385,7 +1077,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612090000 -0300" stop="20150612120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283874" series_key="">
+<programme start="20150612090000 -0300" stop="20150612120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544563" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1402,7 +1094,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612120000 -0300" stop="20150612150000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283875" series_key="">
+<programme start="20150612120000 -0300" stop="20150612150000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544564" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1419,7 +1111,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612150000 -0300" stop="20150612180000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283876" series_key="">
+<programme start="20150612150000 -0300" stop="20150612180000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544565" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1436,7 +1128,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612180000 -0300" stop="20150612210000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283877" series_key="">
+<programme start="20150612180000 -0300" stop="20150612210000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544566" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1453,7 +1145,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612210000 -0300" stop="20150613000000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283878" series_key="">
+<programme start="20150612210000 -0300" stop="20150613000000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544567" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1470,7 +1162,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613000000 -0300" stop="20150613030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283879" series_key="">
+<programme start="20150613000000 -0300" stop="20150613030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544568" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1487,7 +1179,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613030000 -0300" stop="20150613060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283880" series_key="">
+<programme start="20150613030000 -0300" stop="20150613060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544569" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1504,7 +1196,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613060000 -0300" stop="20150613090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283881" series_key="">
+<programme start="20150613060000 -0300" stop="20150613090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544570" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1521,7 +1213,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613090000 -0300" stop="20150613120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283882" series_key="">
+<programme start="20150613090000 -0300" stop="20150613120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544571" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1538,7 +1230,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613120000 -0300" stop="20150613145000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283883" series_key="">
+<programme start="20150613120000 -0300" stop="20150613145000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544572" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1555,7 +1247,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613145000 -0300" stop="20150613170000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283884" series_key="">
+<programme start="20150613145000 -0300" stop="20150613170000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544573" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1572,7 +1264,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613170000 -0300" stop="20150613172000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283885" series_key="">
+<programme start="20150613170000 -0300" stop="20150613172000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544574" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1589,7 +1281,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613172000 -0300" stop="20150613193000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283886" series_key="">
+<programme start="20150613172000 -0300" stop="20150613193000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544575" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1606,7 +1298,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613193000 -0300" stop="20150613210000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283887" series_key="">
+<programme start="20150613193000 -0300" stop="20150613210000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544576" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1623,7 +1315,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613210000 -0300" stop="20150614000000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283888" series_key="">
+<programme start="20150613210000 -0300" stop="20150614000000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544577" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1640,7 +1332,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614000000 -0300" stop="20150614030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283889" series_key="">
+<programme start="20150614000000 -0300" stop="20150614030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544578" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1657,7 +1349,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614030000 -0300" stop="20150614060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283890" series_key="">
+<programme start="20150614030000 -0300" stop="20150614060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544579" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1674,7 +1366,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614060000 -0300" stop="20150614090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283891" series_key="">
+<programme start="20150614060000 -0300" stop="20150614090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544580" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1691,7 +1383,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614090000 -0300" stop="20150614120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283892" series_key="">
+<programme start="20150614090000 -0300" stop="20150614120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544581" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1708,7 +1400,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614120000 -0300" stop="20150614145500 -0300" channel="RT2" program_id="0000338763" event_id="000000100283893" series_key="">
+<programme start="20150614120000 -0300" stop="20150614145500 -0300" channel="RT2" program_id="0000338763" event_id="000000100544582" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1725,7 +1417,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614145500 -0300" stop="20150614171000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283894" series_key="">
+<programme start="20150614145500 -0300" stop="20150614171000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544583" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1742,7 +1434,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614171000 -0300" stop="20150614172500 -0300" channel="RT2" program_id="0000338763" event_id="000000100283895" series_key="">
+<programme start="20150614171000 -0300" stop="20150614172500 -0300" channel="RT2" program_id="0000338763" event_id="000000100544584" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1759,7 +1451,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614172500 -0300" stop="20150614194000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283896" series_key="">
+<programme start="20150614172500 -0300" stop="20150614194000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544585" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1776,7 +1468,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614194000 -0300" stop="20150615000000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283897" series_key="">
+<programme start="20150614194000 -0300" stop="20150615000000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544586" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1793,7 +1485,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615000000 -0300" stop="20150615030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283898" series_key="">
+<programme start="20150615000000 -0300" stop="20150615030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544587" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1810,7 +1502,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615030000 -0300" stop="20150615060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283899" series_key="">
+<programme start="20150615030000 -0300" stop="20150615060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544588" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1827,7 +1519,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615060000 -0300" stop="20150615090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283900" series_key="">
+<programme start="20150615060000 -0300" stop="20150615090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544589" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1844,7 +1536,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615090000 -0300" stop="20150615120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283901" series_key="">
+<programme start="20150615090000 -0300" stop="20150615120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544590" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1861,7 +1553,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615120000 -0300" stop="20150615150000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283902" series_key="">
+<programme start="20150615120000 -0300" stop="20150615150000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544591" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1878,7 +1570,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615150000 -0300" stop="20150615180000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283903" series_key="">
+<programme start="20150615150000 -0300" stop="20150615180000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544592" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1895,7 +1587,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615180000 -0300" stop="20150615210000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283904" series_key="">
+<programme start="20150615180000 -0300" stop="20150615210000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544593" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1912,7 +1604,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615210000 -0300" stop="20150616000000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283905" series_key="">
+<programme start="20150615210000 -0300" stop="20150616000000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544594" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1929,7 +1621,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616000000 -0300" stop="20150616030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283906" series_key="">
+<programme start="20150616000000 -0300" stop="20150616030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544595" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1946,7 +1638,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616030000 -0300" stop="20150616060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283907" series_key="">
+<programme start="20150616030000 -0300" stop="20150616060000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544596" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1963,7 +1655,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616060000 -0300" stop="20150616090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283908" series_key="">
+<programme start="20150616060000 -0300" stop="20150616090000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544597" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1980,7 +1672,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616090000 -0300" stop="20150616120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283909" series_key="">
+<programme start="20150616090000 -0300" stop="20150616120000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544598" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1997,7 +1689,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616120000 -0300" stop="20150616150000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283910" series_key="">
+<programme start="20150616120000 -0300" stop="20150616150000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544599" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2014,7 +1706,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616150000 -0300" stop="20150616183000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283911" series_key="">
+<programme start="20150616150000 -0300" stop="20150616183000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544600" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2031,7 +1723,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616183000 -0300" stop="20150616204000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283912" series_key="">
+<programme start="20150616183000 -0300" stop="20150616204000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544601" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2048,7 +1740,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616204000 -0300" stop="20150616204500 -0300" channel="RT2" program_id="0000338763" event_id="000000100283913" series_key="">
+<programme start="20150616204000 -0300" stop="20150616204500 -0300" channel="RT2" program_id="0000338763" event_id="000000100544602" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2065,7 +1757,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616204500 -0300" stop="20150616233000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283914" series_key="">
+<programme start="20150616204500 -0300" stop="20150616233000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544603" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2082,7 +1774,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616233000 -0300" stop="20150617030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100283915" series_key="">
+<programme start="20150616233000 -0300" stop="20150617030000 -0300" channel="RT2" program_id="0000338763" event_id="000000100544604" series_key="">
 <title lang="pt">Premiere</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>

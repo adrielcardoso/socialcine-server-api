@@ -4,825 +4,6 @@
 <display-name lang="pt">TV Mar Maceió</display-name>
 <icon src="mar.gif" />
 </channel>
-<programme start="20150603010000 -0300" stop="20150603023000 -0300" channel="MAR" program_id="0000258744" event_id="00000000000095954872" series_key="00000000074677000000">
-<title lang="pt">Cinemar</title>
-<desc>Apresentação de filmes, principalmente produzidos em Alagoas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
-<image>
-<image_name position="1">00000000074677.jpg</image_name>
-<image_broadcast>00000000074677</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603023000 -0300" stop="20150603033000 -0300" channel="MAR" program_id="0000258680" event_id="00000000000095954875" series_key="00000000074672000000">
-<title lang="pt">Canal Legal</title>
-<desc>As bandas alagoanas aparecem aqui.</desc>
-<credits>
-<actor>Léo Palmeira</actor>
-</credits>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000074672.jpg</image_name>
-<image_broadcast>00000000074672</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603033000 -0300" stop="20150603043000 -0300" channel="MAR" program_id="0000393971" event_id="00000000000095954878" series_key="00000000074690000000">
-<title lang="pt">Cortando</title>
-<desc>Programa jornalístico de variedades e comportamento.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000074690.jpg</image_name>
-<image_broadcast>00000000074690</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603043000 -0300" stop="20150603063000 -0300" channel="MAR" program_id="0000393805" event_id="00000000000095954882" series_key="00000000074671000000">
-<title lang="pt">A Vez do Povo</title>
-<desc>Entrevistas, reportagens e interatividade ao vivo com a comunidade. A Vez do Povo, um espaço aberto de olho na capital e no interior.</desc>
-<credits>
-<actor>Douglas Lopes</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074671.jpg</image_name>
-<image_broadcast>00000000074671</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603063000 -0300" stop="20150603070000 -0300" channel="MAR" program_id="0000393864" event_id="00000000000095954885" series_key="00000000074678000000">
-<title lang="pt">Conheça Alagoas</title>
-<desc>Apresenta ações e informações sobre o interior de Alagoas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074678.jpg</image_name>
-<image_broadcast>00000000074678</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603070000 -0300" stop="20150603080000 -0300" channel="MAR" program_id="0000393840" event_id="00000000000095954888" series_key="00000000074674000000">
-<title lang="pt">Verdade e Informação</title>
-<desc>Uma abordagem crítica, uma avaliação aprofundada sobre política, saúde, educação, segurança pública e outros temas de interesse da população. Links ao vivo e interação constante com o telespectador.</desc>
-<credits>
-<actor>Carlos Roberts</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074674.jpg</image_name>
-<image_broadcast>00000000074674</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603080000 -0300" stop="20150603090000 -0300" channel="MAR" program_id="0000393795" event_id="00000000000095954891" series_key="00000000074668000000">
-<title lang="pt">Canal Esportes</title>
-<desc>O esporte local é destaque na tela da TV MAR. Entrevistas e reportagens ao vivo sobre o esporte alagoano, com destaque para o futebol.</desc>
-<credits>
-<actor>Widerlan Araújo</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000074668.jpg</image_name>
-<image_broadcast>00000000074668</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603090000 -0300" stop="20150603100000 -0300" channel="MAR" program_id="0000393971" event_id="00000000000095954894" series_key="00000000074690000000">
-<title lang="pt">Cortando</title>
-<desc>Programa jornalístico de variedades e comportamento.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000074690.jpg</image_name>
-<image_broadcast>00000000074690</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603100000 -0300" stop="20150603120000 -0300" channel="MAR" program_id="0000393805" event_id="00000000000095954897" series_key="00000000074671000000">
-<title lang="pt">A Vez do Povo</title>
-<desc>Entrevistas, reportagens e interatividade ao vivo com a comunidade. A Vez do Povo, um espaço aberto de olho na capital e no interior.</desc>
-<credits>
-<actor>Douglas Lopes</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074671.jpg</image_name>
-<image_broadcast>00000000074671</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603120000 -0300" stop="20150603133000 -0300" channel="MAR" program_id="0000393841" event_id="00000000000095954900" series_key="00000000074675000000">
-<title lang="pt">Conjuntura</title>
-<desc>Debatendo a conjuntura política e econômica do Brasil.</desc>
-<credits>
-<actor>Flávio Gomes de Barros</actor>
-</credits>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000074675.jpg</image_name>
-<image_broadcast>00000000074675</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603133000 -0300" stop="20150603143000 -0300" channel="MAR" program_id="0000393840" event_id="00000000000095954903" series_key="00000000074674000000">
-<title lang="pt">Verdade e Informação</title>
-<desc>Uma abordagem crítica, uma avaliação aprofundada sobre política, saúde, educação, segurança pública e outros temas de interesse da população. Links ao vivo e interação constante com o telespectador.</desc>
-<credits>
-<actor>Carlos Roberts</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074674.jpg</image_name>
-<image_broadcast>00000000074674</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603143000 -0300" stop="20150603153000 -0300" channel="MAR" program_id="0000258680" event_id="00000000000095954906" series_key="00000000074672000000">
-<title lang="pt">Canal Legal</title>
-<desc>As bandas alagoanas aparecem aqui.</desc>
-<credits>
-<actor>Léo Palmeira</actor>
-</credits>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000074672.jpg</image_name>
-<image_broadcast>00000000074672</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603153000 -0300" stop="20150603163000 -0300" channel="MAR" program_id="0000258699" event_id="00000000000095954909" series_key="00000000074685000000">
-<title lang="pt">Palavra Amiga</title>
-<desc>iscussão do comportamento humano.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000074685.jpg</image_name>
-<image_broadcast>00000000074685</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603163000 -0300" stop="20150603173000 -0300" channel="MAR" program_id="0000393971" event_id="00000000000095954912" series_key="00000000074690000000">
-<title lang="pt">Cortando</title>
-<desc>Programa jornalístico de variedades e comportamento.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000074690.jpg</image_name>
-<image_broadcast>00000000074690</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603173000 -0300" stop="20150603193000 -0300" channel="MAR" program_id="0000393805" event_id="00000000000095954915" series_key="00000000074671000000">
-<title lang="pt">A Vez do Povo</title>
-<desc>Entrevistas, reportagens e interatividade ao vivo com a comunidade. A Vez do Povo, um espaço aberto de olho na capital e no interior.</desc>
-<credits>
-<actor>Douglas Lopes</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074671.jpg</image_name>
-<image_broadcast>00000000074671</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603193000 -0300" stop="20150603200000 -0300" channel="MAR" program_id="0000393866" event_id="00000000000095954918" series_key="00000000074680000000">
-<title lang="pt">Conexão Municípios</title>
-<desc>Mostra os municípios alagoanos.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074680.jpg</image_name>
-<image_broadcast>00000000074680</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603200000 -0300" stop="20150603210000 -0300" channel="MAR" program_id="0000393841" event_id="00000000000095954921" series_key="00000000074675000000">
-<title lang="pt">Conjuntura</title>
-<desc>Debatendo a conjuntura política e econômica do Brasil.</desc>
-<credits>
-<actor>Flávio Gomes de Barros</actor>
-</credits>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000074675.jpg</image_name>
-<image_broadcast>00000000074675</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603210000 -0300" stop="20150603220000 -0300" channel="MAR" program_id="0000393840" event_id="00000000000095954924" series_key="00000000074674000000">
-<title lang="pt">Verdade e Informação</title>
-<desc>Uma abordagem crítica, uma avaliação aprofundada sobre política, saúde, educação, segurança pública e outros temas de interesse da população. Links ao vivo e interação constante com o telespectador.</desc>
-<credits>
-<actor>Carlos Roberts</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074674.jpg</image_name>
-<image_broadcast>00000000074674</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603220000 -0300" stop="20150603230000 -0300" channel="MAR" program_id="0000393971" event_id="00000000000095954927" series_key="00000000074690000000">
-<title lang="pt">Cortando</title>
-<desc>Programa jornalístico de variedades e comportamento.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000074690.jpg</image_name>
-<image_broadcast>00000000074690</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603230000 -0300" stop="20150604010000 -0300" channel="MAR" program_id="0000393805" event_id="00000000000095954929" series_key="00000000074671000000">
-<title lang="pt">A Vez do Povo</title>
-<desc>Entrevistas, reportagens e interatividade ao vivo com a comunidade. A Vez do Povo, um espaço aberto de olho na capital e no interior.</desc>
-<credits>
-<actor>Douglas Lopes</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074671.jpg</image_name>
-<image_broadcast>00000000074671</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604010000 -0300" stop="20150604020000 -0300" channel="MAR" program_id="0000393865" event_id="00000000000095954932" series_key="00000000074679000000">
-<title lang="pt">EL-Shaday</title>
-<desc>Programa religioso.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">00000000074679.jpg</image_name>
-<image_broadcast>00000000074679</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604020000 -0300" stop="20150604023000 -0300" channel="MAR" program_id="0000393816" event_id="00000000000095954935" series_key="00000000074673000000">
-<title lang="pt">Bart Papo</title>
-<desc>Um programa de entrevistas.</desc>
-<credits>
-<actor>Geraldo Câmara</actor>
-</credits>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">00000000074673.jpg</image_name>
-<image_broadcast>00000000074673</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604023000 -0300" stop="20150604033000 -0300" channel="MAR" program_id="0000258744" event_id="00000000000095954938" series_key="00000000074677000000">
-<title lang="pt">Cinemar</title>
-<desc>Apresentação de filmes, principalmente produzidos em Alagoas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
-<image>
-<image_name position="1">00000000074677.jpg</image_name>
-<image_broadcast>00000000074677</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604033000 -0300" stop="20150604043000 -0300" channel="MAR" program_id="0000393971" event_id="00000000000095954941" series_key="00000000074690000000">
-<title lang="pt">Cortando</title>
-<desc>Programa jornalístico de variedades e comportamento.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000074690.jpg</image_name>
-<image_broadcast>00000000074690</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604043000 -0300" stop="20150604063000 -0300" channel="MAR" program_id="0000393805" event_id="00000000000095954945" series_key="00000000074671000000">
-<title lang="pt">A Vez do Povo</title>
-<desc>Entrevistas, reportagens e interatividade ao vivo com a comunidade. A Vez do Povo, um espaço aberto de olho na capital e no interior.</desc>
-<credits>
-<actor>Douglas Lopes</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074671.jpg</image_name>
-<image_broadcast>00000000074671</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604063000 -0300" stop="20150604070000 -0300" channel="MAR" program_id="0000393866" event_id="00000000000095954948" series_key="00000000074680000000">
-<title lang="pt">Conexão Municípios</title>
-<desc>Mostra os municípios alagoanos.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074680.jpg</image_name>
-<image_broadcast>00000000074680</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604070000 -0300" stop="20150604080000 -0300" channel="MAR" program_id="0000393840" event_id="00000000000095954951" series_key="00000000074674000000">
-<title lang="pt">Verdade e Informação</title>
-<desc>Uma abordagem crítica, uma avaliação aprofundada sobre política, saúde, educação, segurança pública e outros temas de interesse da população. Links ao vivo e interação constante com o telespectador.</desc>
-<credits>
-<actor>Carlos Roberts</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074674.jpg</image_name>
-<image_broadcast>00000000074674</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604080000 -0300" stop="20150604090000 -0300" channel="MAR" program_id="0000393795" event_id="00000000000095954954" series_key="00000000074668000000">
-<title lang="pt">Canal Esportes</title>
-<desc>O esporte local é destaque na tela da TV MAR. Entrevistas e reportagens ao vivo sobre o esporte alagoano, com destaque para o futebol.</desc>
-<credits>
-<actor>Widerlan Araújo</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000074668.jpg</image_name>
-<image_broadcast>00000000074668</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604090000 -0300" stop="20150604100000 -0300" channel="MAR" program_id="0000393971" event_id="00000000000095954957" series_key="00000000074690000000">
-<title lang="pt">Cortando</title>
-<desc>Programa jornalístico de variedades e comportamento.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000074690.jpg</image_name>
-<image_broadcast>00000000074690</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604100000 -0300" stop="20150604120000 -0300" channel="MAR" program_id="0000393805" event_id="00000000000095954960" series_key="00000000074671000000">
-<title lang="pt">A Vez do Povo</title>
-<desc>Entrevistas, reportagens e interatividade ao vivo com a comunidade. A Vez do Povo, um espaço aberto de olho na capital e no interior.</desc>
-<credits>
-<actor>Douglas Lopes</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074671.jpg</image_name>
-<image_broadcast>00000000074671</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604120000 -0300" stop="20150604123000 -0300" channel="MAR" program_id="0000393816" event_id="00000000000095954963" series_key="00000000074673000000">
-<title lang="pt">Bart Papo</title>
-<desc>Um programa de entrevistas.</desc>
-<credits>
-<actor>Geraldo Câmara</actor>
-</credits>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">00000000074673.jpg</image_name>
-<image_broadcast>00000000074673</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604123000 -0300" stop="20150604133000 -0300" channel="MAR" program_id="0000393867" event_id="00000000000095954966" series_key="00000000074681000000">
-<title lang="pt">Giro com Geléia</title>
-<desc>Variedades, informação, cultura e entretenimento.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074681.jpg</image_name>
-<image_broadcast>00000000074681</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604133000 -0300" stop="20150604143000 -0300" channel="MAR" program_id="0000393840" event_id="00000000000095954969" series_key="00000000074674000000">
-<title lang="pt">Verdade e Informação</title>
-<desc>Uma abordagem crítica, uma avaliação aprofundada sobre política, saúde, educação, segurança pública e outros temas de interesse da população. Links ao vivo e interação constante com o telespectador.</desc>
-<credits>
-<actor>Carlos Roberts</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074674.jpg</image_name>
-<image_broadcast>00000000074674</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604143000 -0300" stop="20150604153000 -0300" channel="MAR" program_id="0000258680" event_id="00000000000095954973" series_key="00000000074672000000">
-<title lang="pt">Canal Legal</title>
-<desc>As bandas alagoanas aparecem aqui.</desc>
-<credits>
-<actor>Léo Palmeira</actor>
-</credits>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000074672.jpg</image_name>
-<image_broadcast>00000000074672</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604153000 -0300" stop="20150604163000 -0300" channel="MAR" program_id="0000393862" event_id="00000000000095954976" series_key="00000000074676000000">
-<title lang="pt">Análise</title>
-<desc>Jornalístico de debates e entrevistas sobre temas que influenciam o dia da população.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000074676.jpg</image_name>
-<image_broadcast>00000000074676</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604163000 -0300" stop="20150604173000 -0300" channel="MAR" program_id="0000393865" event_id="00000000000095954979" series_key="00000000074679000000">
-<title lang="pt">EL-Shaday</title>
-<desc>Programa religioso.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">00000000074679.jpg</image_name>
-<image_broadcast>00000000074679</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604173000 -0300" stop="20150604193000 -0300" channel="MAR" program_id="0000393805" event_id="00000000000095954982" series_key="00000000074671000000">
-<title lang="pt">A Vez do Povo</title>
-<desc>Entrevistas, reportagens e interatividade ao vivo com a comunidade. A Vez do Povo, um espaço aberto de olho na capital e no interior.</desc>
-<credits>
-<actor>Douglas Lopes</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074671.jpg</image_name>
-<image_broadcast>00000000074671</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604193000 -0300" stop="20150604200000 -0300" channel="MAR" program_id="0000393816" event_id="00000000000095954985" series_key="00000000074673000000">
-<title lang="pt">Bart Papo</title>
-<desc>Um programa de entrevistas.</desc>
-<credits>
-<actor>Geraldo Câmara</actor>
-</credits>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">00000000074673.jpg</image_name>
-<image_broadcast>00000000074673</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604200000 -0300" stop="20150604210000 -0300" channel="MAR" program_id="0000393841" event_id="00000000000095954988" series_key="00000000074675000000">
-<title lang="pt">Conjuntura</title>
-<desc>Debatendo a conjuntura política e econômica do Brasil.</desc>
-<credits>
-<actor>Flávio Gomes de Barros</actor>
-</credits>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000074675.jpg</image_name>
-<image_broadcast>00000000074675</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604210000 -0300" stop="20150604220000 -0300" channel="MAR" program_id="0000393795" event_id="00000000000095954991" series_key="00000000074668000000">
-<title lang="pt">Canal Esportes</title>
-<desc>O esporte local é destaque na tela da TV MAR. Entrevistas e reportagens ao vivo sobre o esporte alagoano, com destaque para o futebol.</desc>
-<credits>
-<actor>Widerlan Araújo</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000074668.jpg</image_name>
-<image_broadcast>00000000074668</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604220000 -0300" stop="20150604230000 -0300" channel="MAR" program_id="0000393971" event_id="00000000000095954994" series_key="00000000074690000000">
-<title lang="pt">Cortando</title>
-<desc>Programa jornalístico de variedades e comportamento.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comportamento</category>
-<image>
-<image_name position="1">00000000074690.jpg</image_name>
-<image_broadcast>00000000074690</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604230000 -0300" stop="20150605010000 -0300" channel="MAR" program_id="0000393805" event_id="00000000000095954997" series_key="00000000074671000000">
-<title lang="pt">A Vez do Povo</title>
-<desc>Entrevistas, reportagens e interatividade ao vivo com a comunidade. A Vez do Povo, um espaço aberto de olho na capital e no interior.</desc>
-<credits>
-<actor>Douglas Lopes</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074671.jpg</image_name>
-<image_broadcast>00000000074671</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
 <programme start="20150605010000 -0300" stop="20150605020000 -0300" channel="MAR" program_id="0000393865" event_id="00000000000096023272" series_key="00000000074679000000">
 <title lang="pt">EL-Shaday</title>
 <desc>Programa religioso.</desc>
@@ -8217,6 +7398,828 @@
 <image>
 <image_name position="1">00000000074675.jpg</image_name>
 <image_broadcast>00000000074675</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622000000 -0300" stop="20150622013000 -0300" channel="MAR" program_id="0000258728" event_id="00000000000096951850" series_key="00000000074684000000">
+<title lang="pt">Almoçando com a Notícia</title>
+<desc>Reúne personalidades da sociedade alagoana.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cultural</category>
+<image>
+<image_name position="1">00000000074684.jpg</image_name>
+<image_broadcast>00000000074684</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622013000 -0300" stop="20150622023000 -0300" channel="MAR" program_id="0000393840" event_id="00000000000096951851" series_key="00000000074674000000">
+<title lang="pt">Verdade e Informação</title>
+<desc>Uma abordagem crítica, uma avaliação aprofundada sobre política, saúde, educação, segurança pública e outros temas de interesse da população. Links ao vivo e interação constante com o telespectador.</desc>
+<credits>
+<actor>Carlos Roberts</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074674.jpg</image_name>
+<image_broadcast>00000000074674</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622023000 -0300" stop="20150622033000 -0300" channel="MAR" program_id="0000393867" event_id="00000000000096951852" series_key="00000000074681000000">
+<title lang="pt">Giro com Geléia</title>
+<desc>Variedades, informação, cultura e entretenimento.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074681.jpg</image_name>
+<image_broadcast>00000000074681</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622033000 -0300" stop="20150622043000 -0300" channel="MAR" program_id="0000393870" event_id="00000000000096951853" series_key="00000000074683000000">
+<title lang="pt">Segurança</title>
+<desc>Especialistas discutem temas sobre segurança.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074683.jpg</image_name>
+<image_broadcast>00000000074683</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622043000 -0300" stop="20150622050000 -0300" channel="MAR" program_id="0000393873" event_id="00000000000096951854" series_key="00000000074687000000">
+<title lang="pt">Cesmac</title>
+<desc>Ações da instituição educacional de nível superior em Maceió.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000074687.jpg</image_name>
+<image_broadcast>00000000074687</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622050000 -0300" stop="20150622060000 -0300" channel="MAR" program_id="0000393869" event_id="00000000000096951855" series_key="00000000074682000000">
+<title lang="pt">Top Clip</title>
+<desc>VJ apresenta clipes de grupos musicais de Alagoas e do Brasil.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">00000000074682.jpg</image_name>
+<image_broadcast>00000000074682</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622060000 -0300" stop="20150622080000 -0300" channel="MAR" program_id="0000393805" event_id="00000000000096951856" series_key="00000000074671000000">
+<title lang="pt">A Vez do Povo</title>
+<desc>Entrevistas, reportagens e interatividade ao vivo com a comunidade. A Vez do Povo, um espaço aberto de olho na capital e no interior.</desc>
+<credits>
+<actor>Douglas Lopes</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074671.jpg</image_name>
+<image_broadcast>00000000074671</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622080000 -0300" stop="20150622090000 -0300" channel="MAR" program_id="0000393795" event_id="00000000000096951857" series_key="00000000074668000000">
+<title lang="pt">Canal Esportes</title>
+<desc>O esporte local é destaque na tela da TV MAR. Entrevistas e reportagens ao vivo sobre o esporte alagoano, com destaque para o futebol.</desc>
+<credits>
+<actor>Widerlan Araújo</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000074668.jpg</image_name>
+<image_broadcast>00000000074668</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622090000 -0300" stop="20150622100000 -0300" channel="MAR" program_id="0000393971" event_id="00000000000096951858" series_key="00000000074690000000">
+<title lang="pt">Cortando</title>
+<desc>Programa jornalístico de variedades e comportamento.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000074690.jpg</image_name>
+<image_broadcast>00000000074690</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622100000 -0300" stop="20150622120000 -0300" channel="MAR" program_id="0000393805" event_id="00000000000096951859" series_key="00000000074671000000">
+<title lang="pt">A Vez do Povo</title>
+<desc>Entrevistas, reportagens e interatividade ao vivo com a comunidade. A Vez do Povo, um espaço aberto de olho na capital e no interior.</desc>
+<credits>
+<actor>Douglas Lopes</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074671.jpg</image_name>
+<image_broadcast>00000000074671</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622120000 -0300" stop="20150622123000 -0300" channel="MAR" program_id="0000393816" event_id="00000000000096951860" series_key="00000000074673000000">
+<title lang="pt">Bart Papo</title>
+<desc>Um programa de entrevistas.</desc>
+<credits>
+<actor>Geraldo Câmara</actor>
+</credits>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">00000000074673.jpg</image_name>
+<image_broadcast>00000000074673</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622123000 -0300" stop="20150622133000 -0300" channel="MAR" program_id="0000393862" event_id="00000000000096951861" series_key="00000000074676000000">
+<title lang="pt">Análise</title>
+<desc>Jornalístico de debates e entrevistas sobre temas que influenciam o dia da população.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000074676.jpg</image_name>
+<image_broadcast>00000000074676</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622133000 -0300" stop="20150622143000 -0300" channel="MAR" program_id="0000393840" event_id="00000000000096951862" series_key="00000000074674000000">
+<title lang="pt">Verdade e Informação</title>
+<desc>Uma abordagem crítica, uma avaliação aprofundada sobre política, saúde, educação, segurança pública e outros temas de interesse da população. Links ao vivo e interação constante com o telespectador.</desc>
+<credits>
+<actor>Carlos Roberts</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074674.jpg</image_name>
+<image_broadcast>00000000074674</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622143000 -0300" stop="20150622153000 -0300" channel="MAR" program_id="0000258680" event_id="00000000000096951863" series_key="00000000074672000000">
+<title lang="pt">Canal Legal</title>
+<desc>As bandas alagoanas aparecem aqui.</desc>
+<credits>
+<actor>Léo Palmeira</actor>
+</credits>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">00000000074672.jpg</image_name>
+<image_broadcast>00000000074672</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622153000 -0300" stop="20150622163000 -0300" channel="MAR" program_id="0000258744" event_id="00000000000096951864" series_key="00000000074677000000">
+<title lang="pt">Cinemar</title>
+<desc>Apresentação de filmes, principalmente produzidos em Alagoas.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cinema</category>
+<image>
+<image_name position="1">00000000074677.jpg</image_name>
+<image_broadcast>00000000074677</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622163000 -0300" stop="20150622173000 -0300" channel="MAR" program_id="0000393971" event_id="00000000000096951865" series_key="00000000074690000000">
+<title lang="pt">Cortando</title>
+<desc>Programa jornalístico de variedades e comportamento.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000074690.jpg</image_name>
+<image_broadcast>00000000074690</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622173000 -0300" stop="20150622193000 -0300" channel="MAR" program_id="0000393805" event_id="00000000000096951866" series_key="00000000074671000000">
+<title lang="pt">A Vez do Povo</title>
+<desc>Entrevistas, reportagens e interatividade ao vivo com a comunidade. A Vez do Povo, um espaço aberto de olho na capital e no interior.</desc>
+<credits>
+<actor>Douglas Lopes</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074671.jpg</image_name>
+<image_broadcast>00000000074671</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622193000 -0300" stop="20150622200000 -0300" channel="MAR" program_id="0000393816" event_id="00000000000096951867" series_key="00000000074673000000">
+<title lang="pt">Bart Papo</title>
+<desc>Um programa de entrevistas.</desc>
+<credits>
+<actor>Geraldo Câmara</actor>
+</credits>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">00000000074673.jpg</image_name>
+<image_broadcast>00000000074673</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622200000 -0300" stop="20150622203000 -0300" channel="MAR" program_id="0000393864" event_id="00000000000096951868" series_key="00000000074678000000">
+<title lang="pt">Conheça Alagoas</title>
+<desc>Apresenta ações e informações sobre o interior de Alagoas.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074678.jpg</image_name>
+<image_broadcast>00000000074678</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622203000 -0300" stop="20150622220000 -0300" channel="MAR" program_id="0000393799" event_id="00000000000096951869" series_key="00000000074669000000">
+<title lang="pt">Esporte em Debate</title>
+<desc>Esporte em Debate, um espaço democrático para a participação de torcedores e convidados.</desc>
+<credits>
+<actor>Jorge Morais</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000074669.jpg</image_name>
+<image_broadcast>00000000074669</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622220000 -0300" stop="20150622230000 -0300" channel="MAR" program_id="0000393841" event_id="00000000000096951870" series_key="00000000074675000000">
+<title lang="pt">Conjuntura</title>
+<desc>Debatendo a conjuntura política e econômica do Brasil.</desc>
+<credits>
+<actor>Flávio Gomes de Barros</actor>
+</credits>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000074675.jpg</image_name>
+<image_broadcast>00000000074675</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622230000 -0300" stop="20150623010000 -0300" channel="MAR" program_id="0000393805" event_id="00000000000096951871" series_key="00000000074671000000">
+<title lang="pt">A Vez do Povo</title>
+<desc>Entrevistas, reportagens e interatividade ao vivo com a comunidade. A Vez do Povo, um espaço aberto de olho na capital e no interior.</desc>
+<credits>
+<actor>Douglas Lopes</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074671.jpg</image_name>
+<image_broadcast>00000000074671</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623010000 -0300" stop="20150623020000 -0300" channel="MAR" program_id="0000258744" event_id="00000000000097142000" series_key="00000000074677000000">
+<title lang="pt">Cinemar</title>
+<desc>Apresentação de filmes, principalmente produzidos em Alagoas.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cinema</category>
+<image>
+<image_name position="1">00000000074677.jpg</image_name>
+<image_broadcast>00000000074677</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623020000 -0300" stop="20150623023000 -0300" channel="MAR" program_id="0000393816" event_id="00000000000097142004" series_key="00000000074673000000">
+<title lang="pt">Bart Papo</title>
+<desc>Um programa de entrevistas.</desc>
+<credits>
+<actor>Geraldo Câmara</actor>
+</credits>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">00000000074673.jpg</image_name>
+<image_broadcast>00000000074673</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623023000 -0300" stop="20150623033000 -0300" channel="MAR" program_id="0000393971" event_id="00000000000097142008" series_key="00000000074690000000">
+<title lang="pt">Cortando</title>
+<desc>Programa jornalístico de variedades e comportamento.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000074690.jpg</image_name>
+<image_broadcast>00000000074690</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623033000 -0300" stop="20150623053000 -0300" channel="MAR" program_id="0000393805" event_id="00000000000097142012" series_key="00000000074671000000">
+<title lang="pt">A Vez do Povo</title>
+<desc>Entrevistas, reportagens e interatividade ao vivo com a comunidade. A Vez do Povo, um espaço aberto de olho na capital e no interior.</desc>
+<credits>
+<actor>Douglas Lopes</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074671.jpg</image_name>
+<image_broadcast>00000000074671</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623053000 -0300" stop="20150623070000 -0300" channel="MAR" program_id="0000393799" event_id="00000000000097142015" series_key="00000000074669000000">
+<title lang="pt">Esporte em Debate</title>
+<desc>Esporte em Debate, um espaço democrático para a participação de torcedores e convidados.</desc>
+<credits>
+<actor>Jorge Morais</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000074669.jpg</image_name>
+<image_broadcast>00000000074669</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623070000 -0300" stop="20150623080000 -0300" channel="MAR" program_id="0000393840" event_id="00000000000097142019" series_key="00000000074674000000">
+<title lang="pt">Verdade e Informação</title>
+<desc>Uma abordagem crítica, uma avaliação aprofundada sobre política, saúde, educação, segurança pública e outros temas de interesse da população. Links ao vivo e interação constante com o telespectador.</desc>
+<credits>
+<actor>Carlos Roberts</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074674.jpg</image_name>
+<image_broadcast>00000000074674</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623080000 -0300" stop="20150623090000 -0300" channel="MAR" program_id="0000393795" event_id="00000000000097142023" series_key="00000000074668000000">
+<title lang="pt">Canal Esportes</title>
+<desc>O esporte local é destaque na tela da TV MAR. Entrevistas e reportagens ao vivo sobre o esporte alagoano, com destaque para o futebol.</desc>
+<credits>
+<actor>Widerlan Araújo</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000074668.jpg</image_name>
+<image_broadcast>00000000074668</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623090000 -0300" stop="20150623100000 -0300" channel="MAR" program_id="0000393971" event_id="00000000000097142026" series_key="00000000074690000000">
+<title lang="pt">Cortando</title>
+<desc>Programa jornalístico de variedades e comportamento.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000074690.jpg</image_name>
+<image_broadcast>00000000074690</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623100000 -0300" stop="20150623120000 -0300" channel="MAR" program_id="0000393805" event_id="00000000000097142029" series_key="00000000074671000000">
+<title lang="pt">A Vez do Povo</title>
+<desc>Entrevistas, reportagens e interatividade ao vivo com a comunidade. A Vez do Povo, um espaço aberto de olho na capital e no interior.</desc>
+<credits>
+<actor>Douglas Lopes</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074671.jpg</image_name>
+<image_broadcast>00000000074671</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623120000 -0300" stop="20150623133000 -0300" channel="MAR" program_id="0000393799" event_id="00000000000097142032" series_key="00000000074669000000">
+<title lang="pt">Esporte em Debate</title>
+<desc>Esporte em Debate, um espaço democrático para a participação de torcedores e convidados.</desc>
+<credits>
+<actor>Jorge Morais</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000074669.jpg</image_name>
+<image_broadcast>00000000074669</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623133000 -0300" stop="20150623143000 -0300" channel="MAR" program_id="0000393840" event_id="00000000000097142035" series_key="00000000074674000000">
+<title lang="pt">Verdade e Informação</title>
+<desc>Uma abordagem crítica, uma avaliação aprofundada sobre política, saúde, educação, segurança pública e outros temas de interesse da população. Links ao vivo e interação constante com o telespectador.</desc>
+<credits>
+<actor>Carlos Roberts</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074674.jpg</image_name>
+<image_broadcast>00000000074674</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623143000 -0300" stop="20150623153000 -0300" channel="MAR" program_id="0000258680" event_id="00000000000097142038" series_key="00000000074672000000">
+<title lang="pt">Canal Legal</title>
+<desc>As bandas alagoanas aparecem aqui.</desc>
+<credits>
+<actor>Léo Palmeira</actor>
+</credits>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">00000000074672.jpg</image_name>
+<image_broadcast>00000000074672</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623153000 -0300" stop="20150623163000 -0300" channel="MAR" program_id="0000393870" event_id="00000000000097142041" series_key="00000000074683000000">
+<title lang="pt">Segurança</title>
+<desc>Especialistas discutem temas sobre segurança.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074683.jpg</image_name>
+<image_broadcast>00000000074683</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623163000 -0300" stop="20150623173000 -0300" channel="MAR" program_id="0000393971" event_id="00000000000097142044" series_key="00000000074690000000">
+<title lang="pt">Cortando</title>
+<desc>Programa jornalístico de variedades e comportamento.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000074690.jpg</image_name>
+<image_broadcast>00000000074690</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623173000 -0300" stop="20150623193000 -0300" channel="MAR" program_id="0000393805" event_id="00000000000097142047" series_key="00000000074671000000">
+<title lang="pt">A Vez do Povo</title>
+<desc>Entrevistas, reportagens e interatividade ao vivo com a comunidade. A Vez do Povo, um espaço aberto de olho na capital e no interior.</desc>
+<credits>
+<actor>Douglas Lopes</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074671.jpg</image_name>
+<image_broadcast>00000000074671</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623193000 -0300" stop="20150623200000 -0300" channel="MAR" program_id="0000393816" event_id="00000000000097142050" series_key="00000000074673000000">
+<title lang="pt">Bart Papo</title>
+<desc>Um programa de entrevistas.</desc>
+<credits>
+<actor>Geraldo Câmara</actor>
+</credits>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">00000000074673.jpg</image_name>
+<image_broadcast>00000000074673</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623200000 -0300" stop="20150623210000 -0300" channel="MAR" program_id="0000393840" event_id="00000000000097142054" series_key="00000000074674000000">
+<title lang="pt">Verdade e Informação</title>
+<desc>Uma abordagem crítica, uma avaliação aprofundada sobre política, saúde, educação, segurança pública e outros temas de interesse da população. Links ao vivo e interação constante com o telespectador.</desc>
+<credits>
+<actor>Carlos Roberts</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074674.jpg</image_name>
+<image_broadcast>00000000074674</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623210000 -0300" stop="20150623220000 -0300" channel="MAR" program_id="0000393795" event_id="00000000000097142058" series_key="00000000074668000000">
+<title lang="pt">Canal Esportes</title>
+<desc>O esporte local é destaque na tela da TV MAR. Entrevistas e reportagens ao vivo sobre o esporte alagoano, com destaque para o futebol.</desc>
+<credits>
+<actor>Widerlan Araújo</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000074668.jpg</image_name>
+<image_broadcast>00000000074668</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623220000 -0300" stop="20150623230000 -0300" channel="MAR" program_id="0000393971" event_id="00000000000097142061" series_key="00000000074690000000">
+<title lang="pt">Cortando</title>
+<desc>Programa jornalístico de variedades e comportamento.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comportamento</category>
+<image>
+<image_name position="1">00000000074690.jpg</image_name>
+<image_broadcast>00000000074690</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623230000 -0300" stop="20150624010000 -0300" channel="MAR" program_id="0000393805" event_id="00000000000097142064" series_key="00000000074671000000">
+<title lang="pt">A Vez do Povo</title>
+<desc>Entrevistas, reportagens e interatividade ao vivo com a comunidade. A Vez do Povo, um espaço aberto de olho na capital e no interior.</desc>
+<credits>
+<actor>Douglas Lopes</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074671.jpg</image_name>
+<image_broadcast>00000000074671</image_broadcast>
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
 <country>Brasil</country>

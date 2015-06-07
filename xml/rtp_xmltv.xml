@@ -4,916 +4,6 @@
 <display-name lang="pt">RTPi</display-name>
 <icon src="rtp.gif" />
 </channel>
-<programme start="20150603000000 -0300" stop="20150603004500 -0300" channel="RTP" program_id="0000396547" event_id="00000000000095927271" series_key="00000000074824000000">
-<title lang="pt">Água de Mar</title>
-<title lang="en">Água de Mar</title>
-<desc>Série urbana e atual que se desenrola entre a Praia das Conchas e a nova Escola de Artes que está a nascer no palacete da família Barahona.</desc>
-<credits>
-<director>Paulo Brito</director>
-<actor>Rui Santos</actor>
-<actor>Mariana Monteiro</actor>
-<actor>Víctor de Sousa</actor>
-<actor>Débora Ghira</actor>
-<actor>Inês Gonçalves</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Drama</category>
-<image>
-<image_name position="1">00000000074824.jpg</image_name>
-<image_broadcast>00000000074824</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603004500 -0300" stop="20150603013500 -0300" channel="RTP" program_id="0000288374" event_id="00000000000095927274" series_key="">
-<title lang="pt">Podium</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000288374.jpg</image_name>
-<image_broadcast>0000288374</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603013500 -0300" stop="20150603023000 -0300" channel="RTP" program_id="0000376200" event_id="00000000000095927278" series_key="">
-<title lang="pt">Portugal 3.0</title>
-<desc>Álvaro Costa conduz um programa diariamente noturno! Na noite da radio, há Artes, ciência, literatura, viagens, conversas e músicas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000376200.jpg</image_name>
-<image_broadcast>0000376200</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603023000 -0300" stop="20150603030000 -0300" channel="RTP" program_id="0000070054" event_id="00000000000095927282" series_key="">
-<title lang="pt">Programação RTPi</title>
-<title lang="en">Programação RTPi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000070054.jpg</image_name>
-<image_broadcast>0000070054</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603030000 -0300" stop="20150603032600 -0300" channel="RTP" program_id="0000211024" event_id="00000000000095927286" series_key="">
-<title lang="pt">Casas com história</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000211024.jpg</image_name>
-<image_broadcast>0000211024</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603032600 -0300" stop="20150603035500 -0300" channel="RTP" program_id="0000074557" event_id="00000000000095927289" series_key="00000000074556000000">
-<title lang="pt">Telejornal Açores</title>
-<title lang="en">Telejornal Açores</title>
-<desc>Todos os dias a RTP-Açores leva a todos os açorianos a atualização de toda a informação da região do país e do mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074556.jpg</image_name>
-<image_broadcast>00000000074556</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603035500 -0300" stop="20150603043000 -0300" channel="RTP" program_id="0000074201" event_id="00000000000095927291" series_key="00000000074557000000">
-<title lang="pt">Telejornal Madeira</title>
-<title lang="en">Telejornal Madeira</title>
-<desc>Para os espectadores da Região e da diáspora madeirense espalhada pelo mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074557.jpg</image_name>
-<image_broadcast>00000000074557</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603043000 -0300" stop="20150603080000 -0300" channel="RTP" program_id="0000082609" event_id="00000000000095927293" series_key="00000000074551000000">
-<title lang="pt">Bom Dia Portugal</title>
-<title lang="en">Bom Dia Portugal</title>
-<desc>Notícias diárias da atualidade nacional e internacional, esportes, meteorologia, trânsito e economia.</desc>
-<credits>
-<actor>Carlos Albuquerque</actor>
-<actor>João Tomé de Carvalho</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074551.jpg</image_name>
-<image_broadcast>00000000074551</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603080000 -0300" stop="20150603110000 -0300" channel="RTP" program_id="0000408117" event_id="00000000000095927295" series_key="">
-<title lang="pt">Agora Nós</title>
-<desc>As manhãs da RTP agora chegam cheias de surpresas, jogos, dicas, alegria e muito humor.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000408117.jpg</image_name>
-<image_broadcast>0000408117</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603110000 -0300" stop="20150603121500 -0300" channel="RTP" program_id="0000008500" event_id="00000000000095927297" series_key="00000000074552000000">
-<title lang="pt">Jornal da Tarde</title>
-<desc>Todos os dias, às 13 horas, a sua hora de almoço é completada com notícias que marcam a atualidade nacional e mundial, desde política, economia, sociedade e sem esquecer o esporte.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074552.jpg</image_name>
-<image_broadcast>00000000074552</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603121500 -0300" stop="20150603124500 -0300" channel="RTP" program_id="0000269013" event_id="00000000000095927300" series_key="">
-<title lang="pt">Moda Portugal</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Moda e Estilo</category>
-<image>
-<image_name position="1">0000269013.jpg</image_name>
-<image_broadcast>0000269013</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603124500 -0300" stop="20150603160000 -0300" channel="RTP" program_id="0000408135" event_id="00000000000095927302" series_key="">
-<title lang="pt">Há Tarde</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000408135.jpg</image_name>
-<image_broadcast>0000408135</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603160000 -0300" stop="20150603171500 -0300" channel="RTP" program_id="0000096208" event_id="00000000000095927304" series_key="00000000074554000000">
-<title lang="pt">Portugal em Direto</title>
-<title lang="en">Portugal em Direto</title>
-<desc>Informativo especializado que traz até você notícias de tudo o que se passa em nosso país.</desc>
-<credits>
-<actor>Dina  Aguiar</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074554.jpg</image_name>
-<image_broadcast>00000000074554</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603171500 -0300" stop="20150603180000 -0300" channel="RTP" program_id="0000354579" event_id="00000000000095927307" series_key="00000000074933000000">
-<title lang="pt">Bem-vindos a Beirais</title>
-<desc>Diogo Almada, um bem sucedido gestor de contas numa empresa de telecomunicações confronta-se com problemas graves de stress e ansiedade, originados pela constante pressão em que vive.</desc>
-<credits>
-<actor>Pêpê Rapazote</actor>
-<actor>Oceana Basílio</actor>
-<actor>Dinarte Branco</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Drama</category>
-<image>
-<image_name position="1">00000000074933.jpg</image_name>
-<image_broadcast>00000000074933</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603180000 -0300" stop="20150603190000 -0300" channel="RTP" program_id="0000008506" event_id="00000000000095927310" series_key="00000000074558000000">
-<title lang="pt">Telejornal</title>
-<title lang="en">Telejornal</title>
-<desc>Informação diária para o mundo inteiro em primeiro lugar.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074558.jpg</image_name>
-<image_broadcast>00000000074558</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603190000 -0300" stop="20150603193500 -0300" channel="RTP" program_id="0000269013" event_id="00000000000095927311" series_key="">
-<title lang="pt">Moda Portugal</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Moda e Estilo</category>
-<image>
-<image_name position="1">0000269013.jpg</image_name>
-<image_broadcast>0000269013</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603193500 -0300" stop="20150603203000 -0300" channel="RTP" program_id="0000132976" event_id="00000000000095927313" series_key="">
-<title lang="pt">O Preço Certo</title>
-<title lang="en">O Preço Certo</title>
-<desc>Um programa de entretenimento com carácter informativo sobre os preços de mercado e sobre novos produtos.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000132976.jpg</image_name>
-<image_broadcast>0000132976</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603203000 -0300" stop="20150603211000 -0300" channel="RTP" program_id="0000354584" event_id="00000000000095927315" series_key="00000000074942000000">
-<title lang="pt">Os Nossos Dias</title>
-<title lang="en">Os Nossos Dias</title>
-<desc>Pessoas que têm de enfrentar a falta de emprego, a dificuldade em pagar uma casa, a necessidade de emigrar para procurar trabalho, mas que recusam baixar os braços e lutam para ter uma vida melhor.</desc>
-<credits>
-<actor>Carla Maciel</actor>
-<actor>Sara Norte</actor>
-<actor>Débora Monteiro</actor>
-<actor>Anabela Teixeira</actor>
-<actor>Luís Lucas</actor>
-</credits>
-<date>2013</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Novela</category>
-<image>
-<image_name position="1">00000000074942.jpg</image_name>
-<image_broadcast>00000000074942</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603211000 -0300" stop="20150603214000 -0300" channel="RTP" program_id="0000074201" event_id="00000000000095927318" series_key="00000000074557000000">
-<title lang="pt">Telejornal Madeira</title>
-<title lang="en">Telejornal Madeira</title>
-<desc>Para os espectadores da Região e da diáspora madeirense espalhada pelo mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074557.jpg</image_name>
-<image_broadcast>00000000074557</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603214000 -0300" stop="20150603221000 -0300" channel="RTP" program_id="0000074557" event_id="00000000000095927320" series_key="00000000074556000000">
-<title lang="pt">Telejornal Açores</title>
-<title lang="en">Telejornal Açores</title>
-<desc>Todos os dias a RTP-Açores leva a todos os açorianos a atualização de toda a informação da região do país e do mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074556.jpg</image_name>
-<image_broadcast>00000000074556</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603221000 -0300" stop="20150603230000 -0300" channel="RTP" program_id="0000354579" event_id="00000000000095927323" series_key="00000000074933000000">
-<title lang="pt">Bem-vindos a Beirais</title>
-<desc>Diogo Almada, um bem sucedido gestor de contas numa empresa de telecomunicações confronta-se com problemas graves de stress e ansiedade, originados pela constante pressão em que vive.</desc>
-<credits>
-<actor>Pêpê Rapazote</actor>
-<actor>Oceana Basílio</actor>
-<actor>Dinarte Branco</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Drama</category>
-<image>
-<image_name position="1">00000000074933.jpg</image_name>
-<image_broadcast>00000000074933</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603230000 -0300" stop="20150603233000 -0300" channel="RTP" program_id="0000382726" event_id="00000000000095927325" series_key="00000000073663000000">
-<title lang="pt">Telejornal América</title>
-<desc>Jornal diário transmitido à 01:00 hora de Portugal, para os telespectadores que vêem a RTP Int. América.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000073663.jpg</image_name>
-<image_broadcast>00000000073663</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603233000 -0300" stop="20150604000000 -0300" channel="RTP" program_id="0000408130" event_id="00000000000095927327" series_key="">
-<title lang="pt">Portugal 6 Estrelas</title>
-<title lang="en">Portugal 6 Estrelas</title>
-<desc>"Portugal 6 Estrelas" é um programa semanal que vai mostrar as empresas portuguesas que conquistaram o mundo com os seus produtos.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000408130.jpg</image_name>
-<image_broadcast>0000408130</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604000000 -0300" stop="20150604010000 -0300" channel="RTP" program_id="0000396547" event_id="00000000000095927332" series_key="00000000074824000000">
-<title lang="pt">Água de Mar</title>
-<title lang="en">Água de Mar</title>
-<desc>Série urbana e atual que se desenrola entre a Praia das Conchas e a nova Escola de Artes que está a nascer no palacete da família Barahona.</desc>
-<credits>
-<director>Paulo Brito</director>
-<actor>Rui Santos</actor>
-<actor>Mariana Monteiro</actor>
-<actor>Víctor de Sousa</actor>
-<actor>Débora Ghira</actor>
-<actor>Inês Gonçalves</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Drama</category>
-<image>
-<image_name position="1">00000000074824.jpg</image_name>
-<image_broadcast>00000000074824</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604010000 -0300" stop="20150604020000 -0300" channel="RTP" program_id="0000070054" event_id="00000000000095927336" series_key="">
-<title lang="pt">Programação RTPi</title>
-<title lang="en">Programação RTPi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000070054.jpg</image_name>
-<image_broadcast>0000070054</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604020000 -0300" stop="20150604023000 -0300" channel="RTP" program_id="0000288368" event_id="00000000000095927339" series_key="">
-<title lang="pt">Destino</title>
-<sub-title lang="pt">Portugal</sub-title>
-<desc>Inspire-se nas nossas dicas, faça as malas e parta rumo a um destino que é sem dúvida a escolha perfeita. Descubra o Destino: Portugal.</desc>
-<category lang="pt">Documentário</category>
-<category lang="pt">Viagem</category>
-<image>
-<image_name position="1">0000288368.jpg</image_name>
-<image_broadcast>0000288368</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604023000 -0300" stop="20150604030000 -0300" channel="RTP" program_id="0000070054" event_id="00000000000095927342" series_key="">
-<title lang="pt">Programação RTPi</title>
-<title lang="en">Programação RTPi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000070054.jpg</image_name>
-<image_broadcast>0000070054</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604030000 -0300" stop="20150604032500 -0300" channel="RTP" program_id="0000211024" event_id="00000000000095927346" series_key="">
-<title lang="pt">Casas com história</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000211024.jpg</image_name>
-<image_broadcast>0000211024</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604032500 -0300" stop="20150604035500 -0300" channel="RTP" program_id="0000074557" event_id="00000000000095927350" series_key="00000000074556000000">
-<title lang="pt">Telejornal Açores</title>
-<title lang="en">Telejornal Açores</title>
-<desc>Todos os dias a RTP-Açores leva a todos os açorianos a atualização de toda a informação da região do país e do mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074556.jpg</image_name>
-<image_broadcast>00000000074556</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604035500 -0300" stop="20150604043000 -0300" channel="RTP" program_id="0000074201" event_id="00000000000095927353" series_key="00000000074557000000">
-<title lang="pt">Telejornal Madeira</title>
-<title lang="en">Telejornal Madeira</title>
-<desc>Para os espectadores da Região e da diáspora madeirense espalhada pelo mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074557.jpg</image_name>
-<image_broadcast>00000000074557</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604043000 -0300" stop="20150604080000 -0300" channel="RTP" program_id="0000082609" event_id="00000000000095927357" series_key="00000000074551000000">
-<title lang="pt">Bom Dia Portugal</title>
-<title lang="en">Bom Dia Portugal</title>
-<desc>Notícias diárias da atualidade nacional e internacional, esportes, meteorologia, trânsito e economia.</desc>
-<credits>
-<actor>Carlos Albuquerque</actor>
-<actor>João Tomé de Carvalho</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074551.jpg</image_name>
-<image_broadcast>00000000074551</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604080000 -0300" stop="20150604110000 -0300" channel="RTP" program_id="0000408117" event_id="00000000000095927362" series_key="">
-<title lang="pt">Agora Nós</title>
-<desc>As manhãs da RTP agora chegam cheias de surpresas, jogos, dicas, alegria e muito humor.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000408117.jpg</image_name>
-<image_broadcast>0000408117</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604110000 -0300" stop="20150604121500 -0300" channel="RTP" program_id="0000008500" event_id="00000000000095927364" series_key="00000000074552000000">
-<title lang="pt">Jornal da Tarde</title>
-<desc>Todos os dias, às 13 horas, a sua hora de almoço é completada com notícias que marcam a atualidade nacional e mundial, desde política, economia, sociedade e sem esquecer o esporte.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074552.jpg</image_name>
-<image_broadcast>00000000074552</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604121500 -0300" stop="20150604124500 -0300" channel="RTP" program_id="0000070054" event_id="00000000000095927367" series_key="">
-<title lang="pt">Programação RTPi</title>
-<title lang="en">Programação RTPi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000070054.jpg</image_name>
-<image_broadcast>0000070054</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604124500 -0300" stop="20150604160000 -0300" channel="RTP" program_id="0000408135" event_id="00000000000095927370" series_key="">
-<title lang="pt">Há Tarde</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000408135.jpg</image_name>
-<image_broadcast>0000408135</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604160000 -0300" stop="20150604170500 -0300" channel="RTP" program_id="0000096208" event_id="00000000000095927373" series_key="00000000074554000000">
-<title lang="pt">Portugal em Direto</title>
-<title lang="en">Portugal em Direto</title>
-<desc>Informativo especializado que traz até você notícias de tudo o que se passa em nosso país.</desc>
-<credits>
-<actor>Dina  Aguiar</actor>
-</credits>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074554.jpg</image_name>
-<image_broadcast>00000000074554</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604170500 -0300" stop="20150604180000 -0300" channel="RTP" program_id="0000354579" event_id="00000000000095927376" series_key="00000000074933000000">
-<title lang="pt">Bem-vindos a Beirais</title>
-<desc>Diogo Almada, um bem sucedido gestor de contas numa empresa de telecomunicações confronta-se com problemas graves de stress e ansiedade, originados pela constante pressão em que vive.</desc>
-<credits>
-<actor>Pêpê Rapazote</actor>
-<actor>Oceana Basílio</actor>
-<actor>Dinarte Branco</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Drama</category>
-<image>
-<image_name position="1">00000000074933.jpg</image_name>
-<image_broadcast>00000000074933</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604180000 -0300" stop="20150604184500 -0300" channel="RTP" program_id="0000008506" event_id="00000000000095927380" series_key="00000000074558000000">
-<title lang="pt">Telejornal</title>
-<title lang="en">Telejornal</title>
-<desc>Informação diária para o mundo inteiro em primeiro lugar.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074558.jpg</image_name>
-<image_broadcast>00000000074558</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604184500 -0300" stop="20150604193500 -0300" channel="RTP" program_id="0000408116" event_id="00000000000095927383" series_key="00000000075486000000">
-<title lang="pt">A Opinião de Nuno Morais Sarmento</title>
-<desc>Cristina Esteves conduz semanalmente este espaço informativo focado nos temas da atualidade com as opiniões e comentários de Nuno Morais Sarmento.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075486.jpg</image_name>
-<image_broadcast>00000000075486</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604193500 -0300" stop="20150604203500 -0300" channel="RTP" program_id="0000132976" event_id="00000000000095927388" series_key="">
-<title lang="pt">O Preço Certo</title>
-<title lang="en">O Preço Certo</title>
-<desc>Um programa de entretenimento com carácter informativo sobre os preços de mercado e sobre novos produtos.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000132976.jpg</image_name>
-<image_broadcast>0000132976</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604203500 -0300" stop="20150604211000 -0300" channel="RTP" program_id="0000354584" event_id="00000000000095927392" series_key="00000000074942000000">
-<title lang="pt">Os Nossos Dias</title>
-<title lang="en">Os Nossos Dias</title>
-<desc>Pessoas que têm de enfrentar a falta de emprego, a dificuldade em pagar uma casa, a necessidade de emigrar para procurar trabalho, mas que recusam baixar os braços e lutam para ter uma vida melhor.</desc>
-<credits>
-<actor>Carla Maciel</actor>
-<actor>Sara Norte</actor>
-<actor>Débora Monteiro</actor>
-<actor>Anabela Teixeira</actor>
-<actor>Luís Lucas</actor>
-</credits>
-<date>2013</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Novela</category>
-<image>
-<image_name position="1">00000000074942.jpg</image_name>
-<image_broadcast>00000000074942</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604211000 -0300" stop="20150604214000 -0300" channel="RTP" program_id="0000074201" event_id="00000000000095927397" series_key="00000000074557000000">
-<title lang="pt">Telejornal Madeira</title>
-<title lang="en">Telejornal Madeira</title>
-<desc>Para os espectadores da Região e da diáspora madeirense espalhada pelo mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074557.jpg</image_name>
-<image_broadcast>00000000074557</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604214000 -0300" stop="20150604221000 -0300" channel="RTP" program_id="0000074557" event_id="00000000000095927399" series_key="00000000074556000000">
-<title lang="pt">Telejornal Açores</title>
-<title lang="en">Telejornal Açores</title>
-<desc>Todos os dias a RTP-Açores leva a todos os açorianos a atualização de toda a informação da região do país e do mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000074556.jpg</image_name>
-<image_broadcast>00000000074556</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604221000 -0300" stop="20150604230000 -0300" channel="RTP" program_id="0000354579" event_id="00000000000095927402" series_key="00000000074933000000">
-<title lang="pt">Bem-vindos a Beirais</title>
-<desc>Diogo Almada, um bem sucedido gestor de contas numa empresa de telecomunicações confronta-se com problemas graves de stress e ansiedade, originados pela constante pressão em que vive.</desc>
-<credits>
-<actor>Pêpê Rapazote</actor>
-<actor>Oceana Basílio</actor>
-<actor>Dinarte Branco</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Drama</category>
-<image>
-<image_name position="1">00000000074933.jpg</image_name>
-<image_broadcast>00000000074933</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Portugal</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604230000 -0300" stop="20150604233000 -0300" channel="RTP" program_id="0000382726" event_id="00000000000095927405" series_key="00000000073663000000">
-<title lang="pt">Telejornal América</title>
-<desc>Jornal diário transmitido à 01:00 hora de Portugal, para os telespectadores que vêem a RTP Int. América.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000073663.jpg</image_name>
-<image_broadcast>00000000073663</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604233000 -0300" stop="20150605000000 -0300" channel="RTP" program_id="0000408136" event_id="00000000000095927408" series_key="00000000075490000000">
-<title lang="pt">Flash 7 Dias</title>
-<desc>Todas as semanas são escolhidos dois temas, um de atualidade nacional e outro de atualidade internacional, que marcaram a semana em curso e que vão, em muitos casos, marcar as próximas.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000075490.jpg</image_name>
-<image_broadcast>00000000075490</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
 <programme start="20150605000000 -0300" stop="20150605005000 -0300" channel="RTP" program_id="0000396547" event_id="00000000000096019012" series_key="00000000074824000000">
 <title lang="pt">Água de Mar</title>
 <title lang="en">Água de Mar</title>
@@ -8950,6 +8040,932 @@
 <image_broadcast>00000000076364</image_broadcast>
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622014500 -0300" stop="20150622021000 -0300" channel="RTP" program_id="0000424167" event_id="00000000000096948949" series_key="">
+<title lang="pt">Pela Sua Saúde</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000424167.jpg</image_name>
+<image_broadcast>0000424167</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622021000 -0300" stop="20150622023500 -0300" channel="RTP" program_id="0000241825" event_id="00000000000096948950" series_key="00000000074937000000">
+<title lang="pt">Correspondentes</title>
+<desc>Um programa de reportagem feita pelos correspondentes da RTP espalhados pelo mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074937.jpg</image_name>
+<image_broadcast>00000000074937</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622023500 -0300" stop="20150622032500 -0300" channel="RTP" program_id="0000408118" event_id="00000000000096948951" series_key="">
+<title lang="pt">Só Visto!</title>
+<title lang="en">Só Visto!</title>
+<desc>Só Visto! é um magazine de atualidades original e criativo, que engloba entrevistas em estúdio.</desc>
+<credits>
+<actor>Sílvia Alberto</actor>
+<actor>Adriane Garcia</actor>
+<actor>Rita De La Rochezoire</actor>
+</credits>
+<date>2013</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">0000408118.jpg</image_name>
+<image_broadcast>0000408118</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150622032500 -0300" stop="20150622035500 -0300" channel="RTP" program_id="0000074557" event_id="00000000000096948952" series_key="00000000074556000000">
+<title lang="pt">Telejornal Açores</title>
+<title lang="en">Telejornal Açores</title>
+<desc>Todos os dias a RTP-Açores leva a todos os açorianos a atualização de toda a informação da região do país e do mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074556.jpg</image_name>
+<image_broadcast>00000000074556</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622035500 -0300" stop="20150622043000 -0300" channel="RTP" program_id="0000074201" event_id="00000000000096948953" series_key="00000000074557000000">
+<title lang="pt">Telejornal Madeira</title>
+<title lang="en">Telejornal Madeira</title>
+<desc>Para os espectadores da Região e da diáspora madeirense espalhada pelo mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074557.jpg</image_name>
+<image_broadcast>00000000074557</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622043000 -0300" stop="20150622080000 -0300" channel="RTP" program_id="0000082609" event_id="00000000000096948954" series_key="00000000074551000000">
+<title lang="pt">Bom Dia Portugal</title>
+<title lang="en">Bom Dia Portugal</title>
+<desc>Notícias diárias da atualidade nacional e internacional, esportes, meteorologia, trânsito e economia.</desc>
+<credits>
+<actor>Carlos Albuquerque</actor>
+<actor>João Tomé de Carvalho</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074551.jpg</image_name>
+<image_broadcast>00000000074551</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622080000 -0300" stop="20150622110000 -0300" channel="RTP" program_id="0000408117" event_id="00000000000096948955" series_key="">
+<title lang="pt">Agora Nós</title>
+<desc>As manhãs da RTP agora chegam cheias de surpresas, jogos, dicas, alegria e muito humor.</desc>
+<credits>
+<actor>Tânia Ribas de Oliveira</actor>
+<actor>José Pedro Vasconcelos</actor>
+<actor>Serenella Andrade</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000408117.jpg</image_name>
+<image_broadcast>0000408117</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>4/5</value>
+</star-rating>
+</programme>
+<programme start="20150622110000 -0300" stop="20150622121200 -0300" channel="RTP" program_id="0000008500" event_id="00000000000096948956" series_key="00000000074552000000">
+<title lang="pt">Jornal da Tarde</title>
+<desc>Todos os dias, às 13 horas, a sua hora de almoço é completada com notícias que marcam a atualidade nacional e mundial, desde política, economia, sociedade e sem esquecer o esporte.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074552.jpg</image_name>
+<image_broadcast>00000000074552</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622121200 -0300" stop="20150622124500 -0300" channel="RTP" program_id="0000247803" event_id="00000000000096948957" series_key="">
+<title lang="pt">Especial Saúde</title>
+<desc>O "Especial Saúde" é um programa estritamente informativo.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Saúde</category>
+<image>
+<image_name position="1">0000247803.jpg</image_name>
+<image_broadcast>0000247803</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622124500 -0300" stop="20150622160000 -0300" channel="RTP" program_id="0000408135" event_id="00000000000096948958" series_key="">
+<title lang="pt">Há Tarde</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000408135.jpg</image_name>
+<image_broadcast>0000408135</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622160000 -0300" stop="20150622170500 -0300" channel="RTP" program_id="0000096208" event_id="00000000000096948959" series_key="00000000074554000000">
+<title lang="pt">Portugal em Direto</title>
+<title lang="en">Portugal em Direto</title>
+<desc>Informativo especializado que traz até você notícias de tudo o que se passa em nosso país.</desc>
+<credits>
+<actor>Dina  Aguiar</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074554.jpg</image_name>
+<image_broadcast>00000000074554</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622170500 -0300" stop="20150622180000 -0300" channel="RTP" program_id="0000354579" event_id="00000000000096948960" series_key="00000000074933000000">
+<title lang="pt">Bem-vindos a Beirais</title>
+<desc>Diogo Almada, um bem sucedido gestor de contas numa empresa de telecomunicações confronta-se com problemas graves de stress e ansiedade, originados pela constante pressão em que vive.</desc>
+<credits>
+<actor>Pêpê Rapazote</actor>
+<actor>Oceana Basílio</actor>
+<actor>Dinarte Branco</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Drama</category>
+<image>
+<image_name position="1">00000000074933.jpg</image_name>
+<image_broadcast>00000000074933</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622180000 -0300" stop="20150622190100 -0300" channel="RTP" program_id="0000008506" event_id="00000000000096948961" series_key="00000000074558000000">
+<title lang="pt">Telejornal</title>
+<title lang="en">Telejornal</title>
+<desc>Informação diária para o mundo inteiro em primeiro lugar.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074558.jpg</image_name>
+<image_broadcast>00000000074558</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622190100 -0300" stop="20150622195500 -0300" channel="RTP" program_id="0000247803" event_id="00000000000096948962" series_key="">
+<title lang="pt">Especial Saúde</title>
+<desc>O "Especial Saúde" é um programa estritamente informativo.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Saúde</category>
+<image>
+<image_name position="1">0000247803.jpg</image_name>
+<image_broadcast>0000247803</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622195500 -0300" stop="20150622204300 -0300" channel="RTP" program_id="0000132976" event_id="00000000000096948963" series_key="">
+<title lang="pt">O Preço Certo</title>
+<title lang="en">O Preço Certo</title>
+<desc>Um programa de entretenimento com carácter informativo sobre os preços de mercado e sobre novos produtos.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000132976.jpg</image_name>
+<image_broadcast>0000132976</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622204300 -0300" stop="20150622211200 -0300" channel="RTP" program_id="0000354584" event_id="00000000000096948964" series_key="00000000074942000000">
+<title lang="pt">Os Nossos Dias</title>
+<title lang="en">Os Nossos Dias</title>
+<desc>Pessoas que têm de enfrentar a falta de emprego, a dificuldade em pagar uma casa, a necessidade de emigrar para procurar trabalho, mas que recusam baixar os braços e lutam para ter uma vida melhor.</desc>
+<credits>
+<actor>Carla Maciel</actor>
+<actor>Sara Norte</actor>
+<actor>Débora Monteiro</actor>
+<actor>Anabela Teixeira</actor>
+<actor>Luís Lucas</actor>
+</credits>
+<date>2013</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Novela</category>
+<image>
+<image_name position="1">00000000074942.jpg</image_name>
+<image_broadcast>00000000074942</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622211200 -0300" stop="20150622213800 -0300" channel="RTP" program_id="0000074201" event_id="00000000000096948965" series_key="00000000074557000000">
+<title lang="pt">Telejornal Madeira</title>
+<title lang="en">Telejornal Madeira</title>
+<desc>Para os espectadores da Região e da diáspora madeirense espalhada pelo mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074557.jpg</image_name>
+<image_broadcast>00000000074557</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622213800 -0300" stop="20150622221100 -0300" channel="RTP" program_id="0000074557" event_id="00000000000096948966" series_key="00000000074556000000">
+<title lang="pt">Telejornal Açores</title>
+<title lang="en">Telejornal Açores</title>
+<desc>Todos os dias a RTP-Açores leva a todos os açorianos a atualização de toda a informação da região do país e do mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074556.jpg</image_name>
+<image_broadcast>00000000074556</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622221100 -0300" stop="20150622230000 -0300" channel="RTP" program_id="0000354579" event_id="00000000000096948967" series_key="00000000074933000000">
+<title lang="pt">Bem-vindos a Beirais</title>
+<desc>Diogo Almada, um bem sucedido gestor de contas numa empresa de telecomunicações confronta-se com problemas graves de stress e ansiedade, originados pela constante pressão em que vive.</desc>
+<credits>
+<actor>Pêpê Rapazote</actor>
+<actor>Oceana Basílio</actor>
+<actor>Dinarte Branco</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Drama</category>
+<image>
+<image_name position="1">00000000074933.jpg</image_name>
+<image_broadcast>00000000074933</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622230000 -0300" stop="20150622233300 -0300" channel="RTP" program_id="0000382726" event_id="00000000000096948968" series_key="00000000073663000000">
+<title lang="pt">Telejornal América</title>
+<desc>Jornal diário transmitido à 01:00 hora de Portugal, para os telespectadores que vêem a RTP Int. América.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000073663.jpg</image_name>
+<image_broadcast>00000000073663</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622233300 -0300" stop="20150623000500 -0300" channel="RTP" program_id="0000396547" event_id="00000000000096948969" series_key="00000000074824000000">
+<title lang="pt">Água de Mar</title>
+<title lang="en">Água de Mar</title>
+<desc>Série urbana e atual que se desenrola entre a Praia das Conchas e a nova Escola de Artes que está a nascer no palacete da família Barahona.</desc>
+<credits>
+<director>Paulo Brito</director>
+<actor>Rui Santos</actor>
+<actor>Mariana Monteiro</actor>
+<actor>Víctor de Sousa</actor>
+<actor>Débora Ghira</actor>
+<actor>Inês Gonçalves</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Drama</category>
+<image>
+<image_name position="1">00000000074824.jpg</image_name>
+<image_broadcast>00000000074824</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623000500 -0300" stop="20150623002800 -0300" channel="RTP" program_id="0000424171" event_id="00000000000097118970" series_key="">
+<title lang="pt">Sabia Que?</title>
+<desc>Daniel Catalão apresenta "Sabia que?", um programa de ciência, com objetivo utilitário e apelando à curiosidade do espectador.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000424171.jpg</image_name>
+<image_broadcast>0000424171</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623002800 -0300" stop="20150623003000 -0300" channel="RTP" program_id="0000082625" event_id="00000000000097118973" series_key="">
+<title lang="pt">Prós e Contras</title>
+<desc>O debate mais alargado da televisão portuguesa</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000082625.jpg</image_name>
+<image_broadcast>0000082625</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623003000 -0300" stop="20150623014500 -0300" channel="RTP" program_id="0000424166" event_id="00000000000097118976" series_key="00000000076367000000">
+<title lang="pt">Os Antílopes</title>
+<desc></desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000076367.jpg</image_name>
+<image_broadcast>00000000076367</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623014500 -0300" stop="20150623024500 -0300" channel="RTP" program_id="0000424182" event_id="00000000000097118977" series_key="00000000076370000000">
+<title lang="pt">Um Boêmio de Espírito</title>
+<desc>António Alçada Baptista nasceu na Covilhã a 29/01/1927. Frequentou um colégio de jesuítas e licenciou-se em Direito. Foi presidente do Instituto Português do Livro.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Biografia</category>
+<image>
+<image_name position="1">00000000076370.jpg</image_name>
+<image_broadcast>00000000076370</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623024500 -0300" stop="20150623031000 -0300" channel="RTP" program_id="0000323997" event_id="00000000000097118978" series_key="00000000074943000000">
+<title lang="pt">Sinais de Vida</title>
+<desc>"Sinais de Vida" é uma série em que acompanhamos a rotina de médicos Hospital de Santa Catarina.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Reality Show</category>
+<image>
+<image_name position="1">00000000074943.jpg</image_name>
+<image_broadcast>00000000074943</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623031000 -0300" stop="20150623032600 -0300" channel="RTP" program_id="0000111769" event_id="00000000000097118979" series_key="00000000074828000000">
+<title lang="pt">Cuidado Com A Língua</title>
+<title lang="en">Cuidado Com A Língua</title>
+<desc>O nosso património linguístico, regras, curiosidades e disparates.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Educativo</category>
+<image>
+<image_name position="1">00000000074828.jpg</image_name>
+<image_broadcast>00000000074828</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623032600 -0300" stop="20150623040200 -0300" channel="RTP" program_id="0000074557" event_id="00000000000097118982" series_key="00000000074556000000">
+<title lang="pt">Telejornal Açores</title>
+<title lang="en">Telejornal Açores</title>
+<desc>Todos os dias a RTP-Açores leva a todos os açorianos a atualização de toda a informação da região do país e do mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074556.jpg</image_name>
+<image_broadcast>00000000074556</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623040200 -0300" stop="20150623043000 -0300" channel="RTP" program_id="0000074201" event_id="00000000000097118987" series_key="00000000074557000000">
+<title lang="pt">Telejornal Madeira</title>
+<title lang="en">Telejornal Madeira</title>
+<desc>Para os espectadores da Região e da diáspora madeirense espalhada pelo mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074557.jpg</image_name>
+<image_broadcast>00000000074557</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623043000 -0300" stop="20150623080000 -0300" channel="RTP" program_id="0000082609" event_id="00000000000097118991" series_key="00000000074551000000">
+<title lang="pt">Bom Dia Portugal</title>
+<title lang="en">Bom Dia Portugal</title>
+<desc>Notícias diárias da atualidade nacional e internacional, esportes, meteorologia, trânsito e economia.</desc>
+<credits>
+<actor>Carlos Albuquerque</actor>
+<actor>João Tomé de Carvalho</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074551.jpg</image_name>
+<image_broadcast>00000000074551</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623080000 -0300" stop="20150623110000 -0300" channel="RTP" program_id="0000408117" event_id="00000000000097118995" series_key="">
+<title lang="pt">Agora Nós</title>
+<desc>As manhãs da RTP agora chegam cheias de surpresas, jogos, dicas, alegria e muito humor.</desc>
+<credits>
+<actor>Tânia Ribas de Oliveira</actor>
+<actor>José Pedro Vasconcelos</actor>
+<actor>Serenella Andrade</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000408117.jpg</image_name>
+<image_broadcast>0000408117</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>4/5</value>
+</star-rating>
+</programme>
+<programme start="20150623110000 -0300" stop="20150623121100 -0300" channel="RTP" program_id="0000008500" event_id="00000000000097118999" series_key="00000000074552000000">
+<title lang="pt">Jornal da Tarde</title>
+<desc>Todos os dias, às 13 horas, a sua hora de almoço é completada com notícias que marcam a atualidade nacional e mundial, desde política, economia, sociedade e sem esquecer o esporte.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074552.jpg</image_name>
+<image_broadcast>00000000074552</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623121100 -0300" stop="20150623124500 -0300" channel="RTP" program_id="0000424168" event_id="00000000000097119003" series_key="00000000076368000000">
+<title lang="pt">Photo Madeira</title>
+<desc></desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000076368.jpg</image_name>
+<image_broadcast>00000000076368</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623124500 -0300" stop="20150623160000 -0300" channel="RTP" program_id="0000408135" event_id="00000000000097119008" series_key="">
+<title lang="pt">Há Tarde</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000408135.jpg</image_name>
+<image_broadcast>0000408135</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623160000 -0300" stop="20150623170100 -0300" channel="RTP" program_id="0000096208" event_id="00000000000097119011" series_key="00000000074554000000">
+<title lang="pt">Portugal em Direto</title>
+<title lang="en">Portugal em Direto</title>
+<desc>Informativo especializado que traz até você notícias de tudo o que se passa em nosso país.</desc>
+<credits>
+<actor>Dina  Aguiar</actor>
+</credits>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074554.jpg</image_name>
+<image_broadcast>00000000074554</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623170100 -0300" stop="20150623170600 -0300" channel="RTP" program_id="0000424160" event_id="00000000000097119014" series_key="00000000076363000000">
+<title lang="pt">Era Uma Vez</title>
+<desc></desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Documentário</category>
+<image>
+<image_name position="1">00000000076363.jpg</image_name>
+<image_broadcast>00000000076363</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623170600 -0300" stop="20150623180000 -0300" channel="RTP" program_id="0000354579" event_id="00000000000097119018" series_key="00000000074933000000">
+<title lang="pt">Bem-vindos a Beirais</title>
+<desc>Diogo Almada, um bem sucedido gestor de contas numa empresa de telecomunicações confronta-se com problemas graves de stress e ansiedade, originados pela constante pressão em que vive.</desc>
+<credits>
+<actor>Pêpê Rapazote</actor>
+<actor>Oceana Basílio</actor>
+<actor>Dinarte Branco</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Drama</category>
+<image>
+<image_name position="1">00000000074933.jpg</image_name>
+<image_broadcast>00000000074933</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623180000 -0300" stop="20150623190000 -0300" channel="RTP" program_id="0000008506" event_id="00000000000097119022" series_key="00000000074558000000">
+<title lang="pt">Telejornal</title>
+<title lang="en">Telejornal</title>
+<desc>Informação diária para o mundo inteiro em primeiro lugar.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074558.jpg</image_name>
+<image_broadcast>00000000074558</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623190000 -0300" stop="20150623194200 -0300" channel="RTP" program_id="0000275156" event_id="00000000000097119026" series_key="">
+<title lang="pt">Sexta às 9</title>
+<desc>Jornalismo de investigação!</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000275156.jpg</image_name>
+<image_broadcast>0000275156</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623194200 -0300" stop="20150623203100 -0300" channel="RTP" program_id="0000132976" event_id="00000000000097119030" series_key="">
+<title lang="pt">O Preço Certo</title>
+<title lang="en">O Preço Certo</title>
+<desc>Um programa de entretenimento com carácter informativo sobre os preços de mercado e sobre novos produtos.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000132976.jpg</image_name>
+<image_broadcast>0000132976</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623203100 -0300" stop="20150623210200 -0300" channel="RTP" program_id="0000354584" event_id="00000000000097119034" series_key="00000000074942000000">
+<title lang="pt">Os Nossos Dias</title>
+<title lang="en">Os Nossos Dias</title>
+<desc>Pessoas que têm de enfrentar a falta de emprego, a dificuldade em pagar uma casa, a necessidade de emigrar para procurar trabalho, mas que recusam baixar os braços e lutam para ter uma vida melhor.</desc>
+<credits>
+<actor>Carla Maciel</actor>
+<actor>Sara Norte</actor>
+<actor>Débora Monteiro</actor>
+<actor>Anabela Teixeira</actor>
+<actor>Luís Lucas</actor>
+</credits>
+<date>2013</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Novela</category>
+<image>
+<image_name position="1">00000000074942.jpg</image_name>
+<image_broadcast>00000000074942</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623210200 -0300" stop="20150623213400 -0300" channel="RTP" program_id="0000074201" event_id="00000000000097119039" series_key="00000000074557000000">
+<title lang="pt">Telejornal Madeira</title>
+<title lang="en">Telejornal Madeira</title>
+<desc>Para os espectadores da Região e da diáspora madeirense espalhada pelo mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074557.jpg</image_name>
+<image_broadcast>00000000074557</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623213400 -0300" stop="20150623220800 -0300" channel="RTP" program_id="0000074557" event_id="00000000000097119044" series_key="00000000074556000000">
+<title lang="pt">Telejornal Açores</title>
+<title lang="en">Telejornal Açores</title>
+<desc>Todos os dias a RTP-Açores leva a todos os açorianos a atualização de toda a informação da região do país e do mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000074556.jpg</image_name>
+<image_broadcast>00000000074556</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623220800 -0300" stop="20150623230000 -0300" channel="RTP" program_id="0000354579" event_id="00000000000097119048" series_key="00000000074933000000">
+<title lang="pt">Bem-vindos a Beirais</title>
+<desc>Diogo Almada, um bem sucedido gestor de contas numa empresa de telecomunicações confronta-se com problemas graves de stress e ansiedade, originados pela constante pressão em que vive.</desc>
+<credits>
+<actor>Pêpê Rapazote</actor>
+<actor>Oceana Basílio</actor>
+<actor>Dinarte Branco</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Drama</category>
+<image>
+<image_name position="1">00000000074933.jpg</image_name>
+<image_broadcast>00000000074933</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Portugal</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623230000 -0300" stop="20150623233000 -0300" channel="RTP" program_id="0000382726" event_id="00000000000097119052" series_key="00000000073663000000">
+<title lang="pt">Telejornal América</title>
+<desc>Jornal diário transmitido à 01:00 hora de Portugal, para os telespectadores que vêem a RTP Int. América.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000073663.jpg</image_name>
+<image_broadcast>00000000073663</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623233000 -0300" stop="20150624000000 -0300" channel="RTP" program_id="0000275156" event_id="00000000000097119056" series_key="">
+<title lang="pt">Sexta às 9</title>
+<desc>Jornalismo de investigação!</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000275156.jpg</image_name>
+<image_broadcast>0000275156</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Portugal</country>
 <video>
 <colour>yes</colour>
 </video>

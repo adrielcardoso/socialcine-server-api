@@ -4,582 +4,6 @@
 <display-name lang="pt">Record Brasília</display-name>
 <icon src="reb.gif" />
 </channel>
-<programme start="20150603001500 -0300" stop="20150603011500 -0300" channel="REB" program_id="0000443530" event_id="00000000000096611890" series_key="00000000026360001002">
-<title lang="pt">Breaking Bad</title>
-<title lang="en">Breaking Bad: Cat's In The Bag</title>
-<sub-title lang="pt">Temp. 1 - Ep. 2</sub-title>
-<desc>Após o desastre ocorrido no deserto, Walter e Jesse têm que dar um jeito na bagunça causada. Mais tarde, Skyler começa a suspeitar das atividades de Walter.</desc>
-<credits>
-<director>Adam Bernstein</director>
-<actor>Anna Gunn</actor>
-<actor>Bryan Cranston</actor>
-<actor>Aaron Paul</actor>
-<actor>Dean Norris</actor>
-<actor>Betsy Brandt</actor>
-<actor>Maximino Arciniega</actor>
-<actor>John Koyama</actor>
-<actor>Shane Marinson</actor>
-</credits>
-<date>2008</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Drama</category>
-<image>
-<image_name position="1">00000000026360.jpg</image_name>
-<image_broadcast>00000000026360</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<episode-num system="xmltv_ns">1.2.</episode-num>
-<episode-num system="onscreen">2</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 16 anos</value>
-</rating>
-<star-rating>
-<value>4/5</value>
-</star-rating>
-</programme>
-<programme start="20150603011500 -0300" stop="20150603050000 -0300" channel="REB" program_id="0000079020" event_id="00000000000096611891" series_key="">
-<title lang="pt">Programação IURD</title>
-<desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000079020.jpg</image_name>
-<image_broadcast>0000079020</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603050000 -0300" stop="20150603063000 -0300" channel="REB" program_id="0000079020" event_id="00000000000096611892" series_key="">
-<title lang="pt">Programação IURD</title>
-<desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000079020.jpg</image_name>
-<image_broadcast>0000079020</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603063000 -0300" stop="20150603072800 -0300" channel="REB" program_id="0000301746" event_id="00000000000096611893" series_key="00000000066243000000">
-<title lang="pt">Balanço Geral Manhã</title>
-<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066243.jpg</image_name>
-<image_broadcast>00000000066243</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603072800 -0300" stop="20150603085000 -0300" channel="REB" program_id="0000141976" event_id="00000000000096611894" series_key="00000000066253000000">
-<title lang="pt">DF no Ar</title>
-<desc>O DF no Ar é o principal jornal matutino da TV no DF. Com ele você fica sempre muito bem informado. Todos os detalhes do trânsito, direto do céu de Brasília.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066253.jpg</image_name>
-<image_broadcast>00000000066253</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603085000 -0300" stop="20150603100000 -0300" channel="REB" program_id="0000015945" event_id="00000000000096611895" series_key="00000000066238000000">
-<title lang="pt">Fala Brasil</title>
-<desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066238.jpg</image_name>
-<image_broadcast>00000000066238</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603100000 -0300" stop="20150603120000 -0300" channel="REB" program_id="0000094577" event_id="00000000000096611896" series_key="00000000066226000000">
-<title lang="pt">Hoje em Dia</title>
-<desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066226.jpg</image_name>
-<image_broadcast>00000000066226</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603120000 -0300" stop="20150603144000 -0300" channel="REB" program_id="0000102196" event_id="00000000000096611897" series_key="00000000066243000000">
-<title lang="pt">Balanço Geral</title>
-<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066243.jpg</image_name>
-<image_broadcast>00000000066243</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603144000 -0300" stop="20150603172000 -0300" channel="REB" program_id="0000119084" event_id="00000000000096611898" series_key="00000000071807000000">
-<title lang="pt">Programa da Tarde</title>
-<desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000071807.jpg</image_name>
-<image_broadcast>00000000071807</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603172000 -0300" stop="20150603194500 -0300" channel="REB" program_id="0000015967" event_id="00000000000096611899" series_key="00000000069485000000">
-<title lang="pt">Cidade Alerta</title>
-<desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069485.jpg</image_name>
-<image_broadcast>00000000069485</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603194500 -0300" stop="20150603203000 -0300" channel="REB" program_id="0000127226" event_id="00000000000096611900" series_key="00000000066254000000">
-<title lang="pt">DF Record</title>
-<desc>Tudo que acontece no DF é mostrado no DF Record.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066254.jpg</image_name>
-<image_broadcast>00000000066254</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603203000 -0300" stop="20150603213000 -0300" channel="REB" program_id="0000430159" event_id="00000000000096611901" series_key="00000000076587000000">
-<title lang="pt">Os Dez Mandamentos</title>
-<desc>Moisés sorri vitorioso ao conseguir livrar Zípora do escorpião. Assustada, Zípora tenta disfarçar a tensão que passou e deixa Moisés pasmo com a reação ingrata dela. Apuki se irrita por Anrão ter sido nomeado como chefe dos hebreus.</desc>
-<credits>
-<director>Alexandre Avancini</director>
-<actor>Guilherme Winter</actor>
-<actor>Sérgio Marone</actor>
-<actor>Giselle Itié</actor>
-<actor>Mel Lisboa</actor>
-<actor>Samara Felippo</actor>
-<actor>Thierry Figueira</actor>
-<actor>Heitor Martinez</actor>
-<actor>Luciano Szafir</actor>
-<actor>Floriano Peixoto</actor>
-</credits>
-<date>2015</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Novela</category>
-<image>
-<image_name position="1">00000000076587.jpg</image_name>
-<image_broadcast>00000000076587</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603213000 -0300" stop="20150603220000 -0300" channel="REB" program_id="0000015966" event_id="00000000000096611902" series_key="00000000066234000000">
-<title lang="pt">Jornal da Record</title>
-<desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066234.jpg</image_name>
-<image_broadcast>00000000066234</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603220000 -0300" stop="20150604001500 -0300" channel="REB" program_id="0000184059" event_id="00000000000096611903" series_key="">
-<title lang="pt">Gugu</title>
-<title lang="en">Programa do Gugu</title>
-<desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
-<credits>
-<director>Vildomar Batista</director>
-<actor>Gugu Liberato</actor>
-</credits>
-<category lang="pt">Variedades</category>
-<category lang="pt">Talk Show</category>
-<image>
-<image_name position="1">0000184059.jpg</image_name>
-<image_broadcast>0000184059</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604001500 -0300" stop="20150604011500 -0300" channel="REB" program_id="0000134042" event_id="00000000000096611904" series_key="00000000066236000000">
-<title lang="pt">Câmera Record</title>
-<desc>Na final do reality A Fazenda, o Câmera Record discute as grandes polêmicas dos participantes.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066236.jpg</image_name>
-<image_broadcast>00000000066236</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604011500 -0300" stop="20150604050000 -0300" channel="REB" program_id="0000079020" event_id="00000000000096611905" series_key="">
-<title lang="pt">Programação IURD</title>
-<desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000079020.jpg</image_name>
-<image_broadcast>0000079020</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604050000 -0300" stop="20150604063000 -0300" channel="REB" program_id="0000079020" event_id="00000000000096611906" series_key="">
-<title lang="pt">Programação IURD</title>
-<desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000079020.jpg</image_name>
-<image_broadcast>0000079020</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604063000 -0300" stop="20150604072800 -0300" channel="REB" program_id="0000301746" event_id="00000000000096611907" series_key="00000000066243000000">
-<title lang="pt">Balanço Geral Manhã</title>
-<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066243.jpg</image_name>
-<image_broadcast>00000000066243</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604072800 -0300" stop="20150604085000 -0300" channel="REB" program_id="0000141976" event_id="00000000000096611908" series_key="00000000066253000000">
-<title lang="pt">DF no Ar</title>
-<desc>O DF no Ar é o principal jornal matutino da TV no DF. Com ele você fica sempre muito bem informado. Todos os detalhes do trânsito, direto do céu de Brasília.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066253.jpg</image_name>
-<image_broadcast>00000000066253</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604085000 -0300" stop="20150604100000 -0300" channel="REB" program_id="0000015945" event_id="00000000000096611909" series_key="00000000066238000000">
-<title lang="pt">Fala Brasil</title>
-<desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066238.jpg</image_name>
-<image_broadcast>00000000066238</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604100000 -0300" stop="20150604120000 -0300" channel="REB" program_id="0000094577" event_id="00000000000096611910" series_key="00000000066226000000">
-<title lang="pt">Hoje em Dia</title>
-<desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066226.jpg</image_name>
-<image_broadcast>00000000066226</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604120000 -0300" stop="20150604144000 -0300" channel="REB" program_id="0000102196" event_id="00000000000096611911" series_key="00000000066243000000">
-<title lang="pt">Balanço Geral</title>
-<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066243.jpg</image_name>
-<image_broadcast>00000000066243</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604144000 -0300" stop="20150604171500 -0300" channel="REB" program_id="0000119084" event_id="00000000000096611912" series_key="00000000071807000000">
-<title lang="pt">Programa da Tarde</title>
-<desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000071807.jpg</image_name>
-<image_broadcast>00000000071807</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604171500 -0300" stop="20150604194500 -0300" channel="REB" program_id="0000015967" event_id="00000000000096611913" series_key="00000000069485000000">
-<title lang="pt">Cidade Alerta</title>
-<desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069485.jpg</image_name>
-<image_broadcast>00000000069485</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604194500 -0300" stop="20150604203000 -0300" channel="REB" program_id="0000127226" event_id="00000000000096611914" series_key="00000000066254000000">
-<title lang="pt">DF Record</title>
-<desc>Tudo que acontece no DF é mostrado no DF Record.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066254.jpg</image_name>
-<image_broadcast>00000000066254</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604203000 -0300" stop="20150604204000 -0300" channel="REB" program_id="0000255383" event_id="00000000000096611915" series_key="">
-<title lang="pt">Propaganda Partidária</title>
-<desc>Programa Político.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">0000255383.jpg</image_name>
-<image_broadcast>0000255383</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604204000 -0300" stop="20150604213000 -0300" channel="REB" program_id="0000430159" event_id="00000000000096611916" series_key="00000000076587000000">
-<title lang="pt">Os Dez Mandamentos</title>
-<desc>Moisés fica confuso e se afasta, explicando que Nefertari é a noiva que abandonou no Egito. Betânia pede desculpas pela atitude, tenta se insinuar, mas é dispensada. Arão fica revoltado pela agressão de Apuki com Judite e oferece abrigo para ela.</desc>
-<credits>
-<director>Alexandre Avancini</director>
-<actor>Guilherme Winter</actor>
-<actor>Sérgio Marone</actor>
-<actor>Giselle Itié</actor>
-<actor>Mel Lisboa</actor>
-<actor>Samara Felippo</actor>
-<actor>Thierry Figueira</actor>
-<actor>Heitor Martinez</actor>
-<actor>Luciano Szafir</actor>
-<actor>Floriano Peixoto</actor>
-</credits>
-<date>2015</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Novela</category>
-<image>
-<image_name position="1">00000000076587.jpg</image_name>
-<image_broadcast>00000000076587</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604213000 -0300" stop="20150604223000 -0300" channel="REB" program_id="0000015966" event_id="00000000000096611917" series_key="00000000066234000000">
-<title lang="pt">Jornal da Record</title>
-<desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066234.jpg</image_name>
-<image_broadcast>00000000066234</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604223000 -0300" stop="20150605003000 -0300" channel="REB" program_id="0000184059" event_id="00000000000096611918" series_key="">
-<title lang="pt">Gugu</title>
-<title lang="en">Programa do Gugu</title>
-<desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
-<credits>
-<director>Vildomar Batista</director>
-<actor>Gugu Liberato</actor>
-</credits>
-<category lang="pt">Variedades</category>
-<category lang="pt">Talk Show</category>
-<image>
-<image_name position="1">0000184059.jpg</image_name>
-<image_broadcast>0000184059</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
 <programme start="20150605003000 -0300" stop="20150605011500 -0300" channel="REB" program_id="0000410414" event_id="00000000000096611919" series_key="00000000061897000000">
 <title lang="pt">C.S.I.</title>
 <title lang="en">C.S.I.</title>
@@ -1069,8 +493,11 @@
 </programme>
 <programme start="20150606203000 -0300" stop="20150606230000 -0300" channel="REB" program_id="0000379634" event_id="00000000000096611943" series_key="00000000073462000000">
 <title lang="pt">Programa da Sabrina</title>
-<desc>O Programa da Sabrina deste sábado está repleto de aventuras! E nossa apresentadora, que não tem medo do perigo, vai enfrentar todos os desafios. A começar pela visita à Escola Superior de Bombeiros, a maior da América Latina.</desc>
-<date>2014</date>
+<desc>Há um ano, Sabrina falava, "Oi, gente" pela primeira vez no Programa e dava início a uma trajetória de sucesso. E neste sábado a japa comanda a festa especial de aniversário.</desc>
+<credits>
+<actor>Sabrina Satto</actor>
+</credits>
+<date>2015</date>
 <category lang="pt">Variedades</category>
 <category lang="pt">Talk Show</category>
 <image>
@@ -1198,7 +625,10 @@
 </programme>
 <programme start="20150607153000 -0300" stop="20150607193000 -0300" channel="REB" program_id="0000379635" event_id="00000000000096611950" series_key="00000000073463000000">
 <title lang="pt">Hora do Faro</title>
-<desc>Em mais uma de suas viagens pelo Brasil, Rodrigo Faro vai mostrar, como é um dia na vida Ludmilla, um dos nomes mais badalados do funk atual.</desc>
+<desc>Acostumado a fazer o público de casa se emocionar com as histórias que leva para a televisão, Geraldo Luís será o homenageado da vez na Hora do Faro.</desc>
+<credits>
+<actor>Rodrigo Faro</actor>
+</credits>
 <date>2014</date>
 <category lang="pt">Variedades</category>
 <category lang="pt">Talk Show</category>
@@ -1386,7 +816,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608120000 -0300" stop="20150608143000 -0300" channel="REB" program_id="0000102196" event_id="00000000000096611960" series_key="00000000066243000000">
+<programme start="20150608120000 -0300" stop="20150608144000 -0300" channel="REB" program_id="0000102196" event_id="00000000000096611960" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1404,7 +834,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608143000 -0300" stop="20150608172000 -0300" channel="REB" program_id="0000119084" event_id="00000000000096611961" series_key="00000000071807000000">
+<programme start="20150608144000 -0300" stop="20150608170000 -0300" channel="REB" program_id="0000119084" event_id="00000000000096611961" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -1422,7 +852,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150608172000 -0300" stop="20150608194500 -0300" channel="REB" program_id="0000015967" event_id="00000000000096611962" series_key="00000000069485000000">
+<programme start="20150608170000 -0300" stop="20150608194500 -0300" channel="REB" program_id="0000015967" event_id="00000000000096611962" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1526,20 +956,21 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150608233000 -0300" stop="20150609001500 -0300" channel="REB" program_id="0000375477" event_id="00000000000096611967" series_key="00000000065728000000">
+<programme start="20150608233000 -0300" stop="20150609001500 -0300" channel="REB" program_id="0000444305" event_id="00000000000096611967" series_key="00000000065728003015">
 <title lang="pt">Grimm - Contos de Terror</title>
-<title lang="en">Grimm</title>
-<desc>Esse drama policial incorpora as histórias dos contos de fadas dos irmãos Grimm. Um policial chamado Nick começa a ver humanos como animais e quer proteger a sociedade deles.</desc>
+<title lang="en">Grimm: 15</title>
+<sub-title lang="pt">Temp. 3 - Ep. 15</sub-title>
+<desc>Nick e Hank se veem no meio de uma batalha antiga e a situação se complica quando o Conselho Wesen decide se envolver. Monroe e Rosalee atualizam todos sobre a história antiga dos Wesen.</desc>
 <credits>
-<actor>Sasha Roiz</actor>
+<director>Norberto Barba</director>
 <actor>David Giuntoli</actor>
-<actor>Bitsie Tulloch</actor>
 <actor>Russell Hornsby</actor>
+<actor>Bitsie Tulloch</actor>
 <actor>Silas Weir Mitchell</actor>
-<actor>Reggie Lee</actor>
-<actor>Claire Coffee</actor>
+<actor>Sasha Roiz</actor>
+<actor>Bethany Jacobs</actor>
 </credits>
-<date>2011</date>
+<date>2013</date>
 <category lang="pt">Séries</category>
 <category lang="pt">Drama</category>
 <image>
@@ -1548,6 +979,8 @@
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
 <country>EUA</country>
+<episode-num system="xmltv_ns">3.15.</episode-num>
+<episode-num system="onscreen">15</episode-num>
 <video>
 <colour>yes</colour>
 </video>
@@ -1558,20 +991,21 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150609001500 -0300" stop="20150609011500 -0300" channel="REB" program_id="0000375477" event_id="00000000000096611968" series_key="00000000065728000000">
+<programme start="20150609001500 -0300" stop="20150609011500 -0300" channel="REB" program_id="0000444307" event_id="00000000000096611968" series_key="00000000065728003016">
 <title lang="pt">Grimm - Contos de Terror</title>
-<title lang="en">Grimm</title>
-<desc>Esse drama policial incorpora as histórias dos contos de fadas dos irmãos Grimm. Um policial chamado Nick começa a ver humanos como animais e quer proteger a sociedade deles.</desc>
+<title lang="en">Grimm: 16</title>
+<sub-title lang="pt">Temp. 3 - Ep. 16</sub-title>
+<desc>Um homicídio duplo leva Nick e Hank a um bloco itinerante de circo, onde as pessoas que se apresentam não são o que parecem ser.</desc>
 <credits>
-<actor>Sasha Roiz</actor>
+<director>Norberto Barba</director>
 <actor>David Giuntoli</actor>
-<actor>Bitsie Tulloch</actor>
 <actor>Russell Hornsby</actor>
+<actor>Bitsie Tulloch</actor>
 <actor>Silas Weir Mitchell</actor>
-<actor>Reggie Lee</actor>
-<actor>Claire Coffee</actor>
+<actor>Sasha Roiz</actor>
+<actor>Bethany Jacobs</actor>
 </credits>
-<date>2011</date>
+<date>2013</date>
 <category lang="pt">Séries</category>
 <category lang="pt">Drama</category>
 <image>
@@ -1580,6 +1014,8 @@
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
 <country>EUA</country>
+<episode-num system="xmltv_ns">3.16.</episode-num>
+<episode-num system="onscreen">16</episode-num>
 <video>
 <colour>yes</colour>
 </video>
@@ -1698,7 +1134,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609120000 -0300" stop="20150609143000 -0300" channel="REB" program_id="0000102196" event_id="00000000000096611975" series_key="00000000066243000000">
+<programme start="20150609120000 -0300" stop="20150609144000 -0300" channel="REB" program_id="0000102196" event_id="00000000000096611975" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1716,7 +1152,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609143000 -0300" stop="20150609172000 -0300" channel="REB" program_id="0000119084" event_id="00000000000096611976" series_key="00000000071807000000">
+<programme start="20150609144000 -0300" stop="20150609170000 -0300" channel="REB" program_id="0000119084" event_id="00000000000096611976" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -1734,7 +1170,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150609172000 -0300" stop="20150609194500 -0300" channel="REB" program_id="0000015967" event_id="00000000000096611977" series_key="00000000069485000000">
+<programme start="20150609170000 -0300" stop="20150609194500 -0300" channel="REB" program_id="0000015967" event_id="00000000000096611977" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1770,7 +1206,24 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609203000 -0300" stop="20150609213000 -0300" channel="REB" program_id="0000430159" event_id="00000000000096611979" series_key="00000000076587000000">
+<programme start="20150609203000 -0300" stop="20150609204000 -0300" channel="REB" program_id="0000255383" event_id="00000000000097814728" series_key="">
+<title lang="pt">Propaganda Partidária</title>
+<desc>Programa Político.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000255383.jpg</image_name>
+<image_broadcast>0000255383</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150609204000 -0300" stop="20150609213000 -0300" channel="REB" program_id="0000430159" event_id="00000000000096611979" series_key="00000000076587000000">
 <title lang="pt">Os Dez Mandamentos</title>
 <desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
 <credits>
@@ -1983,7 +1436,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610120000 -0300" stop="20150610143000 -0300" channel="REB" program_id="0000102196" event_id="00000000000096611989" series_key="00000000066243000000">
+<programme start="20150610120000 -0300" stop="20150610144000 -0300" channel="REB" program_id="0000102196" event_id="00000000000096611989" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2001,7 +1454,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610143000 -0300" stop="20150610172000 -0300" channel="REB" program_id="0000119084" event_id="00000000000096611990" series_key="00000000071807000000">
+<programme start="20150610144000 -0300" stop="20150610170000 -0300" channel="REB" program_id="0000119084" event_id="00000000000096611990" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -2019,7 +1472,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150610172000 -0300" stop="20150610194500 -0300" channel="REB" program_id="0000015967" event_id="00000000000096611991" series_key="00000000069485000000">
+<programme start="20150610170000 -0300" stop="20150610194500 -0300" channel="REB" program_id="0000015967" event_id="00000000000096611991" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2086,7 +1539,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150610213000 -0300" stop="20150610223000 -0300" channel="REB" program_id="0000015966" event_id="00000000000096611994" series_key="00000000066234000000">
+<programme start="20150610213000 -0300" stop="20150610220000 -0300" channel="REB" program_id="0000015966" event_id="00000000000096611994" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2104,7 +1557,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610223000 -0300" stop="20150611001500 -0300" channel="REB" program_id="0000184059" event_id="00000000000096611995" series_key="">
+<programme start="20150610220000 -0300" stop="20150611001500 -0300" channel="REB" program_id="0000184059" event_id="00000000000096611995" series_key="">
 <title lang="pt">Gugu</title>
 <title lang="en">Programa do Gugu</title>
 <desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
@@ -2253,7 +1706,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611120000 -0300" stop="20150611143000 -0300" channel="REB" program_id="0000102196" event_id="00000000000096612003" series_key="00000000066243000000">
+<programme start="20150611120000 -0300" stop="20150611144000 -0300" channel="REB" program_id="0000102196" event_id="00000000000096612003" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2271,7 +1724,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611143000 -0300" stop="20150611171500 -0300" channel="REB" program_id="0000119084" event_id="00000000000096612004" series_key="00000000071807000000">
+<programme start="20150611144000 -0300" stop="20150611170000 -0300" channel="REB" program_id="0000119084" event_id="00000000000096612004" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -2289,7 +1742,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150611171500 -0300" stop="20150611194500 -0300" channel="REB" program_id="0000015967" event_id="00000000000096612005" series_key="00000000069485000000">
+<programme start="20150611170000 -0300" stop="20150611194500 -0300" channel="REB" program_id="0000015967" event_id="00000000000096612005" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2555,7 +2008,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612120000 -0300" stop="20150612143000 -0300" channel="REB" program_id="0000102196" event_id="00000000000096612018" series_key="00000000066243000000">
+<programme start="20150612120000 -0300" stop="20150612144000 -0300" channel="REB" program_id="0000102196" event_id="00000000000096612018" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2573,7 +2026,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612143000 -0300" stop="20150612171500 -0300" channel="REB" program_id="0000119084" event_id="00000000000096612019" series_key="00000000071807000000">
+<programme start="20150612144000 -0300" stop="20150612170000 -0300" channel="REB" program_id="0000119084" event_id="00000000000096612019" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -2591,7 +2044,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150612171500 -0300" stop="20150612194500 -0300" channel="REB" program_id="0000015967" event_id="00000000000096612020" series_key="00000000069485000000">
+<programme start="20150612170000 -0300" stop="20150612194500 -0300" channel="REB" program_id="0000015967" event_id="00000000000096612020" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2802,14 +2255,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613140000 -0300" stop="20150613151500 -0300" channel="REB" program_id="0000291669" event_id="00000000000096612031" series_key="00000000073666000000">
-<title lang="pt">Record Kids - Pica Pau</title>
-<desc>As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca!</desc>
+<programme start="20150613140000 -0300" stop="20150613151500 -0300" channel="REB" program_id="0000082399" event_id="00000000000096612031" series_key="00000000073668000000">
+<title lang="pt">Record Kids</title>
+<desc>Para animar a manhã de seu fim de semana, muita diversão para toda a família com os desenhos da "Record Kids".</desc>
 <category lang="pt">Infantil</category>
 <category lang="pt">Desenho</category>
 <image>
-<image_name position="1">00000000073666.jpg</image_name>
-<image_broadcast>00000000073666</image_broadcast>
+<image_name position="1">00000000073668.jpg</image_name>
+<image_broadcast>00000000073668</image_broadcast>
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
 <country>Brasil</country>
@@ -2959,27 +2412,23 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614093000 -0300" stop="20150614110000 -0300" channel="REB" program_id="0000014485" event_id="00000000000096612040" series_key="00000000073701000000">
-<title lang="pt">Pica-Pau</title>
-<title lang="en">WoodPecker</title>
-<desc>Acompanhe o Pica-Pau enquanto ele apronta com o Leôncio, o Zeca Urubu e a Meany Ranheta. Eles bem que tentam, mas no final, todos esses coitados acabam se dando mal ao tentarem atrapalhar os planos do Pica-Pau.</desc>
+<programme start="20150614093000 -0300" stop="20150614110000 -0300" channel="REB" program_id="0000291669" event_id="00000000000096612040" series_key="00000000073666000000">
+<title lang="pt">Record Kids - Pica Pau</title>
+<desc>As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca!</desc>
 <category lang="pt">Infantil</category>
-<category lang="pt">Animação</category>
+<category lang="pt">Desenho</category>
 <image>
-<image_name position="1">00000000073701.jpg</image_name>
-<image_broadcast>00000000073701</image_broadcast>
+<image_name position="1">00000000073666.jpg</image_name>
+<image_broadcast>00000000073666</image_broadcast>
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
-<country>EUA</country>
+<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
 <rating system="Advisory">
 <value>Programa livre para todas as idades</value>
 </rating>
-<star-rating>
-<value>3/5</value>
-</star-rating>
 </programme>
 <programme start="20150614110000 -0300" stop="20150614153000 -0300" channel="REB" program_id="0000017914" event_id="00000000000096612041" series_key="00000000072949000000">
 <title lang="pt">Domingo Show</title>
@@ -4853,6 +4302,592 @@
 <image_name position="1">00000000076191.jpg</image_name>
 <image_broadcast>00000000076191</image_broadcast>
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622001500 -0300" stop="20150622011500 -0300" channel="REB" program_id="0000271995" event_id="00000000000096612137" series_key="00000000072212000000">
+<title lang="pt">Roberto Justus +</title>
+<desc>Atração mergulha no universo brega e faz uma homenagem ao cantor Genival Lacerda. O apresentador não se intimida e dança ao ritmo do gênero, um dos mais populares do país</desc>
+<credits>
+<actor>Roberto Justus</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Talk Show</category>
+<image>
+<image_name position="1">00000000072212.jpg</image_name>
+<image_broadcast>00000000072212</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622011500 -0300" stop="20150622050000 -0300" channel="REB" program_id="0000079020" event_id="00000000000096612138" series_key="">
+<title lang="pt">Programação IURD</title>
+<desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000079020.jpg</image_name>
+<image_broadcast>0000079020</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622050000 -0300" stop="20150622063000 -0300" channel="REB" program_id="0000079020" event_id="00000000000096612139" series_key="">
+<title lang="pt">Programação IURD</title>
+<desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000079020.jpg</image_name>
+<image_broadcast>0000079020</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622063000 -0300" stop="20150622072800 -0300" channel="REB" program_id="0000301746" event_id="00000000000096612140" series_key="00000000066243000000">
+<title lang="pt">Balanço Geral Manhã</title>
+<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066243.jpg</image_name>
+<image_broadcast>00000000066243</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622072800 -0300" stop="20150622085000 -0300" channel="REB" program_id="0000141976" event_id="00000000000096612141" series_key="00000000066253000000">
+<title lang="pt">DF no Ar</title>
+<desc>O DF no Ar é o principal jornal matutino da TV no DF. Com ele você fica sempre muito bem informado. Todos os detalhes do trânsito, direto do céu de Brasília.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066253.jpg</image_name>
+<image_broadcast>00000000066253</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622085000 -0300" stop="20150622100000 -0300" channel="REB" program_id="0000015945" event_id="00000000000096612142" series_key="00000000066238000000">
+<title lang="pt">Fala Brasil</title>
+<desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066238.jpg</image_name>
+<image_broadcast>00000000066238</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622100000 -0300" stop="20150622120000 -0300" channel="REB" program_id="0000094577" event_id="00000000000096612143" series_key="00000000066226000000">
+<title lang="pt">Hoje em Dia</title>
+<desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066226.jpg</image_name>
+<image_broadcast>00000000066226</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622120000 -0300" stop="20150622143000 -0300" channel="REB" program_id="0000102196" event_id="00000000000096612144" series_key="00000000066243000000">
+<title lang="pt">Balanço Geral</title>
+<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066243.jpg</image_name>
+<image_broadcast>00000000066243</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622143000 -0300" stop="20150622172000 -0300" channel="REB" program_id="0000119084" event_id="00000000000096612145" series_key="00000000071807000000">
+<title lang="pt">Programa da Tarde</title>
+<desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000071807.jpg</image_name>
+<image_broadcast>00000000071807</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622172000 -0300" stop="20150622194500 -0300" channel="REB" program_id="0000015967" event_id="00000000000096612146" series_key="00000000069485000000">
+<title lang="pt">Cidade Alerta</title>
+<desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069485.jpg</image_name>
+<image_broadcast>00000000069485</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622194500 -0300" stop="20150622203000 -0300" channel="REB" program_id="0000127226" event_id="00000000000096612147" series_key="00000000066254000000">
+<title lang="pt">DF Record</title>
+<desc>Tudo que acontece no DF é mostrado no DF Record.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066254.jpg</image_name>
+<image_broadcast>00000000066254</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622203000 -0300" stop="20150622213000 -0300" channel="REB" program_id="0000430159" event_id="00000000000096612148" series_key="00000000076587000000">
+<title lang="pt">Os Dez Mandamentos</title>
+<desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
+<credits>
+<director>Alexandre Avancini</director>
+<actor>Guilherme Winter</actor>
+<actor>Sérgio Marone</actor>
+<actor>Giselle Itié</actor>
+<actor>Mel Lisboa</actor>
+<actor>Samara Felippo</actor>
+<actor>Thierry Figueira</actor>
+<actor>Heitor Martinez</actor>
+<actor>Luciano Szafir</actor>
+<actor>Floriano Peixoto</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Novela</category>
+<image>
+<image_name position="1">00000000076587.jpg</image_name>
+<image_broadcast>00000000076587</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622213000 -0300" stop="20150622223000 -0300" channel="REB" program_id="0000015966" event_id="00000000000096612149" series_key="00000000066234000000">
+<title lang="pt">Jornal da Record</title>
+<desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066234.jpg</image_name>
+<image_broadcast>00000000066234</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622223000 -0300" stop="20150622233000 -0300" channel="REB" program_id="0000380369" event_id="00000000000096612150" series_key="00000000073493000000">
+<title lang="pt">Repórter Record Investigação</title>
+<desc>Uma reportagem exclusiva, revela quem são as "Damas da Noite" . Mulheres que possuem mais de meio século de vida e ainda despertam o desejo dos homens. As "vovós do sexo", para os mais íntimos.</desc>
+<date>2014</date>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000073493.jpg</image_name>
+<image_broadcast>00000000073493</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150622233000 -0300" stop="20150623001500 -0300" channel="REB" program_id="0000375477" event_id="00000000000096612151" series_key="00000000065728000000">
+<title lang="pt">Grimm - Contos de Terror</title>
+<title lang="en">Grimm</title>
+<desc>Esse drama policial incorpora as histórias dos contos de fadas dos irmãos Grimm. Um policial chamado Nick começa a ver humanos como animais e quer proteger a sociedade deles.</desc>
+<credits>
+<actor>Sasha Roiz</actor>
+<actor>David Giuntoli</actor>
+<actor>Bitsie Tulloch</actor>
+<actor>Russell Hornsby</actor>
+<actor>Silas Weir Mitchell</actor>
+<actor>Reggie Lee</actor>
+<actor>Claire Coffee</actor>
+</credits>
+<date>2011</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Drama</category>
+<image>
+<image_name position="1">00000000065728.jpg</image_name>
+<image_broadcast>00000000065728</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+<star-rating>
+<value>4/5</value>
+</star-rating>
+</programme>
+<programme start="20150623001500 -0300" stop="20150623011500 -0300" channel="REB" program_id="0000375477" event_id="00000000000096612152" series_key="00000000065728000000">
+<title lang="pt">Grimm - Contos de Terror</title>
+<title lang="en">Grimm</title>
+<desc>Esse drama policial incorpora as histórias dos contos de fadas dos irmãos Grimm. Um policial chamado Nick começa a ver humanos como animais e quer proteger a sociedade deles.</desc>
+<credits>
+<actor>Sasha Roiz</actor>
+<actor>David Giuntoli</actor>
+<actor>Bitsie Tulloch</actor>
+<actor>Russell Hornsby</actor>
+<actor>Silas Weir Mitchell</actor>
+<actor>Reggie Lee</actor>
+<actor>Claire Coffee</actor>
+</credits>
+<date>2011</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Drama</category>
+<image>
+<image_name position="1">00000000065728.jpg</image_name>
+<image_broadcast>00000000065728</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+<star-rating>
+<value>4/5</value>
+</star-rating>
+</programme>
+<programme start="20150623011500 -0300" stop="20150623050000 -0300" channel="REB" program_id="0000079020" event_id="00000000000096612153" series_key="">
+<title lang="pt">Programação IURD</title>
+<desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000079020.jpg</image_name>
+<image_broadcast>0000079020</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623050000 -0300" stop="20150623063000 -0300" channel="REB" program_id="0000079020" event_id="00000000000096612154" series_key="">
+<title lang="pt">Programação IURD</title>
+<desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000079020.jpg</image_name>
+<image_broadcast>0000079020</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623063000 -0300" stop="20150623072800 -0300" channel="REB" program_id="0000301746" event_id="00000000000096612155" series_key="00000000066243000000">
+<title lang="pt">Balanço Geral Manhã</title>
+<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066243.jpg</image_name>
+<image_broadcast>00000000066243</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623072800 -0300" stop="20150623085000 -0300" channel="REB" program_id="0000141976" event_id="00000000000096612156" series_key="00000000066253000000">
+<title lang="pt">DF no Ar</title>
+<desc>O DF no Ar é o principal jornal matutino da TV no DF. Com ele você fica sempre muito bem informado. Todos os detalhes do trânsito, direto do céu de Brasília.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066253.jpg</image_name>
+<image_broadcast>00000000066253</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623085000 -0300" stop="20150623100000 -0300" channel="REB" program_id="0000015945" event_id="00000000000096612157" series_key="00000000066238000000">
+<title lang="pt">Fala Brasil</title>
+<desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066238.jpg</image_name>
+<image_broadcast>00000000066238</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623100000 -0300" stop="20150623120000 -0300" channel="REB" program_id="0000094577" event_id="00000000000096612158" series_key="00000000066226000000">
+<title lang="pt">Hoje em Dia</title>
+<desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066226.jpg</image_name>
+<image_broadcast>00000000066226</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623120000 -0300" stop="20150623143000 -0300" channel="REB" program_id="0000102196" event_id="00000000000096612159" series_key="00000000066243000000">
+<title lang="pt">Balanço Geral</title>
+<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066243.jpg</image_name>
+<image_broadcast>00000000066243</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623143000 -0300" stop="20150623172000 -0300" channel="REB" program_id="0000119084" event_id="00000000000096612160" series_key="00000000071807000000">
+<title lang="pt">Programa da Tarde</title>
+<desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000071807.jpg</image_name>
+<image_broadcast>00000000071807</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623172000 -0300" stop="20150623194500 -0300" channel="REB" program_id="0000015967" event_id="00000000000096612161" series_key="00000000069485000000">
+<title lang="pt">Cidade Alerta</title>
+<desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069485.jpg</image_name>
+<image_broadcast>00000000069485</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623194500 -0300" stop="20150623203000 -0300" channel="REB" program_id="0000127226" event_id="00000000000096612162" series_key="00000000066254000000">
+<title lang="pt">DF Record</title>
+<desc>Tudo que acontece no DF é mostrado no DF Record.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066254.jpg</image_name>
+<image_broadcast>00000000066254</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623203000 -0300" stop="20150623213000 -0300" channel="REB" program_id="0000430159" event_id="00000000000096612163" series_key="00000000076587000000">
+<title lang="pt">Os Dez Mandamentos</title>
+<desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
+<credits>
+<director>Alexandre Avancini</director>
+<actor>Guilherme Winter</actor>
+<actor>Sérgio Marone</actor>
+<actor>Giselle Itié</actor>
+<actor>Mel Lisboa</actor>
+<actor>Samara Felippo</actor>
+<actor>Thierry Figueira</actor>
+<actor>Heitor Martinez</actor>
+<actor>Luciano Szafir</actor>
+<actor>Floriano Peixoto</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Novela</category>
+<image>
+<image_name position="1">00000000076587.jpg</image_name>
+<image_broadcast>00000000076587</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623213000 -0300" stop="20150623223000 -0300" channel="REB" program_id="0000015966" event_id="00000000000096612164" series_key="00000000066234000000">
+<title lang="pt">Jornal da Record</title>
+<desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066234.jpg</image_name>
+<image_broadcast>00000000066234</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623223000 -0300" stop="20150624001500 -0300" channel="REB" program_id="0000184059" event_id="00000000000096612165" series_key="">
+<title lang="pt">Gugu</title>
+<title lang="en">Programa do Gugu</title>
+<desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
+<credits>
+<director>Vildomar Batista</director>
+<actor>Gugu Liberato</actor>
+</credits>
+<category lang="pt">Variedades</category>
+<category lang="pt">Talk Show</category>
+<image>
+<image_name position="1">0000184059.jpg</image_name>
+<image_broadcast>0000184059</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <country>Brasil</country>
 <video>

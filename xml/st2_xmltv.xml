@@ -4,537 +4,6 @@
 <display-name lang="pt">SporTV2 HD</display-name>
 <icon src="st2.gif" />
 </channel>
-<programme start="20150603000000 -0300" stop="20150603020000 -0300" channel="ST2" program_id="0000092846" event_id="00000000000097270750" series_key="">
-<title lang="pt">VT - Vitória x Criciúma</title>
-<title lang="en">VT - Vitória x Criciúma</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000092846.jpg</image_name>
-<image_broadcast>0000092846</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603020000 -0300" stop="20150603040000 -0300" channel="ST2" program_id="0000105169" event_id="00000000000097270751" series_key="">
-<title lang="pt">VT - Paraná x Botafogo</title>
-<title lang="en">VT - Paraná x Botafogo</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000105169.jpg</image_name>
-<image_broadcast>0000105169</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603040000 -0300" stop="20150603070000 -0300" channel="ST2" program_id="0000215116" event_id="00000000000097270752" series_key="00000000071215000000">
-<title lang="pt">SporTV News - Edição Manhã</title>
-<desc>Principal telejornal da programação do SporTV, o 'SporTV News' informa todos os acontecimentos diários do cenário esportivo nacional e internacional com a ajuda dos correspondentes espalhados pelo mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000071215.jpg</image_name>
-<image_broadcast>00000000071215</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603070000 -0300" stop="20150603080000 -0300" channel="ST2" program_id="0000009496" event_id="00000000000097270753" series_key="">
-<title lang="pt">VT - Corinthians x Palmeiras</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000009496.jpg</image_name>
-<image_broadcast>0000009496</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603080000 -0300" stop="20150603090000 -0300" channel="ST2" program_id="0000009841" event_id="00000000000097270754" series_key="">
-<title lang="pt">VT - Flamengo x Fluminense</title>
-<title lang="en">VT - Flamengo x Fluminense</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000009841.jpg</image_name>
-<image_broadcast>0000009841</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603090000 -0300" stop="20150603110000 -0300" channel="ST2" program_id="0000443518" event_id="00000000000097270755" series_key="">
-<title lang="pt">Copa do Mundo Sub-20: México x Uruguai</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000443518.jpg</image_name>
-<image_broadcast>0000443518</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603110000 -0300" stop="20150603120000 -0300" channel="ST2" program_id="0000009496" event_id="00000000000097270756" series_key="">
-<title lang="pt">VT - Corinthians x Palmeiras</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000009496.jpg</image_name>
-<image_broadcast>0000009496</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603120000 -0300" stop="20150603130000 -0300" channel="ST2" program_id="0000009841" event_id="00000000000097270757" series_key="">
-<title lang="pt">VT - Flamengo x Fluminense</title>
-<title lang="en">VT - Flamengo x Fluminense</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000009841.jpg</image_name>
-<image_broadcast>0000009841</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603130000 -0300" stop="20150603140000 -0300" channel="ST2" program_id="0000134313" event_id="00000000000097548167" series_key="">
-<title lang="pt">VT - Internacional x São Paulo</title>
-<title lang="en">VT - Internacional x São Paulo</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000134313.jpg</image_name>
-<image_broadcast>0000134313</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603140000 -0300" stop="20150603160000 -0300" channel="ST2" program_id="0000105169" event_id="00000000000097270758" series_key="">
-<title lang="pt">VT - Paraná x Botafogo</title>
-<title lang="en">VT - Paraná x Botafogo</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000105169.jpg</image_name>
-<image_broadcast>0000105169</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603160000 -0300" stop="20150603180000 -0300" channel="ST2" program_id="0000076428" event_id="00000000000097270759" series_key="00000000071216000000">
-<title lang="pt">Redação SporTV</title>
-<title lang="en">Redação Sportv</title>
-<desc>Apresentado por André Rizek, o 'Redação SporTV' recebe jornalistas e convidados de todo o país para comentar as notícias de esportes dos principais veículos de comunicação do Brasil e do mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000071216.jpg</image_name>
-<image_broadcast>00000000071216</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603180000 -0300" stop="20150603183000 -0300" channel="ST2" program_id="0000194602" event_id="00000000000097270760" series_key="00000000070462000000">
-<title lang="pt">Globo Esporte - Rede</title>
-<desc>Alex Escobar apresenta as principais notícias esportivas do dia. O programa conta com a participação de convidados e matérias exclusivas dos eventos. A reprise você confere aqui no na tela do seu Canal Campeão.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000070462.jpg</image_name>
-<image_broadcast>00000000070462</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603183000 -0300" stop="20150603193000 -0300" channel="ST2" program_id="0000187701" event_id="00000000000097270761" series_key="00000000071217000000">
-<title lang="pt">É Gol!</title>
-<desc>De segunda à sexta, Domitila Becker apresenta no 'É Gol!!!' um resumo completo da rodada do futebol brasileiro e internacional, em que os  gols, os artilheiros e os assinantes são os grandes protagonistas.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000071217.jpg</image_name>
-<image_broadcast>00000000071217</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603193000 -0300" stop="20150603200000 -0300" channel="ST2" program_id="0000194603" event_id="00000000000097270762" series_key="00000000070462000000">
-<title lang="pt">Globo Esporte - São Paulo</title>
-<desc>Thiago Leifert comanda um programa inovador, que apresenta as notícias do mundo esportivo de uma forma toda especial, com muito humor. O programa conta com a participação de convidados e matérias exclusivas.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000070462.jpg</image_name>
-<image_broadcast>00000000070462</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603200000 -0300" stop="20150603210800 -0300" channel="ST2" program_id="0000009496" event_id="000000100296581" series_key="">
-<title lang="pt">VT - Corinthians x Palmeiras</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000009496.jpg</image_name>
-<image_broadcast>0000009496</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603210800 -0300" stop="20150603230800 -0300" channel="ST2" program_id="0000441921" event_id="000000100296582" series_key="">
-<title lang="pt">MLS: Montreal Impact x Vancouver Whitecaps - Vivo</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000441921.jpg</image_name>
-<image_broadcast>0000441921</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603230800 -0300" stop="20150604000000 -0300" channel="ST2" program_id="0000443518" event_id="000000100296583" series_key="">
-<title lang="pt">Copa do Mundo Sub-20: México x Uruguai</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000443518.jpg</image_name>
-<image_broadcast>0000443518</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604000000 -0300" stop="20150604020000 -0300" channel="ST2" program_id="0000015237" event_id="00000000000097270766" series_key="">
-<title lang="pt">VT - São Paulo x Santos</title>
-<title lang="en">VT - São Paulo x Santos</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000015237.jpg</image_name>
-<image_broadcast>0000015237</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604020000 -0300" stop="20150604040000 -0300" channel="ST2" program_id="0000094188" event_id="00000000000097270769" series_key="">
-<title lang="pt">VT - Cruzeiro x Flamengo</title>
-<title lang="en">VT - Cruzeiro x Flamengo</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000094188.jpg</image_name>
-<image_broadcast>0000094188</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604040000 -0300" stop="20150604070000 -0300" channel="ST2" program_id="0000215116" event_id="00000000000097270770" series_key="00000000071215000000">
-<title lang="pt">SporTV News - Edição Manhã</title>
-<desc>Principal telejornal da programação do SporTV, o 'SporTV News' informa todos os acontecimentos diários do cenário esportivo nacional e internacional com a ajuda dos correspondentes espalhados pelo mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000071215.jpg</image_name>
-<image_broadcast>00000000071215</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604070000 -0300" stop="20150604090000 -0300" channel="ST2" program_id="0000108877" event_id="00000000000097270771" series_key="">
-<title lang="pt">VT - Avaí x Atlético MG</title>
-<title lang="en">VT - Avaí x Atlético MG</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000108877.jpg</image_name>
-<image_broadcast>0000108877</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604090000 -0300" stop="20150604100000 -0300" channel="ST2" program_id="0000017660" event_id="00000000000097270772" series_key="">
-<title lang="pt">VT - Vasco x Ponte Preta</title>
-<title lang="en">VT - Vasco x Ponte Preta</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000017660.jpg</image_name>
-<image_broadcast>0000017660</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604100000 -0300" stop="20150604120000 -0300" channel="ST2" program_id="0000015237" event_id="00000000000097270773" series_key="">
-<title lang="pt">VT - São Paulo x Santos</title>
-<title lang="en">VT - São Paulo x Santos</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000015237.jpg</image_name>
-<image_broadcast>0000015237</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604120000 -0300" stop="20150604140000 -0300" channel="ST2" program_id="0000094188" event_id="00000000000097270774" series_key="">
-<title lang="pt">VT - Cruzeiro x Flamengo</title>
-<title lang="en">VT - Cruzeiro x Flamengo</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000094188.jpg</image_name>
-<image_broadcast>0000094188</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604140000 -0300" stop="20150604160000 -0300" channel="ST2" program_id="0000007047" event_id="00000000000097270775" series_key="">
-<title lang="pt">VT - Grêmio x Corinthians</title>
-<title lang="en">VT - Grêmio x Corinthians</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000007047.jpg</image_name>
-<image_broadcast>0000007047</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604160000 -0300" stop="20150604180000 -0300" channel="ST2" program_id="0000076428" event_id="00000000000097270776" series_key="00000000071216000000">
-<title lang="pt">Redação SporTV</title>
-<title lang="en">Redação Sportv</title>
-<desc>Apresentado por André Rizek, o 'Redação SporTV' recebe jornalistas e convidados de todo o país para comentar as notícias de esportes dos principais veículos de comunicação do Brasil e do mundo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000071216.jpg</image_name>
-<image_broadcast>00000000071216</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604180000 -0300" stop="20150604190000 -0300" channel="ST2" program_id="0000187701" event_id="00000000000097270778" series_key="00000000071217000000">
-<title lang="pt">É Gol!</title>
-<desc>De segunda à sexta, Domitila Becker apresenta no 'É Gol!!!' um resumo completo da rodada do futebol brasileiro e internacional, em que os  gols, os artilheiros e os assinantes são os grandes protagonistas.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000071217.jpg</image_name>
-<image_broadcast>00000000071217</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604190000 -0300" stop="20150604210000 -0300" channel="ST2" program_id="0000046053" event_id="00000000000097270780" series_key="">
-<title lang="pt">VT - Fluminense x Coritiba</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000046053.jpg</image_name>
-<image_broadcast>0000046053</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604210000 -0300" stop="20150604223000 -0300" channel="ST2" program_id="0000443520" event_id="00000000000097270781" series_key="">
-<title lang="pt">Copa do Mundo Sub-20: Hungria x Brasil</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000443520.jpg</image_name>
-<image_broadcast>0000443520</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604223000 -0300" stop="20150605000000 -0300" channel="ST2" program_id="0000443517" event_id="00000000000097270782" series_key="">
-<title lang="pt">Liga Nacional de Futsal: São José x Minas</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol de Salão</category>
-<image>
-<image_name position="1">0000443517.jpg</image_name>
-<image_broadcast>0000443517</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
 <programme start="20150605000000 -0300" stop="20150605020000 -0300" channel="ST2" program_id="0000256652" event_id="00000000000097270784" series_key="">
 <title lang="pt">VT - Sport x Goiás</title>
 <desc></desc>
@@ -657,7 +126,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605143000 -0300" stop="20150605150000 -0300" channel="ST2" program_id="0000268321" event_id="000000100296584" series_key="">
+<programme start="20150605143000 -0300" stop="20150605150000 -0300" channel="ST2" program_id="0000268321" event_id="00000000000097270793" series_key="">
 <title lang="pt">Galeria SporTV</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -674,7 +143,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605150000 -0300" stop="20150605163000 -0300" channel="ST2" program_id="0000442261" event_id="000000100296585" series_key="00000000068469000000">
+<programme start="20150605150000 -0300" stop="20150605163000 -0300" channel="ST2" program_id="0000442261" event_id="00000000000097270794" series_key="00000000068469000000">
 <title lang="pt">Fórmula 1: 2º Treino Livre - GP do Canadá - Vivo</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -691,7 +160,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605163000 -0300" stop="20150605173000 -0300" channel="ST2" program_id="0000046053" event_id="000000100296586" series_key="">
+<programme start="20150605163000 -0300" stop="20150605173000 -0300" channel="ST2" program_id="0000046053" event_id="00000000000097741520" series_key="">
 <title lang="pt">VT - Fluminense x Coritiba</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -863,14 +332,31 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606094500 -0300" stop="20150606120000 -0300" channel="ST2" program_id="0000195838" event_id="00000000000097270806" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<programme start="20150606094500 -0300" stop="20150606100000 -0300" channel="ST2" program_id="0000268321" event_id="000000100549241" series_key="">
+<title lang="pt">Galeria SporTV</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Diversos</category>
 <image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
+<image_name position="1">0000268321.jpg</image_name>
+<image_broadcast>0000268321</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150606100000 -0300" stop="20150606120000 -0300" channel="ST2" program_id="0000443521" event_id="000000100549242" series_key="">
+<title lang="pt">VT - Botafogo x Mogi Mirim</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000443521.jpg</image_name>
+<image_broadcast>0000443521</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
@@ -1016,16 +502,18 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607013000 -0300" stop="20150607033000 -0300" channel="ST2" program_id="0000195838" event_id="00000000000097270814" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<programme start="20150607013000 -0300" stop="20150607033000 -0300" channel="ST2" program_id="0000014917" event_id="000000100549243" series_key="">
+<title lang="pt">VT - Atlético MG x Cruzeiro</title>
+<title lang="en">VT - Atlético MG x Cruzeiro</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
+<image_name position="1">0000014917.jpg</image_name>
+<image_broadcast>0000014917</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
+<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -1033,7 +521,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607033000 -0300" stop="20150607070000 -0300" channel="ST2" program_id="0000333231" event_id="000000100296587" series_key="">
+<programme start="20150607033000 -0300" stop="20150607070000 -0300" channel="ST2" program_id="0000333231" event_id="00000000000097270815" series_key="">
 <title lang="pt">SporTV News</title>
 <desc>O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres.</desc>
 <category lang="pt">Esporte</category>
@@ -1050,14 +538,33 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607070000 -0300" stop="20150607080000 -0300" channel="ST2" program_id="0000195838" event_id="00000000000097270816" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<programme start="20150607070000 -0300" stop="20150607090000 -0300" channel="ST2" program_id="0000006673" event_id="000000100549244" series_key="">
+<title lang="pt">VT - São Paulo x Grêmio</title>
+<title lang="en">VT - São Paulo x Grêmio</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
+<image_name position="1">0000006673.jpg</image_name>
+<image_broadcast>0000006673</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150607090000 -0300" stop="20150607100500 -0300" channel="ST2" program_id="0000408841" event_id="000000100549245" series_key="">
+<title lang="pt">VT - Flamengo x Chapecoense</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000408841.jpg</image_name>
+<image_broadcast>0000408841</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
@@ -1067,24 +574,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607080000 -0300" stop="20150607100500 -0300" channel="ST2" program_id="0000195838" event_id="00000000000097270817" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150607100500 -0300" stop="20150607111500 -0300" channel="ST2" program_id="0000441889" event_id="000000100296588" series_key="">
+<programme start="20150607100500 -0300" stop="20150607111500 -0300" channel="ST2" program_id="0000441889" event_id="00000000000097270818" series_key="">
 <title lang="pt">Circuito Mundial de Vôlei de Praia: Porec, Croácia - Vivo</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -1101,7 +591,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607111500 -0300" stop="20150607131500 -0300" channel="ST2" program_id="0000441868" event_id="000000100296589" series_key="">
+<programme start="20150607111500 -0300" stop="20150607131500 -0300" channel="ST2" program_id="0000441868" event_id="00000000000097270819" series_key="">
 <title lang="pt">Amistoso Internacional de Futebol: Colômbia x Costa Rica</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -1169,14 +659,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607180000 -0300" stop="20150607220000 -0300" channel="ST2" program_id="0000195838" event_id="00000000000097270822" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<programme start="20150607180000 -0300" stop="20150607200000 -0300" channel="ST2" program_id="0000443891" event_id="000000100549246" series_key="">
+<title lang="pt">Amistoso Internacional de Futebol: Irlanda x Inglaterra</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
+<image_name position="1">0000443891.jpg</image_name>
+<image_broadcast>0000443891</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
@@ -1186,7 +676,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607220000 -0300" stop="20150608000000 -0300" channel="ST2" program_id="0000442025" event_id="00000000000097270823" series_key="">
+<programme start="20150607200000 -0300" stop="20150607220000 -0300" channel="ST2" program_id="0000442025" event_id="00000000000097270823" series_key="">
 <title lang="pt">Liga Mundial de Vôlei: Brasil x Austrália</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -1203,7 +693,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608000000 -0300" stop="20150608013000 -0300" channel="ST2" program_id="0000441964" event_id="00000000000097270824" series_key="00000000068469000000">
+<programme start="20150607220000 -0300" stop="20150607233000 -0300" channel="ST2" program_id="0000441964" event_id="000000100549247" series_key="00000000068469000000">
 <title lang="pt">Fórmula 1: GP Do Canadá</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -1220,15 +710,52 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608013000 -0300" stop="20150608033000 -0300" channel="ST2" program_id="0000195838" event_id="00000000000097270825" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<programme start="20150607233000 -0300" stop="20150608013000 -0300" channel="ST2" program_id="0000182449" event_id="000000100549248" series_key="">
+<title lang="pt">VT - Fluminense x Sport</title>
+<title lang="en">VT - Fluminense x Sport</title>
+<desc></desc>
 <category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
+<image_name position="1">0000182449.jpg</image_name>
+<image_broadcast>0000182449</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150608013000 -0300" stop="20150608023000 -0300" channel="ST2" program_id="0000401879" event_id="000000100549249" series_key="00000000074046000000">
+<title lang="pt">Extra Ordinários</title>
+<desc>Eduardo Bueno, Xico Sá, Felipe Andreoli e Maitê Proença comandam o 'Extra Ordinários', programa que debate os principais acontecimentos do futebol brasileiro, com pitadas de política, cultura, humor e até futebol.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000074046.jpg</image_name>
+<image_broadcast>00000000074046</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150608023000 -0300" stop="20150608033000 -0300" channel="ST2" program_id="0000214693" event_id="000000100549250" series_key="00000000070466000000">
+<title lang="pt">Esporte Espetacular</title>
+<desc>Confira aqui no SporTV a reapresentação do "Esporte Espetacular", a revista esportiva semanal que traz matérias exclusivas com convidados pra lá de especiais do mundo do esporte nacional e internacional.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000070466.jpg</image_name>
+<image_broadcast>00000000070466</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
 <video>
 <colour>yes</colour>
@@ -1237,24 +764,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608033000 -0300" stop="20150608043000 -0300" channel="ST2" program_id="0000195838" event_id="00000000000097270826" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150608043000 -0300" stop="20150608070000 -0300" channel="ST2" program_id="0000215116" event_id="00000000000097270827" series_key="00000000071215000000">
+<programme start="20150608033000 -0300" stop="20150608070000 -0300" channel="ST2" program_id="0000215116" event_id="00000000000097270827" series_key="00000000071215000000">
 <title lang="pt">SporTV News - Edição Manhã</title>
 <desc>Principal telejornal da programação do SporTV, o 'SporTV News' informa todos os acontecimentos diários do cenário esportivo nacional e internacional com a ajuda dos correspondentes espalhados pelo mundo.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1272,7 +782,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608070000 -0300" stop="20150608080000 -0300" channel="ST2" program_id="0000443569" event_id="000000100296590" series_key="">
+<programme start="20150608070000 -0300" stop="20150608080000 -0300" channel="ST2" program_id="0000443569" event_id="00000000000097270828" series_key="">
 <title lang="pt">VT - Joinville x Corinthians</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -1289,7 +799,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608080000 -0300" stop="20150608100000 -0300" channel="ST2" program_id="0000442025" event_id="000000100296591" series_key="">
+<programme start="20150608080000 -0300" stop="20150608100000 -0300" channel="ST2" program_id="0000442025" event_id="00000000000097270829" series_key="">
 <title lang="pt">Liga Mundial de Vôlei: Brasil x Austrália</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -1306,7 +816,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608100000 -0300" stop="20150608120000 -0300" channel="ST2" program_id="0000443965" event_id="000000100296592" series_key="">
+<programme start="20150608100000 -0300" stop="20150608120000 -0300" channel="ST2" program_id="0000443965" event_id="00000000000097270830" series_key="">
 <title lang="pt">Copa do Mundo Sub-20: Brasil x Coreia do Norte</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -1323,7 +833,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608120000 -0300" stop="20150608140000 -0300" channel="ST2" program_id="0000443966" event_id="000000100296593" series_key="">
+<programme start="20150608120000 -0300" stop="20150608140000 -0300" channel="ST2" program_id="0000443966" event_id="00000000000097270831" series_key="">
 <title lang="pt">Amistoso Internacional de Futebol: França x Bélgica</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -1340,7 +850,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608140000 -0300" stop="20150608160000 -0300" channel="ST2" program_id="0000443963" event_id="000000100296594" series_key="">
+<programme start="20150608140000 -0300" stop="20150608160000 -0300" channel="ST2" program_id="0000443963" event_id="00000000000097270832" series_key="">
 <title lang="pt">Amistoso Internacional de Futebol: Brasil x México</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -1357,7 +867,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608160000 -0300" stop="20150608170000 -0300" channel="ST2" program_id="0000187701" event_id="000000100296595" series_key="00000000071217000000">
+<programme start="20150608160000 -0300" stop="20150608170000 -0300" channel="ST2" program_id="0000187701" event_id="00000000000097270833" series_key="00000000071217000000">
 <title lang="pt">É Gol!</title>
 <desc>De segunda à sexta, Domitila Becker apresenta no 'É Gol!!!' um resumo completo da rodada do futebol brasileiro e internacional, em que os  gols, os artilheiros e os assinantes são os grandes protagonistas.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1391,7 +901,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608190000 -0300" stop="20150608193000 -0300" channel="ST2" program_id="0000268321" event_id="000000100296596" series_key="">
+<programme start="20150608190000 -0300" stop="20150608193000 -0300" channel="ST2" program_id="0000268321" event_id="00000000000097270835" series_key="">
 <title lang="pt">Galeria SporTV</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -1408,7 +918,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608193000 -0300" stop="20150608203000 -0300" channel="ST2" program_id="0000092842" event_id="000000100296597" series_key="">
+<programme start="20150608193000 -0300" stop="20150608203000 -0300" channel="ST2" program_id="0000092842" event_id="00000000000097741521" series_key="">
 <title lang="pt">VT - Figueirense x Palmeiras</title>
 <title lang="en">VT - Figueirense x Palmeiras</title>
 <desc></desc>
@@ -1444,7 +954,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608223000 -0300" stop="20150609003000 -0300" channel="ST2" program_id="0000443963" event_id="000000100296598" series_key="">
+<programme start="20150608223000 -0300" stop="20150609003000 -0300" channel="ST2" program_id="0000443963" event_id="00000000000097270837" series_key="">
 <title lang="pt">Amistoso Internacional de Futebol: Brasil x México</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
@@ -1461,7 +971,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609003000 -0300" stop="20150609013000 -0300" channel="ST2" program_id="0000006673" event_id="000000100296599" series_key="">
+<programme start="20150609003000 -0300" stop="20150609013000 -0300" channel="ST2" program_id="0000006673" event_id="00000000000097741522" series_key="">
 <title lang="pt">VT - São Paulo x Grêmio</title>
 <title lang="en">VT - São Paulo x Grêmio</title>
 <desc></desc>
@@ -1497,7 +1007,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609033000 -0300" stop="20150609040000 -0300" channel="ST2" program_id="0000215116" event_id="000000100296600" series_key="00000000071215000000">
+<programme start="20150609033000 -0300" stop="20150609070000 -0300" channel="ST2" program_id="0000215116" event_id="00000000000097270839" series_key="00000000071215000000">
 <title lang="pt">SporTV News - Edição Manhã</title>
 <desc>Principal telejornal da programação do SporTV, o 'SporTV News' informa todos os acontecimentos diários do cenário esportivo nacional e internacional com a ajuda dos correspondentes espalhados pelo mundo.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1508,23 +1018,6 @@
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
 <country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150609040000 -0300" stop="20150609070000 -0300" channel="ST2" program_id="0000333231" event_id="00000000000097270840" series_key="">
-<title lang="pt">SporTV News</title>
-<desc>O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000333231.jpg</image_name>
-<image_broadcast>0000333231</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
 <video>
 <colour>yes</colour>
 </video>
@@ -1738,16 +1231,17 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610040000 -0300" stop="20150610070000 -0300" channel="ST2" program_id="0000333231" event_id="00000000000097270853" series_key="">
-<title lang="pt">SporTV News</title>
-<desc>O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<programme start="20150610040000 -0300" stop="20150610070000 -0300" channel="ST2" program_id="0000215116" event_id="000000100549251" series_key="00000000071215000000">
+<title lang="pt">SporTV News - Edição Manhã</title>
+<desc>Principal telejornal da programação do SporTV, o 'SporTV News' informa todos os acontecimentos diários do cenário esportivo nacional e internacional com a ajuda dos correspondentes espalhados pelo mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
 <image>
-<image_name position="1">0000333231.jpg</image_name>
-<image_broadcast>0000333231</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
+<image_name position="1">00000000071215.jpg</image_name>
+<image_broadcast>00000000071215</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
+<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -1908,14 +1402,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610200000 -0300" stop="20150610220000 -0300" channel="ST2" program_id="0000442052" event_id="00000000000097270863" series_key="">
-<title lang="pt">Torneio Quatro Nações Masculino de Handebol - Vivo</title>
+<programme start="20150610200000 -0300" stop="20150610220000 -0300" channel="ST2" program_id="0000444152" event_id="000000100549252" series_key="">
+<title lang="pt">Torneio Quatro Nações Masculino de Handebol: Chile x Tunísia - Vivo</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Handebol Masculino</category>
 <image>
-<image_name position="1">0000442052.jpg</image_name>
-<image_broadcast>0000442052</image_broadcast>
+<image_name position="1">0000444152.jpg</image_name>
+<image_broadcast>0000444152</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
@@ -1925,14 +1419,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610220000 -0300" stop="20150611000000 -0300" channel="ST2" program_id="0000442052" event_id="00000000000097270864" series_key="">
-<title lang="pt">Torneio Quatro Nações Masculino de Handebol - Vivo</title>
+<programme start="20150610220000 -0300" stop="20150611000000 -0300" channel="ST2" program_id="0000444153" event_id="000000100549253" series_key="">
+<title lang="pt">Torneio Quatro Nações Masculino de Handebol: Brasil x Cuba - Vivo</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Handebol Masculino</category>
 <image>
-<image_name position="1">0000442052.jpg</image_name>
-<image_broadcast>0000442052</image_broadcast>
+<image_name position="1">0000444153.jpg</image_name>
+<image_broadcast>0000444153</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
@@ -1942,14 +1436,31 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611000000 -0300" stop="20150611023000 -0300" channel="ST2" program_id="0000441910" event_id="00000000000097270865" series_key="00000000067245000000">
-<title lang="pt">NBA: Final</title>
+<programme start="20150611000000 -0300" stop="20150611003000 -0300" channel="ST2" program_id="0000195838" event_id="000000100549254" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150611003000 -0300" stop="20150611030000 -0300" channel="ST2" program_id="0000444157" event_id="000000100549255" series_key="00000000067244000000">
+<title lang="pt">NBA: Cleveland Cavaliers x G. S. Warriors</title>
 <desc></desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Basquete</category>
 <image>
-<image_name position="1">00000000067245.jpg</image_name>
-<image_broadcast>00000000067245</image_broadcast>
+<image_name position="1">00000000067244.jpg</image_name>
+<image_broadcast>00000000067244</image_broadcast>
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
 <video>
@@ -1959,7 +1470,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611023000 -0300" stop="20150611033000 -0300" channel="ST2" program_id="0000195838" event_id="00000000000097270866" series_key="">
+<programme start="20150611030000 -0300" stop="20150611040000 -0300" channel="ST2" program_id="0000195838" event_id="00000000000097270867" series_key="">
 <title lang="pt">Evento - Reapresentação</title>
 <desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
 <category lang="pt">Esporte</category>
@@ -1976,33 +1487,17 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611033000 -0300" stop="20150611040000 -0300" channel="ST2" program_id="0000195838" event_id="00000000000097270867" series_key="">
-<title lang="pt">Evento - Reapresentação</title>
-<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
+<programme start="20150611040000 -0300" stop="20150611070000 -0300" channel="ST2" program_id="0000215116" event_id="000000100549256" series_key="00000000071215000000">
+<title lang="pt">SporTV News - Edição Manhã</title>
+<desc>Principal telejornal da programação do SporTV, o 'SporTV News' informa todos os acontecimentos diários do cenário esportivo nacional e internacional com a ajuda dos correspondentes espalhados pelo mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
 <image>
-<image_name position="1">0000195838.jpg</image_name>
-<image_broadcast>0000195838</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
+<image_name position="1">00000000071215.jpg</image_name>
+<image_broadcast>00000000071215</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150611040000 -0300" stop="20150611070000 -0300" channel="ST2" program_id="0000333231" event_id="00000000000097270868" series_key="">
-<title lang="pt">SporTV News</title>
-<desc>O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000333231.jpg</image_name>
-<image_broadcast>0000333231</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
+<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -4595,6 +4090,487 @@
 <image>
 <image_name position="1">0000240911.jpg</image_name>
 <image_broadcast>0000240911</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622013000 -0300" stop="20150622033000 -0300" channel="ST2" program_id="0000240911" event_id="00000000000097271021" series_key="">
+<title lang="pt">Copa do Mundo de Futebol Feminino</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol Feminino</category>
+<image>
+<image_name position="1">0000240911.jpg</image_name>
+<image_broadcast>0000240911</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622033000 -0300" stop="20150622043000 -0300" channel="ST2" program_id="0000442192" event_id="00000000000097271022" series_key="">
+<title lang="pt">Seleção Especial Copa América</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000442192.jpg</image_name>
+<image_broadcast>0000442192</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622043000 -0300" stop="20150622070000 -0300" channel="ST2" program_id="0000333231" event_id="00000000000097271023" series_key="">
+<title lang="pt">SporTV News</title>
+<desc>O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000333231.jpg</image_name>
+<image_broadcast>0000333231</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622070000 -0300" stop="20150622080000 -0300" channel="ST2" program_id="0000195838" event_id="00000000000097271024" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622080000 -0300" stop="20150622113000 -0300" channel="ST2" program_id="0000195838" event_id="00000000000097271025" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622113000 -0300" stop="20150622140000 -0300" channel="ST2" program_id="0000195838" event_id="00000000000097271026" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622140000 -0300" stop="20150622160000 -0300" channel="ST2" program_id="0000195838" event_id="00000000000097271027" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622160000 -0300" stop="20150622180000 -0300" channel="ST2" program_id="0000076428" event_id="00000000000097271028" series_key="00000000071216000000">
+<title lang="pt">Redação SporTV</title>
+<title lang="en">Redação Sportv</title>
+<desc>Apresentado por André Rizek, o 'Redação SporTV' recebe jornalistas e convidados de todo o país para comentar as notícias de esportes dos principais veículos de comunicação do Brasil e do mundo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000071216.jpg</image_name>
+<image_broadcast>00000000071216</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622180000 -0300" stop="20150622190000 -0300" channel="ST2" program_id="0000442041" event_id="00000000000097271029" series_key="">
+<title lang="pt">Desafio Internacional de Judô: Brasil x Colômbia - Vivo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Judô</category>
+<image>
+<image_name position="1">0000442041.jpg</image_name>
+<image_broadcast>0000442041</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622190000 -0300" stop="20150622210000 -0300" channel="ST2" program_id="0000195838" event_id="00000000000097271030" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622210000 -0300" stop="20150622230000 -0300" channel="ST2" program_id="0000133554" event_id="00000000000097271031" series_key="">
+<title lang="pt">Copa do Mundo de Futebol Feminino - Vivo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol Feminino</category>
+<image>
+<image_name position="1">0000133554.jpg</image_name>
+<image_broadcast>0000133554</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622230000 -0300" stop="20150623000000 -0300" channel="ST2" program_id="0000195838" event_id="00000000000097271032" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623000000 -0300" stop="20150623010000 -0300" channel="ST2" program_id="0000195838" event_id="00000000000097271033" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623010000 -0300" stop="20150623033000 -0300" channel="ST2" program_id="0000081811" event_id="00000000000097271034" series_key="00000000071225000000">
+<title lang="pt">Bem, Amigos!</title>
+<desc>O 'Bem, Amigos!' esquenta as noites de segunda com debates, análises e comentários sobre o que há de melhor no mundo esportivo. Contando sempre com esportistas convidados e uma atração musical.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000071225.jpg</image_name>
+<image_broadcast>00000000071225</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623033000 -0300" stop="20150623040000 -0300" channel="ST2" program_id="0000151891" event_id="00000000000097271035" series_key="">
+<title lang="pt">Sensei SporTV</title>
+<title lang="en">Sensei SporTV</title>
+<desc>Apresentado por Flávio Canto é o programa para os apaixonados por lutas. Traz entrevistas e quadros com personalidades das artes marciais, além de mostrar as novidades do mundo dos esportes de combate.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">0000151891.jpg</image_name>
+<image_broadcast>0000151891</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623040000 -0300" stop="20150623070000 -0300" channel="ST2" program_id="0000333231" event_id="00000000000097271036" series_key="">
+<title lang="pt">SporTV News</title>
+<desc>O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000333231.jpg</image_name>
+<image_broadcast>0000333231</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623070000 -0300" stop="20150623080000 -0300" channel="ST2" program_id="0000129296" event_id="00000000000097271037" series_key="00000000076334000000">
+<title lang="pt">Momento Pan</title>
+<title lang="en">Momento Pan</title>
+<desc>O "Momento Pan" é o programa sobre os jogos Pan-Americanos do SporTV. A nossa equipe foi até Toronto mostrar as instalações esportivas, as curiosidades da cidade sede, a história dos jogos e os personagens de um evento único.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000076334.jpg</image_name>
+<image_broadcast>00000000076334</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623080000 -0300" stop="20150623090000 -0300" channel="ST2" program_id="0000195838" event_id="00000000000097271038" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623090000 -0300" stop="20150623100000 -0300" channel="ST2" program_id="0000195838" event_id="00000000000097271039" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623100000 -0300" stop="20150623120000 -0300" channel="ST2" program_id="0000195838" event_id="00000000000097271040" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623120000 -0300" stop="20150623140000 -0300" channel="ST2" program_id="0000195838" event_id="00000000000097271041" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623140000 -0300" stop="20150623154500 -0300" channel="ST2" program_id="0000195838" event_id="00000000000097271042" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623154500 -0300" stop="20150623174500 -0300" channel="ST2" program_id="0000442008" event_id="00000000000097271043" series_key="">
+<title lang="pt">Eurocopa Sub-21: Rep. Tcheca x Alemanha - Vivo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000442008.jpg</image_name>
+<image_broadcast>0000442008</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623174500 -0300" stop="20150623183000 -0300" channel="ST2" program_id="0000195838" event_id="00000000000097271044" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623183000 -0300" stop="20150623193000 -0300" channel="ST2" program_id="0000195838" event_id="00000000000097271045" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623193000 -0300" stop="20150623213000 -0300" channel="ST2" program_id="0000441941" event_id="00000000000097271046" series_key="">
+<title lang="pt">Amistoso de Futebol: Despedida do Alex - Vivo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000441941.jpg</image_name>
+<image_broadcast>0000441941</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623213000 -0300" stop="20150623230000 -0300" channel="ST2" program_id="0000195838" event_id="00000000000097271047" series_key="">
+<title lang="pt">Evento - Reapresentação</title>
+<desc>Perdeu um evento esportivo? O canal campeão traz para você uma reapresentação de um dos destaques da programação do maior canal esportivo da TV Brasileira. Não deixe de assistir aqui no SporTV.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000195838.jpg</image_name>
+<image_broadcast>0000195838</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623230000 -0300" stop="20150624010000 -0300" channel="ST2" program_id="0000133554" event_id="00000000000097271048" series_key="">
+<title lang="pt">Copa do Mundo de Futebol Feminino - Vivo</title>
+<desc></desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol Feminino</category>
+<image>
+<image_name position="1">0000133554.jpg</image_name>
+<image_broadcast>0000133554</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>

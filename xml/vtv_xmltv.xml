@@ -4,1345 +4,6 @@
 <display-name lang="pt">SBT Santos e Campinas - Rede VTV</display-name>
 <icon src="vtv.gif" />
 </channel>
-<programme start="20150603004500 -0300" stop="20150603014500 -0300" channel="VTV" program_id="0000371367" event_id="00000000000097560536" series_key="">
-<title lang="pt">The Noite com Danilo Gentili</title>
-<desc>O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia.</desc>
-<credits>
-<director>Marcelo Zaccariotto</director>
-<actor>Léo Lins</actor>
-<actor>Murilo Couto</actor>
-<actor>Juliana Oliveira</actor>
-<actor>Ultraje a Rigor</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">0000371367.jpg</image_name>
-<image_broadcast>0000371367</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150603014500 -0300" stop="20150603023000 -0300" channel="VTV" program_id="0000015886" event_id="00000000000097560537" series_key="00000000070822000000">
-<title lang="pt">Jornal do SBT</title>
-<title lang="en">Jornal do SBT</title>
-<desc>O Jornal do Sbt traz as principais notícias com muita seriedade e credibilidade.</desc>
-<credits>
-<director>Marcelo Parada</director>
-<director>Marcelo Parada</director>
-</credits>
-<date>1991</date>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000070822.jpg</image_name>
-<image_broadcast>00000000070822</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603023000 -0300" stop="20150603033000 -0300" channel="VTV" program_id="0000371370" event_id="00000000000097560538" series_key="">
-<title lang="pt">Okay Pessoal</title>
-<desc>Otávio Mesquita vai animar as madrugadas com muita cultura, tecnologia e informação.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000371370.jpg</image_name>
-<image_broadcast>0000371370</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150603033000 -0300" stop="20150603035000 -0300" channel="VTV" program_id="0000263545" event_id="00000000000097560539" series_key="00000000072816000000">
-<title lang="pt">Jornal da VTV</title>
-<desc>Jornalismo informativo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000072816.jpg</image_name>
-<image_broadcast>00000000072816</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603035000 -0300" stop="20150603040000 -0300" channel="VTV" program_id="0000261002" event_id="00000000000097560540" series_key="00000000072817000000">
-<title lang="pt">Paróquia Bom Jesus</title>
-<desc>Programa religioso.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">00000000072817.jpg</image_name>
-<image_broadcast>00000000072817</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603040000 -0300" stop="20150603060000 -0300" channel="VTV" program_id="0000082426" event_id="00000000000097560541" series_key="00000000072698000000">
-<title lang="pt">Igreja Universal</title>
-<title lang="en">Igreja Universal</title>
-<desc>Programa Religioso exibido de segunda à sábado.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">00000000072698.jpg</image_name>
-<image_broadcast>00000000072698</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603060000 -0300" stop="20150603070000 -0300" channel="VTV" program_id="0000429119" event_id="00000000000097560542" series_key="00000000076551000000">
-<title lang="pt">Desenhos Pré-escola</title>
-<desc></desc>
-<category lang="pt">Infantil</category>
-<category lang="pt">Desenho</category>
-<image>
-<image_name position="1">00000000076551.jpg</image_name>
-<image_broadcast>00000000076551</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603070000 -0300" stop="20150603071000 -0300" channel="VTV" program_id="0000261002" event_id="00000000000097560543" series_key="00000000072817000000">
-<title lang="pt">Paróquia Bom Jesus</title>
-<desc>Programa religioso.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">00000000072817.jpg</image_name>
-<image_broadcast>00000000072817</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603071000 -0300" stop="20150603090000 -0300" channel="VTV" program_id="0000129067" event_id="00000000000097560544" series_key="">
-<title lang="pt">Carrossel Animado</title>
-<title lang="en">Carrossel Animado</title>
-<desc>O Carrossel Animado apresenta os desenhos mais animados da tv como Dick Vigarista, Tom &amp; Jerry, e muito mais!</desc>
-<category lang="pt">Infantil</category>
-<category lang="pt">Programa</category>
-<image>
-<image_name position="1">0000129067.jpg</image_name>
-<image_broadcast>0000129067</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603090000 -0300" stop="20150603104500 -0300" channel="VTV" program_id="0000015909" event_id="00000000000097560545" series_key="00000000072578000000">
-<title lang="pt">Bom Dia &amp; Cia</title>
-<title lang="en">Bom Dia &amp; Cia</title>
-<desc>Os melhores desenhos como Ben 10, X-Men Evolution, Tom &amp; Jerry, Scooby-Doo, e muito mais. Nos games você pode faturar vários prêmios.</desc>
-<credits>
-<director>Silvia Abravanel</director>
-<actor>Ana Julia</actor>
-<actor>Matheus Ueta</actor>
-</credits>
-<date>2013</date>
-<category lang="pt">Infantil</category>
-<category lang="pt">Programa</category>
-<image>
-<image_name position="1">00000000072578.jpg</image_name>
-<image_broadcast>00000000072578</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603104500 -0300" stop="20150603113000 -0300" channel="VTV" program_id="0000108627" event_id="00000000000097560546" series_key="00000000055503000000">
-<title lang="pt">Ben 10</title>
-<title lang="en">Ben 10</title>
-<desc>Veja como um garoto de 10 anos pode se transformar em 10 super heróis alienígenas, com apenas um comando Conheça Omnitrix, um aparelho tão valioso quanto ouro, pois é o único que pode libertar o Ben 10.</desc>
-<credits>
-<director>Joe Kelly</director>
-<actor>Vozes de Tara Strong</actor>
-<actor>Paul Eiding</actor>
-<actor>Meagan Smith</actor>
-<actor>Dee Bradley Baker</actor>
-<actor>Jim Ward</actor>
-<actor>Steven Jay Blum</actor>
-<actor>Richard McGonagle</actor>
-<actor>Fred Tatasciore</actor>
-</credits>
-<date>2005</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">00000000055503.jpg</image_name>
-<image_broadcast>00000000055503</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>4/5</value>
-</star-rating>
-</programme>
-<programme start="20150603113000 -0300" stop="20150603114500 -0300" channel="VTV" program_id="0000359736" event_id="00000000000097560547" series_key="00000000072829000000">
-<title lang="pt">TV Churrasco</title>
-<desc>Brasileiro é apaixonado por churrasco. Por isso, melhor do que ninguém, ele organiza, prepara, tempera e cuida de cada detalhe, fazendo sempre questão de inovar, para oferecer e saborear o melhor churrasco.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Culinária</category>
-<image>
-<image_name position="1">00000000072829.jpg</image_name>
-<image_broadcast>00000000072829</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603114500 -0300" stop="20150603121000 -0300" channel="VTV" program_id="0000252605" event_id="00000000000097560548" series_key="00000000072819000000">
-<title lang="pt">TV Web Shop</title>
-<desc>Programação de vendas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000072819.jpg</image_name>
-<image_broadcast>00000000072819</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603121000 -0300" stop="20150603130000 -0300" channel="VTV" program_id="0000062926" event_id="00000000000097560549" series_key="00000000024875000000">
-<title lang="pt">As Visões da Raven</title>
-<title lang="en">That's so Raven</title>
-<desc>Uma adolescente que tem a estranha capacidade de prever o futuro próximo e de arrumar confusões ao tentar fazer com que essas visões aconteçam.</desc>
-<credits>
-<director>Richard Correll</director>
-<actor>Raven</actor>
-<actor>Orlando Brown</actor>
-<actor>T'Keyah Criystal Keymáh</actor>
-<actor>Ernie Sabella</actor>
-<actor>Rondell Sheridan</actor>
-<actor>Kyle Massey</actor>
-<actor>Anneliese van der Pol</actor>
-<actor>Ashley Drane</actor>
-<actor>Johari Johnson</actor>
-</credits>
-<date>2003</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000024875.jpg</image_name>
-<image_broadcast>00000000024875</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>3/5</value>
-</star-rating>
-</programme>
-<programme start="20150603130000 -0300" stop="20150603133000 -0300" channel="VTV" program_id="0000302416" event_id="00000000000097560550" series_key="00000000072820000000">
-<title lang="pt">VTV Futebol Esporte Show</title>
-<desc>Programa que mostra toda a diversidade de esportes sendo o principal foco o futebol. Serão mostrados os gols da rodada nacional ou regional, além de entrevistas, curiosidades e muito mais.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000072820.jpg</image_name>
-<image_broadcast>00000000072820</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603133000 -0300" stop="20150603140000 -0300" channel="VTV" program_id="0000237593" event_id="00000000000097560551" series_key="00000000072783000000">
-<title lang="pt">Tarde Vip</title>
-<desc>É o único diário e de entretenimento regional. A apresentadora Patrícia Penteado é espontânea, charmosa e leva sua simpatia para toda região de Ribeirão Preto, Metropolitana de Campinas e Litoral Paulista.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000072783.jpg</image_name>
-<image_broadcast>00000000072783</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603140000 -0300" stop="20150603141500 -0300" channel="VTV" program_id="0000412084" event_id="00000000000097560552" series_key="">
-<title lang="pt">A voz da População</title>
-<desc></desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000412084.jpg</image_name>
-<image_broadcast>0000412084</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603141500 -0300" stop="20150603143000 -0300" channel="VTV" program_id="0000062926" event_id="00000000000097560553" series_key="00000000024875000000">
-<title lang="pt">As Visões da Raven</title>
-<title lang="en">That's so Raven</title>
-<desc>Uma adolescente que tem a estranha capacidade de prever o futuro próximo e de arrumar confusões ao tentar fazer com que essas visões aconteçam.</desc>
-<credits>
-<director>Richard Correll</director>
-<actor>Raven</actor>
-<actor>Orlando Brown</actor>
-<actor>T'Keyah Criystal Keymáh</actor>
-<actor>Ernie Sabella</actor>
-<actor>Rondell Sheridan</actor>
-<actor>Kyle Massey</actor>
-<actor>Anneliese van der Pol</actor>
-<actor>Ashley Drane</actor>
-<actor>Johari Johnson</actor>
-</credits>
-<date>2003</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000024875.jpg</image_name>
-<image_broadcast>00000000024875</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>3/5</value>
-</star-rating>
-</programme>
-<programme start="20150603143000 -0300" stop="20150603153000 -0300" channel="VTV" program_id="0000075821" event_id="00000000000097560554" series_key="00000000072686000000">
-<title lang="pt">Casos de Família</title>
-<title lang="en">Casos de Família</title>
-<desc>Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.</desc>
-<credits>
-<director>Rafael Bello</director>
-<director>Rafael Bello</director>
-</credits>
-<date>2009</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">00000000072686.jpg</image_name>
-<image_broadcast>00000000072686</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603153000 -0300" stop="20150603163000 -0300" channel="VTV" program_id="0000122831" event_id="00000000000097560555" series_key="00000000076507000000">
-<title lang="pt">Maria Esperança</title>
-<desc>Maria é uma garota doce que sustenta sozinha a família vendendo flores e bilhetes de loteria pelas ruas. Abandonada pela mãe ainda quando criança, ela vive com o pai, um alcoólatra que nunca teve como sustentar os filhos.</desc>
-<date>2015</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Novela</category>
-<image>
-<image_name position="1">00000000076507.jpg</image_name>
-<image_broadcast>00000000076507</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603163000 -0300" stop="20150603173000 -0300" channel="VTV" program_id="0000425635" event_id="00000000000097560556" series_key="00000000076415000000">
-<title lang="pt">Coração Indomável</title>
-<desc>Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Novela</category>
-<image>
-<image_name position="1">00000000076415.jpg</image_name>
-<image_broadcast>00000000076415</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>México</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603173000 -0300" stop="20150603183000 -0300" channel="VTV" program_id="0000015893" event_id="00000000000097560557" series_key="00000000068856000000">
-<title lang="pt">A Usurpadora</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Novela</category>
-<image>
-<image_name position="1">00000000068856.jpg</image_name>
-<image_broadcast>00000000068856</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603183000 -0300" stop="20150603192000 -0300" channel="VTV" program_id="0000015912" event_id="00000000000097560558" series_key="00000000065922000000">
-<title lang="pt">Chaves</title>
-<title lang="en">Chaves</title>
-<desc>Chaves é um garoto pobre e órfão que mora numa vila, onde também moram as mais variadas figuras que vivem se metendo em confusão!</desc>
-<credits>
-<director>Roberto Gómez Bolaños</director>
-<actor>María Antonieta de las Nieves</actor>
-<actor>Ramón Valdés</actor>
-<actor>Florinda Meza</actor>
-<actor>Carlos Villagrán</actor>
-<actor>Edgar Vivar</actor>
-<actor>Rubén Aguirre</actor>
-<actor>Angelines Fernández</actor>
-</credits>
-<date>1971</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000065922.jpg</image_name>
-<image_broadcast>00000000065922</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>México</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>4/5</value>
-</star-rating>
-</programme>
-<programme start="20150603192000 -0300" stop="20150603194500 -0300" channel="VTV" program_id="0000263545" event_id="00000000000097560559" series_key="00000000072816000000">
-<title lang="pt">Jornal da VTV</title>
-<desc>Jornalismo informativo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000072816.jpg</image_name>
-<image_broadcast>00000000072816</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603194500 -0300" stop="20150603203000 -0300" channel="VTV" program_id="0000093850" event_id="00000000000097560560" series_key="00000000072195000000">
-<title lang="pt">SBT Brasil</title>
-<title lang="en">SBT Brasil</title>
-<desc>Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada.</desc>
-<credits>
-<director>Marcelo Parada</director>
-<actor>Rachel Sheherazade</actor>
-<actor>Joseval Peixoto</actor>
-</credits>
-<date>2005</date>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000072195.jpg</image_name>
-<image_broadcast>00000000072195</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603203000 -0300" stop="20150603211500 -0300" channel="VTV" program_id="0000137992" event_id="00000000000097560561" series_key="00000000070837000000">
-<title lang="pt">Chiquititas</title>
-<title lang="en">Chiquititas</title>
-<desc>As chiquititas são meninas que vivem no orfanato Raio de Luz, um lugar que está sempre de portas abertas para acolher crianças abandonadas e dar a elas um lar. O orfanato foi fundado pelo rico Dr. José Ricardo Almeida Campos.</desc>
-<credits>
-<actor>Giovanna Grigio</actor>
-<actor>Julia Oliver</actor>
-<actor>Raissa Chaddad</actor>
-<actor>Cinthia Cruz</actor>
-</credits>
-<date>2013</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Novela</category>
-<image>
-<image_name position="1">00000000070837.jpg</image_name>
-<image_broadcast>00000000070837</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603211500 -0300" stop="20150603220000 -0300" channel="VTV" program_id="0000282488" event_id="00000000000097560562" series_key="00000000067752000000">
-<title lang="pt">Carrossel</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Novela</category>
-<image>
-<image_name position="1">00000000067752.jpg</image_name>
-<image_broadcast>00000000067752</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603220000 -0300" stop="20150603223000 -0300" channel="VTV" program_id="0000189144" event_id="00000000000097560563" series_key="00000000072691000000">
-<title lang="pt">Roda a Roda Jequiti</title>
-<desc>Já imaginou ganhar prêmios e até 1 milhão de reais? Isso é realidade para quem compra ou vende produtos Jequiti. Comandado por Silvio Santos o Roda a Roda Jequiti pode realizar seu sonho.</desc>
-<credits>
-<director>Silvia Abravanel</director>
-<actor>Patrícia Abravanel</actor>
-</credits>
-<date>2013</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000072691.jpg</image_name>
-<image_broadcast>00000000072691</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603223000 -0300" stop="20150604001500 -0300" channel="VTV" program_id="0000017356" event_id="00000000000097560564" series_key="00000000072579000000">
-<title lang="pt">Programa do Ratinho</title>
-<title lang="en">Programa do Ratinho</title>
-<desc>Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
-<credits>
-<director>Walter Scaramuzzi</director>
-<actor>Valentina</actor>
-<actor>Milene Pavorô Uehara</actor>
-<actor>Eduardo Mascarenhas</actor>
-<actor>Marquito</actor>
-<actor>Faxinildo</actor>
-<actor>Rodela</actor>
-<actor>Iran Thieme</actor>
-<actor>Rhenata Tolksdorf</actor>
-</credits>
-<date>2009</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000072579.jpg</image_name>
-<image_broadcast>00000000072579</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150604001500 -0300" stop="20150604011500 -0300" channel="VTV" program_id="0000371367" event_id="00000000000097560565" series_key="">
-<title lang="pt">The Noite com Danilo Gentili</title>
-<desc>O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia.</desc>
-<credits>
-<director>Marcelo Zaccariotto</director>
-<actor>Léo Lins</actor>
-<actor>Murilo Couto</actor>
-<actor>Juliana Oliveira</actor>
-<actor>Ultraje a Rigor</actor>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">0000371367.jpg</image_name>
-<image_broadcast>0000371367</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150604011500 -0300" stop="20150604020000 -0300" channel="VTV" program_id="0000015886" event_id="00000000000097560566" series_key="00000000070822000000">
-<title lang="pt">Jornal do SBT</title>
-<title lang="en">Jornal do SBT</title>
-<desc>O Jornal do Sbt traz as principais notícias com muita seriedade e credibilidade.</desc>
-<credits>
-<director>Marcelo Parada</director>
-<director>Marcelo Parada</director>
-</credits>
-<date>1991</date>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000070822.jpg</image_name>
-<image_broadcast>00000000070822</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604020000 -0300" stop="20150604030000 -0300" channel="VTV" program_id="0000371370" event_id="00000000000097560567" series_key="">
-<title lang="pt">Okay Pessoal</title>
-<desc>Otávio Mesquita vai animar as madrugadas com muita cultura, tecnologia e informação.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000371370.jpg</image_name>
-<image_broadcast>0000371370</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150604030000 -0300" stop="20150604032000 -0300" channel="VTV" program_id="0000263545" event_id="00000000000097560568" series_key="00000000072816000000">
-<title lang="pt">Jornal da VTV</title>
-<desc>Jornalismo informativo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000072816.jpg</image_name>
-<image_broadcast>00000000072816</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604032000 -0300" stop="20150604035000 -0300" channel="VTV" program_id="0000015981" event_id="00000000000097560569" series_key="00000000072823000000">
-<title lang="pt">Desenhos</title>
-<title lang="en">Desenhos</title>
-<desc>Na sessão de desenhos, o telespectador tem a oportunidade de acompanhar os melhores desenhos de todos os tempos e viver ou reviver a infância, em momentos de pura diversão.</desc>
-<category lang="pt">Infantil</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">00000000072823.jpg</image_name>
-<image_broadcast>00000000072823</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604035000 -0300" stop="20150604040000 -0300" channel="VTV" program_id="0000261002" event_id="00000000000097560570" series_key="00000000072817000000">
-<title lang="pt">Paróquia Bom Jesus</title>
-<desc>Programa religioso.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">00000000072817.jpg</image_name>
-<image_broadcast>00000000072817</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604040000 -0300" stop="20150604060000 -0300" channel="VTV" program_id="0000082426" event_id="00000000000097560571" series_key="00000000072698000000">
-<title lang="pt">Igreja Universal</title>
-<title lang="en">Igreja Universal</title>
-<desc>Programa Religioso exibido de segunda à sábado.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">00000000072698.jpg</image_name>
-<image_broadcast>00000000072698</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604060000 -0300" stop="20150604070000 -0300" channel="VTV" program_id="0000429119" event_id="00000000000097560572" series_key="00000000076551000000">
-<title lang="pt">Desenhos Pré-escola</title>
-<desc></desc>
-<category lang="pt">Infantil</category>
-<category lang="pt">Desenho</category>
-<image>
-<image_name position="1">00000000076551.jpg</image_name>
-<image_broadcast>00000000076551</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604070000 -0300" stop="20150604071000 -0300" channel="VTV" program_id="0000261002" event_id="00000000000097560573" series_key="00000000072817000000">
-<title lang="pt">Paróquia Bom Jesus</title>
-<desc>Programa religioso.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">00000000072817.jpg</image_name>
-<image_broadcast>00000000072817</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604071000 -0300" stop="20150604090000 -0300" channel="VTV" program_id="0000129067" event_id="00000000000097560574" series_key="">
-<title lang="pt">Carrossel Animado</title>
-<title lang="en">Carrossel Animado</title>
-<desc>O Carrossel Animado apresenta os desenhos mais animados da tv como Dick Vigarista, Tom &amp; Jerry, e muito mais!</desc>
-<category lang="pt">Infantil</category>
-<category lang="pt">Programa</category>
-<image>
-<image_name position="1">0000129067.jpg</image_name>
-<image_broadcast>0000129067</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604090000 -0300" stop="20150604104500 -0300" channel="VTV" program_id="0000015909" event_id="00000000000097560575" series_key="00000000072578000000">
-<title lang="pt">Bom Dia &amp; Cia</title>
-<title lang="en">Bom Dia &amp; Cia</title>
-<desc>Os melhores desenhos como Ben 10, X-Men Evolution, Tom &amp; Jerry, Scooby-Doo, e muito mais. Nos games você pode faturar vários prêmios.</desc>
-<credits>
-<director>Silvia Abravanel</director>
-<actor>Ana Julia</actor>
-<actor>Matheus Ueta</actor>
-</credits>
-<date>2013</date>
-<category lang="pt">Infantil</category>
-<category lang="pt">Programa</category>
-<image>
-<image_name position="1">00000000072578.jpg</image_name>
-<image_broadcast>00000000072578</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604104500 -0300" stop="20150604113000 -0300" channel="VTV" program_id="0000108627" event_id="00000000000097560576" series_key="00000000055503000000">
-<title lang="pt">Ben 10</title>
-<title lang="en">Ben 10</title>
-<desc>Veja como um garoto de 10 anos pode se transformar em 10 super heróis alienígenas, com apenas um comando Conheça Omnitrix, um aparelho tão valioso quanto ouro, pois é o único que pode libertar o Ben 10.</desc>
-<credits>
-<director>Joe Kelly</director>
-<actor>Vozes de Tara Strong</actor>
-<actor>Paul Eiding</actor>
-<actor>Meagan Smith</actor>
-<actor>Dee Bradley Baker</actor>
-<actor>Jim Ward</actor>
-<actor>Steven Jay Blum</actor>
-<actor>Richard McGonagle</actor>
-<actor>Fred Tatasciore</actor>
-</credits>
-<date>2005</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Animação</category>
-<image>
-<image_name position="1">00000000055503.jpg</image_name>
-<image_broadcast>00000000055503</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>4/5</value>
-</star-rating>
-</programme>
-<programme start="20150604113000 -0300" stop="20150604114500 -0300" channel="VTV" program_id="0000359736" event_id="00000000000097560577" series_key="00000000072829000000">
-<title lang="pt">TV Churrasco</title>
-<desc>Brasileiro é apaixonado por churrasco. Por isso, melhor do que ninguém, ele organiza, prepara, tempera e cuida de cada detalhe, fazendo sempre questão de inovar, para oferecer e saborear o melhor churrasco.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Culinária</category>
-<image>
-<image_name position="1">00000000072829.jpg</image_name>
-<image_broadcast>00000000072829</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604114500 -0300" stop="20150604121000 -0300" channel="VTV" program_id="0000252605" event_id="00000000000097560578" series_key="00000000072819000000">
-<title lang="pt">TV Web Shop</title>
-<desc>Programação de vendas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000072819.jpg</image_name>
-<image_broadcast>00000000072819</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604121000 -0300" stop="20150604130000 -0300" channel="VTV" program_id="0000062926" event_id="00000000000097560579" series_key="00000000024875000000">
-<title lang="pt">As Visões da Raven</title>
-<title lang="en">That's so Raven</title>
-<desc>Uma adolescente que tem a estranha capacidade de prever o futuro próximo e de arrumar confusões ao tentar fazer com que essas visões aconteçam.</desc>
-<credits>
-<director>Richard Correll</director>
-<actor>Raven</actor>
-<actor>Orlando Brown</actor>
-<actor>T'Keyah Criystal Keymáh</actor>
-<actor>Ernie Sabella</actor>
-<actor>Rondell Sheridan</actor>
-<actor>Kyle Massey</actor>
-<actor>Anneliese van der Pol</actor>
-<actor>Ashley Drane</actor>
-<actor>Johari Johnson</actor>
-</credits>
-<date>2003</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000024875.jpg</image_name>
-<image_broadcast>00000000024875</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>3/5</value>
-</star-rating>
-</programme>
-<programme start="20150604130000 -0300" stop="20150604133000 -0300" channel="VTV" program_id="0000302416" event_id="00000000000097560580" series_key="00000000072820000000">
-<title lang="pt">VTV Futebol Esporte Show</title>
-<desc>Programa que mostra toda a diversidade de esportes sendo o principal foco o futebol. Serão mostrados os gols da rodada nacional ou regional, além de entrevistas, curiosidades e muito mais.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">00000000072820.jpg</image_name>
-<image_broadcast>00000000072820</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604133000 -0300" stop="20150604140000 -0300" channel="VTV" program_id="0000237593" event_id="00000000000097560581" series_key="00000000072783000000">
-<title lang="pt">Tarde Vip</title>
-<desc>É o único diário e de entretenimento regional. A apresentadora Patrícia Penteado é espontânea, charmosa e leva sua simpatia para toda região de Ribeirão Preto, Metropolitana de Campinas e Litoral Paulista.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000072783.jpg</image_name>
-<image_broadcast>00000000072783</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604140000 -0300" stop="20150604141500 -0300" channel="VTV" program_id="0000412084" event_id="00000000000097560582" series_key="">
-<title lang="pt">A voz da População</title>
-<desc></desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000412084.jpg</image_name>
-<image_broadcast>0000412084</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604141500 -0300" stop="20150604143000 -0300" channel="VTV" program_id="0000062926" event_id="00000000000097560583" series_key="00000000024875000000">
-<title lang="pt">As Visões da Raven</title>
-<title lang="en">That's so Raven</title>
-<desc>Uma adolescente que tem a estranha capacidade de prever o futuro próximo e de arrumar confusões ao tentar fazer com que essas visões aconteçam.</desc>
-<credits>
-<director>Richard Correll</director>
-<actor>Raven</actor>
-<actor>Orlando Brown</actor>
-<actor>T'Keyah Criystal Keymáh</actor>
-<actor>Ernie Sabella</actor>
-<actor>Rondell Sheridan</actor>
-<actor>Kyle Massey</actor>
-<actor>Anneliese van der Pol</actor>
-<actor>Ashley Drane</actor>
-<actor>Johari Johnson</actor>
-</credits>
-<date>2003</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000024875.jpg</image_name>
-<image_broadcast>00000000024875</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>3/5</value>
-</star-rating>
-</programme>
-<programme start="20150604143000 -0300" stop="20150604153000 -0300" channel="VTV" program_id="0000075821" event_id="00000000000097560584" series_key="00000000072686000000">
-<title lang="pt">Casos de Família</title>
-<title lang="en">Casos de Família</title>
-<desc>Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.</desc>
-<credits>
-<director>Rafael Bello</director>
-<director>Rafael Bello</director>
-</credits>
-<date>2009</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">00000000072686.jpg</image_name>
-<image_broadcast>00000000072686</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604153000 -0300" stop="20150604163000 -0300" channel="VTV" program_id="0000122831" event_id="00000000000097560585" series_key="00000000076507000000">
-<title lang="pt">Maria Esperança</title>
-<desc>Maria é uma garota doce que sustenta sozinha a família vendendo flores e bilhetes de loteria pelas ruas. Abandonada pela mãe ainda quando criança, ela vive com o pai, um alcoólatra que nunca teve como sustentar os filhos.</desc>
-<date>2015</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Novela</category>
-<image>
-<image_name position="1">00000000076507.jpg</image_name>
-<image_broadcast>00000000076507</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604163000 -0300" stop="20150604173000 -0300" channel="VTV" program_id="0000425635" event_id="00000000000097560586" series_key="00000000076415000000">
-<title lang="pt">Coração Indomável</title>
-<desc>Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Novela</category>
-<image>
-<image_name position="1">00000000076415.jpg</image_name>
-<image_broadcast>00000000076415</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>México</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604173000 -0300" stop="20150604183000 -0300" channel="VTV" program_id="0000015893" event_id="00000000000097560587" series_key="00000000068856000000">
-<title lang="pt">A Usurpadora</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Novela</category>
-<image>
-<image_name position="1">00000000068856.jpg</image_name>
-<image_broadcast>00000000068856</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604183000 -0300" stop="20150604192000 -0300" channel="VTV" program_id="0000015912" event_id="00000000000097560588" series_key="00000000065922000000">
-<title lang="pt">Chaves</title>
-<title lang="en">Chaves</title>
-<desc>Chaves é um garoto pobre e órfão que mora numa vila, onde também moram as mais variadas figuras que vivem se metendo em confusão!</desc>
-<credits>
-<director>Roberto Gómez Bolaños</director>
-<actor>María Antonieta de las Nieves</actor>
-<actor>Ramón Valdés</actor>
-<actor>Florinda Meza</actor>
-<actor>Carlos Villagrán</actor>
-<actor>Edgar Vivar</actor>
-<actor>Rubén Aguirre</actor>
-<actor>Angelines Fernández</actor>
-</credits>
-<date>1971</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000065922.jpg</image_name>
-<image_broadcast>00000000065922</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>México</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-<star-rating>
-<value>4/5</value>
-</star-rating>
-</programme>
-<programme start="20150604192000 -0300" stop="20150604194500 -0300" channel="VTV" program_id="0000263545" event_id="00000000000097560589" series_key="00000000072816000000">
-<title lang="pt">Jornal da VTV</title>
-<desc>Jornalismo informativo.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000072816.jpg</image_name>
-<image_broadcast>00000000072816</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604194500 -0300" stop="20150604203000 -0300" channel="VTV" program_id="0000093850" event_id="00000000000097560590" series_key="00000000072195000000">
-<title lang="pt">SBT Brasil</title>
-<title lang="en">SBT Brasil</title>
-<desc>Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada.</desc>
-<credits>
-<director>Marcelo Parada</director>
-<actor>Rachel Sheherazade</actor>
-<actor>Joseval Peixoto</actor>
-</credits>
-<date>2005</date>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000072195.jpg</image_name>
-<image_broadcast>00000000072195</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604203000 -0300" stop="20150604204000 -0300" channel="VTV" program_id="0000091145" event_id="00000000000097560591" series_key="00000000070826000000">
-<title lang="pt">Horário Político</title>
-<desc>Horário Eleitoral obrigatório</desc>
-<date>2015</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">00000000070826.jpg</image_name>
-<image_broadcast>00000000070826</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604204000 -0300" stop="20150604211500 -0300" channel="VTV" program_id="0000137992" event_id="00000000000097560592" series_key="00000000070837000000">
-<title lang="pt">Chiquititas</title>
-<title lang="en">Chiquititas</title>
-<desc>As chiquititas são meninas que vivem no orfanato Raio de Luz, um lugar que está sempre de portas abertas para acolher crianças abandonadas e dar a elas um lar. O orfanato foi fundado pelo rico Dr. José Ricardo Almeida Campos.</desc>
-<credits>
-<actor>Giovanna Grigio</actor>
-<actor>Julia Oliver</actor>
-<actor>Raissa Chaddad</actor>
-<actor>Cinthia Cruz</actor>
-</credits>
-<date>2013</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Novela</category>
-<image>
-<image_name position="1">00000000070837.jpg</image_name>
-<image_broadcast>00000000070837</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604211500 -0300" stop="20150604220000 -0300" channel="VTV" program_id="0000282488" event_id="00000000000097560593" series_key="00000000067752000000">
-<title lang="pt">Carrossel</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Novela</category>
-<image>
-<image_name position="1">00000000067752.jpg</image_name>
-<image_broadcast>00000000067752</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604220000 -0300" stop="20150604230000 -0300" channel="VTV" program_id="0000017356" event_id="00000000000097560594" series_key="00000000072579000000">
-<title lang="pt">Programa do Ratinho</title>
-<title lang="en">Programa do Ratinho</title>
-<desc>Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
-<credits>
-<director>Walter Scaramuzzi</director>
-<actor>Valentina</actor>
-<actor>Milene Pavorô Uehara</actor>
-<actor>Eduardo Mascarenhas</actor>
-<actor>Marquito</actor>
-<actor>Faxinildo</actor>
-<actor>Rodela</actor>
-<actor>Iran Thieme</actor>
-<actor>Rhenata Tolksdorf</actor>
-</credits>
-<date>2009</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000072579.jpg</image_name>
-<image_broadcast>00000000072579</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150604230000 -0300" stop="20150605003000 -0300" channel="VTV" program_id="0000015897" event_id="00000000000097560595" series_key="00000000072683000000">
-<title lang="pt">A Praça é Nossa</title>
-<title lang="en">A Praça é Nossa</title>
-<desc>O bom humor é o ingrediente mais precioso do programa. Entre os personagens que passeiam pelo programa estão desde tipos inocentes até personagens que satirizam a política nacional.</desc>
-<credits>
-<director>Marcelo de Nóbrega</director>
-<actor>Carlos Alberto de Nóbrega</actor>
-<actor>Moacyr Franco</actor>
-<actor>Nany People</actor>
-<actor>Alexandre Porpetone</actor>
-<actor>Charles Gutemberg</actor>
-<actor>Lívia Andrade</actor>
-</credits>
-<date>1987</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000072683.jpg</image_name>
-<image_broadcast>00000000072683</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 14 anos</value>
-</rating>
-</programme>
 <programme start="20150605003000 -0300" stop="20150605013000 -0300" channel="VTV" program_id="0000371367" event_id="00000000000097560596" series_key="">
 <title lang="pt">The Noite com Danilo Gentili</title>
 <desc>O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia.</desc>
@@ -2388,7 +1049,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606103000 -0300" stop="20150606131500 -0300" channel="VTV" program_id="0000015896" event_id="00000000000097560643" series_key="00000000072685000000">
+<programme start="20150606103000 -0300" stop="20150606124500 -0300" channel="VTV" program_id="0000015896" event_id="00000000000097560643" series_key="00000000072685000000">
 <title lang="pt">Sábado Animado</title>
 <title lang="en">Sábado Animado</title>
 <desc>Seu fim de semana começa com muito mais alegria no Sábado Animado. Os desenhos que fazem sucesso entre a garotada de todas as idades estão reunidos aqui. Você vai se divertir pra valer!</desc>
@@ -2406,6 +1067,23 @@
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
 <country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150606124500 -0300" stop="20150606131500 -0300" channel="VTV" program_id="0000231704" event_id="00000000000097852895" series_key="00000000070831000000">
+<title lang="pt">Almoço de Estrelas</title>
+<desc>Rogério Fernandes, apresentador do programa é um autodidata que despertou para gastronomia ainda criança, quando ia para a cozinha acompanhar as atividades da mãe.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Culinária</category>
+<image>
+<image_name position="1">00000000070831.jpg</image_name>
+<image_broadcast>00000000070831</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
 <video>
 <colour>yes</colour>
 </video>
@@ -4336,24 +3014,37 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150609230000 -0300" stop="20150610004500 -0300" channel="VTV" program_id="0000017224" event_id="00000000000097560727" series_key="">
-<title lang="pt">Cine Espetacular</title>
-<desc>Toda terça-feira, a sessão exibe os melhores filmes do cinema.</desc>
-<date>1997</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
+<programme start="20150609230000 -0300" stop="20150610004500 -0300" channel="VTV" program_id="0000208695" event_id="00000000000097560727" series_key="">
+<title lang="pt">Scooby Doo! O Mistério Começa</title>
+<title lang="en">Scooby Doo! The Mystery Begins</title>
+<desc>Os adolescentes Fred, Daphne, Velma e Salsicha se conhecem nos tempos do colégio. Com a ajuda do filhote de dogue alemão Scooby, começam a trabalhar juntos para solucionar o mistério dos fantasmas que estão assombrando a escola Coolsville High.</desc>
+<credits>
+<director>Brian Levant</director>
+<actor>Kate Melton</actor>
+<actor>Hayley Kiyoko</actor>
+<actor>Robbie Amell</actor>
+<actor>Nick Palatas</actor>
+<actor>Shawn Macdonald</actor>
+<actor>Brian J. Sutton</actor>
+</credits>
+<date>2009</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Aventura</category>
 <image>
-<image_name position="1">0000017224.jpg</image_name>
-<image_broadcast>0000017224</image_broadcast>
+<image_name position="1">0000208695.jpg</image_name>
+<image_broadcast>0000208695</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
-<country>Brasil</country>
+<country>EUA/Canadá</country>
 <video>
 <colour>yes</colour>
 </video>
 <rating system="Advisory">
-<value>Programa impróprio para menores de 16 anos</value>
+<value>Programa livre para todas as idades</value>
 </rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
 </programme>
 <programme start="20150610004500 -0300" stop="20150610014500 -0300" channel="VTV" program_id="0000371367" event_id="00000000000097560728" series_key="">
 <title lang="pt">The Noite com Danilo Gentili</title>
@@ -6337,24 +5028,38 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150612230000 -0300" stop="20150613004500 -0300" channel="VTV" program_id="0000016949" event_id="00000000000097560817" series_key="">
-<title lang="pt">Tela de Sucessos</title>
-<desc>Sempre os melhores filmes para você e sua família se divertirem!</desc>
-<date>1997</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
+<programme start="20150612230000 -0300" stop="20150613004500 -0300" channel="VTV" program_id="0000196312" event_id="00000000000097560817" series_key="">
+<title lang="pt">Pelas Garotas e Pela Glória</title>
+<title lang="en">Fired Up!</title>
+<desc>Shawn Colfaz e Nick Brady, estrelas do time do Ford High, arquitetam um plano para escapar da concentração do futebol e passar o verão cercados de belas garotas no acampamento da torcida.</desc>
+<credits>
+<director>Will Gluck</director>
+<actor>Eric Christian Olsen</actor>
+<actor>Sarah Roemer</actor>
+<actor>AnnaLynne McCord</actor>
+<actor>Nicholas D'Agosto</actor>
+<actor>Danneel Harris</actor>
+<actor>Margo Harshman</actor>
+<actor>Courtney Fleming</actor>
+</credits>
+<date>2009</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Comédia</category>
 <image>
-<image_name position="1">0000016949.jpg</image_name>
-<image_broadcast>0000016949</image_broadcast>
+<image_name position="1">0000196312.jpg</image_name>
+<image_broadcast>0000196312</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
-<country>Brasil</country>
+<country>EUA</country>
 <video>
 <colour>yes</colour>
 </video>
 <rating system="Advisory">
 <value>Programa impróprio para menores de 14 anos</value>
 </rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
 </programme>
 <programme start="20150613004500 -0300" stop="20150613014500 -0300" channel="VTV" program_id="0000371367" event_id="00000000000097560818" series_key="">
 <title lang="pt">The Noite com Danilo Gentili</title>
@@ -6928,43 +5633,66 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613223000 -0300" stop="20150614000000 -0300" channel="VTV" program_id="0000090739" event_id="00000000000097560843" series_key="00000000074432000000">
-<title lang="pt">Cine Família</title>
-<desc>Todo sábado, a sessão exibe os melhores filmes do cinema.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
+<programme start="20150613223000 -0300" stop="20150614000000 -0300" channel="VTV" program_id="0000096856" event_id="00000000000097560843" series_key="">
+<title lang="pt">Amor de Aluguel</title>
+<title lang="en">Love Don't Cost A Thing</title>
+<desc>Alvin é inteligente, mas um tanto desajeitado. Ele faz um trato com uma líder de torcida para que ela finja ser sua namorada por duas semanas. Mas o que Alvin tanto deseja não tem preço e pode estar diante de seus olhos.</desc>
+<credits>
+<director>Troy Beyer</director>
+<actor>Nick Cannon</actor>
+<actor>Christina Milian</actor>
+<actor>Kenan Thopson</actor>
+<actor>Kal Penn</actor>
+<actor>Steve Harvey</actor>
+</credits>
+<date>2003</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Comédia</category>
 <image>
-<image_name position="1">00000000074432.jpg</image_name>
-<image_broadcast>00000000074432</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150614000000 -0300" stop="20150614020000 -0300" channel="VTV" program_id="0000082417" event_id="00000000000097560844" series_key="">
-<title lang="pt">Cine Belas Artes</title>
-<desc>Todo sábado, a sessão exibe os melhores filmes do cinema.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Cinema</category>
-<image>
-<image_name position="1">0000082417.jpg</image_name>
-<image_broadcast>0000082417</image_broadcast>
+<image_name position="1">0000096856.jpg</image_name>
+<image_broadcast>0000096856</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
-<country>Brasil</country>
+<country>EUA</country>
 <video>
 <colour>yes</colour>
 </video>
 <rating system="Advisory">
 <value>Programa impróprio para menores de 14 anos</value>
 </rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150614000000 -0300" stop="20150614020000 -0300" channel="VTV" program_id="0000245219" event_id="00000000000097560844" series_key="">
+<title lang="pt">Sex And The City 2</title>
+<title lang="en">Sex &amp; The City 2</title>
+<desc>Uma viagem que surge no momento perfeito para as quatro amigas, que se descobrem envolvidas nas regras tradicionais do casamento e da maternidade, e tentam lutar contra isso.</desc>
+<credits>
+<director>Michael Patrick King</director>
+<actor>Sarah Jessica Parker</actor>
+<actor>Kim Cattrall</actor>
+<actor>Kristin Davis</actor>
+<actor>Cynthia Nixon</actor>
+</credits>
+<date>2010</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">0000245219.jpg</image_name>
+<image_broadcast>0000245219</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+<star-rating>
+<value>2/5</value>
+</star-rating>
 </programme>
 <programme start="20150614020000 -0300" stop="20150614023000 -0300" channel="VTV" program_id="0000239732" event_id="00000000000097560845" series_key="">
 <title lang="pt">Top Show</title>
@@ -11651,6 +10379,1320 @@
 </video>
 <rating system="Advisory">
 <value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622000000 -0300" stop="20150622010000 -0300" channel="VTV" program_id="0000199113" event_id="00000000000097561054" series_key="00000000072684000000">
+<title lang="pt">Conexão Repórter</title>
+<desc>O Conexão Repórter desta quarta-feira, 29 de outubro, traça o mapa das drogas no Brasil. No documentário O mapa da destruição, Roberto Cabrini vai mostrar uma realidade chocante.</desc>
+<credits>
+<director>Roberto Cabrini</director>
+<director>Roberto Cabrini</director>
+</credits>
+<date>2010</date>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000072684.jpg</image_name>
+<image_broadcast>00000000072684</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150622010000 -0300" stop="20150622020000 -0300" channel="VTV" program_id="0000108960" event_id="00000000000097561055" series_key="00000000048381000000">
+<title lang="pt">Sobrenatural</title>
+<title lang="en">Sobrenatural</title>
+<desc>Histórias assustadoras sobre dois irmãos marcados por um trágico e inexplicável acontecimento de infância. Eles terão de embarcar numa odisséia em busca do pai, que está desaparecido.</desc>
+<credits>
+<director>Eric Kripke</director>
+<director>Eric Kripke</director>
+</credits>
+<date>2005</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Suspense</category>
+<image>
+<image_name position="1">00000000048381.jpg</image_name>
+<image_broadcast>00000000048381</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150622020000 -0300" stop="20150622030000 -0300" channel="VTV" program_id="0000263793" event_id="00000000000097561056" series_key="00000000064391000000">
+<title lang="pt">Rizzoli &amp; Isles</title>
+<title lang="en">Rizzoli &amp; Isles</title>
+<desc>Jane Rizzoli e Maura Isles são duas amigas com personalidades tão opostas quanto complementares que combatem os piores criminosos de Boston e resolvem os casos mais complexos.</desc>
+<credits>
+<director>Jennifer Reiss</director>
+<actor>Angie Harmon</actor>
+<actor>Sasha Alexander</actor>
+<actor>Jordan Bridges</actor>
+<actor>Lorraine Bracco</actor>
+<actor>Chazz Palminteri</actor>
+<actor>Lee Thompson Young</actor>
+<actor>Bruce Mc Gill</actor>
+<actor>Donnie Wahlberg</actor>
+</credits>
+<date>2010</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Policial</category>
+<image>
+<image_name position="1">00000000064391.jpg</image_name>
+<image_broadcast>00000000064391</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+<star-rating>
+<value>4/5</value>
+</star-rating>
+</programme>
+<programme start="20150622030000 -0300" stop="20150622040000 -0300" channel="VTV" program_id="0000332055" event_id="00000000000097561057" series_key="00000000070011000000">
+<title lang="pt">Major Crimes</title>
+<desc>O spin-off de "The Closer" que acompanha a Capitã Raydor do Departamento de Polícia de Los Angeles.</desc>
+<credits>
+<director>Steve Robin</director>
+<actor>Mary McDonnell</actor>
+<actor>G.W. Bailey</actor>
+<actor>Tony Denison</actor>
+</credits>
+<date>2012</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Policial</category>
+<image>
+<image_name position="1">00000000070011.jpg</image_name>
+<image_broadcast>00000000070011</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+<star-rating>
+<value>4/5</value>
+</star-rating>
+</programme>
+<programme start="20150622040000 -0300" stop="20150622060000 -0300" channel="VTV" program_id="0000082426" event_id="00000000000097561058" series_key="00000000072698000000">
+<title lang="pt">Igreja Universal</title>
+<title lang="en">Igreja Universal</title>
+<desc>Programa Religioso exibido de segunda à sábado.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">00000000072698.jpg</image_name>
+<image_broadcast>00000000072698</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622060000 -0300" stop="20150622070000 -0300" channel="VTV" program_id="0000429119" event_id="00000000000097561059" series_key="00000000076551000000">
+<title lang="pt">Desenhos Pré-escola</title>
+<desc></desc>
+<category lang="pt">Infantil</category>
+<category lang="pt">Desenho</category>
+<image>
+<image_name position="1">00000000076551.jpg</image_name>
+<image_broadcast>00000000076551</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622070000 -0300" stop="20150622071000 -0300" channel="VTV" program_id="0000261002" event_id="00000000000097561060" series_key="00000000072817000000">
+<title lang="pt">Paróquia Bom Jesus</title>
+<desc>Programa religioso.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">00000000072817.jpg</image_name>
+<image_broadcast>00000000072817</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622071000 -0300" stop="20150622090000 -0300" channel="VTV" program_id="0000129067" event_id="00000000000097561061" series_key="">
+<title lang="pt">Carrossel Animado</title>
+<title lang="en">Carrossel Animado</title>
+<desc>O Carrossel Animado apresenta os desenhos mais animados da tv como Dick Vigarista, Tom &amp; Jerry, e muito mais!</desc>
+<category lang="pt">Infantil</category>
+<category lang="pt">Programa</category>
+<image>
+<image_name position="1">0000129067.jpg</image_name>
+<image_broadcast>0000129067</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622090000 -0300" stop="20150622104500 -0300" channel="VTV" program_id="0000015909" event_id="00000000000097561062" series_key="00000000072578000000">
+<title lang="pt">Bom Dia &amp; Cia</title>
+<title lang="en">Bom Dia &amp; Cia</title>
+<desc>Os melhores desenhos como Ben 10, X-Men Evolution, Tom &amp; Jerry, Scooby-Doo, e muito mais. Nos games você pode faturar vários prêmios.</desc>
+<credits>
+<director>Silvia Abravanel</director>
+<actor>Ana Julia</actor>
+<actor>Matheus Ueta</actor>
+</credits>
+<date>2013</date>
+<category lang="pt">Infantil</category>
+<category lang="pt">Programa</category>
+<image>
+<image_name position="1">00000000072578.jpg</image_name>
+<image_broadcast>00000000072578</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622104500 -0300" stop="20150622113000 -0300" channel="VTV" program_id="0000108627" event_id="00000000000097561063" series_key="00000000055503000000">
+<title lang="pt">Ben 10</title>
+<title lang="en">Ben 10</title>
+<desc>Veja como um garoto de 10 anos pode se transformar em 10 super heróis alienígenas, com apenas um comando Conheça Omnitrix, um aparelho tão valioso quanto ouro, pois é o único que pode libertar o Ben 10.</desc>
+<credits>
+<director>Joe Kelly</director>
+<actor>Vozes de Tara Strong</actor>
+<actor>Paul Eiding</actor>
+<actor>Meagan Smith</actor>
+<actor>Dee Bradley Baker</actor>
+<actor>Jim Ward</actor>
+<actor>Steven Jay Blum</actor>
+<actor>Richard McGonagle</actor>
+<actor>Fred Tatasciore</actor>
+</credits>
+<date>2005</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">00000000055503.jpg</image_name>
+<image_broadcast>00000000055503</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>4/5</value>
+</star-rating>
+</programme>
+<programme start="20150622113000 -0300" stop="20150622114500 -0300" channel="VTV" program_id="0000359736" event_id="00000000000097561064" series_key="00000000072829000000">
+<title lang="pt">TV Churrasco</title>
+<desc>Brasileiro é apaixonado por churrasco. Por isso, melhor do que ninguém, ele organiza, prepara, tempera e cuida de cada detalhe, fazendo sempre questão de inovar, para oferecer e saborear o melhor churrasco.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Culinária</category>
+<image>
+<image_name position="1">00000000072829.jpg</image_name>
+<image_broadcast>00000000072829</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622114500 -0300" stop="20150622121000 -0300" channel="VTV" program_id="0000252605" event_id="00000000000097561065" series_key="00000000072819000000">
+<title lang="pt">TV Web Shop</title>
+<desc>Programação de vendas.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000072819.jpg</image_name>
+<image_broadcast>00000000072819</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622121000 -0300" stop="20150622130000 -0300" channel="VTV" program_id="0000062926" event_id="00000000000097561066" series_key="00000000024875000000">
+<title lang="pt">As Visões da Raven</title>
+<title lang="en">That's so Raven</title>
+<desc>Uma adolescente que tem a estranha capacidade de prever o futuro próximo e de arrumar confusões ao tentar fazer com que essas visões aconteçam.</desc>
+<credits>
+<director>Richard Correll</director>
+<actor>Raven</actor>
+<actor>Orlando Brown</actor>
+<actor>T'Keyah Criystal Keymáh</actor>
+<actor>Ernie Sabella</actor>
+<actor>Rondell Sheridan</actor>
+<actor>Kyle Massey</actor>
+<actor>Anneliese van der Pol</actor>
+<actor>Ashley Drane</actor>
+<actor>Johari Johnson</actor>
+</credits>
+<date>2003</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000024875.jpg</image_name>
+<image_broadcast>00000000024875</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150622130000 -0300" stop="20150622133000 -0300" channel="VTV" program_id="0000302416" event_id="00000000000097561067" series_key="00000000072820000000">
+<title lang="pt">VTV Futebol Esporte Show</title>
+<desc>Programa que mostra toda a diversidade de esportes sendo o principal foco o futebol. Serão mostrados os gols da rodada nacional ou regional, além de entrevistas, curiosidades e muito mais.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000072820.jpg</image_name>
+<image_broadcast>00000000072820</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622133000 -0300" stop="20150622140000 -0300" channel="VTV" program_id="0000237593" event_id="00000000000097561068" series_key="00000000072783000000">
+<title lang="pt">Tarde Vip</title>
+<desc>É o único diário e de entretenimento regional. A apresentadora Patrícia Penteado é espontânea, charmosa e leva sua simpatia para toda região de Ribeirão Preto, Metropolitana de Campinas e Litoral Paulista.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000072783.jpg</image_name>
+<image_broadcast>00000000072783</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622140000 -0300" stop="20150622141500 -0300" channel="VTV" program_id="0000412084" event_id="00000000000097561069" series_key="">
+<title lang="pt">A voz da População</title>
+<desc></desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000412084.jpg</image_name>
+<image_broadcast>0000412084</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622141500 -0300" stop="20150622143000 -0300" channel="VTV" program_id="0000062926" event_id="00000000000097561070" series_key="00000000024875000000">
+<title lang="pt">As Visões da Raven</title>
+<title lang="en">That's so Raven</title>
+<desc>Uma adolescente que tem a estranha capacidade de prever o futuro próximo e de arrumar confusões ao tentar fazer com que essas visões aconteçam.</desc>
+<credits>
+<director>Richard Correll</director>
+<actor>Raven</actor>
+<actor>Orlando Brown</actor>
+<actor>T'Keyah Criystal Keymáh</actor>
+<actor>Ernie Sabella</actor>
+<actor>Rondell Sheridan</actor>
+<actor>Kyle Massey</actor>
+<actor>Anneliese van der Pol</actor>
+<actor>Ashley Drane</actor>
+<actor>Johari Johnson</actor>
+</credits>
+<date>2003</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000024875.jpg</image_name>
+<image_broadcast>00000000024875</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150622143000 -0300" stop="20150622153000 -0300" channel="VTV" program_id="0000075821" event_id="00000000000097561071" series_key="00000000072686000000">
+<title lang="pt">Casos de Família</title>
+<title lang="en">Casos de Família</title>
+<desc>Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.</desc>
+<credits>
+<director>Rafael Bello</director>
+<director>Rafael Bello</director>
+</credits>
+<date>2009</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">00000000072686.jpg</image_name>
+<image_broadcast>00000000072686</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622153000 -0300" stop="20150622163000 -0300" channel="VTV" program_id="0000122831" event_id="00000000000097561072" series_key="00000000076507000000">
+<title lang="pt">Maria Esperança</title>
+<desc>Maria é uma garota doce que sustenta sozinha a família vendendo flores e bilhetes de loteria pelas ruas. Abandonada pela mãe ainda quando criança, ela vive com o pai, um alcoólatra que nunca teve como sustentar os filhos.</desc>
+<date>2015</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Novela</category>
+<image>
+<image_name position="1">00000000076507.jpg</image_name>
+<image_broadcast>00000000076507</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622163000 -0300" stop="20150622173000 -0300" channel="VTV" program_id="0000425635" event_id="00000000000097561073" series_key="00000000076415000000">
+<title lang="pt">Coração Indomável</title>
+<desc>Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Novela</category>
+<image>
+<image_name position="1">00000000076415.jpg</image_name>
+<image_broadcast>00000000076415</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>México</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622173000 -0300" stop="20150622183000 -0300" channel="VTV" program_id="0000015893" event_id="00000000000097561074" series_key="00000000068856000000">
+<title lang="pt">A Usurpadora</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Novela</category>
+<image>
+<image_name position="1">00000000068856.jpg</image_name>
+<image_broadcast>00000000068856</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622183000 -0300" stop="20150622192000 -0300" channel="VTV" program_id="0000015912" event_id="00000000000097561075" series_key="00000000065922000000">
+<title lang="pt">Chaves</title>
+<title lang="en">Chaves</title>
+<desc>Chaves é um garoto pobre e órfão que mora numa vila, onde também moram as mais variadas figuras que vivem se metendo em confusão!</desc>
+<credits>
+<director>Roberto Gómez Bolaños</director>
+<actor>María Antonieta de las Nieves</actor>
+<actor>Ramón Valdés</actor>
+<actor>Florinda Meza</actor>
+<actor>Carlos Villagrán</actor>
+<actor>Edgar Vivar</actor>
+<actor>Rubén Aguirre</actor>
+<actor>Angelines Fernández</actor>
+</credits>
+<date>1971</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000065922.jpg</image_name>
+<image_broadcast>00000000065922</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>México</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>4/5</value>
+</star-rating>
+</programme>
+<programme start="20150622192000 -0300" stop="20150622194500 -0300" channel="VTV" program_id="0000263545" event_id="00000000000097561076" series_key="00000000072816000000">
+<title lang="pt">Jornal da VTV</title>
+<desc>Jornalismo informativo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000072816.jpg</image_name>
+<image_broadcast>00000000072816</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622194500 -0300" stop="20150622203000 -0300" channel="VTV" program_id="0000093850" event_id="00000000000097561077" series_key="00000000072195000000">
+<title lang="pt">SBT Brasil</title>
+<title lang="en">SBT Brasil</title>
+<desc>Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada.</desc>
+<credits>
+<director>Marcelo Parada</director>
+<actor>Rachel Sheherazade</actor>
+<actor>Joseval Peixoto</actor>
+</credits>
+<date>2005</date>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000072195.jpg</image_name>
+<image_broadcast>00000000072195</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622203000 -0300" stop="20150622211500 -0300" channel="VTV" program_id="0000137992" event_id="00000000000097561078" series_key="00000000070837000000">
+<title lang="pt">Chiquititas</title>
+<title lang="en">Chiquititas</title>
+<desc>As chiquititas são meninas que vivem no orfanato Raio de Luz, um lugar que está sempre de portas abertas para acolher crianças abandonadas e dar a elas um lar. O orfanato foi fundado pelo rico Dr. José Ricardo Almeida Campos.</desc>
+<credits>
+<actor>Giovanna Grigio</actor>
+<actor>Julia Oliver</actor>
+<actor>Raissa Chaddad</actor>
+<actor>Cinthia Cruz</actor>
+</credits>
+<date>2013</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Novela</category>
+<image>
+<image_name position="1">00000000070837.jpg</image_name>
+<image_broadcast>00000000070837</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622211500 -0300" stop="20150622220000 -0300" channel="VTV" program_id="0000282488" event_id="00000000000097561079" series_key="00000000067752000000">
+<title lang="pt">Carrossel</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Novela</category>
+<image>
+<image_name position="1">00000000067752.jpg</image_name>
+<image_broadcast>00000000067752</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622220000 -0300" stop="20150622230000 -0300" channel="VTV" program_id="0000017356" event_id="00000000000097561080" series_key="00000000072579000000">
+<title lang="pt">Programa do Ratinho</title>
+<title lang="en">Programa do Ratinho</title>
+<desc>Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
+<credits>
+<director>Walter Scaramuzzi</director>
+<actor>Valentina</actor>
+<actor>Milene Pavorô Uehara</actor>
+<actor>Eduardo Mascarenhas</actor>
+<actor>Marquito</actor>
+<actor>Faxinildo</actor>
+<actor>Rodela</actor>
+<actor>Iran Thieme</actor>
+<actor>Rhenata Tolksdorf</actor>
+</credits>
+<date>2009</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000072579.jpg</image_name>
+<image_broadcast>00000000072579</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150622230000 -0300" stop="20150623000000 -0300" channel="VTV" program_id="0000357915" event_id="00000000000097561081" series_key="00000000072580000000">
+<title lang="pt">Máquina da Fama</title>
+<desc>O programa traz a oportunidade que todo mundo que canta como seu ídolo esperava, uma chance de mostrar seu talento e conquistar a fama.</desc>
+<credits>
+<director>Michael Ukstin</director>
+<actor>Patricia Abravanel</actor>
+</credits>
+<date>2013</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000072580.jpg</image_name>
+<image_broadcast>00000000072580</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623000000 -0300" stop="20150623010000 -0300" channel="VTV" program_id="0000371367" event_id="00000000000097561082" series_key="">
+<title lang="pt">The Noite com Danilo Gentili</title>
+<desc>O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia.</desc>
+<credits>
+<director>Marcelo Zaccariotto</director>
+<actor>Léo Lins</actor>
+<actor>Murilo Couto</actor>
+<actor>Juliana Oliveira</actor>
+<actor>Ultraje a Rigor</actor>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">0000371367.jpg</image_name>
+<image_broadcast>0000371367</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150623010000 -0300" stop="20150623014500 -0300" channel="VTV" program_id="0000015886" event_id="00000000000097561083" series_key="00000000070822000000">
+<title lang="pt">Jornal do SBT</title>
+<title lang="en">Jornal do SBT</title>
+<desc>O Jornal do Sbt traz as principais notícias com muita seriedade e credibilidade.</desc>
+<credits>
+<director>Marcelo Parada</director>
+<director>Marcelo Parada</director>
+</credits>
+<date>1991</date>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000070822.jpg</image_name>
+<image_broadcast>00000000070822</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623014500 -0300" stop="20150623024500 -0300" channel="VTV" program_id="0000371370" event_id="00000000000097561084" series_key="">
+<title lang="pt">Okay Pessoal</title>
+<desc>Otávio Mesquita vai animar as madrugadas com muita cultura, tecnologia e informação.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000371370.jpg</image_name>
+<image_broadcast>0000371370</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150623024500 -0300" stop="20150623030500 -0300" channel="VTV" program_id="0000263545" event_id="00000000000097561085" series_key="00000000072816000000">
+<title lang="pt">Jornal da VTV</title>
+<desc>Jornalismo informativo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000072816.jpg</image_name>
+<image_broadcast>00000000072816</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623030500 -0300" stop="20150623035000 -0300" channel="VTV" program_id="0000015981" event_id="00000000000097561086" series_key="00000000072823000000">
+<title lang="pt">Desenhos</title>
+<title lang="en">Desenhos</title>
+<desc>Na sessão de desenhos, o telespectador tem a oportunidade de acompanhar os melhores desenhos de todos os tempos e viver ou reviver a infância, em momentos de pura diversão.</desc>
+<category lang="pt">Infantil</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">00000000072823.jpg</image_name>
+<image_broadcast>00000000072823</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623035000 -0300" stop="20150623040000 -0300" channel="VTV" program_id="0000261002" event_id="00000000000097561087" series_key="00000000072817000000">
+<title lang="pt">Paróquia Bom Jesus</title>
+<desc>Programa religioso.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">00000000072817.jpg</image_name>
+<image_broadcast>00000000072817</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623040000 -0300" stop="20150623060000 -0300" channel="VTV" program_id="0000082426" event_id="00000000000097561088" series_key="00000000072698000000">
+<title lang="pt">Igreja Universal</title>
+<title lang="en">Igreja Universal</title>
+<desc>Programa Religioso exibido de segunda à sábado.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">00000000072698.jpg</image_name>
+<image_broadcast>00000000072698</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623060000 -0300" stop="20150623070000 -0300" channel="VTV" program_id="0000429119" event_id="00000000000097561089" series_key="00000000076551000000">
+<title lang="pt">Desenhos Pré-escola</title>
+<desc></desc>
+<category lang="pt">Infantil</category>
+<category lang="pt">Desenho</category>
+<image>
+<image_name position="1">00000000076551.jpg</image_name>
+<image_broadcast>00000000076551</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623070000 -0300" stop="20150623071000 -0300" channel="VTV" program_id="0000261002" event_id="00000000000097561090" series_key="00000000072817000000">
+<title lang="pt">Paróquia Bom Jesus</title>
+<desc>Programa religioso.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">00000000072817.jpg</image_name>
+<image_broadcast>00000000072817</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623071000 -0300" stop="20150623090000 -0300" channel="VTV" program_id="0000129067" event_id="00000000000097561091" series_key="">
+<title lang="pt">Carrossel Animado</title>
+<title lang="en">Carrossel Animado</title>
+<desc>O Carrossel Animado apresenta os desenhos mais animados da tv como Dick Vigarista, Tom &amp; Jerry, e muito mais!</desc>
+<category lang="pt">Infantil</category>
+<category lang="pt">Programa</category>
+<image>
+<image_name position="1">0000129067.jpg</image_name>
+<image_broadcast>0000129067</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623090000 -0300" stop="20150623104500 -0300" channel="VTV" program_id="0000015909" event_id="00000000000097561092" series_key="00000000072578000000">
+<title lang="pt">Bom Dia &amp; Cia</title>
+<title lang="en">Bom Dia &amp; Cia</title>
+<desc>Os melhores desenhos como Ben 10, X-Men Evolution, Tom &amp; Jerry, Scooby-Doo, e muito mais. Nos games você pode faturar vários prêmios.</desc>
+<credits>
+<director>Silvia Abravanel</director>
+<actor>Ana Julia</actor>
+<actor>Matheus Ueta</actor>
+</credits>
+<date>2013</date>
+<category lang="pt">Infantil</category>
+<category lang="pt">Programa</category>
+<image>
+<image_name position="1">00000000072578.jpg</image_name>
+<image_broadcast>00000000072578</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623104500 -0300" stop="20150623113000 -0300" channel="VTV" program_id="0000108627" event_id="00000000000097561093" series_key="00000000055503000000">
+<title lang="pt">Ben 10</title>
+<title lang="en">Ben 10</title>
+<desc>Veja como um garoto de 10 anos pode se transformar em 10 super heróis alienígenas, com apenas um comando Conheça Omnitrix, um aparelho tão valioso quanto ouro, pois é o único que pode libertar o Ben 10.</desc>
+<credits>
+<director>Joe Kelly</director>
+<actor>Vozes de Tara Strong</actor>
+<actor>Paul Eiding</actor>
+<actor>Meagan Smith</actor>
+<actor>Dee Bradley Baker</actor>
+<actor>Jim Ward</actor>
+<actor>Steven Jay Blum</actor>
+<actor>Richard McGonagle</actor>
+<actor>Fred Tatasciore</actor>
+</credits>
+<date>2005</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">00000000055503.jpg</image_name>
+<image_broadcast>00000000055503</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>4/5</value>
+</star-rating>
+</programme>
+<programme start="20150623113000 -0300" stop="20150623114500 -0300" channel="VTV" program_id="0000359736" event_id="00000000000097561094" series_key="00000000072829000000">
+<title lang="pt">TV Churrasco</title>
+<desc>Brasileiro é apaixonado por churrasco. Por isso, melhor do que ninguém, ele organiza, prepara, tempera e cuida de cada detalhe, fazendo sempre questão de inovar, para oferecer e saborear o melhor churrasco.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Culinária</category>
+<image>
+<image_name position="1">00000000072829.jpg</image_name>
+<image_broadcast>00000000072829</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623114500 -0300" stop="20150623121000 -0300" channel="VTV" program_id="0000252605" event_id="00000000000097561095" series_key="00000000072819000000">
+<title lang="pt">TV Web Shop</title>
+<desc>Programação de vendas.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000072819.jpg</image_name>
+<image_broadcast>00000000072819</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623121000 -0300" stop="20150623130000 -0300" channel="VTV" program_id="0000062926" event_id="00000000000097561096" series_key="00000000024875000000">
+<title lang="pt">As Visões da Raven</title>
+<title lang="en">That's so Raven</title>
+<desc>Uma adolescente que tem a estranha capacidade de prever o futuro próximo e de arrumar confusões ao tentar fazer com que essas visões aconteçam.</desc>
+<credits>
+<director>Richard Correll</director>
+<actor>Raven</actor>
+<actor>Orlando Brown</actor>
+<actor>T'Keyah Criystal Keymáh</actor>
+<actor>Ernie Sabella</actor>
+<actor>Rondell Sheridan</actor>
+<actor>Kyle Massey</actor>
+<actor>Anneliese van der Pol</actor>
+<actor>Ashley Drane</actor>
+<actor>Johari Johnson</actor>
+</credits>
+<date>2003</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000024875.jpg</image_name>
+<image_broadcast>00000000024875</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150623130000 -0300" stop="20150623133000 -0300" channel="VTV" program_id="0000302416" event_id="00000000000097561097" series_key="00000000072820000000">
+<title lang="pt">VTV Futebol Esporte Show</title>
+<desc>Programa que mostra toda a diversidade de esportes sendo o principal foco o futebol. Serão mostrados os gols da rodada nacional ou regional, além de entrevistas, curiosidades e muito mais.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">00000000072820.jpg</image_name>
+<image_broadcast>00000000072820</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623133000 -0300" stop="20150623140000 -0300" channel="VTV" program_id="0000237593" event_id="00000000000097561098" series_key="00000000072783000000">
+<title lang="pt">Tarde Vip</title>
+<desc>É o único diário e de entretenimento regional. A apresentadora Patrícia Penteado é espontânea, charmosa e leva sua simpatia para toda região de Ribeirão Preto, Metropolitana de Campinas e Litoral Paulista.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000072783.jpg</image_name>
+<image_broadcast>00000000072783</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623140000 -0300" stop="20150623141500 -0300" channel="VTV" program_id="0000412084" event_id="00000000000097561099" series_key="">
+<title lang="pt">A voz da População</title>
+<desc></desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000412084.jpg</image_name>
+<image_broadcast>0000412084</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623141500 -0300" stop="20150623143000 -0300" channel="VTV" program_id="0000062926" event_id="00000000000097561100" series_key="00000000024875000000">
+<title lang="pt">As Visões da Raven</title>
+<title lang="en">That's so Raven</title>
+<desc>Uma adolescente que tem a estranha capacidade de prever o futuro próximo e de arrumar confusões ao tentar fazer com que essas visões aconteçam.</desc>
+<credits>
+<director>Richard Correll</director>
+<actor>Raven</actor>
+<actor>Orlando Brown</actor>
+<actor>T'Keyah Criystal Keymáh</actor>
+<actor>Ernie Sabella</actor>
+<actor>Rondell Sheridan</actor>
+<actor>Kyle Massey</actor>
+<actor>Anneliese van der Pol</actor>
+<actor>Ashley Drane</actor>
+<actor>Johari Johnson</actor>
+</credits>
+<date>2003</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000024875.jpg</image_name>
+<image_broadcast>00000000024875</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150623143000 -0300" stop="20150623153000 -0300" channel="VTV" program_id="0000075821" event_id="00000000000097561101" series_key="00000000072686000000">
+<title lang="pt">Casos de Família</title>
+<title lang="en">Casos de Família</title>
+<desc>Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.</desc>
+<credits>
+<director>Rafael Bello</director>
+<director>Rafael Bello</director>
+</credits>
+<date>2009</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">00000000072686.jpg</image_name>
+<image_broadcast>00000000072686</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623153000 -0300" stop="20150623163000 -0300" channel="VTV" program_id="0000122831" event_id="00000000000097561102" series_key="00000000076507000000">
+<title lang="pt">Maria Esperança</title>
+<desc>Maria é uma garota doce que sustenta sozinha a família vendendo flores e bilhetes de loteria pelas ruas. Abandonada pela mãe ainda quando criança, ela vive com o pai, um alcoólatra que nunca teve como sustentar os filhos.</desc>
+<date>2015</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Novela</category>
+<image>
+<image_name position="1">00000000076507.jpg</image_name>
+<image_broadcast>00000000076507</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623163000 -0300" stop="20150623173000 -0300" channel="VTV" program_id="0000425635" event_id="00000000000097561103" series_key="00000000076415000000">
+<title lang="pt">Coração Indomável</title>
+<desc>Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Novela</category>
+<image>
+<image_name position="1">00000000076415.jpg</image_name>
+<image_broadcast>00000000076415</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>México</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623173000 -0300" stop="20150623183000 -0300" channel="VTV" program_id="0000015893" event_id="00000000000097561104" series_key="00000000068856000000">
+<title lang="pt">A Usurpadora</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Novela</category>
+<image>
+<image_name position="1">00000000068856.jpg</image_name>
+<image_broadcast>00000000068856</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623183000 -0300" stop="20150623192000 -0300" channel="VTV" program_id="0000015912" event_id="00000000000097561105" series_key="00000000065922000000">
+<title lang="pt">Chaves</title>
+<title lang="en">Chaves</title>
+<desc>Chaves é um garoto pobre e órfão que mora numa vila, onde também moram as mais variadas figuras que vivem se metendo em confusão!</desc>
+<credits>
+<director>Roberto Gómez Bolaños</director>
+<actor>María Antonieta de las Nieves</actor>
+<actor>Ramón Valdés</actor>
+<actor>Florinda Meza</actor>
+<actor>Carlos Villagrán</actor>
+<actor>Edgar Vivar</actor>
+<actor>Rubén Aguirre</actor>
+<actor>Angelines Fernández</actor>
+</credits>
+<date>1971</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000065922.jpg</image_name>
+<image_broadcast>00000000065922</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>México</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+<star-rating>
+<value>4/5</value>
+</star-rating>
+</programme>
+<programme start="20150623192000 -0300" stop="20150623194500 -0300" channel="VTV" program_id="0000263545" event_id="00000000000097561106" series_key="00000000072816000000">
+<title lang="pt">Jornal da VTV</title>
+<desc>Jornalismo informativo.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000072816.jpg</image_name>
+<image_broadcast>00000000072816</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623194500 -0300" stop="20150623203000 -0300" channel="VTV" program_id="0000093850" event_id="00000000000097561107" series_key="00000000072195000000">
+<title lang="pt">SBT Brasil</title>
+<title lang="en">SBT Brasil</title>
+<desc>Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada.</desc>
+<credits>
+<director>Marcelo Parada</director>
+<actor>Rachel Sheherazade</actor>
+<actor>Joseval Peixoto</actor>
+</credits>
+<date>2005</date>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000072195.jpg</image_name>
+<image_broadcast>00000000072195</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623203000 -0300" stop="20150623211500 -0300" channel="VTV" program_id="0000137992" event_id="00000000000097561108" series_key="00000000070837000000">
+<title lang="pt">Chiquititas</title>
+<title lang="en">Chiquititas</title>
+<desc>As chiquititas são meninas que vivem no orfanato Raio de Luz, um lugar que está sempre de portas abertas para acolher crianças abandonadas e dar a elas um lar. O orfanato foi fundado pelo rico Dr. José Ricardo Almeida Campos.</desc>
+<credits>
+<actor>Giovanna Grigio</actor>
+<actor>Julia Oliver</actor>
+<actor>Raissa Chaddad</actor>
+<actor>Cinthia Cruz</actor>
+</credits>
+<date>2013</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Novela</category>
+<image>
+<image_name position="1">00000000070837.jpg</image_name>
+<image_broadcast>00000000070837</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623211500 -0300" stop="20150623220000 -0300" channel="VTV" program_id="0000282488" event_id="00000000000097561109" series_key="00000000067752000000">
+<title lang="pt">Carrossel</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Novela</category>
+<image>
+<image_name position="1">00000000067752.jpg</image_name>
+<image_broadcast>00000000067752</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623220000 -0300" stop="20150623230000 -0300" channel="VTV" program_id="0000017356" event_id="00000000000097561110" series_key="00000000072579000000">
+<title lang="pt">Programa do Ratinho</title>
+<title lang="en">Programa do Ratinho</title>
+<desc>Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
+<credits>
+<director>Walter Scaramuzzi</director>
+<actor>Valentina</actor>
+<actor>Milene Pavorô Uehara</actor>
+<actor>Eduardo Mascarenhas</actor>
+<actor>Marquito</actor>
+<actor>Faxinildo</actor>
+<actor>Rodela</actor>
+<actor>Iran Thieme</actor>
+<actor>Rhenata Tolksdorf</actor>
+</credits>
+<date>2009</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000072579.jpg</image_name>
+<image_broadcast>00000000072579</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150623230000 -0300" stop="20150624004500 -0300" channel="VTV" program_id="0000017224" event_id="00000000000097561111" series_key="">
+<title lang="pt">Cine Espetacular</title>
+<desc>Toda terça-feira, a sessão exibe os melhores filmes do cinema.</desc>
+<date>1997</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Cinema</category>
+<image>
+<image_name position="1">0000017224.jpg</image_name>
+<image_broadcast>0000017224</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 16 anos</value>
 </rating>
 </programme>
 </tv>

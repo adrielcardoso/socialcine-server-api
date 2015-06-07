@@ -4,520 +4,7 @@
 <display-name lang="pt">Record Rede Nacional - HD</display-name>
 <icon src="rhe.gif" />
 </channel>
-<programme start="20150603001500 -0300" stop="20150603011500 -0300" channel="RHE" program_id="0000443530" event_id="000000100280138" series_key="00000000026360001002">
-<title lang="pt">Breaking Bad</title>
-<title lang="en">Breaking Bad: Cat's In The Bag</title>
-<sub-title lang="pt">Temp. 1 - Ep. 2</sub-title>
-<desc>Após o desastre ocorrido no deserto, Walter e Jesse têm que dar um jeito na bagunça causada. Mais tarde, Skyler começa a suspeitar das atividades de Walter.</desc>
-<credits>
-<director>Adam Bernstein</director>
-<actor>Anna Gunn</actor>
-<actor>Bryan Cranston</actor>
-<actor>Aaron Paul</actor>
-<actor>Dean Norris</actor>
-<actor>Betsy Brandt</actor>
-<actor>Maximino Arciniega</actor>
-<actor>John Koyama</actor>
-<actor>Shane Marinson</actor>
-</credits>
-<date>2008</date>
-<category lang="pt">Séries</category>
-<category lang="pt">Drama</category>
-<image>
-<image_name position="1">00000000026360.jpg</image_name>
-<image_broadcast>00000000026360</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<episode-num system="xmltv_ns">1.2.</episode-num>
-<episode-num system="onscreen">2</episode-num>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 16 anos</value>
-</rating>
-<star-rating>
-<value>4/5</value>
-</star-rating>
-</programme>
-<programme start="20150603011500 -0300" stop="20150603060000 -0300" channel="RHE" program_id="0000079020" event_id="000000100280139" series_key="">
-<title lang="pt">Programação IURD</title>
-<desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000079020.jpg</image_name>
-<image_broadcast>0000079020</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603060000 -0300" stop="20150603072800 -0300" channel="RHE" program_id="0000102196" event_id="000000100280140" series_key="00000000066243000000">
-<title lang="pt">Balanço Geral</title>
-<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066243.jpg</image_name>
-<image_broadcast>00000000066243</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603072800 -0300" stop="20150603085500 -0300" channel="RHE" program_id="0000072913" event_id="000000100280141" series_key="00000000066244000000">
-<title lang="pt">São Paulo no Ar</title>
-<desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066244.jpg</image_name>
-<image_broadcast>00000000066244</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603085500 -0300" stop="20150603100000 -0300" channel="RHE" program_id="0000015945" event_id="000000100280142" series_key="00000000066238000000">
-<title lang="pt">Fala Brasil</title>
-<desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066238.jpg</image_name>
-<image_broadcast>00000000066238</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603100000 -0300" stop="20150603120000 -0300" channel="RHE" program_id="0000094577" event_id="000000100280143" series_key="00000000066226000000">
-<title lang="pt">Hoje em Dia</title>
-<desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066226.jpg</image_name>
-<image_broadcast>00000000066226</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603120000 -0300" stop="20150603144000 -0300" channel="RHE" program_id="0000102196" event_id="000000100280144" series_key="00000000066243000000">
-<title lang="pt">Balanço Geral</title>
-<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066243.jpg</image_name>
-<image_broadcast>00000000066243</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603144000 -0300" stop="20150603170000 -0300" channel="RHE" program_id="0000119084" event_id="000000100280146" series_key="00000000071807000000">
-<title lang="pt">Programa da Tarde</title>
-<desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000071807.jpg</image_name>
-<image_broadcast>00000000071807</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603170000 -0300" stop="20150603203000 -0300" channel="RHE" program_id="0000015967" event_id="000000100280147" series_key="00000000069485000000">
-<title lang="pt">Cidade Alerta</title>
-<desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069485.jpg</image_name>
-<image_broadcast>00000000069485</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603203000 -0300" stop="20150603213000 -0300" channel="RHE" program_id="0000430159" event_id="000000100280148" series_key="00000000076587000000">
-<title lang="pt">Os Dez Mandamentos</title>
-<desc>Moisés sorri vitorioso ao conseguir livrar Zípora do escorpião. Assustada, Zípora tenta disfarçar a tensão que passou e deixa Moisés pasmo com a reação ingrata dela. Apuki se irrita por Anrão ter sido nomeado como chefe dos hebreus.</desc>
-<credits>
-<director>Alexandre Avancini</director>
-<actor>Guilherme Winter</actor>
-<actor>Sérgio Marone</actor>
-<actor>Giselle Itié</actor>
-<actor>Mel Lisboa</actor>
-<actor>Samara Felippo</actor>
-<actor>Thierry Figueira</actor>
-<actor>Heitor Martinez</actor>
-<actor>Luciano Szafir</actor>
-<actor>Floriano Peixoto</actor>
-</credits>
-<date>2015</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Novela</category>
-<image>
-<image_name position="1">00000000076587.jpg</image_name>
-<image_broadcast>00000000076587</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150603213000 -0300" stop="20150603220000 -0300" channel="RHE" program_id="0000015966" event_id="000000100280149" series_key="00000000066234000000">
-<title lang="pt">Jornal da Record</title>
-<desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066234.jpg</image_name>
-<image_broadcast>00000000066234</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603220000 -0300" stop="20150604001500 -0300" channel="RHE" program_id="0000184059" event_id="000000100280150" series_key="">
-<title lang="pt">Gugu</title>
-<title lang="en">Programa do Gugu</title>
-<desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
-<credits>
-<director>Vildomar Batista</director>
-<actor>Gugu Liberato</actor>
-</credits>
-<category lang="pt">Variedades</category>
-<category lang="pt">Talk Show</category>
-<image>
-<image_name position="1">0000184059.jpg</image_name>
-<image_broadcast>0000184059</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604001500 -0300" stop="20150604011500 -0300" channel="RHE" program_id="0000134042" event_id="000000100280152" series_key="00000000066236000000">
-<title lang="pt">Câmera Record</title>
-<desc>Na final do reality A Fazenda, o Câmera Record discute as grandes polêmicas dos participantes.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066236.jpg</image_name>
-<image_broadcast>00000000066236</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604011500 -0300" stop="20150604060000 -0300" channel="RHE" program_id="0000079020" event_id="000000100280153" series_key="">
-<title lang="pt">Programação IURD</title>
-<desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000079020.jpg</image_name>
-<image_broadcast>0000079020</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604060000 -0300" stop="20150604072800 -0300" channel="RHE" program_id="0000102196" event_id="000000100280154" series_key="00000000066243000000">
-<title lang="pt">Balanço Geral</title>
-<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066243.jpg</image_name>
-<image_broadcast>00000000066243</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604072800 -0300" stop="20150604085500 -0300" channel="RHE" program_id="0000072913" event_id="000000100280155" series_key="00000000066244000000">
-<title lang="pt">São Paulo no Ar</title>
-<desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066244.jpg</image_name>
-<image_broadcast>00000000066244</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604085500 -0300" stop="20150604100000 -0300" channel="RHE" program_id="0000015945" event_id="000000100280156" series_key="00000000066238000000">
-<title lang="pt">Fala Brasil</title>
-<desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066238.jpg</image_name>
-<image_broadcast>00000000066238</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604100000 -0300" stop="20150604120000 -0300" channel="RHE" program_id="0000094577" event_id="000000100280157" series_key="00000000066226000000">
-<title lang="pt">Hoje em Dia</title>
-<desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066226.jpg</image_name>
-<image_broadcast>00000000066226</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604120000 -0300" stop="20150604144000 -0300" channel="RHE" program_id="0000102196" event_id="000000100280158" series_key="00000000066243000000">
-<title lang="pt">Balanço Geral</title>
-<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066243.jpg</image_name>
-<image_broadcast>00000000066243</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604144000 -0300" stop="20150604170000 -0300" channel="RHE" program_id="0000443712" event_id="000000100280159" series_key="">
-<title lang="pt">Jurassic Park</title>
-<title lang="en">Lost World: Jurassic Park</title>
-<desc>Após o fechamento do Jurassic Park, o magnata descobre que resta alguns animais vivos e decide enviar uma equipe, mas os animais reagem a presença humana.</desc>
-<credits>
-<director>Steven Spielberg</director>
-<actor>Julianne Moore</actor>
-<actor>Pete Postlethwaite</actor>
-<actor>Arliss Howard</actor>
-<actor>Richard Attenborough e Vince Vaughn</actor>
-</credits>
-<date>1997</date>
-<category lang="pt">Filme</category>
-<category lang="pt">Aventura</category>
-<image>
-<image_name position="1">0000443712.jpg</image_name>
-<image_broadcast>0000443712</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604170000 -0300" stop="20150604203000 -0300" channel="RHE" program_id="0000015967" event_id="000000100280160" series_key="00000000069485000000">
-<title lang="pt">Cidade Alerta</title>
-<desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000069485.jpg</image_name>
-<image_broadcast>00000000069485</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604203000 -0300" stop="20150604204000 -0300" channel="RHE" program_id="0000255383" event_id="000000100280161" series_key="">
-<title lang="pt">Propaganda Partidária</title>
-<desc>Programa Político.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">0000255383.jpg</image_name>
-<image_broadcast>0000255383</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604204000 -0300" stop="20150604213000 -0300" channel="RHE" program_id="0000430159" event_id="000000100280162" series_key="00000000076587000000">
-<title lang="pt">Os Dez Mandamentos</title>
-<desc>Moisés fica confuso e se afasta, explicando que Nefertari é a noiva que abandonou no Egito. Betânia pede desculpas pela atitude, tenta se insinuar, mas é dispensada. Arão fica revoltado pela agressão de Apuki com Judite e oferece abrigo para ela.</desc>
-<credits>
-<director>Alexandre Avancini</director>
-<actor>Guilherme Winter</actor>
-<actor>Sérgio Marone</actor>
-<actor>Giselle Itié</actor>
-<actor>Mel Lisboa</actor>
-<actor>Samara Felippo</actor>
-<actor>Thierry Figueira</actor>
-<actor>Heitor Martinez</actor>
-<actor>Luciano Szafir</actor>
-<actor>Floriano Peixoto</actor>
-</credits>
-<date>2015</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Novela</category>
-<image>
-<image_name position="1">00000000076587.jpg</image_name>
-<image_broadcast>00000000076587</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150604213000 -0300" stop="20150604223000 -0300" channel="RHE" program_id="0000015966" event_id="000000100280163" series_key="00000000066234000000">
-<title lang="pt">Jornal da Record</title>
-<desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000066234.jpg</image_name>
-<image_broadcast>00000000066234</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604223000 -0300" stop="20150605001500 -0300" channel="RHE" program_id="0000184059" event_id="000000100280164" series_key="">
-<title lang="pt">Gugu</title>
-<title lang="en">Programa do Gugu</title>
-<desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
-<credits>
-<director>Vildomar Batista</director>
-<actor>Gugu Liberato</actor>
-</credits>
-<category lang="pt">Variedades</category>
-<category lang="pt">Talk Show</category>
-<image>
-<image_name position="1">0000184059.jpg</image_name>
-<image_broadcast>0000184059</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150605001500 -0300" stop="20150605011500 -0300" channel="RHE" program_id="0000410414" event_id="000000100280165" series_key="00000000061897000000">
+<programme start="20150605001500 -0300" stop="20150605011500 -0300" channel="RHE" program_id="0000410414" event_id="00000000000096461475" series_key="00000000061897000000">
 <title lang="pt">C.S.I.</title>
 <title lang="en">C.S.I.</title>
 <desc>C.S.I retrata o difícil cotidiano de um grupo de investigadores judiciais da cidade de Las Vegas, que resolve casos em que a polícia fracassou, analisando os locais onde foram cometidos os crimes.</desc>
@@ -550,7 +37,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150605011500 -0300" stop="20150605060000 -0300" channel="RHE" program_id="0000079020" event_id="000000100280166" series_key="">
+<programme start="20150605011500 -0300" stop="20150605060000 -0300" channel="RHE" program_id="0000079020" event_id="00000000000096461476" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -568,7 +55,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605060000 -0300" stop="20150605072800 -0300" channel="RHE" program_id="0000102196" event_id="000000100280167" series_key="00000000066243000000">
+<programme start="20150605060000 -0300" stop="20150605072800 -0300" channel="RHE" program_id="0000102196" event_id="00000000000096461477" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -586,7 +73,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605072800 -0300" stop="20150605085500 -0300" channel="RHE" program_id="0000072913" event_id="000000100280168" series_key="00000000066244000000">
+<programme start="20150605072800 -0300" stop="20150605085500 -0300" channel="RHE" program_id="0000072913" event_id="00000000000096461478" series_key="00000000066244000000">
 <title lang="pt">São Paulo no Ar</title>
 <desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
 <category lang="pt">Jornalismo</category>
@@ -604,7 +91,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605085500 -0300" stop="20150605100000 -0300" channel="RHE" program_id="0000015945" event_id="000000100280170" series_key="00000000066238000000">
+<programme start="20150605085500 -0300" stop="20150605100000 -0300" channel="RHE" program_id="0000015945" event_id="00000000000096461479" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -622,7 +109,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605100000 -0300" stop="20150605120000 -0300" channel="RHE" program_id="0000094577" event_id="000000100280171" series_key="00000000066226000000">
+<programme start="20150605100000 -0300" stop="20150605120000 -0300" channel="RHE" program_id="0000094577" event_id="00000000000096461480" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -640,7 +127,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605120000 -0300" stop="20150605144000 -0300" channel="RHE" program_id="0000102196" event_id="000000100280172" series_key="00000000066243000000">
+<programme start="20150605120000 -0300" stop="20150605144000 -0300" channel="RHE" program_id="0000102196" event_id="00000000000096461481" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -658,7 +145,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605144000 -0300" stop="20150605170000 -0300" channel="RHE" program_id="0000119084" event_id="000000100280173" series_key="00000000071807000000">
+<programme start="20150605144000 -0300" stop="20150605170000 -0300" channel="RHE" program_id="0000119084" event_id="00000000000096461482" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -676,7 +163,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150605170000 -0300" stop="20150605203000 -0300" channel="RHE" program_id="0000015967" event_id="000000100280174" series_key="00000000069485000000">
+<programme start="20150605170000 -0300" stop="20150605203000 -0300" channel="RHE" program_id="0000015967" event_id="00000000000096461483" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -694,7 +181,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605203000 -0300" stop="20150605213000 -0300" channel="RHE" program_id="0000430159" event_id="000000100280175" series_key="00000000076587000000">
+<programme start="20150605203000 -0300" stop="20150605213000 -0300" channel="RHE" program_id="0000430159" event_id="00000000000096461484" series_key="00000000076587000000">
 <title lang="pt">Os Dez Mandamentos</title>
 <desc>Nefertari diz que não quer se envolver com Ramsés, pois sabe que o relacionamento entre eles não agrada Seti. Frustrado, o príncipe assente sabendo que a amada tem razão.</desc>
 <credits>
@@ -725,7 +212,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150605213000 -0300" stop="20150605223000 -0300" channel="RHE" program_id="0000015966" event_id="000000100280176" series_key="00000000066234000000">
+<programme start="20150605213000 -0300" stop="20150605223000 -0300" channel="RHE" program_id="0000015966" event_id="00000000000096461485" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -743,7 +230,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605223000 -0300" stop="20150606011500 -0300" channel="RHE" program_id="0000443995" event_id="000000100280177" series_key="">
+<programme start="20150605223000 -0300" stop="20150606011500 -0300" channel="RHE" program_id="0000443995" event_id="00000000000096461486" series_key="">
 <title lang="pt">Eu os Declaro Marido e... Larry</title>
 <title lang="en">I Now Pronounce You Chuck and Larry</title>
 <desc>Larry não consegue colocar seus filhos no seguro de vida devido a problemas burocráticos, então ele pede a Chuck que seja seu parceiro, e diz: ninguém saberá disto.</desc>
@@ -771,7 +258,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150606011500 -0300" stop="20150606063000 -0300" channel="RHE" program_id="0000079020" event_id="000000100280178" series_key="">
+<programme start="20150606011500 -0300" stop="20150606063000 -0300" channel="RHE" program_id="0000079020" event_id="00000000000096461487" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -789,7 +276,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606063000 -0300" stop="20150606070000 -0300" channel="RHE" program_id="0000086030" event_id="000000100280179" series_key="00000000072808000000">
+<programme start="20150606063000 -0300" stop="20150606070000 -0300" channel="RHE" program_id="0000086030" event_id="00000000000096461488" series_key="00000000072808000000">
 <title lang="pt">Nosso Tempo</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -806,7 +293,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606070000 -0300" stop="20150606101500 -0300" channel="RHE" program_id="0000291670" event_id="000000100280180" series_key="00000000066238000000">
+<programme start="20150606070000 -0300" stop="20150606101500 -0300" channel="RHE" program_id="0000291670" event_id="00000000000096461489" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil Especial</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -824,7 +311,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606101500 -0300" stop="20150606120000 -0300" channel="RHE" program_id="0000179573" event_id="000000100280182" series_key="00000000072203000000">
+<programme start="20150606101500 -0300" stop="20150606120000 -0300" channel="RHE" program_id="0000179573" event_id="00000000000096461490" series_key="00000000072203000000">
 <title lang="pt">Esporte Fantástico</title>
 <desc>Rodrigo Faro aceita desafio de David Luiz e toma um banho de água fria: "Missão dada é missão cumprida".</desc>
 <category lang="pt">Jornalismo</category>
@@ -842,7 +329,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606120000 -0300" stop="20150606130000 -0300" channel="RHE" program_id="0000258837" event_id="000000100280183" series_key="00000000073664000000">
+<programme start="20150606120000 -0300" stop="20150606130000 -0300" channel="RHE" program_id="0000258837" event_id="00000000000096461491" series_key="00000000073664000000">
 <title lang="pt">The Love School</title>
 <desc>Um dos grandes diferenciais é a interatividade dos apresentadores com o público, através do e-mail, facebook, twitter e até mesmo exibindo vídeos-pergunta, enviadas pelos telespectadores.</desc>
 <category lang="pt">Variedades</category>
@@ -860,7 +347,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150606130000 -0300" stop="20150606141500 -0300" channel="RHE" program_id="0000112751" event_id="000000100280184" series_key="00000000051563000000">
+<programme start="20150606130000 -0300" stop="20150606141500 -0300" channel="RHE" program_id="0000112751" event_id="00000000000096461492" series_key="00000000051563000000">
 <title lang="pt">Todo Mundo Odeia o Chris</title>
 <title lang="en">Everybody Hates Chris</title>
 <desc>Chris Rock narra com muito bom humor suas experiências durante a adolescência como o mais velho de três irmãos, em histórias hilariantes, inteligentes e sarcásticas, como a própria personalidade do comediante.</desc>
@@ -895,7 +382,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150606141500 -0300" stop="20150606151500 -0300" channel="RHE" program_id="0000291669" event_id="000000100280185" series_key="00000000073666000000">
+<programme start="20150606141500 -0300" stop="20150606151500 -0300" channel="RHE" program_id="0000291669" event_id="00000000000096461493" series_key="00000000073666000000">
 <title lang="pt">Record Kids - Pica Pau</title>
 <desc>As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca!</desc>
 <category lang="pt">Infantil</category>
@@ -913,7 +400,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606151500 -0300" stop="20150606172000 -0300" channel="RHE" program_id="0000384696" event_id="000000100280187" series_key="">
+<programme start="20150606151500 -0300" stop="20150606172000 -0300" channel="RHE" program_id="0000384696" event_id="00000000000096461494" series_key="">
 <title lang="pt">As Apimentadas - Tudo ou Nada</title>
 <title lang="en">Bring It On: All or Nothing</title>
 <desc>Britney é cheerleader da escola e fará de tudo para ganhar um concurso que dará a chance de aparecer num especial de TV. Mas tudo vira de cabeça para baixo quando o pai dela é transferido para outra cidade.</desc>
@@ -949,7 +436,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150606172000 -0300" stop="20150606194500 -0300" channel="RHE" program_id="0000349954" event_id="000000100280188" series_key="00000000072204000000">
+<programme start="20150606172000 -0300" stop="20150606194500 -0300" channel="RHE" program_id="0000349954" event_id="00000000000096461495" series_key="00000000072204000000">
 <title lang="pt">Cidade Alerta Especial</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -967,7 +454,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606194500 -0300" stop="20150606203000 -0300" channel="RHE" program_id="0000352611" event_id="000000100280189" series_key="00000000072205000000">
+<programme start="20150606194500 -0300" stop="20150606203000 -0300" channel="RHE" program_id="0000352611" event_id="00000000000096461496" series_key="00000000072205000000">
 <title lang="pt">Jornal da Record Especial</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -985,10 +472,13 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606203000 -0300" stop="20150606230000 -0300" channel="RHE" program_id="0000379634" event_id="000000100280190" series_key="00000000073462000000">
+<programme start="20150606203000 -0300" stop="20150606230000 -0300" channel="RHE" program_id="0000379634" event_id="00000000000096461497" series_key="00000000073462000000">
 <title lang="pt">Programa da Sabrina</title>
-<desc>Sabrina receberá convidados para entrevistas, assim como bandas que vão agitar a platéia. Também trará reportagens pra lá de interessantes, entrevistas exclusivas e muito mais.</desc>
-<date>2014</date>
+<desc>Há um ano, Sabrina falava, "Oi, gente" pela primeira vez no Programa e dava início a uma trajetória de sucesso. E neste sábado a japa comanda a festa especial de aniversário.</desc>
+<credits>
+<actor>Sabrina Satto</actor>
+</credits>
+<date>2015</date>
 <category lang="pt">Variedades</category>
 <category lang="pt">Talk Show</category>
 <image>
@@ -1004,7 +494,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150606230000 -0300" stop="20150607011500 -0300" channel="RHE" program_id="0000201830" event_id="000000100280191" series_key="00000000073667000000">
+<programme start="20150606230000 -0300" stop="20150607011500 -0300" channel="RHE" program_id="0000201830" event_id="00000000000096461498" series_key="00000000073667000000">
 <title lang="pt">Legendários</title>
 <desc>Apresentada e dirigida por Marcos Mion, a atração promete entreter, informar e alegrar o telespectador com tudo o que existe de mais criativo na televisão.</desc>
 <category lang="pt">Variedades</category>
@@ -1022,7 +512,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150607011500 -0300" stop="20150607060000 -0300" channel="RHE" program_id="0000079020" event_id="000000100280193" series_key="">
+<programme start="20150607011500 -0300" stop="20150607060000 -0300" channel="RHE" program_id="0000079020" event_id="00000000000096461499" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -1040,7 +530,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607060000 -0300" stop="20150607063000 -0300" channel="RHE" program_id="0000015977" event_id="000000100280194" series_key="00000000073677000000">
+<programme start="20150607060000 -0300" stop="20150607063000 -0300" channel="RHE" program_id="0000015977" event_id="00000000000096461500" series_key="00000000073677000000">
 <title lang="pt">Santo Culto em seu Lar</title>
 <title lang="en">Santo Culto em seu Lar</title>
 <desc>Pregações abordando um tema específico, discutindo sempre em base de texto bíblico.</desc>
@@ -1059,7 +549,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150607063000 -0300" stop="20150607093000 -0300" channel="RHE" program_id="0000098194" event_id="000000100280195" series_key="00000000073678000000">
+<programme start="20150607063000 -0300" stop="20150607080000 -0300" channel="RHE" program_id="0000098194" event_id="00000000000096461501" series_key="00000000073678000000">
 <title lang="pt">Desenhos Bíblicos</title>
 <title lang="en">Desenhos Bíblicos</title>
 <desc>Animações das histórias bíblicas.</desc>
@@ -1075,7 +565,24 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607093000 -0300" stop="20150607110000 -0300" channel="RHE" program_id="0000291669" event_id="000000100280196" series_key="00000000073666000000">
+<programme start="20150607080000 -0300" stop="20150607090000 -0300" channel="RHE" program_id="0000442940" event_id="00000000000097812669" series_key="">
+<title lang="pt">Programa do Templo</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000442940.jpg</image_name>
+<image_broadcast>0000442940</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150607090000 -0300" stop="20150607110000 -0300" channel="RHE" program_id="0000291669" event_id="00000000000096461502" series_key="00000000073666000000">
 <title lang="pt">Record Kids - Pica Pau</title>
 <desc>As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca!</desc>
 <category lang="pt">Infantil</category>
@@ -1093,7 +600,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607110000 -0300" stop="20150607153000 -0300" channel="RHE" program_id="0000017914" event_id="000000100280197" series_key="00000000072949000000">
+<programme start="20150607110000 -0300" stop="20150607153000 -0300" channel="RHE" program_id="0000017914" event_id="00000000000096461503" series_key="00000000072949000000">
 <title lang="pt">Domingo Show</title>
 <desc>Geraldo e sua equipe estarão a postos para noticiar, ao vivo, qualquer evento que esteja acontecendo, conferindo agilidade ao Domingo Show.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1111,9 +618,12 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607153000 -0300" stop="20150607193000 -0300" channel="RHE" program_id="0000379635" event_id="000000100280198" series_key="00000000073463000000">
+<programme start="20150607153000 -0300" stop="20150607193000 -0300" channel="RHE" program_id="0000379635" event_id="00000000000096461504" series_key="00000000073463000000">
 <title lang="pt">Hora do Faro</title>
-<desc>O mesmo Rodrigo Faro talentoso, irreverente e divertido de sempre em um programa totalmente novo! Hora do Faro vai agitar as tardes de domingo com a alegria e a emoção já conhecidas do público de casa.</desc>
+<desc>Acostumado a fazer o público de casa se emocionar com as histórias que leva para a televisão, Geraldo Luís será o homenageado da vez na Hora do Faro.</desc>
+<credits>
+<actor>Rodrigo Faro</actor>
+</credits>
 <date>2014</date>
 <category lang="pt">Variedades</category>
 <category lang="pt">Talk Show</category>
@@ -1130,7 +640,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150607193000 -0300" stop="20150607231500 -0300" channel="RHE" program_id="0000074950" event_id="000000100280199" series_key="00000000072208000000">
+<programme start="20150607193000 -0300" stop="20150607231500 -0300" channel="RHE" program_id="0000074950" event_id="00000000000096461505" series_key="00000000072208000000">
 <title lang="pt">Domingo Espetacular</title>
 <title lang="en">Domingo Espetacular</title>
 <desc>Um jornalismo ágil e moderno, com reportagens de denúncia, comportamento, ciência, turismo, medicina e aventura, além de um panorama geral dos fatos que marcaram a semana.</desc>
@@ -1149,7 +659,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607231500 -0300" stop="20150608001500 -0300" channel="RHE" program_id="0000420250" event_id="000000100280200" series_key="00000000076191000000">
+<programme start="20150607231500 -0300" stop="20150608001500 -0300" channel="RHE" program_id="0000420250" event_id="00000000000096461506" series_key="00000000076191000000">
 <title lang="pt">Repórter em Ação</title>
 <desc>Estreia do Repórter em Ação mostra expedição para desbravar os mistérios da Amazônia.</desc>
 <credits>
@@ -1171,7 +681,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608001500 -0300" stop="20150608011500 -0300" channel="RHE" program_id="0000271995" event_id="000000100280201" series_key="00000000072212000000">
+<programme start="20150608001500 -0300" stop="20150608011500 -0300" channel="RHE" program_id="0000271995" event_id="00000000000096461507" series_key="00000000072212000000">
 <title lang="pt">Roberto Justus +</title>
 <desc>Justus receber César Filho, o novo contratado da Record, Zilu e Angel K no talk show da Record.</desc>
 <date>2015</date>
@@ -1190,7 +700,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150608011500 -0300" stop="20150608060000 -0300" channel="RHE" program_id="0000079020" event_id="000000100280202" series_key="">
+<programme start="20150608011500 -0300" stop="20150608060000 -0300" channel="RHE" program_id="0000079020" event_id="00000000000096461508" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -1208,7 +718,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608060000 -0300" stop="20150608072800 -0300" channel="RHE" program_id="0000102196" event_id="000000100280203" series_key="00000000066243000000">
+<programme start="20150608060000 -0300" stop="20150608072800 -0300" channel="RHE" program_id="0000102196" event_id="00000000000096461509" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1226,7 +736,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608072800 -0300" stop="20150608085500 -0300" channel="RHE" program_id="0000072913" event_id="000000100280204" series_key="00000000066244000000">
+<programme start="20150608072800 -0300" stop="20150608085500 -0300" channel="RHE" program_id="0000072913" event_id="00000000000096461510" series_key="00000000066244000000">
 <title lang="pt">São Paulo no Ar</title>
 <desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1244,7 +754,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608085500 -0300" stop="20150608100000 -0300" channel="RHE" program_id="0000015945" event_id="000000100280206" series_key="00000000066238000000">
+<programme start="20150608085500 -0300" stop="20150608100000 -0300" channel="RHE" program_id="0000015945" event_id="00000000000096461511" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1262,7 +772,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608100000 -0300" stop="20150608120000 -0300" channel="RHE" program_id="0000094577" event_id="000000100280207" series_key="00000000066226000000">
+<programme start="20150608100000 -0300" stop="20150608120000 -0300" channel="RHE" program_id="0000094577" event_id="00000000000096461512" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1280,7 +790,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608120000 -0300" stop="20150608143000 -0300" channel="RHE" program_id="0000102196" event_id="000000100280208" series_key="00000000066243000000">
+<programme start="20150608120000 -0300" stop="20150608144000 -0300" channel="RHE" program_id="0000102196" event_id="00000000000096461513" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1298,7 +808,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608143000 -0300" stop="20150608170000 -0300" channel="RHE" program_id="0000119084" event_id="000000100280209" series_key="00000000071807000000">
+<programme start="20150608144000 -0300" stop="20150608170000 -0300" channel="RHE" program_id="0000119084" event_id="00000000000096461514" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -1316,7 +826,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150608170000 -0300" stop="20150608203000 -0300" channel="RHE" program_id="0000015967" event_id="000000100280210" series_key="00000000069485000000">
+<programme start="20150608170000 -0300" stop="20150608203000 -0300" channel="RHE" program_id="0000015967" event_id="00000000000096461515" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1334,7 +844,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608203000 -0300" stop="20150608213000 -0300" channel="RHE" program_id="0000430159" event_id="000000100280212" series_key="00000000076587000000">
+<programme start="20150608203000 -0300" stop="20150608213000 -0300" channel="RHE" program_id="0000430159" event_id="00000000000096461516" series_key="00000000076587000000">
 <title lang="pt">Os Dez Mandamentos</title>
 <desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
 <credits>
@@ -1365,7 +875,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150608213000 -0300" stop="20150608223000 -0300" channel="RHE" program_id="0000015966" event_id="000000100280213" series_key="00000000066234000000">
+<programme start="20150608213000 -0300" stop="20150608223000 -0300" channel="RHE" program_id="0000015966" event_id="00000000000096461517" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1383,7 +893,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608223000 -0300" stop="20150608233000 -0300" channel="RHE" program_id="0000380369" event_id="000000100280214" series_key="00000000073493000000">
+<programme start="20150608223000 -0300" stop="20150608233000 -0300" channel="RHE" program_id="0000380369" event_id="00000000000096461518" series_key="00000000073493000000">
 <title lang="pt">Repórter Record Investigação</title>
 <desc>O Repórter Record Investigação, exibe reportagem especial com imagens e depoimentos exclusivos sobre a trajetória dos dois brasileiros condenados à morte, por fuzilamento, na Indonésia.</desc>
 <date>2014</date>
@@ -1402,20 +912,21 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150608233000 -0300" stop="20150609001500 -0300" channel="RHE" program_id="0000375477" event_id="000000100280215" series_key="00000000065728000000">
+<programme start="20150608233000 -0300" stop="20150609001500 -0300" channel="RHE" program_id="0000444305" event_id="00000000000096461519" series_key="00000000065728003015">
 <title lang="pt">Grimm - Contos de Terror</title>
-<title lang="en">Grimm</title>
-<desc>Esse drama policial incorpora as histórias dos contos de fadas dos irmãos Grimm. Um policial chamado Nick começa a ver humanos como animais e quer proteger a sociedade deles.</desc>
+<title lang="en">Grimm: 15</title>
+<sub-title lang="pt">Temp. 3 - Ep. 15</sub-title>
+<desc>Nick e Hank se veem no meio de uma batalha antiga e a situação se complica quando o Conselho Wesen decide se envolver. Monroe e Rosalee atualizam todos sobre a história antiga dos Wesen.</desc>
 <credits>
-<actor>Sasha Roiz</actor>
+<director>Norberto Barba</director>
 <actor>David Giuntoli</actor>
-<actor>Bitsie Tulloch</actor>
 <actor>Russell Hornsby</actor>
+<actor>Bitsie Tulloch</actor>
 <actor>Silas Weir Mitchell</actor>
-<actor>Reggie Lee</actor>
-<actor>Claire Coffee</actor>
+<actor>Sasha Roiz</actor>
+<actor>Bethany Jacobs</actor>
 </credits>
-<date>2011</date>
+<date>2013</date>
 <category lang="pt">Séries</category>
 <category lang="pt">Drama</category>
 <image>
@@ -1424,6 +935,8 @@
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
 <country>EUA</country>
+<episode-num system="xmltv_ns">3.15.</episode-num>
+<episode-num system="onscreen">15</episode-num>
 <video>
 <colour>yes</colour>
 </video>
@@ -1434,20 +947,21 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150609001500 -0300" stop="20150609011500 -0300" channel="RHE" program_id="0000375477" event_id="000000100280216" series_key="00000000065728000000">
+<programme start="20150609001500 -0300" stop="20150609011500 -0300" channel="RHE" program_id="0000444307" event_id="00000000000096461520" series_key="00000000065728003016">
 <title lang="pt">Grimm - Contos de Terror</title>
-<title lang="en">Grimm</title>
-<desc>Esse drama policial incorpora as histórias dos contos de fadas dos irmãos Grimm. Um policial chamado Nick começa a ver humanos como animais e quer proteger a sociedade deles.</desc>
+<title lang="en">Grimm: 16</title>
+<sub-title lang="pt">Temp. 3 - Ep. 16</sub-title>
+<desc>Um homicídio duplo leva Nick e Hank a um bloco itinerante de circo, onde as pessoas que se apresentam não são o que parecem ser.</desc>
 <credits>
-<actor>Sasha Roiz</actor>
+<director>Norberto Barba</director>
 <actor>David Giuntoli</actor>
-<actor>Bitsie Tulloch</actor>
 <actor>Russell Hornsby</actor>
+<actor>Bitsie Tulloch</actor>
 <actor>Silas Weir Mitchell</actor>
-<actor>Reggie Lee</actor>
-<actor>Claire Coffee</actor>
+<actor>Sasha Roiz</actor>
+<actor>Bethany Jacobs</actor>
 </credits>
-<date>2011</date>
+<date>2013</date>
 <category lang="pt">Séries</category>
 <category lang="pt">Drama</category>
 <image>
@@ -1456,6 +970,8 @@
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
 <country>EUA</country>
+<episode-num system="xmltv_ns">3.16.</episode-num>
+<episode-num system="onscreen">16</episode-num>
 <video>
 <colour>yes</colour>
 </video>
@@ -1466,7 +982,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150609011500 -0300" stop="20150609060000 -0300" channel="RHE" program_id="0000079020" event_id="000000100280218" series_key="">
+<programme start="20150609011500 -0300" stop="20150609060000 -0300" channel="RHE" program_id="0000079020" event_id="00000000000096461521" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -1484,7 +1000,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609060000 -0300" stop="20150609072800 -0300" channel="RHE" program_id="0000102196" event_id="000000100280219" series_key="00000000066243000000">
+<programme start="20150609060000 -0300" stop="20150609072800 -0300" channel="RHE" program_id="0000102196" event_id="00000000000096461522" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1502,7 +1018,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609072800 -0300" stop="20150609085500 -0300" channel="RHE" program_id="0000072913" event_id="000000100280220" series_key="00000000066244000000">
+<programme start="20150609072800 -0300" stop="20150609085500 -0300" channel="RHE" program_id="0000072913" event_id="00000000000096461523" series_key="00000000066244000000">
 <title lang="pt">São Paulo no Ar</title>
 <desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1520,7 +1036,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609085500 -0300" stop="20150609100000 -0300" channel="RHE" program_id="0000015945" event_id="000000100280221" series_key="00000000066238000000">
+<programme start="20150609085500 -0300" stop="20150609100000 -0300" channel="RHE" program_id="0000015945" event_id="00000000000096461524" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1538,7 +1054,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609100000 -0300" stop="20150609120000 -0300" channel="RHE" program_id="0000094577" event_id="000000100280222" series_key="00000000066226000000">
+<programme start="20150609100000 -0300" stop="20150609120000 -0300" channel="RHE" program_id="0000094577" event_id="00000000000096461525" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1556,7 +1072,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609120000 -0300" stop="20150609143000 -0300" channel="RHE" program_id="0000102196" event_id="000000100280223" series_key="00000000066243000000">
+<programme start="20150609120000 -0300" stop="20150609144000 -0300" channel="RHE" program_id="0000102196" event_id="00000000000096461526" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1574,7 +1090,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609143000 -0300" stop="20150609170000 -0300" channel="RHE" program_id="0000119084" event_id="000000100280225" series_key="00000000071807000000">
+<programme start="20150609144000 -0300" stop="20150609170000 -0300" channel="RHE" program_id="0000119084" event_id="00000000000096461527" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -1592,7 +1108,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150609170000 -0300" stop="20150609203000 -0300" channel="RHE" program_id="0000015967" event_id="000000100280226" series_key="00000000069485000000">
+<programme start="20150609170000 -0300" stop="20150609203000 -0300" channel="RHE" program_id="0000015967" event_id="00000000000096461528" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1610,7 +1126,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609203000 -0300" stop="20150609204000 -0300" channel="RHE" program_id="0000255383" event_id="000000100280227" series_key="">
+<programme start="20150609203000 -0300" stop="20150609204000 -0300" channel="RHE" program_id="0000255383" event_id="00000000000096461529" series_key="">
 <title lang="pt">Propaganda Partidária</title>
 <desc>Programa Político.</desc>
 <category lang="pt">Variedades</category>
@@ -1627,7 +1143,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609204000 -0300" stop="20150609213000 -0300" channel="RHE" program_id="0000430159" event_id="000000100280228" series_key="00000000076587000000">
+<programme start="20150609204000 -0300" stop="20150609213000 -0300" channel="RHE" program_id="0000430159" event_id="00000000000096461530" series_key="00000000076587000000">
 <title lang="pt">Os Dez Mandamentos</title>
 <desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
 <credits>
@@ -1658,7 +1174,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150609213000 -0300" stop="20150609223000 -0300" channel="RHE" program_id="0000015966" event_id="000000100280229" series_key="00000000066234000000">
+<programme start="20150609213000 -0300" stop="20150609223000 -0300" channel="RHE" program_id="0000015966" event_id="00000000000096461531" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1676,7 +1192,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609223000 -0300" stop="20150610001500 -0300" channel="RHE" program_id="0000184059" event_id="000000100280230" series_key="">
+<programme start="20150609223000 -0300" stop="20150610001500 -0300" channel="RHE" program_id="0000184059" event_id="00000000000096461532" series_key="">
 <title lang="pt">Gugu</title>
 <title lang="en">Programa do Gugu</title>
 <desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
@@ -1699,7 +1215,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610001500 -0300" stop="20150610011500 -0300" channel="RHE" program_id="0000145417" event_id="000000100280231" series_key="00000000026360000000">
+<programme start="20150610001500 -0300" stop="20150610011500 -0300" channel="RHE" program_id="0000145417" event_id="00000000000096461533" series_key="00000000026360000000">
 <title lang="pt">Breaking Bad</title>
 <title lang="en">Breaking Bad</title>
 <desc>Walter é um professor de química, casado e com um filho que tem paralisia cerebral. Ao descobrir que está com uma grave doença, começa a juntar o dinheiro para deixar para sua família quando ele partir.</desc>
@@ -1732,7 +1248,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150610011500 -0300" stop="20150610060000 -0300" channel="RHE" program_id="0000079020" event_id="000000100280232" series_key="">
+<programme start="20150610011500 -0300" stop="20150610060000 -0300" channel="RHE" program_id="0000079020" event_id="00000000000096461534" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -1750,7 +1266,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610060000 -0300" stop="20150610072800 -0300" channel="RHE" program_id="0000102196" event_id="000000100280233" series_key="00000000066243000000">
+<programme start="20150610060000 -0300" stop="20150610072800 -0300" channel="RHE" program_id="0000102196" event_id="00000000000096461535" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1768,7 +1284,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610072800 -0300" stop="20150610085500 -0300" channel="RHE" program_id="0000072913" event_id="000000100280234" series_key="00000000066244000000">
+<programme start="20150610072800 -0300" stop="20150610085500 -0300" channel="RHE" program_id="0000072913" event_id="00000000000096461536" series_key="00000000066244000000">
 <title lang="pt">São Paulo no Ar</title>
 <desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1786,7 +1302,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610085500 -0300" stop="20150610100000 -0300" channel="RHE" program_id="0000015945" event_id="000000100280236" series_key="00000000066238000000">
+<programme start="20150610085500 -0300" stop="20150610100000 -0300" channel="RHE" program_id="0000015945" event_id="00000000000096461537" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1804,7 +1320,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610100000 -0300" stop="20150610120000 -0300" channel="RHE" program_id="0000094577" event_id="000000100280237" series_key="00000000066226000000">
+<programme start="20150610100000 -0300" stop="20150610120000 -0300" channel="RHE" program_id="0000094577" event_id="00000000000096461538" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1822,7 +1338,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610120000 -0300" stop="20150610143000 -0300" channel="RHE" program_id="0000102196" event_id="000000100280238" series_key="00000000066243000000">
+<programme start="20150610120000 -0300" stop="20150610144000 -0300" channel="RHE" program_id="0000102196" event_id="00000000000096461539" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1840,7 +1356,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610143000 -0300" stop="20150610170000 -0300" channel="RHE" program_id="0000119084" event_id="000000100280239" series_key="00000000071807000000">
+<programme start="20150610144000 -0300" stop="20150610170000 -0300" channel="RHE" program_id="0000119084" event_id="00000000000096461540" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -1858,7 +1374,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150610170000 -0300" stop="20150610203000 -0300" channel="RHE" program_id="0000015967" event_id="000000100280240" series_key="00000000069485000000">
+<programme start="20150610170000 -0300" stop="20150610203000 -0300" channel="RHE" program_id="0000015967" event_id="00000000000096461541" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1876,7 +1392,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610203000 -0300" stop="20150610213000 -0300" channel="RHE" program_id="0000430159" event_id="000000100280242" series_key="00000000076587000000">
+<programme start="20150610203000 -0300" stop="20150610213000 -0300" channel="RHE" program_id="0000430159" event_id="00000000000096461542" series_key="00000000076587000000">
 <title lang="pt">Os Dez Mandamentos</title>
 <desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
 <credits>
@@ -1907,7 +1423,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150610213000 -0300" stop="20150610220000 -0300" channel="RHE" program_id="0000015966" event_id="000000100280243" series_key="00000000066234000000">
+<programme start="20150610213000 -0300" stop="20150610220000 -0300" channel="RHE" program_id="0000015966" event_id="00000000000096461543" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1925,7 +1441,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610220000 -0300" stop="20150611001500 -0300" channel="RHE" program_id="0000184059" event_id="000000100280244" series_key="">
+<programme start="20150610220000 -0300" stop="20150611001500 -0300" channel="RHE" program_id="0000184059" event_id="00000000000096461544" series_key="">
 <title lang="pt">Gugu</title>
 <title lang="en">Programa do Gugu</title>
 <desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
@@ -1948,7 +1464,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611001500 -0300" stop="20150611011500 -0300" channel="RHE" program_id="0000134042" event_id="000000100280245" series_key="00000000066236000000">
+<programme start="20150611001500 -0300" stop="20150611011500 -0300" channel="RHE" program_id="0000134042" event_id="00000000000096461545" series_key="00000000066236000000">
 <title lang="pt">Câmera Record</title>
 <desc>Na final do reality A Fazenda, o Câmera Record discute as grandes polêmicas dos participantes.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1966,7 +1482,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611011500 -0300" stop="20150611060000 -0300" channel="RHE" program_id="0000079020" event_id="000000100280246" series_key="">
+<programme start="20150611011500 -0300" stop="20150611060000 -0300" channel="RHE" program_id="0000079020" event_id="00000000000096461546" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -1984,7 +1500,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611060000 -0300" stop="20150611072800 -0300" channel="RHE" program_id="0000102196" event_id="000000100280247" series_key="00000000066243000000">
+<programme start="20150611060000 -0300" stop="20150611072800 -0300" channel="RHE" program_id="0000102196" event_id="00000000000096461547" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2002,7 +1518,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611072800 -0300" stop="20150611085500 -0300" channel="RHE" program_id="0000072913" event_id="000000100280248" series_key="00000000066244000000">
+<programme start="20150611072800 -0300" stop="20150611085500 -0300" channel="RHE" program_id="0000072913" event_id="00000000000096461548" series_key="00000000066244000000">
 <title lang="pt">São Paulo no Ar</title>
 <desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2020,7 +1536,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611085500 -0300" stop="20150611100000 -0300" channel="RHE" program_id="0000015945" event_id="000000100280249" series_key="00000000066238000000">
+<programme start="20150611085500 -0300" stop="20150611100000 -0300" channel="RHE" program_id="0000015945" event_id="00000000000096461549" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2038,7 +1554,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611100000 -0300" stop="20150611120000 -0300" channel="RHE" program_id="0000094577" event_id="000000100280250" series_key="00000000066226000000">
+<programme start="20150611100000 -0300" stop="20150611120000 -0300" channel="RHE" program_id="0000094577" event_id="00000000000096461550" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2056,7 +1572,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611120000 -0300" stop="20150611143000 -0300" channel="RHE" program_id="0000102196" event_id="000000100280251" series_key="00000000066243000000">
+<programme start="20150611120000 -0300" stop="20150611144000 -0300" channel="RHE" program_id="0000102196" event_id="00000000000096461551" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2074,7 +1590,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611143000 -0300" stop="20150611170000 -0300" channel="RHE" program_id="0000119084" event_id="000000100280252" series_key="00000000071807000000">
+<programme start="20150611144000 -0300" stop="20150611170000 -0300" channel="RHE" program_id="0000119084" event_id="00000000000096461552" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -2092,7 +1608,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150611170000 -0300" stop="20150611203000 -0300" channel="RHE" program_id="0000015967" event_id="000000100280254" series_key="00000000069485000000">
+<programme start="20150611170000 -0300" stop="20150611203000 -0300" channel="RHE" program_id="0000015967" event_id="00000000000096461553" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2110,7 +1626,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611203000 -0300" stop="20150611204000 -0300" channel="RHE" program_id="0000255383" event_id="000000100280255" series_key="">
+<programme start="20150611203000 -0300" stop="20150611204000 -0300" channel="RHE" program_id="0000255383" event_id="00000000000096461554" series_key="">
 <title lang="pt">Propaganda Partidária</title>
 <desc>Programa Político.</desc>
 <category lang="pt">Variedades</category>
@@ -2127,7 +1643,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611204000 -0300" stop="20150611213000 -0300" channel="RHE" program_id="0000430159" event_id="000000100280256" series_key="00000000076587000000">
+<programme start="20150611204000 -0300" stop="20150611213000 -0300" channel="RHE" program_id="0000430159" event_id="00000000000096461555" series_key="00000000076587000000">
 <title lang="pt">Os Dez Mandamentos</title>
 <desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
 <credits>
@@ -2158,7 +1674,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150611213000 -0300" stop="20150611223000 -0300" channel="RHE" program_id="0000015966" event_id="000000100280257" series_key="00000000066234000000">
+<programme start="20150611213000 -0300" stop="20150611223000 -0300" channel="RHE" program_id="0000015966" event_id="00000000000096461556" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2176,7 +1692,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611223000 -0300" stop="20150612001500 -0300" channel="RHE" program_id="0000184059" event_id="000000100280258" series_key="">
+<programme start="20150611223000 -0300" stop="20150612001500 -0300" channel="RHE" program_id="0000184059" event_id="00000000000096461557" series_key="">
 <title lang="pt">Gugu</title>
 <title lang="en">Programa do Gugu</title>
 <desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
@@ -2199,7 +1715,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612001500 -0300" stop="20150612011500 -0300" channel="RHE" program_id="0000410414" event_id="000000100280259" series_key="00000000061897000000">
+<programme start="20150612001500 -0300" stop="20150612011500 -0300" channel="RHE" program_id="0000410414" event_id="00000000000096461558" series_key="00000000061897000000">
 <title lang="pt">C.S.I.</title>
 <title lang="en">C.S.I.</title>
 <desc>C.S.I retrata o difícil cotidiano de um grupo de investigadores judiciais da cidade de Las Vegas, que resolve casos em que a polícia fracassou, analisando os locais onde foram cometidos os crimes.</desc>
@@ -2232,7 +1748,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150612011500 -0300" stop="20150612060000 -0300" channel="RHE" program_id="0000079020" event_id="000000100280260" series_key="">
+<programme start="20150612011500 -0300" stop="20150612060000 -0300" channel="RHE" program_id="0000079020" event_id="00000000000096461559" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -2250,7 +1766,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612060000 -0300" stop="20150612072800 -0300" channel="RHE" program_id="0000102196" event_id="000000100280261" series_key="00000000066243000000">
+<programme start="20150612060000 -0300" stop="20150612072800 -0300" channel="RHE" program_id="0000102196" event_id="00000000000096461560" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2268,7 +1784,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612072800 -0300" stop="20150612085500 -0300" channel="RHE" program_id="0000072913" event_id="000000100280262" series_key="00000000066244000000">
+<programme start="20150612072800 -0300" stop="20150612085500 -0300" channel="RHE" program_id="0000072913" event_id="00000000000096461561" series_key="00000000066244000000">
 <title lang="pt">São Paulo no Ar</title>
 <desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2286,7 +1802,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612085500 -0300" stop="20150612100000 -0300" channel="RHE" program_id="0000015945" event_id="000000100280263" series_key="00000000066238000000">
+<programme start="20150612085500 -0300" stop="20150612100000 -0300" channel="RHE" program_id="0000015945" event_id="00000000000096461562" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2304,7 +1820,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612100000 -0300" stop="20150612120000 -0300" channel="RHE" program_id="0000094577" event_id="000000100280264" series_key="00000000066226000000">
+<programme start="20150612100000 -0300" stop="20150612120000 -0300" channel="RHE" program_id="0000094577" event_id="00000000000096461563" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2322,7 +1838,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612120000 -0300" stop="20150612143000 -0300" channel="RHE" program_id="0000102196" event_id="000000100280265" series_key="00000000066243000000">
+<programme start="20150612120000 -0300" stop="20150612144000 -0300" channel="RHE" program_id="0000102196" event_id="00000000000096461564" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2340,7 +1856,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612143000 -0300" stop="20150612170000 -0300" channel="RHE" program_id="0000119084" event_id="000000100280266" series_key="00000000071807000000">
+<programme start="20150612144000 -0300" stop="20150612170000 -0300" channel="RHE" program_id="0000119084" event_id="00000000000096461565" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -2358,7 +1874,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150612170000 -0300" stop="20150612203000 -0300" channel="RHE" program_id="0000015967" event_id="000000100280267" series_key="00000000069485000000">
+<programme start="20150612170000 -0300" stop="20150612203000 -0300" channel="RHE" program_id="0000015967" event_id="00000000000096461566" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2376,7 +1892,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612203000 -0300" stop="20150612213000 -0300" channel="RHE" program_id="0000430159" event_id="000000100280268" series_key="00000000076587000000">
+<programme start="20150612203000 -0300" stop="20150612213000 -0300" channel="RHE" program_id="0000430159" event_id="00000000000096461567" series_key="00000000076587000000">
 <title lang="pt">Os Dez Mandamentos</title>
 <desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
 <credits>
@@ -2407,7 +1923,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150612213000 -0300" stop="20150612223000 -0300" channel="RHE" program_id="0000015966" event_id="000000100280269" series_key="00000000066234000000">
+<programme start="20150612213000 -0300" stop="20150612223000 -0300" channel="RHE" program_id="0000015966" event_id="00000000000096461568" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2425,7 +1941,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612223000 -0300" stop="20150613011500 -0300" channel="RHE" program_id="0000015989" event_id="000000100280270" series_key="">
+<programme start="20150612223000 -0300" stop="20150613011500 -0300" channel="RHE" program_id="0000015989" event_id="00000000000096461569" series_key="">
 <title lang="pt">Super Tela</title>
 <title lang="en">Super Tela</title>
 <desc>Aqui você vai assistir comédia, ação, suspense e muito mais!</desc>
@@ -2444,7 +1960,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150613011500 -0300" stop="20150613063000 -0300" channel="RHE" program_id="0000079020" event_id="000000100280271" series_key="">
+<programme start="20150613011500 -0300" stop="20150613063000 -0300" channel="RHE" program_id="0000079020" event_id="00000000000096461570" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -2462,7 +1978,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613063000 -0300" stop="20150613070000 -0300" channel="RHE" program_id="0000086030" event_id="000000100280272" series_key="00000000072808000000">
+<programme start="20150613063000 -0300" stop="20150613070000 -0300" channel="RHE" program_id="0000086030" event_id="00000000000096461571" series_key="00000000072808000000">
 <title lang="pt">Nosso Tempo</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2479,7 +1995,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613070000 -0300" stop="20150613101500 -0300" channel="RHE" program_id="0000291670" event_id="000000100280273" series_key="00000000066238000000">
+<programme start="20150613070000 -0300" stop="20150613101500 -0300" channel="RHE" program_id="0000291670" event_id="00000000000096461572" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil Especial</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2497,7 +2013,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613101500 -0300" stop="20150613120000 -0300" channel="RHE" program_id="0000179573" event_id="000000100280274" series_key="00000000072203000000">
+<programme start="20150613101500 -0300" stop="20150613120000 -0300" channel="RHE" program_id="0000179573" event_id="00000000000096461573" series_key="00000000072203000000">
 <title lang="pt">Esporte Fantástico</title>
 <desc>Rodrigo Faro aceita desafio de David Luiz e toma um banho de água fria: "Missão dada é missão cumprida".</desc>
 <category lang="pt">Jornalismo</category>
@@ -2515,7 +2031,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613120000 -0300" stop="20150613130000 -0300" channel="RHE" program_id="0000258837" event_id="000000100280275" series_key="00000000073664000000">
+<programme start="20150613120000 -0300" stop="20150613130000 -0300" channel="RHE" program_id="0000258837" event_id="00000000000096461574" series_key="00000000073664000000">
 <title lang="pt">The Love School</title>
 <desc>Um dos grandes diferenciais é a interatividade dos apresentadores com o público, através do e-mail, facebook, twitter e até mesmo exibindo vídeos-pergunta, enviadas pelos telespectadores.</desc>
 <category lang="pt">Variedades</category>
@@ -2533,7 +2049,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150613130000 -0300" stop="20150613141500 -0300" channel="RHE" program_id="0000112751" event_id="000000100280277" series_key="00000000051563000000">
+<programme start="20150613130000 -0300" stop="20150613141500 -0300" channel="RHE" program_id="0000112751" event_id="00000000000096461575" series_key="00000000051563000000">
 <title lang="pt">Todo Mundo Odeia o Chris</title>
 <title lang="en">Everybody Hates Chris</title>
 <desc>Chris Rock narra com muito bom humor suas experiências durante a adolescência como o mais velho de três irmãos, em histórias hilariantes, inteligentes e sarcásticas, como a própria personalidade do comediante.</desc>
@@ -2568,7 +2084,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150613141500 -0300" stop="20150613151500 -0300" channel="RHE" program_id="0000291669" event_id="000000100280278" series_key="00000000073666000000">
+<programme start="20150613141500 -0300" stop="20150613151500 -0300" channel="RHE" program_id="0000291669" event_id="00000000000096461576" series_key="00000000073666000000">
 <title lang="pt">Record Kids - Pica Pau</title>
 <desc>As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca!</desc>
 <category lang="pt">Infantil</category>
@@ -2586,7 +2102,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613151500 -0300" stop="20150613172000 -0300" channel="RHE" program_id="0000060694" event_id="000000100280279" series_key="">
+<programme start="20150613151500 -0300" stop="20150613172000 -0300" channel="RHE" program_id="0000060694" event_id="00000000000096461577" series_key="">
 <title lang="pt">Cine Aventura</title>
 <desc>Aqui você vai assistir comédia, ação, suspense e muito mais!</desc>
 <category lang="pt">Variedades</category>
@@ -2600,7 +2116,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613172000 -0300" stop="20150613194500 -0300" channel="RHE" program_id="0000349954" event_id="000000100280280" series_key="00000000072204000000">
+<programme start="20150613172000 -0300" stop="20150613194500 -0300" channel="RHE" program_id="0000349954" event_id="00000000000096461578" series_key="00000000072204000000">
 <title lang="pt">Cidade Alerta Especial</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2618,7 +2134,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613194500 -0300" stop="20150613203000 -0300" channel="RHE" program_id="0000352611" event_id="000000100280281" series_key="00000000072205000000">
+<programme start="20150613194500 -0300" stop="20150613203000 -0300" channel="RHE" program_id="0000352611" event_id="00000000000096461579" series_key="00000000072205000000">
 <title lang="pt">Jornal da Record Especial</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2636,7 +2152,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613203000 -0300" stop="20150613230000 -0300" channel="RHE" program_id="0000379634" event_id="000000100280282" series_key="00000000073462000000">
+<programme start="20150613203000 -0300" stop="20150613230000 -0300" channel="RHE" program_id="0000379634" event_id="00000000000096461580" series_key="00000000073462000000">
 <title lang="pt">Programa da Sabrina</title>
 <desc>Sabrina receberá convidados para entrevistas, assim como bandas que vão agitar a platéia. Também trará reportagens pra lá de interessantes, entrevistas exclusivas e muito mais.</desc>
 <date>2014</date>
@@ -2655,7 +2171,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150613230000 -0300" stop="20150614011500 -0300" channel="RHE" program_id="0000201830" event_id="000000100280284" series_key="00000000073667000000">
+<programme start="20150613230000 -0300" stop="20150614011500 -0300" channel="RHE" program_id="0000201830" event_id="00000000000096461581" series_key="00000000073667000000">
 <title lang="pt">Legendários</title>
 <desc>Apresentada e dirigida por Marcos Mion, a atração promete entreter, informar e alegrar o telespectador com tudo o que existe de mais criativo na televisão.</desc>
 <category lang="pt">Variedades</category>
@@ -2673,7 +2189,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150614011500 -0300" stop="20150614060000 -0300" channel="RHE" program_id="0000079020" event_id="000000100280285" series_key="">
+<programme start="20150614011500 -0300" stop="20150614060000 -0300" channel="RHE" program_id="0000079020" event_id="00000000000096461582" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -2691,7 +2207,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614060000 -0300" stop="20150614063000 -0300" channel="RHE" program_id="0000015977" event_id="000000100280286" series_key="00000000073677000000">
+<programme start="20150614060000 -0300" stop="20150614063000 -0300" channel="RHE" program_id="0000015977" event_id="00000000000096461583" series_key="00000000073677000000">
 <title lang="pt">Santo Culto em seu Lar</title>
 <title lang="en">Santo Culto em seu Lar</title>
 <desc>Pregações abordando um tema específico, discutindo sempre em base de texto bíblico.</desc>
@@ -2710,7 +2226,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150614063000 -0300" stop="20150614093000 -0300" channel="RHE" program_id="0000098194" event_id="000000100280287" series_key="00000000073678000000">
+<programme start="20150614063000 -0300" stop="20150614093000 -0300" channel="RHE" program_id="0000098194" event_id="00000000000096461584" series_key="00000000073678000000">
 <title lang="pt">Desenhos Bíblicos</title>
 <title lang="en">Desenhos Bíblicos</title>
 <desc>Animações das histórias bíblicas.</desc>
@@ -2726,7 +2242,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614093000 -0300" stop="20150614110000 -0300" channel="RHE" program_id="0000291669" event_id="000000100280288" series_key="00000000073666000000">
+<programme start="20150614093000 -0300" stop="20150614110000 -0300" channel="RHE" program_id="0000291669" event_id="00000000000096461585" series_key="00000000073666000000">
 <title lang="pt">Record Kids - Pica Pau</title>
 <desc>As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca!</desc>
 <category lang="pt">Infantil</category>
@@ -2744,7 +2260,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614110000 -0300" stop="20150614153000 -0300" channel="RHE" program_id="0000017914" event_id="000000100280289" series_key="00000000072949000000">
+<programme start="20150614110000 -0300" stop="20150614153000 -0300" channel="RHE" program_id="0000017914" event_id="00000000000096461586" series_key="00000000072949000000">
 <title lang="pt">Domingo Show</title>
 <desc>Geraldo e sua equipe estarão a postos para noticiar, ao vivo, qualquer evento que esteja acontecendo, conferindo agilidade ao Domingo Show.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2762,7 +2278,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614153000 -0300" stop="20150614193000 -0300" channel="RHE" program_id="0000379635" event_id="000000100280290" series_key="00000000073463000000">
+<programme start="20150614153000 -0300" stop="20150614193000 -0300" channel="RHE" program_id="0000379635" event_id="00000000000096461587" series_key="00000000073463000000">
 <title lang="pt">Hora do Faro</title>
 <desc>O mesmo Rodrigo Faro talentoso, irreverente e divertido de sempre em um programa totalmente novo! Hora do Faro vai agitar as tardes de domingo com a alegria e a emoção já conhecidas do público de casa.</desc>
 <date>2014</date>
@@ -2781,7 +2297,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150614193000 -0300" stop="20150614231500 -0300" channel="RHE" program_id="0000074950" event_id="000000100280291" series_key="00000000072208000000">
+<programme start="20150614193000 -0300" stop="20150614231500 -0300" channel="RHE" program_id="0000074950" event_id="00000000000096461588" series_key="00000000072208000000">
 <title lang="pt">Domingo Espetacular</title>
 <title lang="en">Domingo Espetacular</title>
 <desc>Um jornalismo ágil e moderno, com reportagens de denúncia, comportamento, ciência, turismo, medicina e aventura, além de um panorama geral dos fatos que marcaram a semana.</desc>
@@ -2800,7 +2316,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614231500 -0300" stop="20150615001500 -0300" channel="RHE" program_id="0000420250" event_id="000000100280292" series_key="00000000076191000000">
+<programme start="20150614231500 -0300" stop="20150615001500 -0300" channel="RHE" program_id="0000420250" event_id="00000000000096461589" series_key="00000000076191000000">
 <title lang="pt">Repórter em Ação</title>
 <desc>Estreia do Repórter em Ação mostra expedição para desbravar os mistérios da Amazônia.</desc>
 <credits>
@@ -2822,7 +2338,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615001500 -0300" stop="20150615011500 -0300" channel="RHE" program_id="0000271995" event_id="000000100280293" series_key="00000000072212000000">
+<programme start="20150615001500 -0300" stop="20150615011500 -0300" channel="RHE" program_id="0000271995" event_id="00000000000096461590" series_key="00000000072212000000">
 <title lang="pt">Roberto Justus +</title>
 <desc>Justus receber César Filho, o novo contratado da Record, Zilu e Angel K no talk show da Record.</desc>
 <date>2015</date>
@@ -2841,7 +2357,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150615011500 -0300" stop="20150615060000 -0300" channel="RHE" program_id="0000079020" event_id="000000100280294" series_key="">
+<programme start="20150615011500 -0300" stop="20150615060000 -0300" channel="RHE" program_id="0000079020" event_id="00000000000096461591" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -2859,7 +2375,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615060000 -0300" stop="20150615072800 -0300" channel="RHE" program_id="0000102196" event_id="000000100280296" series_key="00000000066243000000">
+<programme start="20150615060000 -0300" stop="20150615072800 -0300" channel="RHE" program_id="0000102196" event_id="00000000000096461592" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2877,7 +2393,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615072800 -0300" stop="20150615085500 -0300" channel="RHE" program_id="0000072913" event_id="000000100280297" series_key="00000000066244000000">
+<programme start="20150615072800 -0300" stop="20150615085500 -0300" channel="RHE" program_id="0000072913" event_id="00000000000096461593" series_key="00000000066244000000">
 <title lang="pt">São Paulo no Ar</title>
 <desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2895,7 +2411,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615085500 -0300" stop="20150615100000 -0300" channel="RHE" program_id="0000015945" event_id="000000100280298" series_key="00000000066238000000">
+<programme start="20150615085500 -0300" stop="20150615100000 -0300" channel="RHE" program_id="0000015945" event_id="00000000000096461594" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2913,7 +2429,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615100000 -0300" stop="20150615120000 -0300" channel="RHE" program_id="0000094577" event_id="000000100280299" series_key="00000000066226000000">
+<programme start="20150615100000 -0300" stop="20150615120000 -0300" channel="RHE" program_id="0000094577" event_id="00000000000096461595" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2931,7 +2447,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615120000 -0300" stop="20150615143000 -0300" channel="RHE" program_id="0000102196" event_id="000000100280300" series_key="00000000066243000000">
+<programme start="20150615120000 -0300" stop="20150615143000 -0300" channel="RHE" program_id="0000102196" event_id="00000000000096461596" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2949,7 +2465,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615143000 -0300" stop="20150615170000 -0300" channel="RHE" program_id="0000119084" event_id="000000100280301" series_key="00000000071807000000">
+<programme start="20150615143000 -0300" stop="20150615170000 -0300" channel="RHE" program_id="0000119084" event_id="00000000000096461597" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -2967,7 +2483,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150615170000 -0300" stop="20150615203000 -0300" channel="RHE" program_id="0000015967" event_id="000000100280303" series_key="00000000069485000000">
+<programme start="20150615170000 -0300" stop="20150615203000 -0300" channel="RHE" program_id="0000015967" event_id="00000000000096461598" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2985,7 +2501,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615203000 -0300" stop="20150615213000 -0300" channel="RHE" program_id="0000430159" event_id="000000100280304" series_key="00000000076587000000">
+<programme start="20150615203000 -0300" stop="20150615213000 -0300" channel="RHE" program_id="0000430159" event_id="00000000000096461599" series_key="00000000076587000000">
 <title lang="pt">Os Dez Mandamentos</title>
 <desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
 <credits>
@@ -3016,7 +2532,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150615213000 -0300" stop="20150615223000 -0300" channel="RHE" program_id="0000015966" event_id="000000100280305" series_key="00000000066234000000">
+<programme start="20150615213000 -0300" stop="20150615223000 -0300" channel="RHE" program_id="0000015966" event_id="00000000000096461600" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3034,7 +2550,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615223000 -0300" stop="20150615233000 -0300" channel="RHE" program_id="0000380369" event_id="000000100280306" series_key="00000000073493000000">
+<programme start="20150615223000 -0300" stop="20150615233000 -0300" channel="RHE" program_id="0000380369" event_id="00000000000096461601" series_key="00000000073493000000">
 <title lang="pt">Repórter Record Investigação</title>
 <desc>O Repórter Record Investigação, exibe reportagem especial com imagens e depoimentos exclusivos sobre a trajetória dos dois brasileiros condenados à morte, por fuzilamento, na Indonésia.</desc>
 <date>2014</date>
@@ -3053,7 +2569,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150615233000 -0300" stop="20150616001500 -0300" channel="RHE" program_id="0000375477" event_id="000000100280307" series_key="00000000065728000000">
+<programme start="20150615233000 -0300" stop="20150616001500 -0300" channel="RHE" program_id="0000375477" event_id="00000000000096461602" series_key="00000000065728000000">
 <title lang="pt">Grimm - Contos de Terror</title>
 <title lang="en">Grimm</title>
 <desc>Esse drama policial incorpora as histórias dos contos de fadas dos irmãos Grimm. Um policial chamado Nick começa a ver humanos como animais e quer proteger a sociedade deles.</desc>
@@ -3085,7 +2601,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150616001500 -0300" stop="20150616011500 -0300" channel="RHE" program_id="0000375477" event_id="000000100280308" series_key="00000000065728000000">
+<programme start="20150616001500 -0300" stop="20150616011500 -0300" channel="RHE" program_id="0000375477" event_id="00000000000096461603" series_key="00000000065728000000">
 <title lang="pt">Grimm - Contos de Terror</title>
 <title lang="en">Grimm</title>
 <desc>Esse drama policial incorpora as histórias dos contos de fadas dos irmãos Grimm. Um policial chamado Nick começa a ver humanos como animais e quer proteger a sociedade deles.</desc>
@@ -3117,7 +2633,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150616011500 -0300" stop="20150616060000 -0300" channel="RHE" program_id="0000079020" event_id="000000100280309" series_key="">
+<programme start="20150616011500 -0300" stop="20150616060000 -0300" channel="RHE" program_id="0000079020" event_id="00000000000096461604" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -3135,7 +2651,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616060000 -0300" stop="20150616072800 -0300" channel="RHE" program_id="0000102196" event_id="000000100280310" series_key="00000000066243000000">
+<programme start="20150616060000 -0300" stop="20150616072800 -0300" channel="RHE" program_id="0000102196" event_id="00000000000096461605" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3153,7 +2669,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616072800 -0300" stop="20150616085500 -0300" channel="RHE" program_id="0000072913" event_id="000000100280311" series_key="00000000066244000000">
+<programme start="20150616072800 -0300" stop="20150616085500 -0300" channel="RHE" program_id="0000072913" event_id="00000000000096461606" series_key="00000000066244000000">
 <title lang="pt">São Paulo no Ar</title>
 <desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3171,7 +2687,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616085500 -0300" stop="20150616100000 -0300" channel="RHE" program_id="0000015945" event_id="000000100280312" series_key="00000000066238000000">
+<programme start="20150616085500 -0300" stop="20150616100000 -0300" channel="RHE" program_id="0000015945" event_id="00000000000096461607" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3189,7 +2705,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616100000 -0300" stop="20150616120000 -0300" channel="RHE" program_id="0000094577" event_id="000000100280313" series_key="00000000066226000000">
+<programme start="20150616100000 -0300" stop="20150616120000 -0300" channel="RHE" program_id="0000094577" event_id="00000000000096461608" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3207,7 +2723,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616120000 -0300" stop="20150616143000 -0300" channel="RHE" program_id="0000102196" event_id="000000100280314" series_key="00000000066243000000">
+<programme start="20150616120000 -0300" stop="20150616143000 -0300" channel="RHE" program_id="0000102196" event_id="00000000000096461609" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3225,7 +2741,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616143000 -0300" stop="20150616170000 -0300" channel="RHE" program_id="0000119084" event_id="000000100280315" series_key="00000000071807000000">
+<programme start="20150616143000 -0300" stop="20150616170000 -0300" channel="RHE" program_id="0000119084" event_id="00000000000096461610" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -3243,7 +2759,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150616170000 -0300" stop="20150616203000 -0300" channel="RHE" program_id="0000015967" event_id="000000100280316" series_key="00000000069485000000">
+<programme start="20150616170000 -0300" stop="20150616203000 -0300" channel="RHE" program_id="0000015967" event_id="00000000000096461611" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3261,7 +2777,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616203000 -0300" stop="20150616204000 -0300" channel="RHE" program_id="0000255383" event_id="000000100280317" series_key="">
+<programme start="20150616203000 -0300" stop="20150616204000 -0300" channel="RHE" program_id="0000255383" event_id="00000000000096461612" series_key="">
 <title lang="pt">Propaganda Partidária</title>
 <desc>Programa Político.</desc>
 <category lang="pt">Variedades</category>
@@ -3278,7 +2794,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616204000 -0300" stop="20150616213000 -0300" channel="RHE" program_id="0000430159" event_id="000000100280318" series_key="00000000076587000000">
+<programme start="20150616204000 -0300" stop="20150616213000 -0300" channel="RHE" program_id="0000430159" event_id="00000000000096461613" series_key="00000000076587000000">
 <title lang="pt">Os Dez Mandamentos</title>
 <desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
 <credits>
@@ -3309,7 +2825,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150616213000 -0300" stop="20150616223000 -0300" channel="RHE" program_id="0000015966" event_id="000000100280319" series_key="00000000066234000000">
+<programme start="20150616213000 -0300" stop="20150616223000 -0300" channel="RHE" program_id="0000015966" event_id="00000000000096461614" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3327,7 +2843,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616223000 -0300" stop="20150617001500 -0300" channel="RHE" program_id="0000184059" event_id="000000100280320" series_key="">
+<programme start="20150616223000 -0300" stop="20150617001500 -0300" channel="RHE" program_id="0000184059" event_id="00000000000096461615" series_key="">
 <title lang="pt">Gugu</title>
 <title lang="en">Programa do Gugu</title>
 <desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
@@ -3350,7 +2866,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617001500 -0300" stop="20150617011500 -0300" channel="RHE" program_id="0000145417" event_id="000000100280321" series_key="00000000026360000000">
+<programme start="20150617001500 -0300" stop="20150617011500 -0300" channel="RHE" program_id="0000145417" event_id="00000000000096461616" series_key="00000000026360000000">
 <title lang="pt">Breaking Bad</title>
 <title lang="en">Breaking Bad</title>
 <desc>Walter é um professor de química, casado e com um filho que tem paralisia cerebral. Ao descobrir que está com uma grave doença, começa a juntar o dinheiro para deixar para sua família quando ele partir.</desc>
@@ -3383,7 +2899,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150617011500 -0300" stop="20150617060000 -0300" channel="RHE" program_id="0000079020" event_id="000000100280322" series_key="">
+<programme start="20150617011500 -0300" stop="20150617060000 -0300" channel="RHE" program_id="0000079020" event_id="00000000000096461617" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -3401,7 +2917,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617060000 -0300" stop="20150617072800 -0300" channel="RHE" program_id="0000102196" event_id="000000100280323" series_key="00000000066243000000">
+<programme start="20150617060000 -0300" stop="20150617072800 -0300" channel="RHE" program_id="0000102196" event_id="00000000000096461618" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3419,7 +2935,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617072800 -0300" stop="20150617085500 -0300" channel="RHE" program_id="0000072913" event_id="000000100280324" series_key="00000000066244000000">
+<programme start="20150617072800 -0300" stop="20150617085500 -0300" channel="RHE" program_id="0000072913" event_id="00000000000096461619" series_key="00000000066244000000">
 <title lang="pt">São Paulo no Ar</title>
 <desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3437,7 +2953,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617085500 -0300" stop="20150617100000 -0300" channel="RHE" program_id="0000015945" event_id="000000100280325" series_key="00000000066238000000">
+<programme start="20150617085500 -0300" stop="20150617100000 -0300" channel="RHE" program_id="0000015945" event_id="00000000000096461620" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3455,7 +2971,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617100000 -0300" stop="20150617120000 -0300" channel="RHE" program_id="0000094577" event_id="000000100280326" series_key="00000000066226000000">
+<programme start="20150617100000 -0300" stop="20150617120000 -0300" channel="RHE" program_id="0000094577" event_id="00000000000096461621" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3473,7 +2989,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617120000 -0300" stop="20150617143000 -0300" channel="RHE" program_id="0000102196" event_id="000000100280327" series_key="00000000066243000000">
+<programme start="20150617120000 -0300" stop="20150617143000 -0300" channel="RHE" program_id="0000102196" event_id="00000000000096461622" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3491,7 +3007,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617143000 -0300" stop="20150617170000 -0300" channel="RHE" program_id="0000119084" event_id="000000100280328" series_key="00000000071807000000">
+<programme start="20150617143000 -0300" stop="20150617170000 -0300" channel="RHE" program_id="0000119084" event_id="00000000000096461623" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -3509,7 +3025,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150617170000 -0300" stop="20150617203000 -0300" channel="RHE" program_id="0000015967" event_id="000000100280329" series_key="00000000069485000000">
+<programme start="20150617170000 -0300" stop="20150617203000 -0300" channel="RHE" program_id="0000015967" event_id="00000000000096461624" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3527,7 +3043,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617203000 -0300" stop="20150617213000 -0300" channel="RHE" program_id="0000430159" event_id="000000100280330" series_key="00000000076587000000">
+<programme start="20150617203000 -0300" stop="20150617213000 -0300" channel="RHE" program_id="0000430159" event_id="00000000000096461625" series_key="00000000076587000000">
 <title lang="pt">Os Dez Mandamentos</title>
 <desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
 <credits>
@@ -3558,7 +3074,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150617213000 -0300" stop="20150617220000 -0300" channel="RHE" program_id="0000015966" event_id="000000100280331" series_key="00000000066234000000">
+<programme start="20150617213000 -0300" stop="20150617220000 -0300" channel="RHE" program_id="0000015966" event_id="00000000000096461626" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3576,7 +3092,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617220000 -0300" stop="20150618001500 -0300" channel="RHE" program_id="0000184059" event_id="000000100280332" series_key="">
+<programme start="20150617220000 -0300" stop="20150618001500 -0300" channel="RHE" program_id="0000184059" event_id="00000000000096461627" series_key="">
 <title lang="pt">Gugu</title>
 <title lang="en">Programa do Gugu</title>
 <desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
@@ -3599,7 +3115,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618001500 -0300" stop="20150618011500 -0300" channel="RHE" program_id="0000134042" event_id="000000100280333" series_key="00000000066236000000">
+<programme start="20150618001500 -0300" stop="20150618011500 -0300" channel="RHE" program_id="0000134042" event_id="00000000000096461628" series_key="00000000066236000000">
 <title lang="pt">Câmera Record</title>
 <desc>Na final do reality A Fazenda, o Câmera Record discute as grandes polêmicas dos participantes.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3617,7 +3133,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618011500 -0300" stop="20150618060000 -0300" channel="RHE" program_id="0000079020" event_id="000000100280334" series_key="">
+<programme start="20150618011500 -0300" stop="20150618060000 -0300" channel="RHE" program_id="0000079020" event_id="00000000000096461629" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -3635,7 +3151,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618060000 -0300" stop="20150618072800 -0300" channel="RHE" program_id="0000102196" event_id="000000100280335" series_key="00000000066243000000">
+<programme start="20150618060000 -0300" stop="20150618072800 -0300" channel="RHE" program_id="0000102196" event_id="00000000000096461630" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3653,7 +3169,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618072800 -0300" stop="20150618085500 -0300" channel="RHE" program_id="0000072913" event_id="000000100280336" series_key="00000000066244000000">
+<programme start="20150618072800 -0300" stop="20150618085500 -0300" channel="RHE" program_id="0000072913" event_id="00000000000096461631" series_key="00000000066244000000">
 <title lang="pt">São Paulo no Ar</title>
 <desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3671,7 +3187,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618085500 -0300" stop="20150618100000 -0300" channel="RHE" program_id="0000015945" event_id="000000100280337" series_key="00000000066238000000">
+<programme start="20150618085500 -0300" stop="20150618100000 -0300" channel="RHE" program_id="0000015945" event_id="00000000000096461632" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3689,7 +3205,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618100000 -0300" stop="20150618120000 -0300" channel="RHE" program_id="0000094577" event_id="000000100280338" series_key="00000000066226000000">
+<programme start="20150618100000 -0300" stop="20150618120000 -0300" channel="RHE" program_id="0000094577" event_id="00000000000096461633" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3707,7 +3223,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618120000 -0300" stop="20150618143000 -0300" channel="RHE" program_id="0000102196" event_id="000000100280339" series_key="00000000066243000000">
+<programme start="20150618120000 -0300" stop="20150618143000 -0300" channel="RHE" program_id="0000102196" event_id="00000000000096461634" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3725,7 +3241,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618143000 -0300" stop="20150618170000 -0300" channel="RHE" program_id="0000119084" event_id="000000100280340" series_key="00000000071807000000">
+<programme start="20150618143000 -0300" stop="20150618170000 -0300" channel="RHE" program_id="0000119084" event_id="00000000000096461635" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -3743,7 +3259,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150618170000 -0300" stop="20150618203000 -0300" channel="RHE" program_id="0000015967" event_id="000000100280341" series_key="00000000069485000000">
+<programme start="20150618170000 -0300" stop="20150618203000 -0300" channel="RHE" program_id="0000015967" event_id="00000000000096461636" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3761,7 +3277,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618203000 -0300" stop="20150618204000 -0300" channel="RHE" program_id="0000255383" event_id="000000100280342" series_key="">
+<programme start="20150618203000 -0300" stop="20150618204000 -0300" channel="RHE" program_id="0000255383" event_id="00000000000096461637" series_key="">
 <title lang="pt">Propaganda Partidária</title>
 <desc>Programa Político.</desc>
 <category lang="pt">Variedades</category>
@@ -3778,7 +3294,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618204000 -0300" stop="20150618213000 -0300" channel="RHE" program_id="0000430159" event_id="000000100280343" series_key="00000000076587000000">
+<programme start="20150618204000 -0300" stop="20150618213000 -0300" channel="RHE" program_id="0000430159" event_id="00000000000096461638" series_key="00000000076587000000">
 <title lang="pt">Os Dez Mandamentos</title>
 <desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
 <credits>
@@ -3809,7 +3325,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150618213000 -0300" stop="20150618223000 -0300" channel="RHE" program_id="0000015966" event_id="000000100280344" series_key="00000000066234000000">
+<programme start="20150618213000 -0300" stop="20150618223000 -0300" channel="RHE" program_id="0000015966" event_id="00000000000096461639" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3827,7 +3343,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618223000 -0300" stop="20150619001500 -0300" channel="RHE" program_id="0000184059" event_id="000000100280345" series_key="">
+<programme start="20150618223000 -0300" stop="20150619001500 -0300" channel="RHE" program_id="0000184059" event_id="00000000000096461640" series_key="">
 <title lang="pt">Gugu</title>
 <title lang="en">Programa do Gugu</title>
 <desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
@@ -3850,7 +3366,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619001500 -0300" stop="20150619011500 -0300" channel="RHE" program_id="0000410414" event_id="000000100280346" series_key="00000000061897000000">
+<programme start="20150619001500 -0300" stop="20150619011500 -0300" channel="RHE" program_id="0000410414" event_id="00000000000096461641" series_key="00000000061897000000">
 <title lang="pt">C.S.I.</title>
 <title lang="en">C.S.I.</title>
 <desc>C.S.I retrata o difícil cotidiano de um grupo de investigadores judiciais da cidade de Las Vegas, que resolve casos em que a polícia fracassou, analisando os locais onde foram cometidos os crimes.</desc>
@@ -3883,7 +3399,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150619011500 -0300" stop="20150619060000 -0300" channel="RHE" program_id="0000079020" event_id="000000100280347" series_key="">
+<programme start="20150619011500 -0300" stop="20150619060000 -0300" channel="RHE" program_id="0000079020" event_id="00000000000096461642" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -3901,7 +3417,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619060000 -0300" stop="20150619072800 -0300" channel="RHE" program_id="0000102196" event_id="000000100280348" series_key="00000000066243000000">
+<programme start="20150619060000 -0300" stop="20150619072800 -0300" channel="RHE" program_id="0000102196" event_id="00000000000096461643" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3919,7 +3435,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619072800 -0300" stop="20150619085500 -0300" channel="RHE" program_id="0000072913" event_id="000000100280349" series_key="00000000066244000000">
+<programme start="20150619072800 -0300" stop="20150619085500 -0300" channel="RHE" program_id="0000072913" event_id="00000000000096461644" series_key="00000000066244000000">
 <title lang="pt">São Paulo no Ar</title>
 <desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3937,7 +3453,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619085500 -0300" stop="20150619100000 -0300" channel="RHE" program_id="0000015945" event_id="000000100280350" series_key="00000000066238000000">
+<programme start="20150619085500 -0300" stop="20150619100000 -0300" channel="RHE" program_id="0000015945" event_id="00000000000096461645" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3955,7 +3471,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619100000 -0300" stop="20150619120000 -0300" channel="RHE" program_id="0000094577" event_id="000000100280351" series_key="00000000066226000000">
+<programme start="20150619100000 -0300" stop="20150619120000 -0300" channel="RHE" program_id="0000094577" event_id="00000000000096461646" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3973,7 +3489,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619120000 -0300" stop="20150619143000 -0300" channel="RHE" program_id="0000102196" event_id="000000100280352" series_key="00000000066243000000">
+<programme start="20150619120000 -0300" stop="20150619143000 -0300" channel="RHE" program_id="0000102196" event_id="00000000000096461647" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3991,7 +3507,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619143000 -0300" stop="20150619170000 -0300" channel="RHE" program_id="0000119084" event_id="000000100280353" series_key="00000000071807000000">
+<programme start="20150619143000 -0300" stop="20150619170000 -0300" channel="RHE" program_id="0000119084" event_id="00000000000096461648" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -4009,7 +3525,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150619170000 -0300" stop="20150619203000 -0300" channel="RHE" program_id="0000015967" event_id="000000100280354" series_key="00000000069485000000">
+<programme start="20150619170000 -0300" stop="20150619203000 -0300" channel="RHE" program_id="0000015967" event_id="00000000000096461649" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4027,7 +3543,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619203000 -0300" stop="20150619213000 -0300" channel="RHE" program_id="0000430159" event_id="000000100280355" series_key="00000000076587000000">
+<programme start="20150619203000 -0300" stop="20150619213000 -0300" channel="RHE" program_id="0000430159" event_id="00000000000096461650" series_key="00000000076587000000">
 <title lang="pt">Os Dez Mandamentos</title>
 <desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
 <credits>
@@ -4058,7 +3574,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150619213000 -0300" stop="20150619223000 -0300" channel="RHE" program_id="0000015966" event_id="000000100280356" series_key="00000000066234000000">
+<programme start="20150619213000 -0300" stop="20150619223000 -0300" channel="RHE" program_id="0000015966" event_id="00000000000096461651" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4076,7 +3592,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619223000 -0300" stop="20150620011500 -0300" channel="RHE" program_id="0000015989" event_id="000000100280357" series_key="">
+<programme start="20150619223000 -0300" stop="20150620011500 -0300" channel="RHE" program_id="0000015989" event_id="00000000000096461652" series_key="">
 <title lang="pt">Super Tela</title>
 <title lang="en">Super Tela</title>
 <desc>Aqui você vai assistir comédia, ação, suspense e muito mais!</desc>
@@ -4095,7 +3611,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150620011500 -0300" stop="20150620063000 -0300" channel="RHE" program_id="0000079020" event_id="000000100280358" series_key="">
+<programme start="20150620011500 -0300" stop="20150620063000 -0300" channel="RHE" program_id="0000079020" event_id="00000000000096461653" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -4113,7 +3629,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150620063000 -0300" stop="20150620070000 -0300" channel="RHE" program_id="0000086030" event_id="000000100280359" series_key="00000000072808000000">
+<programme start="20150620063000 -0300" stop="20150620070000 -0300" channel="RHE" program_id="0000086030" event_id="00000000000096461654" series_key="00000000072808000000">
 <title lang="pt">Nosso Tempo</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -4130,7 +3646,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150620070000 -0300" stop="20150620101500 -0300" channel="RHE" program_id="0000291670" event_id="000000100280360" series_key="00000000066238000000">
+<programme start="20150620070000 -0300" stop="20150620101500 -0300" channel="RHE" program_id="0000291670" event_id="00000000000096461655" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil Especial</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4148,7 +3664,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150620101500 -0300" stop="20150620120000 -0300" channel="RHE" program_id="0000179573" event_id="000000100280361" series_key="00000000072203000000">
+<programme start="20150620101500 -0300" stop="20150620120000 -0300" channel="RHE" program_id="0000179573" event_id="00000000000096461656" series_key="00000000072203000000">
 <title lang="pt">Esporte Fantástico</title>
 <desc>Rodrigo Faro aceita desafio de David Luiz e toma um banho de água fria: "Missão dada é missão cumprida".</desc>
 <category lang="pt">Jornalismo</category>
@@ -4166,7 +3682,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150620120000 -0300" stop="20150620130000 -0300" channel="RHE" program_id="0000258837" event_id="000000100280362" series_key="00000000073664000000">
+<programme start="20150620120000 -0300" stop="20150620130000 -0300" channel="RHE" program_id="0000258837" event_id="00000000000096461657" series_key="00000000073664000000">
 <title lang="pt">The Love School</title>
 <desc>Um dos grandes diferenciais é a interatividade dos apresentadores com o público, através do e-mail, facebook, twitter e até mesmo exibindo vídeos-pergunta, enviadas pelos telespectadores.</desc>
 <category lang="pt">Variedades</category>
@@ -4184,7 +3700,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150620130000 -0300" stop="20150620141500 -0300" channel="RHE" program_id="0000112751" event_id="000000100280363" series_key="00000000051563000000">
+<programme start="20150620130000 -0300" stop="20150620141500 -0300" channel="RHE" program_id="0000112751" event_id="00000000000096461658" series_key="00000000051563000000">
 <title lang="pt">Todo Mundo Odeia o Chris</title>
 <title lang="en">Everybody Hates Chris</title>
 <desc>Chris Rock narra com muito bom humor suas experiências durante a adolescência como o mais velho de três irmãos, em histórias hilariantes, inteligentes e sarcásticas, como a própria personalidade do comediante.</desc>
@@ -4219,7 +3735,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150620141500 -0300" stop="20150620151500 -0300" channel="RHE" program_id="0000291669" event_id="000000100280364" series_key="00000000073666000000">
+<programme start="20150620141500 -0300" stop="20150620151500 -0300" channel="RHE" program_id="0000291669" event_id="00000000000096461659" series_key="00000000073666000000">
 <title lang="pt">Record Kids - Pica Pau</title>
 <desc>As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca!</desc>
 <category lang="pt">Infantil</category>
@@ -4237,7 +3753,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150620151500 -0300" stop="20150620172000 -0300" channel="RHE" program_id="0000060694" event_id="000000100280365" series_key="">
+<programme start="20150620151500 -0300" stop="20150620172000 -0300" channel="RHE" program_id="0000060694" event_id="00000000000096461660" series_key="">
 <title lang="pt">Cine Aventura</title>
 <desc>Aqui você vai assistir comédia, ação, suspense e muito mais!</desc>
 <category lang="pt">Variedades</category>
@@ -4251,7 +3767,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150620172000 -0300" stop="20150620194500 -0300" channel="RHE" program_id="0000349954" event_id="000000100280366" series_key="00000000072204000000">
+<programme start="20150620172000 -0300" stop="20150620194500 -0300" channel="RHE" program_id="0000349954" event_id="00000000000096461661" series_key="00000000072204000000">
 <title lang="pt">Cidade Alerta Especial</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4269,7 +3785,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150620194500 -0300" stop="20150620203000 -0300" channel="RHE" program_id="0000352611" event_id="000000100280367" series_key="00000000072205000000">
+<programme start="20150620194500 -0300" stop="20150620203000 -0300" channel="RHE" program_id="0000352611" event_id="00000000000096461662" series_key="00000000072205000000">
 <title lang="pt">Jornal da Record Especial</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4287,7 +3803,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150620203000 -0300" stop="20150620230000 -0300" channel="RHE" program_id="0000379634" event_id="000000100280368" series_key="00000000073462000000">
+<programme start="20150620203000 -0300" stop="20150620230000 -0300" channel="RHE" program_id="0000379634" event_id="00000000000096461663" series_key="00000000073462000000">
 <title lang="pt">Programa da Sabrina</title>
 <desc>Sabrina receberá convidados para entrevistas, assim como bandas que vão agitar a platéia. Também trará reportagens pra lá de interessantes, entrevistas exclusivas e muito mais.</desc>
 <date>2014</date>
@@ -4304,6 +3820,701 @@
 </video>
 <rating system="Advisory">
 <value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150620230000 -0300" stop="20150621011500 -0300" channel="RHE" program_id="0000201830" event_id="00000000000096461664" series_key="00000000073667000000">
+<title lang="pt">Legendários</title>
+<desc>Apresentada e dirigida por Marcos Mion, a atração promete entreter, informar e alegrar o telespectador com tudo o que existe de mais criativo na televisão.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000073667.jpg</image_name>
+<image_broadcast>00000000073667</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150621011500 -0300" stop="20150621060000 -0300" channel="RHE" program_id="0000079020" event_id="00000000000096461665" series_key="">
+<title lang="pt">Programação IURD</title>
+<desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000079020.jpg</image_name>
+<image_broadcast>0000079020</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150621060000 -0300" stop="20150621063000 -0300" channel="RHE" program_id="0000015977" event_id="00000000000096461666" series_key="00000000073677000000">
+<title lang="pt">Santo Culto em seu Lar</title>
+<title lang="en">Santo Culto em seu Lar</title>
+<desc>Pregações abordando um tema específico, discutindo sempre em base de texto bíblico.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">00000000073677.jpg</image_name>
+<image_broadcast>00000000073677</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150621063000 -0300" stop="20150621093000 -0300" channel="RHE" program_id="0000098194" event_id="00000000000096461667" series_key="00000000073678000000">
+<title lang="pt">Desenhos Bíblicos</title>
+<title lang="en">Desenhos Bíblicos</title>
+<desc>Animações das histórias bíblicas.</desc>
+<category lang="pt">Infantil</category>
+<category lang="pt">Animação</category>
+<image>
+<image_name position="1">00000000073678.jpg</image_name>
+<image_broadcast>00000000073678</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150621093000 -0300" stop="20150621110000 -0300" channel="RHE" program_id="0000291669" event_id="00000000000096461668" series_key="00000000073666000000">
+<title lang="pt">Record Kids - Pica Pau</title>
+<desc>As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca!</desc>
+<category lang="pt">Infantil</category>
+<category lang="pt">Desenho</category>
+<image>
+<image_name position="1">00000000073666.jpg</image_name>
+<image_broadcast>00000000073666</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150621110000 -0300" stop="20150621153000 -0300" channel="RHE" program_id="0000017914" event_id="00000000000096461669" series_key="00000000072949000000">
+<title lang="pt">Domingo Show</title>
+<desc>Geraldo e sua equipe estarão a postos para noticiar, ao vivo, qualquer evento que esteja acontecendo, conferindo agilidade ao Domingo Show.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000072949.jpg</image_name>
+<image_broadcast>00000000072949</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150621153000 -0300" stop="20150621193000 -0300" channel="RHE" program_id="0000379635" event_id="00000000000096461670" series_key="00000000073463000000">
+<title lang="pt">Hora do Faro</title>
+<desc>O mesmo Rodrigo Faro talentoso, irreverente e divertido de sempre em um programa totalmente novo! Hora do Faro vai agitar as tardes de domingo com a alegria e a emoção já conhecidas do público de casa.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Talk Show</category>
+<image>
+<image_name position="1">00000000073463.jpg</image_name>
+<image_broadcast>00000000073463</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150621193000 -0300" stop="20150621231500 -0300" channel="RHE" program_id="0000074950" event_id="00000000000096461671" series_key="00000000072208000000">
+<title lang="pt">Domingo Espetacular</title>
+<title lang="en">Domingo Espetacular</title>
+<desc>Um jornalismo ágil e moderno, com reportagens de denúncia, comportamento, ciência, turismo, medicina e aventura, além de um panorama geral dos fatos que marcaram a semana.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000072208.jpg</image_name>
+<image_broadcast>00000000072208</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150621231500 -0300" stop="20150622001500 -0300" channel="RHE" program_id="0000420250" event_id="00000000000096461672" series_key="00000000076191000000">
+<title lang="pt">Repórter em Ação</title>
+<desc>Estreia do Repórter em Ação mostra expedição para desbravar os mistérios da Amazônia.</desc>
+<credits>
+<actor>Celso Freitas</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Documentário</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000076191.jpg</image_name>
+<image_broadcast>00000000076191</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622001500 -0300" stop="20150622011500 -0300" channel="RHE" program_id="0000271995" event_id="00000000000096962839" series_key="00000000072212000000">
+<title lang="pt">Roberto Justus +</title>
+<desc>Justus receber César Filho, o novo contratado da Record, Zilu e Angel K no talk show da Record.</desc>
+<date>2015</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Talk Show</category>
+<image>
+<image_name position="1">00000000072212.jpg</image_name>
+<image_broadcast>00000000072212</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622011500 -0300" stop="20150622060000 -0300" channel="RHE" program_id="0000079020" event_id="00000000000096962843" series_key="">
+<title lang="pt">Programação IURD</title>
+<desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000079020.jpg</image_name>
+<image_broadcast>0000079020</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622060000 -0300" stop="20150622072800 -0300" channel="RHE" program_id="0000102196" event_id="00000000000096962847" series_key="00000000066243000000">
+<title lang="pt">Balanço Geral</title>
+<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066243.jpg</image_name>
+<image_broadcast>00000000066243</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622072800 -0300" stop="20150622085500 -0300" channel="RHE" program_id="0000072913" event_id="00000000000096962851" series_key="00000000066244000000">
+<title lang="pt">São Paulo no Ar</title>
+<desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066244.jpg</image_name>
+<image_broadcast>00000000066244</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622085500 -0300" stop="20150622100000 -0300" channel="RHE" program_id="0000015945" event_id="00000000000096962854" series_key="00000000066238000000">
+<title lang="pt">Fala Brasil</title>
+<desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066238.jpg</image_name>
+<image_broadcast>00000000066238</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622100000 -0300" stop="20150622120000 -0300" channel="RHE" program_id="0000094577" event_id="00000000000096962858" series_key="00000000066226000000">
+<title lang="pt">Hoje em Dia</title>
+<desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066226.jpg</image_name>
+<image_broadcast>00000000066226</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622120000 -0300" stop="20150622143000 -0300" channel="RHE" program_id="0000102196" event_id="00000000000096962862" series_key="00000000066243000000">
+<title lang="pt">Balanço Geral</title>
+<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066243.jpg</image_name>
+<image_broadcast>00000000066243</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622143000 -0300" stop="20150622170000 -0300" channel="RHE" program_id="0000119084" event_id="00000000000096962865" series_key="00000000071807000000">
+<title lang="pt">Programa da Tarde</title>
+<desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000071807.jpg</image_name>
+<image_broadcast>00000000071807</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622170000 -0300" stop="20150622203000 -0300" channel="RHE" program_id="0000015967" event_id="00000000000096962868" series_key="00000000069485000000">
+<title lang="pt">Cidade Alerta</title>
+<desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069485.jpg</image_name>
+<image_broadcast>00000000069485</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622203000 -0300" stop="20150622213000 -0300" channel="RHE" program_id="0000430159" event_id="00000000000096962872" series_key="00000000076587000000">
+<title lang="pt">Os Dez Mandamentos</title>
+<desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
+<credits>
+<director>Alexandre Avancini</director>
+<actor>Guilherme Winter</actor>
+<actor>Sérgio Marone</actor>
+<actor>Giselle Itié</actor>
+<actor>Mel Lisboa</actor>
+<actor>Samara Felippo</actor>
+<actor>Thierry Figueira</actor>
+<actor>Heitor Martinez</actor>
+<actor>Luciano Szafir</actor>
+<actor>Floriano Peixoto</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Novela</category>
+<image>
+<image_name position="1">00000000076587.jpg</image_name>
+<image_broadcast>00000000076587</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150622213000 -0300" stop="20150622223000 -0300" channel="RHE" program_id="0000015966" event_id="00000000000096962875" series_key="00000000066234000000">
+<title lang="pt">Jornal da Record</title>
+<desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066234.jpg</image_name>
+<image_broadcast>00000000066234</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622223000 -0300" stop="20150622233000 -0300" channel="RHE" program_id="0000380369" event_id="00000000000096962878" series_key="00000000073493000000">
+<title lang="pt">Repórter Record Investigação</title>
+<desc>O Repórter Record Investigação, exibe reportagem especial com imagens e depoimentos exclusivos sobre a trajetória dos dois brasileiros condenados à morte, por fuzilamento, na Indonésia.</desc>
+<date>2014</date>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000073493.jpg</image_name>
+<image_broadcast>00000000073493</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150622233000 -0300" stop="20150623001500 -0300" channel="RHE" program_id="0000375477" event_id="00000000000096962882" series_key="00000000065728000000">
+<title lang="pt">Grimm - Contos de Terror</title>
+<title lang="en">Grimm</title>
+<desc>Esse drama policial incorpora as histórias dos contos de fadas dos irmãos Grimm. Um policial chamado Nick começa a ver humanos como animais e quer proteger a sociedade deles.</desc>
+<credits>
+<actor>Sasha Roiz</actor>
+<actor>David Giuntoli</actor>
+<actor>Bitsie Tulloch</actor>
+<actor>Russell Hornsby</actor>
+<actor>Silas Weir Mitchell</actor>
+<actor>Reggie Lee</actor>
+<actor>Claire Coffee</actor>
+</credits>
+<date>2011</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Drama</category>
+<image>
+<image_name position="1">00000000065728.jpg</image_name>
+<image_broadcast>00000000065728</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+<star-rating>
+<value>4/5</value>
+</star-rating>
+</programme>
+<programme start="20150623001500 -0300" stop="20150623011500 -0300" channel="RHE" program_id="0000375477" event_id="00000000000097148932" series_key="00000000065728000000">
+<title lang="pt">Grimm - Contos de Terror</title>
+<title lang="en">Grimm</title>
+<desc>Esse drama policial incorpora as histórias dos contos de fadas dos irmãos Grimm. Um policial chamado Nick começa a ver humanos como animais e quer proteger a sociedade deles.</desc>
+<credits>
+<actor>Sasha Roiz</actor>
+<actor>David Giuntoli</actor>
+<actor>Bitsie Tulloch</actor>
+<actor>Russell Hornsby</actor>
+<actor>Silas Weir Mitchell</actor>
+<actor>Reggie Lee</actor>
+<actor>Claire Coffee</actor>
+</credits>
+<date>2011</date>
+<category lang="pt">Séries</category>
+<category lang="pt">Drama</category>
+<image>
+<image_name position="1">00000000065728.jpg</image_name>
+<image_broadcast>00000000065728</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+<star-rating>
+<value>4/5</value>
+</star-rating>
+</programme>
+<programme start="20150623011500 -0300" stop="20150623060000 -0300" channel="RHE" program_id="0000079020" event_id="00000000000097148933" series_key="">
+<title lang="pt">Programação IURD</title>
+<desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000079020.jpg</image_name>
+<image_broadcast>0000079020</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623060000 -0300" stop="20150623072800 -0300" channel="RHE" program_id="0000102196" event_id="00000000000097148934" series_key="00000000066243000000">
+<title lang="pt">Balanço Geral</title>
+<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066243.jpg</image_name>
+<image_broadcast>00000000066243</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623072800 -0300" stop="20150623085500 -0300" channel="RHE" program_id="0000072913" event_id="00000000000097148935" series_key="00000000066244000000">
+<title lang="pt">São Paulo no Ar</title>
+<desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066244.jpg</image_name>
+<image_broadcast>00000000066244</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623085500 -0300" stop="20150623100000 -0300" channel="RHE" program_id="0000015945" event_id="00000000000097148936" series_key="00000000066238000000">
+<title lang="pt">Fala Brasil</title>
+<desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066238.jpg</image_name>
+<image_broadcast>00000000066238</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623100000 -0300" stop="20150623120000 -0300" channel="RHE" program_id="0000094577" event_id="00000000000097148937" series_key="00000000066226000000">
+<title lang="pt">Hoje em Dia</title>
+<desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066226.jpg</image_name>
+<image_broadcast>00000000066226</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623120000 -0300" stop="20150623143000 -0300" channel="RHE" program_id="0000102196" event_id="00000000000097148938" series_key="00000000066243000000">
+<title lang="pt">Balanço Geral</title>
+<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066243.jpg</image_name>
+<image_broadcast>00000000066243</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623143000 -0300" stop="20150623170000 -0300" channel="RHE" program_id="0000119084" event_id="00000000000097148939" series_key="00000000071807000000">
+<title lang="pt">Programa da Tarde</title>
+<desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000071807.jpg</image_name>
+<image_broadcast>00000000071807</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623170000 -0300" stop="20150623203000 -0300" channel="RHE" program_id="0000015967" event_id="00000000000097148940" series_key="00000000069485000000">
+<title lang="pt">Cidade Alerta</title>
+<desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000069485.jpg</image_name>
+<image_broadcast>00000000069485</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623203000 -0300" stop="20150623204000 -0300" channel="RHE" program_id="0000255383" event_id="00000000000097148941" series_key="">
+<title lang="pt">Propaganda Partidária</title>
+<desc>Programa Político.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000255383.jpg</image_name>
+<image_broadcast>0000255383</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623204000 -0300" stop="20150623213000 -0300" channel="RHE" program_id="0000430159" event_id="00000000000097148942" series_key="00000000076587000000">
+<title lang="pt">Os Dez Mandamentos</title>
+<desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
+<credits>
+<director>Alexandre Avancini</director>
+<actor>Guilherme Winter</actor>
+<actor>Sérgio Marone</actor>
+<actor>Giselle Itié</actor>
+<actor>Mel Lisboa</actor>
+<actor>Samara Felippo</actor>
+<actor>Thierry Figueira</actor>
+<actor>Heitor Martinez</actor>
+<actor>Luciano Szafir</actor>
+<actor>Floriano Peixoto</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Novela</category>
+<image>
+<image_name position="1">00000000076587.jpg</image_name>
+<image_broadcast>00000000076587</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150623213000 -0300" stop="20150623223000 -0300" channel="RHE" program_id="0000015966" event_id="00000000000097148943" series_key="00000000066234000000">
+<title lang="pt">Jornal da Record</title>
+<desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000066234.jpg</image_name>
+<image_broadcast>00000000066234</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623223000 -0300" stop="20150624001500 -0300" channel="RHE" program_id="0000184059" event_id="00000000000097148944" series_key="">
+<title lang="pt">Gugu</title>
+<title lang="en">Programa do Gugu</title>
+<desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
+<credits>
+<director>Vildomar Batista</director>
+<actor>Gugu Liberato</actor>
+</credits>
+<category lang="pt">Variedades</category>
+<category lang="pt">Talk Show</category>
+<image>
+<image_name position="1">0000184059.jpg</image_name>
+<image_broadcast>0000184059</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
 </rating>
 </programme>
 </tv>

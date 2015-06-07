@@ -4,1119 +4,6 @@
 <display-name lang="pt">Net Cidade - Pelotas</display-name>
 <icon src="ncy.gif" />
 </channel>
-<programme start="20150603000000 -0300" stop="20150603010000 -0300" channel="NCY" program_id="0000337630" event_id="00000000000097207449" series_key="">
-<title lang="pt">Medical TV</title>
-<desc>O Medical TV é um programa científico e educacional. A cada programa são abordados assuntos de saúde e mostrados todo o trabalho da equipe multidisciplinar que aborda o problema.</desc>
-<credits>
-<director>Flavia Gazola</director>
-<director>Flavia Gazola</director>
-</credits>
-<date>2012</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000337630.jpg</image_name>
-<image_broadcast>0000337630</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150603010000 -0300" stop="20150603013000 -0300" channel="NCY" program_id="0000270939" event_id="00000000000097207450" series_key="">
-<title lang="pt">Motores na TV</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000270939.jpg</image_name>
-<image_broadcast>0000270939</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603013000 -0300" stop="20150603020000 -0300" channel="NCY" program_id="0000316146" event_id="00000000000097207451" series_key="00000000074377000000">
-<title lang="pt">NET Educação</title>
-<desc>Programa de entrevistas produzido pelo NET Educação em parceria com o projeto de voluntariado do Canal NET Cidade. A cada semana, o programa apresenta especialistas que falam sobre a área da educação.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000074377.jpg</image_name>
-<image_broadcast>00000000074377</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603020000 -0300" stop="20150603030000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097207452" series_key="">
-<title lang="pt">Multi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000213448.jpg</image_name>
-<image_broadcast>0000213448</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603030000 -0300" stop="20150603040000 -0300" channel="NCY" program_id="0000228028" event_id="00000000000097207453" series_key="">
-<title lang="pt">Família</title>
-<desc>Programa de entrevistas produzido pelo projeto de voluntariado do Canal NET Cidade que aborda a dependência em geral, principalmente a química.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000228028.jpg</image_name>
-<image_broadcast>0000228028</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603040000 -0300" stop="20150603043000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097207454" series_key="">
-<title lang="pt">Multi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000213448.jpg</image_name>
-<image_broadcast>0000213448</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603043000 -0300" stop="20150603053000 -0300" channel="NCY" program_id="0000145838" event_id="00000000000097207455" series_key="00000000074374000000">
-<title lang="pt">ABC da Saúde</title>
-<desc>Programa de entrevistas produzido pelo projeto de voluntariado do Canal NET Cidade em parceria com a ADIABC e que aborda a saúde com ênfase em diabetes.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000074374.jpg</image_name>
-<image_broadcast>00000000074374</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603053000 -0300" stop="20150603063000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097207456" series_key="">
-<title lang="pt">Multi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000213448.jpg</image_name>
-<image_broadcast>0000213448</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603063000 -0300" stop="20150603070000 -0300" channel="NCY" program_id="0000316146" event_id="00000000000097207457" series_key="00000000074377000000">
-<title lang="pt">NET Educação</title>
-<desc>Programa de entrevistas produzido pelo NET Educação em parceria com o projeto de voluntariado do Canal NET Cidade. A cada semana, o programa apresenta especialistas que falam sobre a área da educação.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000074377.jpg</image_name>
-<image_broadcast>00000000074377</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603070000 -0300" stop="20150603080000 -0300" channel="NCY" program_id="0000145886" event_id="00000000000097207458" series_key="00000000074373000000">
-<title lang="pt">Circuito NET</title>
-<desc>Eventos esportivos ou culturais estão presentes nesse espaço que tem a participação direta do projeto de voluntariado do Canal NET Cidade na gravação, edição e exibição desse programa.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000074373.jpg</image_name>
-<image_broadcast>00000000074373</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603080000 -0300" stop="20150603083000 -0300" channel="NCY" program_id="0000270939" event_id="00000000000097207459" series_key="">
-<title lang="pt">Motores na TV</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000270939.jpg</image_name>
-<image_broadcast>0000270939</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603083000 -0300" stop="20150603093000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097207460" series_key="">
-<title lang="pt">Multi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000213448.jpg</image_name>
-<image_broadcast>0000213448</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603093000 -0300" stop="20150603100000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097207461" series_key="">
-<title lang="pt">Multi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000213448.jpg</image_name>
-<image_broadcast>0000213448</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603100000 -0300" stop="20150603103000 -0300" channel="NCY" program_id="0000270939" event_id="00000000000097207462" series_key="">
-<title lang="pt">Motores na TV</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000270939.jpg</image_name>
-<image_broadcast>0000270939</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603103000 -0300" stop="20150603113000 -0300" channel="NCY" program_id="0000145886" event_id="00000000000097207463" series_key="00000000074373000000">
-<title lang="pt">Circuito NET</title>
-<desc>Eventos esportivos ou culturais estão presentes nesse espaço que tem a participação direta do projeto de voluntariado do Canal NET Cidade na gravação, edição e exibição desse programa.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000074373.jpg</image_name>
-<image_broadcast>00000000074373</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603113000 -0300" stop="20150603120000 -0300" channel="NCY" program_id="0000316146" event_id="00000000000097207464" series_key="00000000074377000000">
-<title lang="pt">NET Educação</title>
-<desc>Programa de entrevistas produzido pelo NET Educação em parceria com o projeto de voluntariado do Canal NET Cidade. A cada semana, o programa apresenta especialistas que falam sobre a área da educação.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000074377.jpg</image_name>
-<image_broadcast>00000000074377</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603120000 -0300" stop="20150603123000 -0300" channel="NCY" program_id="0000270939" event_id="00000000000097207465" series_key="">
-<title lang="pt">Motores na TV</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000270939.jpg</image_name>
-<image_broadcast>0000270939</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603123000 -0300" stop="20150603130000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097207466" series_key="">
-<title lang="pt">Multi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000213448.jpg</image_name>
-<image_broadcast>0000213448</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603130000 -0300" stop="20150603140000 -0300" channel="NCY" program_id="0000337630" event_id="00000000000097207467" series_key="">
-<title lang="pt">Medical TV</title>
-<desc>O Medical TV é um programa científico e educacional. A cada programa são abordados assuntos de saúde e mostrados todo o trabalho da equipe multidisciplinar que aborda o problema.</desc>
-<credits>
-<director>Flavia Gazola</director>
-<director>Flavia Gazola</director>
-</credits>
-<date>2012</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000337630.jpg</image_name>
-<image_broadcast>0000337630</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150603140000 -0300" stop="20150603150000 -0300" channel="NCY" program_id="0000145886" event_id="00000000000097207468" series_key="00000000074373000000">
-<title lang="pt">Circuito NET</title>
-<desc>Eventos esportivos ou culturais estão presentes nesse espaço que tem a participação direta do projeto de voluntariado do Canal NET Cidade na gravação, edição e exibição desse programa.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000074373.jpg</image_name>
-<image_broadcast>00000000074373</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603150000 -0300" stop="20150603160000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097207469" series_key="">
-<title lang="pt">Multi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000213448.jpg</image_name>
-<image_broadcast>0000213448</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603160000 -0300" stop="20150603170000 -0300" channel="NCY" program_id="0000145886" event_id="00000000000097207470" series_key="00000000074373000000">
-<title lang="pt">Circuito NET</title>
-<desc>Eventos esportivos ou culturais estão presentes nesse espaço que tem a participação direta do projeto de voluntariado do Canal NET Cidade na gravação, edição e exibição desse programa.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000074373.jpg</image_name>
-<image_broadcast>00000000074373</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603170000 -0300" stop="20150603173000 -0300" channel="NCY" program_id="0000215963" event_id="00000000000097207471" series_key="">
-<title lang="pt">Educare</title>
-<desc>Programa de entrevistas produzido pelo projeto de voluntariado do Canal NET Cidade. A cada semana, o programa apresenta temas relacionados à área de educação.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">0000215963.jpg</image_name>
-<image_broadcast>0000215963</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603173000 -0300" stop="20150603180000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097207472" series_key="">
-<title lang="pt">Multi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000213448.jpg</image_name>
-<image_broadcast>0000213448</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603180000 -0300" stop="20150603190000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097207473" series_key="">
-<title lang="pt">Multi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000213448.jpg</image_name>
-<image_broadcast>0000213448</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603190000 -0300" stop="20150603200000 -0300" channel="NCY" program_id="0000145838" event_id="00000000000097207474" series_key="00000000074374000000">
-<title lang="pt">ABC da Saúde</title>
-<desc>Programa de entrevistas produzido pelo projeto de voluntariado do Canal NET Cidade em parceria com a ADIABC e que aborda a saúde com ênfase em diabetes.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000074374.jpg</image_name>
-<image_broadcast>00000000074374</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603200000 -0300" stop="20150603210000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097207475" series_key="">
-<title lang="pt">Multi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000213448.jpg</image_name>
-<image_broadcast>0000213448</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603210000 -0300" stop="20150603213000 -0300" channel="NCY" program_id="0000270939" event_id="00000000000097207476" series_key="">
-<title lang="pt">Motores na TV</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000270939.jpg</image_name>
-<image_broadcast>0000270939</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603213000 -0300" stop="20150603220000 -0300" channel="NCY" program_id="0000316146" event_id="00000000000097207477" series_key="00000000074377000000">
-<title lang="pt">NET Educação</title>
-<desc>Programa de entrevistas produzido pelo NET Educação em parceria com o projeto de voluntariado do Canal NET Cidade. A cada semana, o programa apresenta especialistas que falam sobre a área da educação.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Educativo</category>
-<image>
-<image_name position="1">00000000074377.jpg</image_name>
-<image_broadcast>00000000074377</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603220000 -0300" stop="20150603230000 -0300" channel="NCY" program_id="0000228028" event_id="00000000000097207478" series_key="">
-<title lang="pt">Família</title>
-<desc>Programa de entrevistas produzido pelo projeto de voluntariado do Canal NET Cidade que aborda a dependência em geral, principalmente a química.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000228028.jpg</image_name>
-<image_broadcast>0000228028</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150603230000 -0300" stop="20150604000000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097207479" series_key="">
-<title lang="pt">Multi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000213448.jpg</image_name>
-<image_broadcast>0000213448</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604000000 -0300" stop="20150604010000 -0300" channel="NCY" program_id="0000337630" event_id="00000000000097207480" series_key="">
-<title lang="pt">Medical TV</title>
-<desc>O Medical TV é um programa científico e educacional. A cada programa são abordados assuntos de saúde e mostrados todo o trabalho da equipe multidisciplinar que aborda o problema.</desc>
-<credits>
-<director>Flavia Gazola</director>
-<director>Flavia Gazola</director>
-</credits>
-<date>2012</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000337630.jpg</image_name>
-<image_broadcast>0000337630</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150604010000 -0300" stop="20150604020000 -0300" channel="NCY" program_id="0000145886" event_id="00000000000097207481" series_key="00000000074373000000">
-<title lang="pt">Circuito NET</title>
-<desc>Eventos esportivos ou culturais estão presentes nesse espaço que tem a participação direta do projeto de voluntariado do Canal NET Cidade na gravação, edição e exibição desse programa.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000074373.jpg</image_name>
-<image_broadcast>00000000074373</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604020000 -0300" stop="20150604030000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097207482" series_key="">
-<title lang="pt">Multi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000213448.jpg</image_name>
-<image_broadcast>0000213448</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604030000 -0300" stop="20150604040000 -0300" channel="NCY" program_id="0000145886" event_id="00000000000097207483" series_key="00000000074373000000">
-<title lang="pt">Circuito NET</title>
-<desc>Eventos esportivos ou culturais estão presentes nesse espaço que tem a participação direta do projeto de voluntariado do Canal NET Cidade na gravação, edição e exibição desse programa.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000074373.jpg</image_name>
-<image_broadcast>00000000074373</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604040000 -0300" stop="20150604043000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097207484" series_key="">
-<title lang="pt">Multi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000213448.jpg</image_name>
-<image_broadcast>0000213448</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604043000 -0300" stop="20150604053000 -0300" channel="NCY" program_id="0000228028" event_id="00000000000097207485" series_key="">
-<title lang="pt">Família</title>
-<desc>Programa de entrevistas produzido pelo projeto de voluntariado do Canal NET Cidade que aborda a dependência em geral, principalmente a química.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000228028.jpg</image_name>
-<image_broadcast>0000228028</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604053000 -0300" stop="20150604063000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097207486" series_key="">
-<title lang="pt">Multi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000213448.jpg</image_name>
-<image_broadcast>0000213448</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604063000 -0300" stop="20150604070000 -0300" channel="NCY" program_id="0000400637" event_id="00000000000097207487" series_key="">
-<title lang="pt">Cena Musicall</title>
-<desc></desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000400637.jpg</image_name>
-<image_broadcast>0000400637</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604070000 -0300" stop="20150604080000 -0300" channel="NCY" program_id="0000145838" event_id="00000000000097207488" series_key="00000000074374000000">
-<title lang="pt">ABC da Saúde</title>
-<desc>Programa de entrevistas produzido pelo projeto de voluntariado do Canal NET Cidade em parceria com a ADIABC e que aborda a saúde com ênfase em diabetes.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000074374.jpg</image_name>
-<image_broadcast>00000000074374</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604080000 -0300" stop="20150604083000 -0300" channel="NCY" program_id="0000270939" event_id="00000000000097207489" series_key="">
-<title lang="pt">Motores na TV</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000270939.jpg</image_name>
-<image_broadcast>0000270939</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604083000 -0300" stop="20150604093000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097207490" series_key="">
-<title lang="pt">Multi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000213448.jpg</image_name>
-<image_broadcast>0000213448</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604093000 -0300" stop="20150604100000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097207491" series_key="">
-<title lang="pt">Multi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000213448.jpg</image_name>
-<image_broadcast>0000213448</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604100000 -0300" stop="20150604103000 -0300" channel="NCY" program_id="0000270939" event_id="00000000000097207492" series_key="">
-<title lang="pt">Motores na TV</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000270939.jpg</image_name>
-<image_broadcast>0000270939</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604103000 -0300" stop="20150604113000 -0300" channel="NCY" program_id="0000145838" event_id="00000000000097207493" series_key="00000000074374000000">
-<title lang="pt">ABC da Saúde</title>
-<desc>Programa de entrevistas produzido pelo projeto de voluntariado do Canal NET Cidade em parceria com a ADIABC e que aborda a saúde com ênfase em diabetes.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000074374.jpg</image_name>
-<image_broadcast>00000000074374</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604113000 -0300" stop="20150604120000 -0300" channel="NCY" program_id="0000400637" event_id="00000000000097207494" series_key="">
-<title lang="pt">Cena Musicall</title>
-<desc></desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000400637.jpg</image_name>
-<image_broadcast>0000400637</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604120000 -0300" stop="20150604123000 -0300" channel="NCY" program_id="0000270939" event_id="00000000000097207495" series_key="">
-<title lang="pt">Motores na TV</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000270939.jpg</image_name>
-<image_broadcast>0000270939</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604123000 -0300" stop="20150604130000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097207496" series_key="">
-<title lang="pt">Multi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000213448.jpg</image_name>
-<image_broadcast>0000213448</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604130000 -0300" stop="20150604140000 -0300" channel="NCY" program_id="0000337630" event_id="00000000000097207497" series_key="">
-<title lang="pt">Medical TV</title>
-<desc>O Medical TV é um programa científico e educacional. A cada programa são abordados assuntos de saúde e mostrados todo o trabalho da equipe multidisciplinar que aborda o problema.</desc>
-<credits>
-<director>Flavia Gazola</director>
-<director>Flavia Gazola</director>
-</credits>
-<date>2012</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000337630.jpg</image_name>
-<image_broadcast>0000337630</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150604140000 -0300" stop="20150604150000 -0300" channel="NCY" program_id="0000145886" event_id="00000000000097207498" series_key="00000000074373000000">
-<title lang="pt">Circuito NET</title>
-<desc>Eventos esportivos ou culturais estão presentes nesse espaço que tem a participação direta do projeto de voluntariado do Canal NET Cidade na gravação, edição e exibição desse programa.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000074373.jpg</image_name>
-<image_broadcast>00000000074373</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604150000 -0300" stop="20150604160000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097207499" series_key="">
-<title lang="pt">Multi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000213448.jpg</image_name>
-<image_broadcast>0000213448</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604160000 -0300" stop="20150604170000 -0300" channel="NCY" program_id="0000228028" event_id="00000000000097207500" series_key="">
-<title lang="pt">Família</title>
-<desc>Programa de entrevistas produzido pelo projeto de voluntariado do Canal NET Cidade que aborda a dependência em geral, principalmente a química.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000228028.jpg</image_name>
-<image_broadcast>0000228028</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604170000 -0300" stop="20150604173000 -0300" channel="NCY" program_id="0000400637" event_id="00000000000097207501" series_key="">
-<title lang="pt">Cena Musicall</title>
-<desc></desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000400637.jpg</image_name>
-<image_broadcast>0000400637</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604173000 -0300" stop="20150604180000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097207502" series_key="">
-<title lang="pt">Multi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000213448.jpg</image_name>
-<image_broadcast>0000213448</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604180000 -0300" stop="20150604190000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097207503" series_key="">
-<title lang="pt">Multi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000213448.jpg</image_name>
-<image_broadcast>0000213448</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604190000 -0300" stop="20150604200000 -0300" channel="NCY" program_id="0000228028" event_id="00000000000097207504" series_key="">
-<title lang="pt">Família</title>
-<desc>Programa de entrevistas produzido pelo projeto de voluntariado do Canal NET Cidade que aborda a dependência em geral, principalmente a química.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000228028.jpg</image_name>
-<image_broadcast>0000228028</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604200000 -0300" stop="20150604210000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097207505" series_key="">
-<title lang="pt">Multi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000213448.jpg</image_name>
-<image_broadcast>0000213448</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604210000 -0300" stop="20150604213000 -0300" channel="NCY" program_id="0000270939" event_id="00000000000097207506" series_key="">
-<title lang="pt">Motores na TV</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000270939.jpg</image_name>
-<image_broadcast>0000270939</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604213000 -0300" stop="20150604220000 -0300" channel="NCY" program_id="0000400637" event_id="00000000000097207507" series_key="">
-<title lang="pt">Cena Musicall</title>
-<desc></desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000400637.jpg</image_name>
-<image_broadcast>0000400637</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604220000 -0300" stop="20150604230000 -0300" channel="NCY" program_id="0000145886" event_id="00000000000097207508" series_key="00000000074373000000">
-<title lang="pt">Circuito NET</title>
-<desc>Eventos esportivos ou culturais estão presentes nesse espaço que tem a participação direta do projeto de voluntariado do Canal NET Cidade na gravação, edição e exibição desse programa.</desc>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000074373.jpg</image_name>
-<image_broadcast>00000000074373</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150604230000 -0300" stop="20150605000000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097207509" series_key="">
-<title lang="pt">Multi</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000213448.jpg</image_name>
-<image_broadcast>0000213448</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
 <programme start="20150605000000 -0300" stop="20150605010000 -0300" channel="NCY" program_id="0000337630" event_id="00000000000097207510" series_key="">
 <title lang="pt">Medical TV</title>
 <desc>O Medical TV é um programa científico e educacional. A cada programa são abordados assuntos de saúde e mostrados todo o trabalho da equipe multidisciplinar que aborda o problema.</desc>
@@ -10543,6 +9430,1136 @@
 </rating>
 </programme>
 <programme start="20150621230000 -0300" stop="20150622000000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097208166" series_key="">
+<title lang="pt">Multi</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000213448.jpg</image_name>
+<image_broadcast>0000213448</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622000000 -0300" stop="20150622010000 -0300" channel="NCY" program_id="0000337630" event_id="00000000000097208167" series_key="">
+<title lang="pt">Medical TV</title>
+<desc>O Medical TV é um programa científico e educacional. A cada programa são abordados assuntos de saúde e mostrados todo o trabalho da equipe multidisciplinar que aborda o problema.</desc>
+<credits>
+<director>Flavia Gazola</director>
+<director>Flavia Gazola</director>
+</credits>
+<date>2012</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000337630.jpg</image_name>
+<image_broadcast>0000337630</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150622010000 -0300" stop="20150622013000 -0300" channel="NCY" program_id="0000270939" event_id="00000000000097208168" series_key="">
+<title lang="pt">Motores na TV</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000270939.jpg</image_name>
+<image_broadcast>0000270939</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622013000 -0300" stop="20150622020000 -0300" channel="NCY" program_id="0000400637" event_id="00000000000097208169" series_key="">
+<title lang="pt">Cena Musicall</title>
+<desc></desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000400637.jpg</image_name>
+<image_broadcast>0000400637</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622020000 -0300" stop="20150622030000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097208170" series_key="">
+<title lang="pt">Multi</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000213448.jpg</image_name>
+<image_broadcast>0000213448</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622030000 -0300" stop="20150622040000 -0300" channel="NCY" program_id="0000145886" event_id="00000000000097208171" series_key="00000000074373000000">
+<title lang="pt">Circuito NET</title>
+<desc>Eventos esportivos ou culturais estão presentes nesse espaço que tem a participação direta do projeto de voluntariado do Canal NET Cidade na gravação, edição e exibição desse programa.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000074373.jpg</image_name>
+<image_broadcast>00000000074373</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622040000 -0300" stop="20150622043000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097208172" series_key="">
+<title lang="pt">Multi</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000213448.jpg</image_name>
+<image_broadcast>0000213448</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622043000 -0300" stop="20150622053000 -0300" channel="NCY" program_id="0000228028" event_id="00000000000097208173" series_key="">
+<title lang="pt">Família</title>
+<desc>Programa de entrevistas produzido pelo projeto de voluntariado do Canal NET Cidade que aborda a dependência em geral, principalmente a química.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000228028.jpg</image_name>
+<image_broadcast>0000228028</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622053000 -0300" stop="20150622063000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097208174" series_key="">
+<title lang="pt">Multi</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000213448.jpg</image_name>
+<image_broadcast>0000213448</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622063000 -0300" stop="20150622070000 -0300" channel="NCY" program_id="0000215963" event_id="00000000000097208175" series_key="">
+<title lang="pt">Educare</title>
+<desc>Programa de entrevistas produzido pelo projeto de voluntariado do Canal NET Cidade. A cada semana, o programa apresenta temas relacionados à área de educação.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">0000215963.jpg</image_name>
+<image_broadcast>0000215963</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622070000 -0300" stop="20150622080000 -0300" channel="NCY" program_id="0000145838" event_id="00000000000097208176" series_key="00000000074374000000">
+<title lang="pt">ABC da Saúde</title>
+<desc>Programa de entrevistas produzido pelo projeto de voluntariado do Canal NET Cidade em parceria com a ADIABC e que aborda a saúde com ênfase em diabetes.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000074374.jpg</image_name>
+<image_broadcast>00000000074374</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622080000 -0300" stop="20150622083000 -0300" channel="NCY" program_id="0000270939" event_id="00000000000097208177" series_key="">
+<title lang="pt">Motores na TV</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000270939.jpg</image_name>
+<image_broadcast>0000270939</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622083000 -0300" stop="20150622093000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097208178" series_key="">
+<title lang="pt">Multi</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000213448.jpg</image_name>
+<image_broadcast>0000213448</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622093000 -0300" stop="20150622100000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097208179" series_key="">
+<title lang="pt">Multi</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000213448.jpg</image_name>
+<image_broadcast>0000213448</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622100000 -0300" stop="20150622103000 -0300" channel="NCY" program_id="0000270939" event_id="00000000000097208180" series_key="">
+<title lang="pt">Motores na TV</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000270939.jpg</image_name>
+<image_broadcast>0000270939</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622103000 -0300" stop="20150622113000 -0300" channel="NCY" program_id="0000145838" event_id="00000000000097208181" series_key="00000000074374000000">
+<title lang="pt">ABC da Saúde</title>
+<desc>Programa de entrevistas produzido pelo projeto de voluntariado do Canal NET Cidade em parceria com a ADIABC e que aborda a saúde com ênfase em diabetes.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000074374.jpg</image_name>
+<image_broadcast>00000000074374</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622113000 -0300" stop="20150622120000 -0300" channel="NCY" program_id="0000215963" event_id="00000000000097208182" series_key="">
+<title lang="pt">Educare</title>
+<desc>Programa de entrevistas produzido pelo projeto de voluntariado do Canal NET Cidade. A cada semana, o programa apresenta temas relacionados à área de educação.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">0000215963.jpg</image_name>
+<image_broadcast>0000215963</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622120000 -0300" stop="20150622123000 -0300" channel="NCY" program_id="0000270939" event_id="00000000000097208183" series_key="">
+<title lang="pt">Motores na TV</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000270939.jpg</image_name>
+<image_broadcast>0000270939</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622123000 -0300" stop="20150622130000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097208184" series_key="">
+<title lang="pt">Multi</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000213448.jpg</image_name>
+<image_broadcast>0000213448</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622130000 -0300" stop="20150622140000 -0300" channel="NCY" program_id="0000337630" event_id="00000000000097208185" series_key="">
+<title lang="pt">Medical TV</title>
+<desc>O Medical TV é um programa científico e educacional. A cada programa são abordados assuntos de saúde e mostrados todo o trabalho da equipe multidisciplinar que aborda o problema.</desc>
+<credits>
+<director>Flavia Gazola</director>
+<director>Flavia Gazola</director>
+</credits>
+<date>2012</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000337630.jpg</image_name>
+<image_broadcast>0000337630</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150622140000 -0300" stop="20150622150000 -0300" channel="NCY" program_id="0000145838" event_id="00000000000097208186" series_key="00000000074374000000">
+<title lang="pt">ABC da Saúde</title>
+<desc>Programa de entrevistas produzido pelo projeto de voluntariado do Canal NET Cidade em parceria com a ADIABC e que aborda a saúde com ênfase em diabetes.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000074374.jpg</image_name>
+<image_broadcast>00000000074374</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622150000 -0300" stop="20150622160000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097208187" series_key="">
+<title lang="pt">Multi</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000213448.jpg</image_name>
+<image_broadcast>0000213448</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622160000 -0300" stop="20150622170000 -0300" channel="NCY" program_id="0000228028" event_id="00000000000097208188" series_key="">
+<title lang="pt">Família</title>
+<desc>Programa de entrevistas produzido pelo projeto de voluntariado do Canal NET Cidade que aborda a dependência em geral, principalmente a química.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000228028.jpg</image_name>
+<image_broadcast>0000228028</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622170000 -0300" stop="20150622173000 -0300" channel="NCY" program_id="0000215963" event_id="00000000000097208189" series_key="">
+<title lang="pt">Educare</title>
+<desc>Programa de entrevistas produzido pelo projeto de voluntariado do Canal NET Cidade. A cada semana, o programa apresenta temas relacionados à área de educação.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">0000215963.jpg</image_name>
+<image_broadcast>0000215963</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622173000 -0300" stop="20150622180000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097208190" series_key="">
+<title lang="pt">Multi</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000213448.jpg</image_name>
+<image_broadcast>0000213448</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622180000 -0300" stop="20150622190000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097208191" series_key="">
+<title lang="pt">Multi</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000213448.jpg</image_name>
+<image_broadcast>0000213448</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622190000 -0300" stop="20150622200000 -0300" channel="NCY" program_id="0000228028" event_id="00000000000097208192" series_key="">
+<title lang="pt">Família</title>
+<desc>Programa de entrevistas produzido pelo projeto de voluntariado do Canal NET Cidade que aborda a dependência em geral, principalmente a química.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000228028.jpg</image_name>
+<image_broadcast>0000228028</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622200000 -0300" stop="20150622210000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097208193" series_key="">
+<title lang="pt">Multi</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000213448.jpg</image_name>
+<image_broadcast>0000213448</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622210000 -0300" stop="20150622213000 -0300" channel="NCY" program_id="0000270939" event_id="00000000000097208194" series_key="">
+<title lang="pt">Motores na TV</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000270939.jpg</image_name>
+<image_broadcast>0000270939</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622213000 -0300" stop="20150622220000 -0300" channel="NCY" program_id="0000215963" event_id="00000000000097208195" series_key="">
+<title lang="pt">Educare</title>
+<desc>Programa de entrevistas produzido pelo projeto de voluntariado do Canal NET Cidade. A cada semana, o programa apresenta temas relacionados à área de educação.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">0000215963.jpg</image_name>
+<image_broadcast>0000215963</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622220000 -0300" stop="20150622230000 -0300" channel="NCY" program_id="0000145886" event_id="00000000000097208196" series_key="00000000074373000000">
+<title lang="pt">Circuito NET</title>
+<desc>Eventos esportivos ou culturais estão presentes nesse espaço que tem a participação direta do projeto de voluntariado do Canal NET Cidade na gravação, edição e exibição desse programa.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000074373.jpg</image_name>
+<image_broadcast>00000000074373</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150622230000 -0300" stop="20150623000000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097208197" series_key="">
+<title lang="pt">Multi</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000213448.jpg</image_name>
+<image_broadcast>0000213448</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623000000 -0300" stop="20150623010000 -0300" channel="NCY" program_id="0000337630" event_id="00000000000097208198" series_key="">
+<title lang="pt">Medical TV</title>
+<desc>O Medical TV é um programa científico e educacional. A cada programa são abordados assuntos de saúde e mostrados todo o trabalho da equipe multidisciplinar que aborda o problema.</desc>
+<credits>
+<director>Flavia Gazola</director>
+<director>Flavia Gazola</director>
+</credits>
+<date>2012</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000337630.jpg</image_name>
+<image_broadcast>0000337630</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150623010000 -0300" stop="20150623013000 -0300" channel="NCY" program_id="0000270939" event_id="00000000000097208199" series_key="">
+<title lang="pt">Motores na TV</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000270939.jpg</image_name>
+<image_broadcast>0000270939</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623013000 -0300" stop="20150623020000 -0300" channel="NCY" program_id="0000215963" event_id="00000000000097208200" series_key="">
+<title lang="pt">Educare</title>
+<desc>Programa de entrevistas produzido pelo projeto de voluntariado do Canal NET Cidade. A cada semana, o programa apresenta temas relacionados à área de educação.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Entrevista</category>
+<image>
+<image_name position="1">0000215963.jpg</image_name>
+<image_broadcast>0000215963</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623020000 -0300" stop="20150623030000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097208201" series_key="">
+<title lang="pt">Multi</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000213448.jpg</image_name>
+<image_broadcast>0000213448</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623030000 -0300" stop="20150623040000 -0300" channel="NCY" program_id="0000145838" event_id="00000000000097208202" series_key="00000000074374000000">
+<title lang="pt">ABC da Saúde</title>
+<desc>Programa de entrevistas produzido pelo projeto de voluntariado do Canal NET Cidade em parceria com a ADIABC e que aborda a saúde com ênfase em diabetes.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000074374.jpg</image_name>
+<image_broadcast>00000000074374</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623040000 -0300" stop="20150623043000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097208203" series_key="">
+<title lang="pt">Multi</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000213448.jpg</image_name>
+<image_broadcast>0000213448</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623043000 -0300" stop="20150623053000 -0300" channel="NCY" program_id="0000145886" event_id="00000000000097208204" series_key="00000000074373000000">
+<title lang="pt">Circuito NET</title>
+<desc>Eventos esportivos ou culturais estão presentes nesse espaço que tem a participação direta do projeto de voluntariado do Canal NET Cidade na gravação, edição e exibição desse programa.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000074373.jpg</image_name>
+<image_broadcast>00000000074373</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623053000 -0300" stop="20150623063000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097208205" series_key="">
+<title lang="pt">Multi</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000213448.jpg</image_name>
+<image_broadcast>0000213448</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623063000 -0300" stop="20150623070000 -0300" channel="NCY" program_id="0000400637" event_id="00000000000097208206" series_key="">
+<title lang="pt">Cena Musicall</title>
+<desc></desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000400637.jpg</image_name>
+<image_broadcast>0000400637</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623070000 -0300" stop="20150623080000 -0300" channel="NCY" program_id="0000228028" event_id="00000000000097208207" series_key="">
+<title lang="pt">Família</title>
+<desc>Programa de entrevistas produzido pelo projeto de voluntariado do Canal NET Cidade que aborda a dependência em geral, principalmente a química.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000228028.jpg</image_name>
+<image_broadcast>0000228028</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623080000 -0300" stop="20150623083000 -0300" channel="NCY" program_id="0000270939" event_id="00000000000097208208" series_key="">
+<title lang="pt">Motores na TV</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000270939.jpg</image_name>
+<image_broadcast>0000270939</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623083000 -0300" stop="20150623093000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097208209" series_key="">
+<title lang="pt">Multi</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000213448.jpg</image_name>
+<image_broadcast>0000213448</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623093000 -0300" stop="20150623100000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097208210" series_key="">
+<title lang="pt">Multi</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000213448.jpg</image_name>
+<image_broadcast>0000213448</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623100000 -0300" stop="20150623103000 -0300" channel="NCY" program_id="0000270939" event_id="00000000000097208211" series_key="">
+<title lang="pt">Motores na TV</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000270939.jpg</image_name>
+<image_broadcast>0000270939</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623103000 -0300" stop="20150623113000 -0300" channel="NCY" program_id="0000228028" event_id="00000000000097208212" series_key="">
+<title lang="pt">Família</title>
+<desc>Programa de entrevistas produzido pelo projeto de voluntariado do Canal NET Cidade que aborda a dependência em geral, principalmente a química.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000228028.jpg</image_name>
+<image_broadcast>0000228028</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623113000 -0300" stop="20150623120000 -0300" channel="NCY" program_id="0000400637" event_id="00000000000097208213" series_key="">
+<title lang="pt">Cena Musicall</title>
+<desc></desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000400637.jpg</image_name>
+<image_broadcast>0000400637</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623120000 -0300" stop="20150623123000 -0300" channel="NCY" program_id="0000270939" event_id="00000000000097208214" series_key="">
+<title lang="pt">Motores na TV</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000270939.jpg</image_name>
+<image_broadcast>0000270939</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623123000 -0300" stop="20150623130000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097208215" series_key="">
+<title lang="pt">Multi</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000213448.jpg</image_name>
+<image_broadcast>0000213448</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623130000 -0300" stop="20150623140000 -0300" channel="NCY" program_id="0000337630" event_id="00000000000097208216" series_key="">
+<title lang="pt">Medical TV</title>
+<desc>O Medical TV é um programa científico e educacional. A cada programa são abordados assuntos de saúde e mostrados todo o trabalho da equipe multidisciplinar que aborda o problema.</desc>
+<credits>
+<director>Flavia Gazola</director>
+<director>Flavia Gazola</director>
+</credits>
+<date>2012</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000337630.jpg</image_name>
+<image_broadcast>0000337630</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150623140000 -0300" stop="20150623150000 -0300" channel="NCY" program_id="0000228028" event_id="00000000000097208217" series_key="">
+<title lang="pt">Família</title>
+<desc>Programa de entrevistas produzido pelo projeto de voluntariado do Canal NET Cidade que aborda a dependência em geral, principalmente a química.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000228028.jpg</image_name>
+<image_broadcast>0000228028</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623150000 -0300" stop="20150623160000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097208219" series_key="">
+<title lang="pt">Multi</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000213448.jpg</image_name>
+<image_broadcast>0000213448</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623160000 -0300" stop="20150623170000 -0300" channel="NCY" program_id="0000145886" event_id="00000000000097208221" series_key="00000000074373000000">
+<title lang="pt">Circuito NET</title>
+<desc>Eventos esportivos ou culturais estão presentes nesse espaço que tem a participação direta do projeto de voluntariado do Canal NET Cidade na gravação, edição e exibição desse programa.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000074373.jpg</image_name>
+<image_broadcast>00000000074373</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623170000 -0300" stop="20150623173000 -0300" channel="NCY" program_id="0000400637" event_id="00000000000097208223" series_key="">
+<title lang="pt">Cena Musicall</title>
+<desc></desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000400637.jpg</image_name>
+<image_broadcast>0000400637</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623173000 -0300" stop="20150623183000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097208224" series_key="">
+<title lang="pt">Multi</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000213448.jpg</image_name>
+<image_broadcast>0000213448</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623183000 -0300" stop="20150623190000 -0300" channel="NCY" program_id="0000440988" event_id="00000000000097208226" series_key="">
+<title lang="pt">Produtores do Bem</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000440988.jpg</image_name>
+<image_broadcast>0000440988</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623190000 -0300" stop="20150623200000 -0300" channel="NCY" program_id="0000145886" event_id="00000000000097208229" series_key="00000000074373000000">
+<title lang="pt">Circuito NET</title>
+<desc>Eventos esportivos ou culturais estão presentes nesse espaço que tem a participação direta do projeto de voluntariado do Canal NET Cidade na gravação, edição e exibição desse programa.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000074373.jpg</image_name>
+<image_broadcast>00000000074373</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623200000 -0300" stop="20150623210000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097208231" series_key="">
+<title lang="pt">Multi</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000213448.jpg</image_name>
+<image_broadcast>0000213448</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623210000 -0300" stop="20150623213000 -0300" channel="NCY" program_id="0000270939" event_id="00000000000097208233" series_key="">
+<title lang="pt">Motores na TV</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000270939.jpg</image_name>
+<image_broadcast>0000270939</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623213000 -0300" stop="20150623220000 -0300" channel="NCY" program_id="0000400637" event_id="00000000000097208235" series_key="">
+<title lang="pt">Cena Musicall</title>
+<desc></desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000400637.jpg</image_name>
+<image_broadcast>0000400637</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623220000 -0300" stop="20150623230000 -0300" channel="NCY" program_id="0000145886" event_id="00000000000097208238" series_key="00000000074373000000">
+<title lang="pt">Circuito NET</title>
+<desc>Eventos esportivos ou culturais estão presentes nesse espaço que tem a participação direta do projeto de voluntariado do Canal NET Cidade na gravação, edição e exibição desse programa.</desc>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000074373.jpg</image_name>
+<image_broadcast>00000000074373</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150623230000 -0300" stop="20150624000000 -0300" channel="NCY" program_id="0000213448" event_id="00000000000097208240" series_key="">
 <title lang="pt">Multi</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
