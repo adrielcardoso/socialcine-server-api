@@ -2,7 +2,7 @@
 
 require_once './MainController.php';
 
-ini_set('display_errors', 'on');
+ini_set('display_errors', 'off');
 ini_set('session.gc_maxlifetime', 1260000);
 header('Content-Type: application/json');
 header("HTTP/1.1 200 OK");
