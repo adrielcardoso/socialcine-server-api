@@ -4,7 +4,7 @@
 <display-name lang="pt">PPV 12 OITV NDS</display-name>
 <icon src="323.gif" />
 </channel>
-<programme start="20150605020000 -0300" stop="20150605042000 -0300" channel="323" program_id="0000441452" event_id="000000100448560" series_key="">
+<programme start="20150616010000 -0300" stop="20150616031000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174747" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -39,7 +39,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150605042000 -0300" stop="20150605064000 -0300" channel="323" program_id="0000441452" event_id="000000100448561" series_key="">
+<programme start="20150616031000 -0300" stop="20150616052000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174748" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -74,7 +74,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150605064000 -0300" stop="20150605090000 -0300" channel="323" program_id="0000441452" event_id="000000100448563" series_key="">
+<programme start="20150616052000 -0300" stop="20150616073000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174750" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -109,7 +109,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150605090000 -0300" stop="20150605112000 -0300" channel="323" program_id="0000441452" event_id="000000100448564" series_key="">
+<programme start="20150616073000 -0300" stop="20150616094000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174751" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -144,7 +144,42 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150605112000 -0300" stop="20150605120000 -0300" channel="323" program_id="0000354916" event_id="000000100448566" series_key="">
+<programme start="20150616094000 -0300" stop="20150616115000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174752" series_key="">
+<title lang="pt">O Destino de Júpiter</title>
+<title lang="en">Jupiter Ascending</title>
+<desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
+<credits>
+<director>Andy Wachowski</director>
+<actor>Mila Kunis</actor>
+<actor>Channing Tatum</actor>
+<actor>Sean Bean</actor>
+<actor>Eddie Redmayne</actor>
+<actor>Douglas Booth</actor>
+<actor>Tuppence Middleton</actor>
+<actor>Nikki Amuka-Bird</actor>
+<actor>Christina Cole</actor>
+<actor>Nicholas A. Newman</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Ficção</category>
+<image>
+<image_name position="1">0000441452.jpg</image_name>
+<image_broadcast>0000441452</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA/Reino Unido</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150616115000 -0300" stop="20150616120000 -0300" channel="323" program_id="0000354916" event_id="00000000000098174753" series_key="">
 <title lang="pt">Intervalo Comercial</title>
 <desc>Intervalo comercial.</desc>
 <category lang="pt">Variedades</category>
@@ -161,7 +196,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150605120000 -0300" stop="20150605142000 -0300" channel="323" program_id="0000441452" event_id="000000100448567" series_key="">
+<programme start="20150616120000 -0300" stop="20150616141000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174754" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -196,7 +231,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150605142000 -0300" stop="20150605164000 -0300" channel="323" program_id="0000441452" event_id="000000100448569" series_key="">
+<programme start="20150616141000 -0300" stop="20150616162000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174755" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -231,7 +266,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150605164000 -0300" stop="20150605190000 -0300" channel="323" program_id="0000441452" event_id="000000100448570" series_key="">
+<programme start="20150616162000 -0300" stop="20150616183000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174756" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -266,7 +301,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150605190000 -0300" stop="20150605212000 -0300" channel="323" program_id="0000441452" event_id="000000100448571" series_key="">
+<programme start="20150616183000 -0300" stop="20150616204000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174757" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -301,7 +336,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150605212000 -0300" stop="20150605234000 -0300" channel="323" program_id="0000441452" event_id="000000100448573" series_key="">
+<programme start="20150616204000 -0300" stop="20150616225000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174758" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -336,7 +371,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150605234000 -0300" stop="20150606020000 -0300" channel="323" program_id="0000441452" event_id="000000100448574" series_key="">
+<programme start="20150616225000 -0300" stop="20150617010000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174759" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -371,7 +406,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150606020000 -0300" stop="20150606042000 -0300" channel="323" program_id="0000441452" event_id="000000100448576" series_key="">
+<programme start="20150617010000 -0300" stop="20150617031000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174760" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -406,7 +441,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150606042000 -0300" stop="20150606064000 -0300" channel="323" program_id="0000441452" event_id="000000100448577" series_key="">
+<programme start="20150617031000 -0300" stop="20150617052000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174761" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -441,7 +476,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150606064000 -0300" stop="20150606090000 -0300" channel="323" program_id="0000441452" event_id="000000100448579" series_key="">
+<programme start="20150617052000 -0300" stop="20150617073000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174762" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -476,7 +511,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150606090000 -0300" stop="20150606112000 -0300" channel="323" program_id="0000441452" event_id="000000100448580" series_key="">
+<programme start="20150617073000 -0300" stop="20150617094000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174763" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -511,7 +546,42 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150606112000 -0300" stop="20150606120000 -0300" channel="323" program_id="0000354916" event_id="000000100448582" series_key="">
+<programme start="20150617094000 -0300" stop="20150617115000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174764" series_key="">
+<title lang="pt">O Destino de Júpiter</title>
+<title lang="en">Jupiter Ascending</title>
+<desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
+<credits>
+<director>Andy Wachowski</director>
+<actor>Mila Kunis</actor>
+<actor>Channing Tatum</actor>
+<actor>Sean Bean</actor>
+<actor>Eddie Redmayne</actor>
+<actor>Douglas Booth</actor>
+<actor>Tuppence Middleton</actor>
+<actor>Nikki Amuka-Bird</actor>
+<actor>Christina Cole</actor>
+<actor>Nicholas A. Newman</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Ficção</category>
+<image>
+<image_name position="1">0000441452.jpg</image_name>
+<image_broadcast>0000441452</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA/Reino Unido</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150617115000 -0300" stop="20150617120000 -0300" channel="323" program_id="0000354916" event_id="00000000000098174765" series_key="">
 <title lang="pt">Intervalo Comercial</title>
 <desc>Intervalo comercial.</desc>
 <category lang="pt">Variedades</category>
@@ -528,7 +598,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150606120000 -0300" stop="20150606142000 -0300" channel="323" program_id="0000441452" event_id="000000100448583" series_key="">
+<programme start="20150617120000 -0300" stop="20150617141000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174766" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -563,7 +633,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150606142000 -0300" stop="20150606164000 -0300" channel="323" program_id="0000441452" event_id="000000100448585" series_key="">
+<programme start="20150617141000 -0300" stop="20150617162000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174767" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -598,7 +668,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150606164000 -0300" stop="20150606190000 -0300" channel="323" program_id="0000441452" event_id="000000100448587" series_key="">
+<programme start="20150617162000 -0300" stop="20150617183000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174768" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -633,7 +703,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150606190000 -0300" stop="20150606212000 -0300" channel="323" program_id="0000441452" event_id="000000100448588" series_key="">
+<programme start="20150617183000 -0300" stop="20150617204000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174769" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -668,7 +738,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150606212000 -0300" stop="20150606234000 -0300" channel="323" program_id="0000441452" event_id="000000100448590" series_key="">
+<programme start="20150617204000 -0300" stop="20150617225000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174770" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -703,7 +773,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150606234000 -0300" stop="20150607020000 -0300" channel="323" program_id="0000441452" event_id="000000100448591" series_key="">
+<programme start="20150617225000 -0300" stop="20150618010000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174771" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -738,7 +808,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150607020000 -0300" stop="20150607042000 -0300" channel="323" program_id="0000441452" event_id="000000100448593" series_key="">
+<programme start="20150618010000 -0300" stop="20150618031000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174772" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -773,7 +843,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150607042000 -0300" stop="20150607064000 -0300" channel="323" program_id="0000441452" event_id="000000100448594" series_key="">
+<programme start="20150618031000 -0300" stop="20150618052000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174773" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -808,7 +878,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150607064000 -0300" stop="20150607090000 -0300" channel="323" program_id="0000441452" event_id="000000100448596" series_key="">
+<programme start="20150618052000 -0300" stop="20150618073000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174774" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -843,7 +913,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150607090000 -0300" stop="20150607112000 -0300" channel="323" program_id="0000441452" event_id="000000100448597" series_key="">
+<programme start="20150618073000 -0300" stop="20150618094000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174775" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -878,7 +948,42 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150607112000 -0300" stop="20150607120000 -0300" channel="323" program_id="0000354916" event_id="000000100448599" series_key="">
+<programme start="20150618094000 -0300" stop="20150618115000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174776" series_key="">
+<title lang="pt">O Destino de Júpiter</title>
+<title lang="en">Jupiter Ascending</title>
+<desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
+<credits>
+<director>Andy Wachowski</director>
+<actor>Mila Kunis</actor>
+<actor>Channing Tatum</actor>
+<actor>Sean Bean</actor>
+<actor>Eddie Redmayne</actor>
+<actor>Douglas Booth</actor>
+<actor>Tuppence Middleton</actor>
+<actor>Nikki Amuka-Bird</actor>
+<actor>Christina Cole</actor>
+<actor>Nicholas A. Newman</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Ficção</category>
+<image>
+<image_name position="1">0000441452.jpg</image_name>
+<image_broadcast>0000441452</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA/Reino Unido</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150618115000 -0300" stop="20150618120000 -0300" channel="323" program_id="0000354916" event_id="00000000000098174777" series_key="">
 <title lang="pt">Intervalo Comercial</title>
 <desc>Intervalo comercial.</desc>
 <category lang="pt">Variedades</category>
@@ -895,7 +1000,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150607120000 -0300" stop="20150607142000 -0300" channel="323" program_id="0000441452" event_id="000000100448600" series_key="">
+<programme start="20150618120000 -0300" stop="20150618141000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174778" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -930,7 +1035,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150607142000 -0300" stop="20150607164000 -0300" channel="323" program_id="0000441452" event_id="000000100448602" series_key="">
+<programme start="20150618141000 -0300" stop="20150618162000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174779" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -965,7 +1070,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150607164000 -0300" stop="20150607190000 -0300" channel="323" program_id="0000441452" event_id="000000100448603" series_key="">
+<programme start="20150618162000 -0300" stop="20150618183000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174780" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1000,7 +1105,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150607190000 -0300" stop="20150607212000 -0300" channel="323" program_id="0000441452" event_id="000000100448605" series_key="">
+<programme start="20150618183000 -0300" stop="20150618204000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174781" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1035,7 +1140,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150607212000 -0300" stop="20150607234000 -0300" channel="323" program_id="0000441452" event_id="000000100448606" series_key="">
+<programme start="20150618204000 -0300" stop="20150618225000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174782" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1070,7 +1175,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150607234000 -0300" stop="20150608020000 -0300" channel="323" program_id="0000441452" event_id="000000100448608" series_key="">
+<programme start="20150618225000 -0300" stop="20150619010000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174783" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1105,7 +1210,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150608020000 -0300" stop="20150608042000 -0300" channel="323" program_id="0000441452" event_id="000000100448609" series_key="">
+<programme start="20150619010000 -0300" stop="20150619031000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174784" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1140,7 +1245,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150608042000 -0300" stop="20150608064000 -0300" channel="323" program_id="0000441452" event_id="000000100448611" series_key="">
+<programme start="20150619031000 -0300" stop="20150619052000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174785" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1175,7 +1280,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150608064000 -0300" stop="20150608090000 -0300" channel="323" program_id="0000441452" event_id="000000100448612" series_key="">
+<programme start="20150619052000 -0300" stop="20150619073000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174786" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1210,7 +1315,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150608090000 -0300" stop="20150608112000 -0300" channel="323" program_id="0000441452" event_id="000000100448614" series_key="">
+<programme start="20150619073000 -0300" stop="20150619094000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174787" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1245,7 +1350,42 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150608112000 -0300" stop="20150608120000 -0300" channel="323" program_id="0000354916" event_id="000000100448615" series_key="">
+<programme start="20150619094000 -0300" stop="20150619115000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174788" series_key="">
+<title lang="pt">O Destino de Júpiter</title>
+<title lang="en">Jupiter Ascending</title>
+<desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
+<credits>
+<director>Andy Wachowski</director>
+<actor>Mila Kunis</actor>
+<actor>Channing Tatum</actor>
+<actor>Sean Bean</actor>
+<actor>Eddie Redmayne</actor>
+<actor>Douglas Booth</actor>
+<actor>Tuppence Middleton</actor>
+<actor>Nikki Amuka-Bird</actor>
+<actor>Christina Cole</actor>
+<actor>Nicholas A. Newman</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Ficção</category>
+<image>
+<image_name position="1">0000441452.jpg</image_name>
+<image_broadcast>0000441452</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA/Reino Unido</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150619115000 -0300" stop="20150619120000 -0300" channel="323" program_id="0000354916" event_id="00000000000098174789" series_key="">
 <title lang="pt">Intervalo Comercial</title>
 <desc>Intervalo comercial.</desc>
 <category lang="pt">Variedades</category>
@@ -1262,7 +1402,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150608120000 -0300" stop="20150608142000 -0300" channel="323" program_id="0000441452" event_id="000000100448616" series_key="">
+<programme start="20150619120000 -0300" stop="20150619141000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174790" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1297,7 +1437,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150608142000 -0300" stop="20150608164000 -0300" channel="323" program_id="0000441452" event_id="000000100448618" series_key="">
+<programme start="20150619141000 -0300" stop="20150619162000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174791" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1332,7 +1472,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150608164000 -0300" stop="20150608190000 -0300" channel="323" program_id="0000441452" event_id="000000100448619" series_key="">
+<programme start="20150619162000 -0300" stop="20150619183000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174792" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1367,7 +1507,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150608190000 -0300" stop="20150608212000 -0300" channel="323" program_id="0000441452" event_id="000000100448621" series_key="">
+<programme start="20150619183000 -0300" stop="20150619204000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174793" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1402,7 +1542,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150608212000 -0300" stop="20150608234000 -0300" channel="323" program_id="0000441452" event_id="000000100448622" series_key="">
+<programme start="20150619204000 -0300" stop="20150619225000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174794" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1437,7 +1577,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150608234000 -0300" stop="20150609020000 -0300" channel="323" program_id="0000441452" event_id="000000100448624" series_key="">
+<programme start="20150619225000 -0300" stop="20150620010000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174795" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1472,7 +1612,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150609020000 -0300" stop="20150609042000 -0300" channel="323" program_id="0000441452" event_id="000000100448625" series_key="">
+<programme start="20150620010000 -0300" stop="20150620031000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174796" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1507,7 +1647,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150609042000 -0300" stop="20150609064000 -0300" channel="323" program_id="0000441452" event_id="000000100448627" series_key="">
+<programme start="20150620031000 -0300" stop="20150620052000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174797" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1542,7 +1682,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150609064000 -0300" stop="20150609090000 -0300" channel="323" program_id="0000441452" event_id="000000100448628" series_key="">
+<programme start="20150620052000 -0300" stop="20150620073000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174798" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1577,7 +1717,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150609090000 -0300" stop="20150609112000 -0300" channel="323" program_id="0000441452" event_id="000000100448630" series_key="">
+<programme start="20150620073000 -0300" stop="20150620094000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174799" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1612,7 +1752,42 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150609112000 -0300" stop="20150609120000 -0300" channel="323" program_id="0000354916" event_id="000000100448632" series_key="">
+<programme start="20150620094000 -0300" stop="20150620115000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174800" series_key="">
+<title lang="pt">O Destino de Júpiter</title>
+<title lang="en">Jupiter Ascending</title>
+<desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
+<credits>
+<director>Andy Wachowski</director>
+<actor>Mila Kunis</actor>
+<actor>Channing Tatum</actor>
+<actor>Sean Bean</actor>
+<actor>Eddie Redmayne</actor>
+<actor>Douglas Booth</actor>
+<actor>Tuppence Middleton</actor>
+<actor>Nikki Amuka-Bird</actor>
+<actor>Christina Cole</actor>
+<actor>Nicholas A. Newman</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Ficção</category>
+<image>
+<image_name position="1">0000441452.jpg</image_name>
+<image_broadcast>0000441452</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA/Reino Unido</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150620115000 -0300" stop="20150620120000 -0300" channel="323" program_id="0000354916" event_id="00000000000098174801" series_key="">
 <title lang="pt">Intervalo Comercial</title>
 <desc>Intervalo comercial.</desc>
 <category lang="pt">Variedades</category>
@@ -1629,7 +1804,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150609120000 -0300" stop="20150609142000 -0300" channel="323" program_id="0000441452" event_id="000000100448633" series_key="">
+<programme start="20150620120000 -0300" stop="20150620141000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174802" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1664,7 +1839,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150609142000 -0300" stop="20150609164000 -0300" channel="323" program_id="0000441452" event_id="000000100448634" series_key="">
+<programme start="20150620141000 -0300" stop="20150620162000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174803" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1699,7 +1874,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150609164000 -0300" stop="20150609190000 -0300" channel="323" program_id="0000441452" event_id="000000100448636" series_key="">
+<programme start="20150620162000 -0300" stop="20150620183000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174804" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1734,7 +1909,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150609190000 -0300" stop="20150609212000 -0300" channel="323" program_id="0000441452" event_id="000000100448638" series_key="">
+<programme start="20150620183000 -0300" stop="20150620204000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174805" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1769,7 +1944,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150609212000 -0300" stop="20150609234000 -0300" channel="323" program_id="0000441452" event_id="000000100448639" series_key="">
+<programme start="20150620204000 -0300" stop="20150620225000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174806" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1804,7 +1979,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150609234000 -0300" stop="20150610020000 -0300" channel="323" program_id="0000441452" event_id="000000100448641" series_key="">
+<programme start="20150620225000 -0300" stop="20150621010000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174807" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1839,7 +2014,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150610020000 -0300" stop="20150610042000 -0300" channel="323" program_id="0000441452" event_id="000000100448642" series_key="">
+<programme start="20150621010000 -0300" stop="20150621031000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174808" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1874,7 +2049,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150610042000 -0300" stop="20150610064000 -0300" channel="323" program_id="0000441452" event_id="000000100448644" series_key="">
+<programme start="20150621031000 -0300" stop="20150621052000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174809" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1909,7 +2084,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150610064000 -0300" stop="20150610090000 -0300" channel="323" program_id="0000441452" event_id="000000100448645" series_key="">
+<programme start="20150621052000 -0300" stop="20150621073000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174810" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1944,7 +2119,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150610090000 -0300" stop="20150610112000 -0300" channel="323" program_id="0000441452" event_id="000000100448647" series_key="">
+<programme start="20150621073000 -0300" stop="20150621094000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174811" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -1979,7 +2154,42 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150610112000 -0300" stop="20150610120000 -0300" channel="323" program_id="0000354916" event_id="000000100448648" series_key="">
+<programme start="20150621094000 -0300" stop="20150621115000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174812" series_key="">
+<title lang="pt">O Destino de Júpiter</title>
+<title lang="en">Jupiter Ascending</title>
+<desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
+<credits>
+<director>Andy Wachowski</director>
+<actor>Mila Kunis</actor>
+<actor>Channing Tatum</actor>
+<actor>Sean Bean</actor>
+<actor>Eddie Redmayne</actor>
+<actor>Douglas Booth</actor>
+<actor>Tuppence Middleton</actor>
+<actor>Nikki Amuka-Bird</actor>
+<actor>Christina Cole</actor>
+<actor>Nicholas A. Newman</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Ficção</category>
+<image>
+<image_name position="1">0000441452.jpg</image_name>
+<image_broadcast>0000441452</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA/Reino Unido</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150621115000 -0300" stop="20150621120000 -0300" channel="323" program_id="0000354916" event_id="00000000000098174813" series_key="">
 <title lang="pt">Intervalo Comercial</title>
 <desc>Intervalo comercial.</desc>
 <category lang="pt">Variedades</category>
@@ -1996,7 +2206,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150610120000 -0300" stop="20150610142000 -0300" channel="323" program_id="0000441452" event_id="000000100448649" series_key="">
+<programme start="20150621120000 -0300" stop="20150621141000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174814" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2031,7 +2241,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150610142000 -0300" stop="20150610164000 -0300" channel="323" program_id="0000441452" event_id="000000100448650" series_key="">
+<programme start="20150621141000 -0300" stop="20150621162000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174815" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2066,7 +2276,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150610164000 -0300" stop="20150610190000 -0300" channel="323" program_id="0000441452" event_id="000000100448651" series_key="">
+<programme start="20150621162000 -0300" stop="20150621183000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174816" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2101,7 +2311,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150610190000 -0300" stop="20150610212000 -0300" channel="323" program_id="0000441452" event_id="000000100448653" series_key="">
+<programme start="20150621183000 -0300" stop="20150621204000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174817" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2136,7 +2346,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150610212000 -0300" stop="20150610234000 -0300" channel="323" program_id="0000441452" event_id="000000100448654" series_key="">
+<programme start="20150621204000 -0300" stop="20150621225000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174818" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2171,7 +2381,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150610234000 -0300" stop="20150611020000 -0300" channel="323" program_id="0000441452" event_id="000000100448655" series_key="">
+<programme start="20150621225000 -0300" stop="20150622010000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174819" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2206,7 +2416,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150611020000 -0300" stop="20150611042000 -0300" channel="323" program_id="0000441452" event_id="000000100448657" series_key="">
+<programme start="20150622010000 -0300" stop="20150622031000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174820" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2241,7 +2451,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150611042000 -0300" stop="20150611064000 -0300" channel="323" program_id="0000441452" event_id="000000100448658" series_key="">
+<programme start="20150622031000 -0300" stop="20150622052000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174821" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2276,7 +2486,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150611064000 -0300" stop="20150611090000 -0300" channel="323" program_id="0000441452" event_id="000000100448659" series_key="">
+<programme start="20150622052000 -0300" stop="20150622073000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174822" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2311,7 +2521,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150611090000 -0300" stop="20150611112000 -0300" channel="323" program_id="0000441452" event_id="000000100448661" series_key="">
+<programme start="20150622073000 -0300" stop="20150622094000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174823" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2346,7 +2556,42 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150611112000 -0300" stop="20150611120000 -0300" channel="323" program_id="0000354916" event_id="000000100448662" series_key="">
+<programme start="20150622094000 -0300" stop="20150622115000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174824" series_key="">
+<title lang="pt">O Destino de Júpiter</title>
+<title lang="en">Jupiter Ascending</title>
+<desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
+<credits>
+<director>Andy Wachowski</director>
+<actor>Mila Kunis</actor>
+<actor>Channing Tatum</actor>
+<actor>Sean Bean</actor>
+<actor>Eddie Redmayne</actor>
+<actor>Douglas Booth</actor>
+<actor>Tuppence Middleton</actor>
+<actor>Nikki Amuka-Bird</actor>
+<actor>Christina Cole</actor>
+<actor>Nicholas A. Newman</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Ficção</category>
+<image>
+<image_name position="1">0000441452.jpg</image_name>
+<image_broadcast>0000441452</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA/Reino Unido</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150622115000 -0300" stop="20150622120000 -0300" channel="323" program_id="0000354916" event_id="00000000000098174825" series_key="">
 <title lang="pt">Intervalo Comercial</title>
 <desc>Intervalo comercial.</desc>
 <category lang="pt">Variedades</category>
@@ -2363,7 +2608,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150611120000 -0300" stop="20150611142000 -0300" channel="323" program_id="0000441452" event_id="000000100448664" series_key="">
+<programme start="20150622120000 -0300" stop="20150622141000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174826" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2398,7 +2643,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150611142000 -0300" stop="20150611164000 -0300" channel="323" program_id="0000441452" event_id="000000100448665" series_key="">
+<programme start="20150622141000 -0300" stop="20150622162000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174827" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2433,7 +2678,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150611164000 -0300" stop="20150611190000 -0300" channel="323" program_id="0000441452" event_id="000000100448666" series_key="">
+<programme start="20150622162000 -0300" stop="20150622183000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174828" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2468,7 +2713,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150611190000 -0300" stop="20150611212000 -0300" channel="323" program_id="0000441452" event_id="000000100448667" series_key="">
+<programme start="20150622183000 -0300" stop="20150622204000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174829" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2503,7 +2748,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150611212000 -0300" stop="20150611234000 -0300" channel="323" program_id="0000441452" event_id="000000100448668" series_key="">
+<programme start="20150622204000 -0300" stop="20150622225000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174830" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2538,7 +2783,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150611234000 -0300" stop="20150612020000 -0300" channel="323" program_id="0000441452" event_id="000000100448670" series_key="">
+<programme start="20150622225000 -0300" stop="20150623010000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174831" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2573,7 +2818,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150612020000 -0300" stop="20150612042000 -0300" channel="323" program_id="0000441452" event_id="000000100448671" series_key="">
+<programme start="20150623010000 -0300" stop="20150623031000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174832" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2608,7 +2853,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150612042000 -0300" stop="20150612064000 -0300" channel="323" program_id="0000441452" event_id="000000100448673" series_key="">
+<programme start="20150623031000 -0300" stop="20150623052000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174833" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2643,7 +2888,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150612064000 -0300" stop="20150612090000 -0300" channel="323" program_id="0000441452" event_id="000000100448674" series_key="">
+<programme start="20150623052000 -0300" stop="20150623073000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174834" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2678,7 +2923,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150612090000 -0300" stop="20150612112000 -0300" channel="323" program_id="0000441452" event_id="000000100448676" series_key="">
+<programme start="20150623073000 -0300" stop="20150623094000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174835" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2713,7 +2958,42 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150612112000 -0300" stop="20150612120000 -0300" channel="323" program_id="0000354916" event_id="000000100448677" series_key="">
+<programme start="20150623094000 -0300" stop="20150623115000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174836" series_key="">
+<title lang="pt">O Destino de Júpiter</title>
+<title lang="en">Jupiter Ascending</title>
+<desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
+<credits>
+<director>Andy Wachowski</director>
+<actor>Mila Kunis</actor>
+<actor>Channing Tatum</actor>
+<actor>Sean Bean</actor>
+<actor>Eddie Redmayne</actor>
+<actor>Douglas Booth</actor>
+<actor>Tuppence Middleton</actor>
+<actor>Nikki Amuka-Bird</actor>
+<actor>Christina Cole</actor>
+<actor>Nicholas A. Newman</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Ficção</category>
+<image>
+<image_name position="1">0000441452.jpg</image_name>
+<image_broadcast>0000441452</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA/Reino Unido</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150623115000 -0300" stop="20150623120000 -0300" channel="323" program_id="0000354916" event_id="00000000000098174837" series_key="">
 <title lang="pt">Intervalo Comercial</title>
 <desc>Intervalo comercial.</desc>
 <category lang="pt">Variedades</category>
@@ -2730,7 +3010,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150612120000 -0300" stop="20150612142000 -0300" channel="323" program_id="0000441452" event_id="000000100448679" series_key="">
+<programme start="20150623120000 -0300" stop="20150623141000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174838" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2765,7 +3045,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150612142000 -0300" stop="20150612164000 -0300" channel="323" program_id="0000441452" event_id="000000100448680" series_key="">
+<programme start="20150623141000 -0300" stop="20150623162000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174839" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2800,7 +3080,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150612164000 -0300" stop="20150612190000 -0300" channel="323" program_id="0000441452" event_id="000000100448682" series_key="">
+<programme start="20150623162000 -0300" stop="20150623183000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174840" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2835,7 +3115,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150612190000 -0300" stop="20150612212000 -0300" channel="323" program_id="0000441452" event_id="000000100448683" series_key="">
+<programme start="20150623183000 -0300" stop="20150623204000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174841" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2870,7 +3150,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150612212000 -0300" stop="20150612234000 -0300" channel="323" program_id="0000441452" event_id="000000100448685" series_key="">
+<programme start="20150623204000 -0300" stop="20150623225000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174842" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2905,7 +3185,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150612234000 -0300" stop="20150613020000 -0300" channel="323" program_id="0000441452" event_id="000000100448687" series_key="">
+<programme start="20150623225000 -0300" stop="20150624010000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174843" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2940,7 +3220,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150613020000 -0300" stop="20150613042000 -0300" channel="323" program_id="0000441452" event_id="000000100448688" series_key="">
+<programme start="20150624010000 -0300" stop="20150624031000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174844" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -2975,7 +3255,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150613042000 -0300" stop="20150613064000 -0300" channel="323" program_id="0000441452" event_id="000000100448690" series_key="">
+<programme start="20150624031000 -0300" stop="20150624052000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174845" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3010,7 +3290,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150613064000 -0300" stop="20150613090000 -0300" channel="323" program_id="0000441452" event_id="000000100448691" series_key="">
+<programme start="20150624052000 -0300" stop="20150624073000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174846" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3045,7 +3325,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150613090000 -0300" stop="20150613112000 -0300" channel="323" program_id="0000441452" event_id="000000100448693" series_key="">
+<programme start="20150624073000 -0300" stop="20150624094000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174847" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3080,7 +3360,42 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150613112000 -0300" stop="20150613120000 -0300" channel="323" program_id="0000354916" event_id="000000100448695" series_key="">
+<programme start="20150624094000 -0300" stop="20150624115000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174848" series_key="">
+<title lang="pt">O Destino de Júpiter</title>
+<title lang="en">Jupiter Ascending</title>
+<desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
+<credits>
+<director>Andy Wachowski</director>
+<actor>Mila Kunis</actor>
+<actor>Channing Tatum</actor>
+<actor>Sean Bean</actor>
+<actor>Eddie Redmayne</actor>
+<actor>Douglas Booth</actor>
+<actor>Tuppence Middleton</actor>
+<actor>Nikki Amuka-Bird</actor>
+<actor>Christina Cole</actor>
+<actor>Nicholas A. Newman</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Ficção</category>
+<image>
+<image_name position="1">0000441452.jpg</image_name>
+<image_broadcast>0000441452</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA/Reino Unido</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150624115000 -0300" stop="20150624120000 -0300" channel="323" program_id="0000354916" event_id="00000000000098174849" series_key="">
 <title lang="pt">Intervalo Comercial</title>
 <desc>Intervalo comercial.</desc>
 <category lang="pt">Variedades</category>
@@ -3097,7 +3412,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150613120000 -0300" stop="20150613142000 -0300" channel="323" program_id="0000441452" event_id="000000100448696" series_key="">
+<programme start="20150624120000 -0300" stop="20150624141000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174850" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3132,7 +3447,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150613142000 -0300" stop="20150613164000 -0300" channel="323" program_id="0000441452" event_id="000000100448698" series_key="">
+<programme start="20150624141000 -0300" stop="20150624162000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174851" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3167,7 +3482,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150613164000 -0300" stop="20150613190000 -0300" channel="323" program_id="0000441452" event_id="000000100448699" series_key="">
+<programme start="20150624162000 -0300" stop="20150624183000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174852" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3202,7 +3517,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150613190000 -0300" stop="20150613212000 -0300" channel="323" program_id="0000441452" event_id="000000100448701" series_key="">
+<programme start="20150624183000 -0300" stop="20150624204000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174853" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3237,7 +3552,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150613212000 -0300" stop="20150613234000 -0300" channel="323" program_id="0000441452" event_id="000000100448702" series_key="">
+<programme start="20150624204000 -0300" stop="20150624225000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174854" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3272,7 +3587,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150613234000 -0300" stop="20150614020000 -0300" channel="323" program_id="0000441452" event_id="000000100448704" series_key="">
+<programme start="20150624225000 -0300" stop="20150625010000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174855" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3307,7 +3622,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150614020000 -0300" stop="20150614042000 -0300" channel="323" program_id="0000441452" event_id="000000100448705" series_key="">
+<programme start="20150625010000 -0300" stop="20150625031000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174856" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3342,7 +3657,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150614042000 -0300" stop="20150614064000 -0300" channel="323" program_id="0000441452" event_id="000000100448707" series_key="">
+<programme start="20150625031000 -0300" stop="20150625052000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174857" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3377,7 +3692,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150614064000 -0300" stop="20150614090000 -0300" channel="323" program_id="0000441452" event_id="000000100448708" series_key="">
+<programme start="20150625052000 -0300" stop="20150625073000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174858" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3412,7 +3727,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150614090000 -0300" stop="20150614112000 -0300" channel="323" program_id="0000441452" event_id="000000100448709" series_key="">
+<programme start="20150625073000 -0300" stop="20150625094000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174859" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3447,7 +3762,42 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150614112000 -0300" stop="20150614120000 -0300" channel="323" program_id="0000354916" event_id="000000100448710" series_key="">
+<programme start="20150625094000 -0300" stop="20150625115000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174860" series_key="">
+<title lang="pt">O Destino de Júpiter</title>
+<title lang="en">Jupiter Ascending</title>
+<desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
+<credits>
+<director>Andy Wachowski</director>
+<actor>Mila Kunis</actor>
+<actor>Channing Tatum</actor>
+<actor>Sean Bean</actor>
+<actor>Eddie Redmayne</actor>
+<actor>Douglas Booth</actor>
+<actor>Tuppence Middleton</actor>
+<actor>Nikki Amuka-Bird</actor>
+<actor>Christina Cole</actor>
+<actor>Nicholas A. Newman</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Ficção</category>
+<image>
+<image_name position="1">0000441452.jpg</image_name>
+<image_broadcast>0000441452</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA/Reino Unido</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150625115000 -0300" stop="20150625120000 -0300" channel="323" program_id="0000354916" event_id="00000000000098174861" series_key="">
 <title lang="pt">Intervalo Comercial</title>
 <desc>Intervalo comercial.</desc>
 <category lang="pt">Variedades</category>
@@ -3464,7 +3814,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150614120000 -0300" stop="20150614142000 -0300" channel="323" program_id="0000441452" event_id="000000100448712" series_key="">
+<programme start="20150625120000 -0300" stop="20150625141000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174862" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3499,7 +3849,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150614142000 -0300" stop="20150614164000 -0300" channel="323" program_id="0000441452" event_id="000000100448713" series_key="">
+<programme start="20150625141000 -0300" stop="20150625162000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174863" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3534,7 +3884,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150614164000 -0300" stop="20150614190000 -0300" channel="323" program_id="0000441452" event_id="000000100448714" series_key="">
+<programme start="20150625162000 -0300" stop="20150625183000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174864" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3569,7 +3919,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150614190000 -0300" stop="20150614212000 -0300" channel="323" program_id="0000441452" event_id="000000100448715" series_key="">
+<programme start="20150625183000 -0300" stop="20150625204000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174865" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3604,7 +3954,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150614212000 -0300" stop="20150614234000 -0300" channel="323" program_id="0000441452" event_id="000000100448717" series_key="">
+<programme start="20150625204000 -0300" stop="20150625225000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174866" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3639,7 +3989,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150614234000 -0300" stop="20150615020000 -0300" channel="323" program_id="0000441452" event_id="000000100448718" series_key="">
+<programme start="20150625225000 -0300" stop="20150626010000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174867" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3674,7 +4024,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150615020000 -0300" stop="20150615042000 -0300" channel="323" program_id="0000441452" event_id="000000100448719" series_key="">
+<programme start="20150626010000 -0300" stop="20150626031000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174868" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3709,7 +4059,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150615042000 -0300" stop="20150615064000 -0300" channel="323" program_id="0000441452" event_id="000000100448720" series_key="">
+<programme start="20150626031000 -0300" stop="20150626052000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174869" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3744,7 +4094,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150615064000 -0300" stop="20150615090000 -0300" channel="323" program_id="0000441452" event_id="000000100448721" series_key="">
+<programme start="20150626052000 -0300" stop="20150626073000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174870" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3779,7 +4129,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150615090000 -0300" stop="20150615112000 -0300" channel="323" program_id="0000441452" event_id="000000100448723" series_key="">
+<programme start="20150626073000 -0300" stop="20150626094000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174871" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3814,7 +4164,42 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150615112000 -0300" stop="20150615120000 -0300" channel="323" program_id="0000354916" event_id="000000100448724" series_key="">
+<programme start="20150626094000 -0300" stop="20150626115000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174872" series_key="">
+<title lang="pt">O Destino de Júpiter</title>
+<title lang="en">Jupiter Ascending</title>
+<desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
+<credits>
+<director>Andy Wachowski</director>
+<actor>Mila Kunis</actor>
+<actor>Channing Tatum</actor>
+<actor>Sean Bean</actor>
+<actor>Eddie Redmayne</actor>
+<actor>Douglas Booth</actor>
+<actor>Tuppence Middleton</actor>
+<actor>Nikki Amuka-Bird</actor>
+<actor>Christina Cole</actor>
+<actor>Nicholas A. Newman</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Ficção</category>
+<image>
+<image_name position="1">0000441452.jpg</image_name>
+<image_broadcast>0000441452</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA/Reino Unido</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150626115000 -0300" stop="20150626120000 -0300" channel="323" program_id="0000354916" event_id="00000000000098174873" series_key="">
 <title lang="pt">Intervalo Comercial</title>
 <desc>Intervalo comercial.</desc>
 <category lang="pt">Variedades</category>
@@ -3831,7 +4216,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150615120000 -0300" stop="20150615142000 -0300" channel="323" program_id="0000441452" event_id="000000100448725" series_key="">
+<programme start="20150626120000 -0300" stop="20150626141000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174874" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3866,7 +4251,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150615142000 -0300" stop="20150615164000 -0300" channel="323" program_id="0000441452" event_id="000000100448726" series_key="">
+<programme start="20150626141000 -0300" stop="20150626162000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174875" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3901,7 +4286,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150615164000 -0300" stop="20150615190000 -0300" channel="323" program_id="0000441452" event_id="000000100448727" series_key="">
+<programme start="20150626162000 -0300" stop="20150626183000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174876" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3936,7 +4321,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150615190000 -0300" stop="20150615212000 -0300" channel="323" program_id="0000441452" event_id="000000100448729" series_key="">
+<programme start="20150626183000 -0300" stop="20150626204000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174877" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -3971,7 +4356,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150615212000 -0300" stop="20150615234000 -0300" channel="323" program_id="0000441452" event_id="000000100448730" series_key="">
+<programme start="20150626204000 -0300" stop="20150626225000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174878" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4006,7 +4391,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150615234000 -0300" stop="20150616020000 -0300" channel="323" program_id="0000441452" event_id="000000100448731" series_key="">
+<programme start="20150626225000 -0300" stop="20150627010000 -0300" channel="323" program_id="0000441452" event_id="00000000000098174879" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4041,7 +4426,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150616020000 -0300" stop="20150616042000 -0300" channel="323" program_id="0000441452" event_id="000000100448732" series_key="">
+<programme start="20150627010000 -0300" stop="20150627031000 -0300" channel="323" program_id="0000441452" event_id="00000000000098422504" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4076,7 +4461,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150616042000 -0300" stop="20150616064000 -0300" channel="323" program_id="0000441452" event_id="000000100448734" series_key="">
+<programme start="20150627031000 -0300" stop="20150627052000 -0300" channel="323" program_id="0000441452" event_id="00000000000098422505" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4111,7 +4496,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150616064000 -0300" stop="20150616090000 -0300" channel="323" program_id="0000441452" event_id="000000100448735" series_key="">
+<programme start="20150627052000 -0300" stop="20150627073000 -0300" channel="323" program_id="0000441452" event_id="00000000000098422507" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4146,7 +4531,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150616090000 -0300" stop="20150616112000 -0300" channel="323" program_id="0000441452" event_id="000000100448736" series_key="">
+<programme start="20150627073000 -0300" stop="20150627094000 -0300" channel="323" program_id="0000441452" event_id="00000000000098422508" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4181,7 +4566,42 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150616112000 -0300" stop="20150616120000 -0300" channel="323" program_id="0000354916" event_id="000000100448737" series_key="">
+<programme start="20150627094000 -0300" stop="20150627115000 -0300" channel="323" program_id="0000441452" event_id="00000000000098422509" series_key="">
+<title lang="pt">O Destino de Júpiter</title>
+<title lang="en">Jupiter Ascending</title>
+<desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
+<credits>
+<director>Andy Wachowski</director>
+<actor>Mila Kunis</actor>
+<actor>Channing Tatum</actor>
+<actor>Sean Bean</actor>
+<actor>Eddie Redmayne</actor>
+<actor>Douglas Booth</actor>
+<actor>Tuppence Middleton</actor>
+<actor>Nikki Amuka-Bird</actor>
+<actor>Christina Cole</actor>
+<actor>Nicholas A. Newman</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Ficção</category>
+<image>
+<image_name position="1">0000441452.jpg</image_name>
+<image_broadcast>0000441452</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA/Reino Unido</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150627115000 -0300" stop="20150627120000 -0300" channel="323" program_id="0000354916" event_id="00000000000098422511" series_key="">
 <title lang="pt">Intervalo Comercial</title>
 <desc>Intervalo comercial.</desc>
 <category lang="pt">Variedades</category>
@@ -4198,7 +4618,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150616120000 -0300" stop="20150616142000 -0300" channel="323" program_id="0000441452" event_id="000000100448739" series_key="">
+<programme start="20150627120000 -0300" stop="20150627141000 -0300" channel="323" program_id="0000441452" event_id="00000000000098422512" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4233,7 +4653,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150616142000 -0300" stop="20150616164000 -0300" channel="323" program_id="0000441452" event_id="000000100448740" series_key="">
+<programme start="20150627141000 -0300" stop="20150627162000 -0300" channel="323" program_id="0000441452" event_id="00000000000098422513" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4268,7 +4688,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150616164000 -0300" stop="20150616190000 -0300" channel="323" program_id="0000441452" event_id="000000100448741" series_key="">
+<programme start="20150627162000 -0300" stop="20150627183000 -0300" channel="323" program_id="0000441452" event_id="00000000000098422515" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4303,7 +4723,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150616190000 -0300" stop="20150616212000 -0300" channel="323" program_id="0000441452" event_id="000000100448742" series_key="">
+<programme start="20150627183000 -0300" stop="20150627204000 -0300" channel="323" program_id="0000441452" event_id="00000000000098422516" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4338,7 +4758,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150616212000 -0300" stop="20150616234000 -0300" channel="323" program_id="0000441452" event_id="000000100448744" series_key="">
+<programme start="20150627204000 -0300" stop="20150627225000 -0300" channel="323" program_id="0000441452" event_id="00000000000098422518" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4373,7 +4793,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150616234000 -0300" stop="20150617020000 -0300" channel="323" program_id="0000441452" event_id="000000100448745" series_key="">
+<programme start="20150627225000 -0300" stop="20150628010000 -0300" channel="323" program_id="0000441452" event_id="00000000000098422519" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4408,7 +4828,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150617020000 -0300" stop="20150617042000 -0300" channel="323" program_id="0000441452" event_id="000000100448746" series_key="">
+<programme start="20150628010000 -0300" stop="20150628031000 -0300" channel="323" program_id="0000441452" event_id="00000000000098422520" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4443,7 +4863,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150617042000 -0300" stop="20150617064000 -0300" channel="323" program_id="0000441452" event_id="000000100448747" series_key="">
+<programme start="20150628031000 -0300" stop="20150628052000 -0300" channel="323" program_id="0000441452" event_id="00000000000098422522" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4478,7 +4898,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150617064000 -0300" stop="20150617090000 -0300" channel="323" program_id="0000441452" event_id="000000100448748" series_key="">
+<programme start="20150628052000 -0300" stop="20150628073000 -0300" channel="323" program_id="0000441452" event_id="00000000000098422523" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4513,7 +4933,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150617090000 -0300" stop="20150617112000 -0300" channel="323" program_id="0000441452" event_id="000000100448750" series_key="">
+<programme start="20150628073000 -0300" stop="20150628094000 -0300" channel="323" program_id="0000441452" event_id="00000000000098422524" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4548,7 +4968,42 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150617112000 -0300" stop="20150617120000 -0300" channel="323" program_id="0000354916" event_id="000000100448751" series_key="">
+<programme start="20150628094000 -0300" stop="20150628115000 -0300" channel="323" program_id="0000441452" event_id="00000000000098422525" series_key="">
+<title lang="pt">O Destino de Júpiter</title>
+<title lang="en">Jupiter Ascending</title>
+<desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
+<credits>
+<director>Andy Wachowski</director>
+<actor>Mila Kunis</actor>
+<actor>Channing Tatum</actor>
+<actor>Sean Bean</actor>
+<actor>Eddie Redmayne</actor>
+<actor>Douglas Booth</actor>
+<actor>Tuppence Middleton</actor>
+<actor>Nikki Amuka-Bird</actor>
+<actor>Christina Cole</actor>
+<actor>Nicholas A. Newman</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Ficção</category>
+<image>
+<image_name position="1">0000441452.jpg</image_name>
+<image_broadcast>0000441452</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA/Reino Unido</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150628115000 -0300" stop="20150628120000 -0300" channel="323" program_id="0000354916" event_id="00000000000098422527" series_key="">
 <title lang="pt">Intervalo Comercial</title>
 <desc>Intervalo comercial.</desc>
 <category lang="pt">Variedades</category>
@@ -4565,7 +5020,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150617120000 -0300" stop="20150617142000 -0300" channel="323" program_id="0000441452" event_id="000000100448752" series_key="">
+<programme start="20150628120000 -0300" stop="20150628141000 -0300" channel="323" program_id="0000441452" event_id="00000000000098422528" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4600,7 +5055,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150617142000 -0300" stop="20150617164000 -0300" channel="323" program_id="0000441452" event_id="000000100448753" series_key="">
+<programme start="20150628141000 -0300" stop="20150628162000 -0300" channel="323" program_id="0000441452" event_id="00000000000098422529" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4635,7 +5090,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150617164000 -0300" stop="20150617190000 -0300" channel="323" program_id="0000441452" event_id="000000100448754" series_key="">
+<programme start="20150628162000 -0300" stop="20150628183000 -0300" channel="323" program_id="0000441452" event_id="00000000000098422531" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4670,7 +5125,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150617190000 -0300" stop="20150617212000 -0300" channel="323" program_id="0000441452" event_id="000000100448755" series_key="">
+<programme start="20150628183000 -0300" stop="20150628204000 -0300" channel="323" program_id="0000441452" event_id="00000000000098422532" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4705,7 +5160,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150617212000 -0300" stop="20150617234000 -0300" channel="323" program_id="0000441452" event_id="000000100448756" series_key="">
+<programme start="20150628204000 -0300" stop="20150628225000 -0300" channel="323" program_id="0000441452" event_id="00000000000098422534" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4740,7 +5195,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150617234000 -0300" stop="20150618020000 -0300" channel="323" program_id="0000441452" event_id="000000100448757" series_key="">
+<programme start="20150628225000 -0300" stop="20150629010000 -0300" channel="323" program_id="0000441452" event_id="00000000000098422535" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4775,7 +5230,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150618020000 -0300" stop="20150618042000 -0300" channel="323" program_id="0000441452" event_id="000000100448758" series_key="">
+<programme start="20150629010000 -0300" stop="20150629031000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457933" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4810,7 +5265,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150618042000 -0300" stop="20150618064000 -0300" channel="323" program_id="0000441452" event_id="000000100448759" series_key="">
+<programme start="20150629031000 -0300" stop="20150629052000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457934" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4845,7 +5300,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150618064000 -0300" stop="20150618090000 -0300" channel="323" program_id="0000441452" event_id="000000100448760" series_key="">
+<programme start="20150629052000 -0300" stop="20150629073000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457935" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4880,7 +5335,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150618090000 -0300" stop="20150618112000 -0300" channel="323" program_id="0000441452" event_id="000000100448761" series_key="">
+<programme start="20150629073000 -0300" stop="20150629094000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457936" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4915,7 +5370,42 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150618112000 -0300" stop="20150618120000 -0300" channel="323" program_id="0000354916" event_id="000000100448762" series_key="">
+<programme start="20150629094000 -0300" stop="20150629115000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457937" series_key="">
+<title lang="pt">O Destino de Júpiter</title>
+<title lang="en">Jupiter Ascending</title>
+<desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
+<credits>
+<director>Andy Wachowski</director>
+<actor>Mila Kunis</actor>
+<actor>Channing Tatum</actor>
+<actor>Sean Bean</actor>
+<actor>Eddie Redmayne</actor>
+<actor>Douglas Booth</actor>
+<actor>Tuppence Middleton</actor>
+<actor>Nikki Amuka-Bird</actor>
+<actor>Christina Cole</actor>
+<actor>Nicholas A. Newman</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Ficção</category>
+<image>
+<image_name position="1">0000441452.jpg</image_name>
+<image_broadcast>0000441452</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA/Reino Unido</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150629115000 -0300" stop="20150629120000 -0300" channel="323" program_id="0000354916" event_id="00000000000098457938" series_key="">
 <title lang="pt">Intervalo Comercial</title>
 <desc>Intervalo comercial.</desc>
 <category lang="pt">Variedades</category>
@@ -4932,7 +5422,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150618120000 -0300" stop="20150618142000 -0300" channel="323" program_id="0000441452" event_id="000000100448763" series_key="">
+<programme start="20150629120000 -0300" stop="20150629141000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457939" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -4967,7 +5457,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150618142000 -0300" stop="20150618164000 -0300" channel="323" program_id="0000441452" event_id="000000100448764" series_key="">
+<programme start="20150629141000 -0300" stop="20150629162000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457940" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5002,7 +5492,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150618164000 -0300" stop="20150618190000 -0300" channel="323" program_id="0000441452" event_id="000000100448765" series_key="">
+<programme start="20150629162000 -0300" stop="20150629183000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457941" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5037,7 +5527,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150618190000 -0300" stop="20150618212000 -0300" channel="323" program_id="0000441452" event_id="000000100448767" series_key="">
+<programme start="20150629183000 -0300" stop="20150629204000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457942" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5072,7 +5562,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150618212000 -0300" stop="20150618234000 -0300" channel="323" program_id="0000441452" event_id="000000100448768" series_key="">
+<programme start="20150629204000 -0300" stop="20150629225000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457943" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5107,7 +5597,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150618234000 -0300" stop="20150619020000 -0300" channel="323" program_id="0000441452" event_id="000000100448769" series_key="">
+<programme start="20150629225000 -0300" stop="20150630010000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457944" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5142,7 +5632,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150619020000 -0300" stop="20150619042000 -0300" channel="323" program_id="0000441452" event_id="000000100448770" series_key="">
+<programme start="20150630010000 -0300" stop="20150630031000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457945" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5177,7 +5667,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150619042000 -0300" stop="20150619064000 -0300" channel="323" program_id="0000441452" event_id="000000100448771" series_key="">
+<programme start="20150630031000 -0300" stop="20150630052000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457946" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5212,7 +5702,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150619064000 -0300" stop="20150619090000 -0300" channel="323" program_id="0000441452" event_id="000000100448773" series_key="">
+<programme start="20150630052000 -0300" stop="20150630073000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457947" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5247,7 +5737,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150619090000 -0300" stop="20150619112000 -0300" channel="323" program_id="0000441452" event_id="000000100448774" series_key="">
+<programme start="20150630073000 -0300" stop="20150630094000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457948" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5282,7 +5772,42 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150619112000 -0300" stop="20150619120000 -0300" channel="323" program_id="0000354916" event_id="000000100448775" series_key="">
+<programme start="20150630094000 -0300" stop="20150630115000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457949" series_key="">
+<title lang="pt">O Destino de Júpiter</title>
+<title lang="en">Jupiter Ascending</title>
+<desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
+<credits>
+<director>Andy Wachowski</director>
+<actor>Mila Kunis</actor>
+<actor>Channing Tatum</actor>
+<actor>Sean Bean</actor>
+<actor>Eddie Redmayne</actor>
+<actor>Douglas Booth</actor>
+<actor>Tuppence Middleton</actor>
+<actor>Nikki Amuka-Bird</actor>
+<actor>Christina Cole</actor>
+<actor>Nicholas A. Newman</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Ficção</category>
+<image>
+<image_name position="1">0000441452.jpg</image_name>
+<image_broadcast>0000441452</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA/Reino Unido</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150630115000 -0300" stop="20150630120000 -0300" channel="323" program_id="0000354916" event_id="00000000000098457950" series_key="">
 <title lang="pt">Intervalo Comercial</title>
 <desc>Intervalo comercial.</desc>
 <category lang="pt">Variedades</category>
@@ -5299,7 +5824,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150619120000 -0300" stop="20150619142000 -0300" channel="323" program_id="0000441452" event_id="000000100448776" series_key="">
+<programme start="20150630120000 -0300" stop="20150630141000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457951" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5334,7 +5859,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150619142000 -0300" stop="20150619164000 -0300" channel="323" program_id="0000441452" event_id="000000100448777" series_key="">
+<programme start="20150630141000 -0300" stop="20150630162000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457952" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5369,7 +5894,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150619164000 -0300" stop="20150619190000 -0300" channel="323" program_id="0000441452" event_id="000000100448779" series_key="">
+<programme start="20150630162000 -0300" stop="20150630183000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457953" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5404,7 +5929,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150619190000 -0300" stop="20150619212000 -0300" channel="323" program_id="0000441452" event_id="000000100448780" series_key="">
+<programme start="20150630183000 -0300" stop="20150630204000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457954" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5439,7 +5964,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150619212000 -0300" stop="20150619234000 -0300" channel="323" program_id="0000441452" event_id="000000100448782" series_key="">
+<programme start="20150630204000 -0300" stop="20150630225000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457955" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5474,7 +5999,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150619234000 -0300" stop="20150620020000 -0300" channel="323" program_id="0000441452" event_id="000000100448783" series_key="">
+<programme start="20150630225000 -0300" stop="20150701010000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457956" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5509,7 +6034,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150620020000 -0300" stop="20150620042000 -0300" channel="323" program_id="0000441452" event_id="000000100448785" series_key="">
+<programme start="20150701010000 -0300" stop="20150701031000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457957" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5544,7 +6069,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150620042000 -0300" stop="20150620064000 -0300" channel="323" program_id="0000441452" event_id="000000100448786" series_key="">
+<programme start="20150701031000 -0300" stop="20150701052000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457958" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5579,7 +6104,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150620064000 -0300" stop="20150620090000 -0300" channel="323" program_id="0000441452" event_id="000000100448787" series_key="">
+<programme start="20150701052000 -0300" stop="20150701073000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457959" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5614,7 +6139,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150620090000 -0300" stop="20150620112000 -0300" channel="323" program_id="0000441452" event_id="000000100448789" series_key="">
+<programme start="20150701073000 -0300" stop="20150701094000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457960" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5649,7 +6174,42 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150620112000 -0300" stop="20150620120000 -0300" channel="323" program_id="0000354916" event_id="000000100448791" series_key="">
+<programme start="20150701094000 -0300" stop="20150701115000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457961" series_key="">
+<title lang="pt">O Destino de Júpiter</title>
+<title lang="en">Jupiter Ascending</title>
+<desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
+<credits>
+<director>Andy Wachowski</director>
+<actor>Mila Kunis</actor>
+<actor>Channing Tatum</actor>
+<actor>Sean Bean</actor>
+<actor>Eddie Redmayne</actor>
+<actor>Douglas Booth</actor>
+<actor>Tuppence Middleton</actor>
+<actor>Nikki Amuka-Bird</actor>
+<actor>Christina Cole</actor>
+<actor>Nicholas A. Newman</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Ficção</category>
+<image>
+<image_name position="1">0000441452.jpg</image_name>
+<image_broadcast>0000441452</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA/Reino Unido</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150701115000 -0300" stop="20150701120000 -0300" channel="323" program_id="0000354916" event_id="00000000000098457962" series_key="">
 <title lang="pt">Intervalo Comercial</title>
 <desc>Intervalo comercial.</desc>
 <category lang="pt">Variedades</category>
@@ -5666,7 +6226,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150620120000 -0300" stop="20150620142000 -0300" channel="323" program_id="0000441452" event_id="000000100448792" series_key="">
+<programme start="20150701120000 -0300" stop="20150701141000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457963" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5701,7 +6261,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150620142000 -0300" stop="20150620164000 -0300" channel="323" program_id="0000441452" event_id="000000100448793" series_key="">
+<programme start="20150701141000 -0300" stop="20150701162000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457964" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5736,7 +6296,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150620164000 -0300" stop="20150620190000 -0300" channel="323" program_id="0000441452" event_id="000000100448794" series_key="">
+<programme start="20150701162000 -0300" stop="20150701183000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457965" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5771,7 +6331,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150620190000 -0300" stop="20150620212000 -0300" channel="323" program_id="0000441452" event_id="000000100448795" series_key="">
+<programme start="20150701183000 -0300" stop="20150701204000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457966" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5806,7 +6366,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150620212000 -0300" stop="20150620234000 -0300" channel="323" program_id="0000441452" event_id="000000100448797" series_key="">
+<programme start="20150701204000 -0300" stop="20150701225000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457967" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5841,7 +6401,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150620234000 -0300" stop="20150621020000 -0300" channel="323" program_id="0000441452" event_id="000000100448798" series_key="">
+<programme start="20150701225000 -0300" stop="20150702010000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457968" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5876,7 +6436,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150621020000 -0300" stop="20150621042000 -0300" channel="323" program_id="0000441452" event_id="000000100448799" series_key="">
+<programme start="20150702010000 -0300" stop="20150702031000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457969" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5911,7 +6471,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150621042000 -0300" stop="20150621064000 -0300" channel="323" program_id="0000441452" event_id="000000100448800" series_key="">
+<programme start="20150702031000 -0300" stop="20150702052000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457970" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5946,7 +6506,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150621064000 -0300" stop="20150621090000 -0300" channel="323" program_id="0000441452" event_id="000000100448802" series_key="">
+<programme start="20150702052000 -0300" stop="20150702073000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457971" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -5981,7 +6541,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150621090000 -0300" stop="20150621112000 -0300" channel="323" program_id="0000441452" event_id="000000100448803" series_key="">
+<programme start="20150702073000 -0300" stop="20150702094000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457972" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6016,7 +6576,42 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150621112000 -0300" stop="20150621120000 -0300" channel="323" program_id="0000354916" event_id="000000100448804" series_key="">
+<programme start="20150702094000 -0300" stop="20150702115000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457973" series_key="">
+<title lang="pt">O Destino de Júpiter</title>
+<title lang="en">Jupiter Ascending</title>
+<desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
+<credits>
+<director>Andy Wachowski</director>
+<actor>Mila Kunis</actor>
+<actor>Channing Tatum</actor>
+<actor>Sean Bean</actor>
+<actor>Eddie Redmayne</actor>
+<actor>Douglas Booth</actor>
+<actor>Tuppence Middleton</actor>
+<actor>Nikki Amuka-Bird</actor>
+<actor>Christina Cole</actor>
+<actor>Nicholas A. Newman</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Ficção</category>
+<image>
+<image_name position="1">0000441452.jpg</image_name>
+<image_broadcast>0000441452</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA/Reino Unido</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150702115000 -0300" stop="20150702120000 -0300" channel="323" program_id="0000354916" event_id="00000000000098457974" series_key="">
 <title lang="pt">Intervalo Comercial</title>
 <desc>Intervalo comercial.</desc>
 <category lang="pt">Variedades</category>
@@ -6033,7 +6628,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150621120000 -0300" stop="20150621142000 -0300" channel="323" program_id="0000441452" event_id="000000100448805" series_key="">
+<programme start="20150702120000 -0300" stop="20150702141000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457975" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6068,7 +6663,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150621142000 -0300" stop="20150621164000 -0300" channel="323" program_id="0000441452" event_id="000000100448806" series_key="">
+<programme start="20150702141000 -0300" stop="20150702162000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457976" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6103,7 +6698,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150621164000 -0300" stop="20150621190000 -0300" channel="323" program_id="0000441452" event_id="000000100448808" series_key="">
+<programme start="20150702162000 -0300" stop="20150702183000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457977" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6138,7 +6733,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150621190000 -0300" stop="20150621212000 -0300" channel="323" program_id="0000441452" event_id="000000100448809" series_key="">
+<programme start="20150702183000 -0300" stop="20150702204000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457978" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6173,7 +6768,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150621212000 -0300" stop="20150621234000 -0300" channel="323" program_id="0000441452" event_id="000000100448810" series_key="">
+<programme start="20150702204000 -0300" stop="20150702225000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457979" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6208,7 +6803,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150621234000 -0300" stop="20150622020000 -0300" channel="323" program_id="0000441452" event_id="000000100448811" series_key="">
+<programme start="20150702225000 -0300" stop="20150703010000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457980" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6243,7 +6838,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150622020000 -0300" stop="20150622042000 -0300" channel="323" program_id="0000441452" event_id="000000100448813" series_key="">
+<programme start="20150703010000 -0300" stop="20150703031000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457981" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6278,7 +6873,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150622042000 -0300" stop="20150622064000 -0300" channel="323" program_id="0000441452" event_id="000000100448814" series_key="">
+<programme start="20150703031000 -0300" stop="20150703052000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457982" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6313,7 +6908,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150622064000 -0300" stop="20150622090000 -0300" channel="323" program_id="0000441452" event_id="000000100448815" series_key="">
+<programme start="20150703052000 -0300" stop="20150703073000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457983" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6348,7 +6943,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150622090000 -0300" stop="20150622112000 -0300" channel="323" program_id="0000441452" event_id="000000100448817" series_key="">
+<programme start="20150703073000 -0300" stop="20150703094000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457984" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6383,7 +6978,42 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150622112000 -0300" stop="20150622120000 -0300" channel="323" program_id="0000354916" event_id="000000100448818" series_key="">
+<programme start="20150703094000 -0300" stop="20150703115000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457985" series_key="">
+<title lang="pt">O Destino de Júpiter</title>
+<title lang="en">Jupiter Ascending</title>
+<desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
+<credits>
+<director>Andy Wachowski</director>
+<actor>Mila Kunis</actor>
+<actor>Channing Tatum</actor>
+<actor>Sean Bean</actor>
+<actor>Eddie Redmayne</actor>
+<actor>Douglas Booth</actor>
+<actor>Tuppence Middleton</actor>
+<actor>Nikki Amuka-Bird</actor>
+<actor>Christina Cole</actor>
+<actor>Nicholas A. Newman</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Ficção</category>
+<image>
+<image_name position="1">0000441452.jpg</image_name>
+<image_broadcast>0000441452</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA/Reino Unido</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150703115000 -0300" stop="20150703120000 -0300" channel="323" program_id="0000354916" event_id="00000000000098457986" series_key="">
 <title lang="pt">Intervalo Comercial</title>
 <desc>Intervalo comercial.</desc>
 <category lang="pt">Variedades</category>
@@ -6400,7 +7030,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150622120000 -0300" stop="20150622142000 -0300" channel="323" program_id="0000441452" event_id="000000100448819" series_key="">
+<programme start="20150703120000 -0300" stop="20150703141000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457987" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6435,7 +7065,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150622142000 -0300" stop="20150622164000 -0300" channel="323" program_id="0000441452" event_id="000000100448820" series_key="">
+<programme start="20150703141000 -0300" stop="20150703162000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457988" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6470,7 +7100,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150622164000 -0300" stop="20150622190000 -0300" channel="323" program_id="0000441452" event_id="000000100448821" series_key="">
+<programme start="20150703162000 -0300" stop="20150703183000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457989" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6505,7 +7135,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150622190000 -0300" stop="20150622212000 -0300" channel="323" program_id="0000441452" event_id="000000100448822" series_key="">
+<programme start="20150703183000 -0300" stop="20150703204000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457990" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6540,7 +7170,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150622212000 -0300" stop="20150622234000 -0300" channel="323" program_id="0000441452" event_id="000000100448823" series_key="">
+<programme start="20150703204000 -0300" stop="20150703225000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457991" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6575,7 +7205,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150622234000 -0300" stop="20150623020000 -0300" channel="323" program_id="0000441452" event_id="000000100448824" series_key="">
+<programme start="20150703225000 -0300" stop="20150704010000 -0300" channel="323" program_id="0000441452" event_id="00000000000098457992" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6610,7 +7240,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150623020000 -0300" stop="20150623042000 -0300" channel="323" program_id="0000441452" event_id="000000100448825" series_key="">
+<programme start="20150704010000 -0300" stop="20150704031000 -0300" channel="323" program_id="0000441452" event_id="000000101624823" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6645,7 +7275,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150623042000 -0300" stop="20150623064000 -0300" channel="323" program_id="0000441452" event_id="000000100448826" series_key="">
+<programme start="20150704031000 -0300" stop="20150704052000 -0300" channel="323" program_id="0000441452" event_id="000000101624824" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6680,7 +7310,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150623064000 -0300" stop="20150623090000 -0300" channel="323" program_id="0000441452" event_id="000000100448828" series_key="">
+<programme start="20150704052000 -0300" stop="20150704073000 -0300" channel="323" program_id="0000441452" event_id="000000101624825" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6715,7 +7345,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150623090000 -0300" stop="20150623112000 -0300" channel="323" program_id="0000441452" event_id="000000100448829" series_key="">
+<programme start="20150704073000 -0300" stop="20150704094000 -0300" channel="323" program_id="0000441452" event_id="000000101624826" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6750,7 +7380,42 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150623112000 -0300" stop="20150623120000 -0300" channel="323" program_id="0000354916" event_id="000000100448830" series_key="">
+<programme start="20150704094000 -0300" stop="20150704115000 -0300" channel="323" program_id="0000441452" event_id="000000101624827" series_key="">
+<title lang="pt">O Destino de Júpiter</title>
+<title lang="en">Jupiter Ascending</title>
+<desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
+<credits>
+<director>Andy Wachowski</director>
+<actor>Mila Kunis</actor>
+<actor>Channing Tatum</actor>
+<actor>Sean Bean</actor>
+<actor>Eddie Redmayne</actor>
+<actor>Douglas Booth</actor>
+<actor>Tuppence Middleton</actor>
+<actor>Nikki Amuka-Bird</actor>
+<actor>Christina Cole</actor>
+<actor>Nicholas A. Newman</actor>
+</credits>
+<date>2015</date>
+<category lang="pt">Filme</category>
+<category lang="pt">Ficção</category>
+<image>
+<image_name position="1">0000441452.jpg</image_name>
+<image_broadcast>0000441452</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA/Reino Unido</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+<star-rating>
+<value>3/5</value>
+</star-rating>
+</programme>
+<programme start="20150704115000 -0300" stop="20150704120000 -0300" channel="323" program_id="0000354916" event_id="000000101624828" series_key="">
 <title lang="pt">Intervalo Comercial</title>
 <desc>Intervalo comercial.</desc>
 <category lang="pt">Variedades</category>
@@ -6767,7 +7432,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150623120000 -0300" stop="20150623142000 -0300" channel="323" program_id="0000441452" event_id="000000100448831" series_key="">
+<programme start="20150704120000 -0300" stop="20150704141000 -0300" channel="323" program_id="0000441452" event_id="000000101624829" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6802,7 +7467,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150623142000 -0300" stop="20150623164000 -0300" channel="323" program_id="0000441452" event_id="000000100448832" series_key="">
+<programme start="20150704141000 -0300" stop="20150704162000 -0300" channel="323" program_id="0000441452" event_id="000000101624830" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6837,7 +7502,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150623164000 -0300" stop="20150623190000 -0300" channel="323" program_id="0000441452" event_id="000000100448833" series_key="">
+<programme start="20150704162000 -0300" stop="20150704183000 -0300" channel="323" program_id="0000441452" event_id="000000101624831" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6872,7 +7537,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150623190000 -0300" stop="20150623212000 -0300" channel="323" program_id="0000441452" event_id="000000100448834" series_key="">
+<programme start="20150704183000 -0300" stop="20150704204000 -0300" channel="323" program_id="0000441452" event_id="000000101624832" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6907,7 +7572,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150623212000 -0300" stop="20150623234000 -0300" channel="323" program_id="0000441452" event_id="000000100448836" series_key="">
+<programme start="20150704204000 -0300" stop="20150704225000 -0300" channel="323" program_id="0000441452" event_id="000000101624833" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
@@ -6942,7 +7607,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150623234000 -0300" stop="20150624020000 -0300" channel="323" program_id="0000441452" event_id="000000100448837" series_key="">
+<programme start="20150704225000 -0300" stop="20150705010000 -0300" channel="323" program_id="0000441452" event_id="000000101624834" series_key="">
 <title lang="pt">O Destino de Júpiter</title>
 <title lang="en">Jupiter Ascending</title>
 <desc>Jupiter Jones (Mila Kunis) é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos.</desc>
