@@ -4,22 +4,21 @@
 <display-name lang="pt">Record SP HD</display-name>
 <icon src="rhd.gif" />
 </channel>
-<programme start="20150626001500 -0300" stop="20150626011500 -0300" channel="RHD" program_id="0000446469" event_id="000000103322587" series_key="00000000026643013010">
+<programme start="20150703001500 -0300" stop="20150703011500 -0300" channel="RHD" program_id="0000448317" event_id="00000000000098164486" series_key="00000000026643013011">
 <title lang="pt">C.S.I. - Investigação Criminal</title>
-<title lang="en">C.S.I: 10</title>
-<sub-title lang="pt">Temp. 13 - Ep. 10</sub-title>
-<desc>Cinco pessoas morrem em um acidente de avião. Enquanto isso, Sara começa a sentir a tensão de ter uma relação de longa distância com Grissom, já que um antigo caso acaba envolvido em uma investigação.</desc>
+<title lang="en">C.S.I: Dead Air</title>
+<sub-title lang="pt">Temp. 13 - Ep. 11</sub-title>
+<desc>A âncora de um noticiário local é morta durante uma transmissão ao vivo.</desc>
 <credits>
-<director>Frank Waldeck</director>
+<director>Philip Conserva</director>
 <actor>Ted Danson</actor>
-<actor>David Berman</actor>
-<actor>Anthony Brophy</actor>
-<actor>George Eads</actor>
 <actor>Jorja Fox</actor>
-<actor>Anthony Molinari</actor>
-<actor>Gina Ravera</actor>
+<actor>Elisabeth Shue</actor>
+<actor>George Eads</actor>
+<actor>Eric Szmanda</actor>
+<actor>Robert David Hall</actor>
 </credits>
-<date>2012</date>
+<date>2013</date>
 <category lang="pt">Séries</category>
 <category lang="pt">Policial</category>
 <image>
@@ -28,8 +27,8 @@
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
 <country>EUA</country>
-<episode-num system="xmltv_ns">13.10.</episode-num>
-<episode-num system="onscreen">10</episode-num>
+<episode-num system="xmltv_ns">13.11.</episode-num>
+<episode-num system="onscreen">11</episode-num>
 <video>
 <colour>yes</colour>
 </video>
@@ -40,7 +39,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150626011500 -0300" stop="20150626060000 -0300" channel="RHD" program_id="0000079020" event_id="000000103322589" series_key="">
+<programme start="20150703011500 -0300" stop="20150703060000 -0300" channel="RHD" program_id="0000079020" event_id="00000000000098164487" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -58,7 +57,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150626060000 -0300" stop="20150626072800 -0300" channel="RHD" program_id="0000102196" event_id="000000103322590" series_key="00000000066243000000">
+<programme start="20150703060000 -0300" stop="20150703072800 -0300" channel="RHD" program_id="0000102196" event_id="00000000000098164488" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -76,7 +75,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150626072800 -0300" stop="20150626085500 -0300" channel="RHD" program_id="0000072913" event_id="000000103322592" series_key="00000000066244000000">
+<programme start="20150703072800 -0300" stop="20150703085500 -0300" channel="RHD" program_id="0000072913" event_id="00000000000098164489" series_key="00000000066244000000">
 <title lang="pt">São Paulo no Ar</title>
 <desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
 <category lang="pt">Jornalismo</category>
@@ -94,7 +93,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150626085500 -0300" stop="20150626100000 -0300" channel="RHD" program_id="0000015945" event_id="000000103322593" series_key="00000000066238000000">
+<programme start="20150703085500 -0300" stop="20150703100000 -0300" channel="RHD" program_id="0000015945" event_id="00000000000098164490" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -112,7 +111,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150626100000 -0300" stop="20150626120000 -0300" channel="RHD" program_id="0000094577" event_id="000000103322594" series_key="00000000066226000000">
+<programme start="20150703100000 -0300" stop="20150703120000 -0300" channel="RHD" program_id="0000094577" event_id="00000000000098164491" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -130,7 +129,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150626120000 -0300" stop="20150626144000 -0300" channel="RHD" program_id="0000102196" event_id="000000103322596" series_key="00000000066243000000">
+<programme start="20150703120000 -0300" stop="20150703144000 -0300" channel="RHD" program_id="0000102196" event_id="00000000000098164492" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -148,7 +147,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150626144000 -0300" stop="20150626170000 -0300" channel="RHD" program_id="0000119084" event_id="000000103322597" series_key="00000000071807000000">
+<programme start="20150703144000 -0300" stop="20150703170000 -0300" channel="RHD" program_id="0000119084" event_id="00000000000098164493" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -166,7 +165,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150626170000 -0300" stop="20150626203000 -0300" channel="RHD" program_id="0000015967" event_id="000000103322599" series_key="00000000069485000000">
+<programme start="20150703170000 -0300" stop="20150703203000 -0300" channel="RHD" program_id="0000015967" event_id="00000000000098164494" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -184,9 +183,9 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150626203000 -0300" stop="20150626213000 -0300" channel="RHD" program_id="0000430159" event_id="000000103322600" series_key="00000000076587000000">
+<programme start="20150703203000 -0300" stop="20150703213000 -0300" channel="RHD" program_id="0000430159" event_id="00000000000098164495" series_key="00000000076587000000">
 <title lang="pt">Os Dez Mandamentos</title>
-<desc>Moisés e Zípora correm em direção aos gritos de Jaque. A menina tenta se livrar do agressor e acaba levando uma bofetada. Moisés manda o forasteiro largar a irmã de Zípora, mas o homem o ameaça com uma faca.</desc>
+<desc>Bakenmut estranha a confiança de Yunet e afirma que Ramsés jamais irá perdoá-la pela morte de Maya. Yunet cai em si e pede ajuda para fugir. Bakenmut diverte-se com o desespero dela e é agredido.</desc>
 <credits>
 <director>Alexandre Avancini</director>
 <actor>Guilherme Winter</actor>
@@ -215,7 +214,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150626213000 -0300" stop="20150626223000 -0300" channel="RHD" program_id="0000015966" event_id="000000103322602" series_key="00000000066234000000">
+<programme start="20150703213000 -0300" stop="20150703223000 -0300" channel="RHD" program_id="0000015966" event_id="00000000000098164496" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -233,31 +232,34 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150626223000 -0300" stop="20150627011500 -0300" channel="RHD" program_id="0000446959" event_id="000000103322603" series_key="00000000039454000000">
-<title lang="pt">Miami Vice</title>
-<title lang="en">Miami Vice</title>
-<desc>Sonny e Tubbs são detetives nos Estados Unidos. Após um plano do FBI dar errado, eles são chamados para capturar Arcángel, um poderoso traficante que vive no Haiti.</desc>
+<programme start="20150703223000 -0300" stop="20150704011500 -0300" channel="RHD" program_id="0000448596" event_id="00000000000098164497" series_key="">
+<title lang="pt">A Múmia - Tumba Do Imperador Dragão</title>
+<title lang="en">Tomb of the Dragon Emperor</title>
+<desc>O impiedoso imperador dragão é amaldiçoado pela feiticeira Zi Juan, o que faz com que ele e seu exército de 10 mil homens seja petrificado.</desc>
 <credits>
-<director>Michael Mann</director>
-<actor>Jamie Foxx</actor>
-<actor>Gong Li</actor>
-<actor>Colin Farrel</actor>
+<director>Rob Cohen</director>
+<actor>Brendan Fraser</actor>
+<actor>Maria Bello</actor>
+<actor>Jet Li</actor>
+<actor>John Hannah</actor>
+<actor>Michelle Yeoh</actor>
 </credits>
+<date>2008</date>
 <category lang="pt">Filme</category>
-<category lang="pt">Policial</category>
+<category lang="pt">Aventura</category>
 <image>
-<image_name position="1">00000000039454.jpg</image_name>
-<image_broadcast>00000000039454</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
+<image_name position="1">0000448596.jpg</image_name>
+<image_broadcast>0000448596</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
 <colour>yes</colour>
 </video>
 <rating system="Advisory">
-<value>Programa impróprio para menores de 16 anos</value>
+<value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150627011500 -0300" stop="20150627063000 -0300" channel="RHD" program_id="0000079020" event_id="000000103322605" series_key="">
+<programme start="20150704011500 -0300" stop="20150704063000 -0300" channel="RHD" program_id="0000079020" event_id="00000000000098164498" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -275,7 +277,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150627063000 -0300" stop="20150627070000 -0300" channel="RHD" program_id="0000235480" event_id="000000103322606" series_key="00000000073676000000">
+<programme start="20150704063000 -0300" stop="20150704070000 -0300" channel="RHD" program_id="0000235480" event_id="00000000000098164499" series_key="00000000073676000000">
 <title lang="pt">Nosso Tempo</title>
 <desc>Um programa da Igreja Universal do Reino de Deus. O Bispo Rogério leva uma palavra de fé e esperança a todos os internautas.</desc>
 <category lang="pt">Variedades</category>
@@ -293,7 +295,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150627070000 -0300" stop="20150627101500 -0300" channel="RHD" program_id="0000291670" event_id="000000103322607" series_key="00000000066238000000">
+<programme start="20150704070000 -0300" stop="20150704101500 -0300" channel="RHD" program_id="0000291670" event_id="00000000000098164500" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil Especial</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -311,14 +313,9 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150627101500 -0300" stop="20150627120000 -0300" channel="RHD" program_id="0000179573" event_id="000000103322608" series_key="00000000072203000000">
+<programme start="20150704101500 -0300" stop="20150704120000 -0300" channel="RHD" program_id="0000179573" event_id="00000000000098164501" series_key="00000000072203000000">
 <title lang="pt">Esporte Fantástico</title>
-<desc>O Esporte Fantástico deste sábado, exibe entrevista exclusiva com Lucas, ex-craque do São Paulo. E também entrevista Vanderlei Luxemburgo, que provoca os comentaristas da atualidade.</desc>
-<credits>
-<actor>Mylena Ciribelli</actor>
-<actor>Cláudia Reis</actor>
-<actor>Lucas Pereira e Juliana Rios</actor>
-</credits>
+<desc>Rodrigo Faro aceita desafio de David Luiz e toma um banho de água fria: "Missão dada é missão cumprida".</desc>
 <category lang="pt">Jornalismo</category>
 <category lang="pt">Esportivo</category>
 <image>
@@ -334,7 +331,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150627120000 -0300" stop="20150627130000 -0300" channel="RHD" program_id="0000258837" event_id="000000103322610" series_key="00000000073664000000">
+<programme start="20150704120000 -0300" stop="20150704130000 -0300" channel="RHD" program_id="0000258837" event_id="00000000000098164502" series_key="00000000073664000000">
 <title lang="pt">The Love School</title>
 <desc>Um dos grandes diferenciais é a interatividade dos apresentadores com o público, através do e-mail, facebook, twitter e até mesmo exibindo vídeos-pergunta, enviadas pelos telespectadores.</desc>
 <category lang="pt">Variedades</category>
@@ -352,7 +349,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150627130000 -0300" stop="20150627141500 -0300" channel="RHD" program_id="0000112751" event_id="000000103322612" series_key="00000000051563000000">
+<programme start="20150704130000 -0300" stop="20150704141500 -0300" channel="RHD" program_id="0000112751" event_id="00000000000098164503" series_key="00000000051563000000">
 <title lang="pt">Todo Mundo Odeia o Chris</title>
 <title lang="en">Everybody Hates Chris</title>
 <desc>Chris Rock narra com muito bom humor suas experiências durante a adolescência como o mais velho de três irmãos, em histórias hilariantes, inteligentes e sarcásticas, como a própria personalidade do comediante.</desc>
@@ -387,7 +384,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150627141500 -0300" stop="20150627151500 -0300" channel="RHD" program_id="0000291669" event_id="000000103322613" series_key="00000000073666000000">
+<programme start="20150704141500 -0300" stop="20150704151500 -0300" channel="RHD" program_id="0000291669" event_id="00000000000098164504" series_key="00000000073666000000">
 <title lang="pt">Record Kids - Pica Pau</title>
 <desc>As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca!</desc>
 <category lang="pt">Infantil</category>
@@ -405,31 +402,31 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150627151500 -0300" stop="20150627172000 -0300" channel="RHD" program_id="0000447017" event_id="000000103322614" series_key="">
-<title lang="pt">Honey - No Ritmo Dos Seus Sonhos</title>
-<title lang="en">Honey</title>
-<desc>Honey é uma dançarina que sonha se tornar uma coreógrafa. Michael, um dietor de clipes, faz com que ela se torne uma coreografa de sucesso, mas ele se revolta quando ela nega seu pedido.</desc>
+<programme start="20150704151500 -0300" stop="20150704172000 -0300" channel="RHD" program_id="0000449041" event_id="00000000000098164505" series_key="">
+<title lang="pt">Arthur 3 - A Guerra dos Dois Mundos</title>
+<title lang="en">Arthur et la Guerre des Deux Mondes</title>
+<desc>Maltazard, o malvado M, agora tem dois metros de altura e refinou sua técnica de aterrorizar seres humanos. Seu objetivo é simples: formar um exército de capangas gigantes e dominar o universo.</desc>
 <credits>
-<director>Bille Woodruff</director>
-<actor>Jessica Alba</actor>
-<actor>Joy Bryant</actor>
-<actor>Mekhi Phifer</actor>
+<director>Luc Besson</director>
+<director>Luc Besson</director>
 </credits>
+<date>2010</date>
 <category lang="pt">Filme</category>
-<category lang="pt">Musical</category>
+<category lang="pt">Animação</category>
 <image>
-<image_name position="1">0000447017.jpg</image_name>
-<image_broadcast>0000447017</image_broadcast>
+<image_name position="1">0000449041.jpg</image_name>
+<image_broadcast>0000449041</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
+<country>França</country>
 <video>
 <colour>yes</colour>
 </video>
 <rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
+<value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150627172000 -0300" stop="20150627194500 -0300" channel="RHD" program_id="0000349954" event_id="000000103322615" series_key="00000000072204000000">
+<programme start="20150704172000 -0300" stop="20150704194500 -0300" channel="RHD" program_id="0000349954" event_id="00000000000098164506" series_key="00000000072204000000">
 <title lang="pt">Cidade Alerta Especial</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -447,7 +444,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150627194500 -0300" stop="20150627203000 -0300" channel="RHD" program_id="0000352611" event_id="000000103322617" series_key="00000000072205000000">
+<programme start="20150704194500 -0300" stop="20150704203000 -0300" channel="RHD" program_id="0000352611" event_id="00000000000098164507" series_key="00000000072205000000">
 <title lang="pt">Jornal da Record Especial</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -465,9 +462,9 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150627203000 -0300" stop="20150627230000 -0300" channel="RHD" program_id="0000379634" event_id="000000103322618" series_key="00000000073462000000">
+<programme start="20150704203000 -0300" stop="20150704230000 -0300" channel="RHD" program_id="0000379634" event_id="00000000000098164508" series_key="00000000073462000000">
 <title lang="pt">Programa da Sabrina</title>
-<desc>Uma mistura de ritmos vai invadir o programa deste sábado. Do axé ao funk, passando pelo sertanejo universitário, a sempre animada Sabrina vai comandar uma grande festa no palco da atração.</desc>
+<desc>Com batalha de comida e muito "rebolation" . Sabrina aterrissa em Salvador para um encontro com Léo Santana, que vai dar o que falar. A japa mostra o bate-papo divertido com o famoso.</desc>
 <credits>
 <actor>Sabrina Satto</actor>
 </credits>
@@ -486,9 +483,9 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150627230000 -0300" stop="20150628011500 -0300" channel="RHD" program_id="0000201830" event_id="000000103322619" series_key="00000000073667000000">
+<programme start="20150704230000 -0300" stop="20150705011500 -0300" channel="RHD" program_id="0000201830" event_id="00000000000098164509" series_key="00000000073667000000">
 <title lang="pt">Legendários</title>
-<desc>Que Marcos Mion e sua turma adoram aprontar, todo mundo já sabe. E neste sábado não vai ser diferente o apresentador vai fazer a maior bagunça na casa de Geraldo Luís.</desc>
+<desc>Michel Teló passou por muitos momentos que Valem a Pena Ver Direito. E Mion, que não deixa passar nada, foi atrás de vídeos antigos do cantor para fazer a galera rir com imagens que ninguém nunca havia prestado tanta atenção até agora.</desc>
 <credits>
 <actor>Marcos Mion</actor>
 <actor>Juju Salimeni</actor>
@@ -508,7 +505,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150628011500 -0300" stop="20150628060000 -0300" channel="RHD" program_id="0000079020" event_id="000000103322620" series_key="">
+<programme start="20150705011500 -0300" stop="20150705060000 -0300" channel="RHD" program_id="0000079020" event_id="00000000000098164510" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -526,7 +523,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150628060000 -0300" stop="20150628063000 -0300" channel="RHD" program_id="0000015977" event_id="000000103322621" series_key="00000000073677000000">
+<programme start="20150705060000 -0300" stop="20150705063000 -0300" channel="RHD" program_id="0000015977" event_id="00000000000098164511" series_key="00000000073677000000">
 <title lang="pt">Santo Culto em seu Lar</title>
 <title lang="en">Santo Culto em seu Lar</title>
 <desc>Pregações abordando um tema específico, discutindo sempre em base de texto bíblico.</desc>
@@ -545,7 +542,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150628063000 -0300" stop="20150628080000 -0300" channel="RHD" program_id="0000098194" event_id="000000103322624" series_key="00000000073678000000">
+<programme start="20150705063000 -0300" stop="20150705080000 -0300" channel="RHD" program_id="0000098194" event_id="00000000000098164512" series_key="00000000073678000000">
 <title lang="pt">Desenhos Bíblicos</title>
 <title lang="en">Desenhos Bíblicos</title>
 <desc>Animações das histórias bíblicas.</desc>
@@ -561,7 +558,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150628080000 -0300" stop="20150628090000 -0300" channel="RHD" program_id="0000442940" event_id="000000103322625" series_key="">
+<programme start="20150705080000 -0300" stop="20150705090000 -0300" channel="RHD" program_id="0000442940" event_id="00000000000098164513" series_key="">
 <title lang="pt">Programa do Templo</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -578,7 +575,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150628090000 -0300" stop="20150628110000 -0300" channel="RHD" program_id="0000291669" event_id="000000103322626" series_key="00000000073666000000">
+<programme start="20150705090000 -0300" stop="20150705110000 -0300" channel="RHD" program_id="0000291669" event_id="00000000000098164514" series_key="00000000073666000000">
 <title lang="pt">Record Kids - Pica Pau</title>
 <desc>As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca!</desc>
 <category lang="pt">Infantil</category>
@@ -596,9 +593,9 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150628110000 -0300" stop="20150628153000 -0300" channel="RHD" program_id="0000017914" event_id="000000103322627" series_key="00000000072949000000">
+<programme start="20150705110000 -0300" stop="20150705153000 -0300" channel="RHD" program_id="0000017914" event_id="00000000000098164515" series_key="00000000072949000000">
 <title lang="pt">Domingo Show</title>
-<desc>Geraldo entrevista com exclusividade, a única testemunha do acidente do cantor sertanejo João Paulo que morreu há 18 anos, e faz revelações inéditas sobre o caso.</desc>
+<desc>"Tudo o que eu passei de dificuldade na vida foi com muita honestidade, muito caráter, com muita humildade..."  Marrone abre sua fazenda em Goiânia para Geraldo Luís e fala sobre casamento, carreira artística e depressão.</desc>
 <credits>
 <director>Rafael Perantunes</director>
 <actor>Geraldo Luís</actor>
@@ -618,13 +615,12 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150628153000 -0300" stop="20150628193000 -0300" channel="RHD" program_id="0000379635" event_id="000000103322629" series_key="00000000073463000000">
+<programme start="20150705153000 -0300" stop="20150705193000 -0300" channel="RHD" program_id="0000379635" event_id="00000000000098164516" series_key="00000000073463000000">
 <title lang="pt">Hora do Faro</title>
-<desc>Brincadeiras, revelações, emoção e alegria tomam conta na exibição da segunda entrevista que emocionou o pais, o encontro entre Rodrigo Faro e Xuxa Meneghel.</desc>
+<desc>Um dos acontecimentos que chocou o País nas últimas semanas foi a morte de Cristiano Araújo e Allana Moraes. Faro visita o pai do cantor  para conversar e conhecer a casa em que ele vivia.</desc>
 <credits>
 <actor>Rodrigo Faro</actor>
 </credits>
-<date>2014</date>
 <category lang="pt">Variedades</category>
 <category lang="pt">Talk Show</category>
 <image>
@@ -640,10 +636,15 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150628193000 -0300" stop="20150628231500 -0300" channel="RHD" program_id="0000074950" event_id="000000103322630" series_key="00000000072208000000">
+<programme start="20150705193000 -0300" stop="20150705231500 -0300" channel="RHD" program_id="0000074950" event_id="00000000000098164517" series_key="00000000072208000000">
 <title lang="pt">Domingo Espetacular</title>
 <title lang="en">Domingo Espetacular</title>
-<desc>Um jornalismo ágil e moderno, com reportagens de denúncia, comportamento, ciência, turismo, medicina e aventura, além de um panorama geral dos fatos que marcaram a semana.</desc>
+<desc>O programa mostra os cuidados na hora de escolher o que comer fora de casa. E uma reportagem sobre a nova mania, o food truck,  que invadiu as grandes cidades com uma proposta mais chic de lanche rápido.</desc>
+<credits>
+<actor>Paulo Henrique Amorim</actor>
+<actor>Janine Borba e Thalita Oliveira</actor>
+</credits>
+<date>2004</date>
 <category lang="pt">Variedades</category>
 <category lang="pt">Diversos</category>
 <image>
@@ -659,9 +660,9 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150628231500 -0300" stop="20150629001500 -0300" channel="RHD" program_id="0000420250" event_id="000000103322631" series_key="00000000076191000000">
+<programme start="20150705231500 -0300" stop="20150706001500 -0300" channel="RHD" program_id="0000420250" event_id="00000000000098164518" series_key="00000000076191000000">
 <title lang="pt">Repórter em Ação</title>
-<desc>O programa conta histórias de mulheres que enfrentam preconceitos para viver uma relação amorosa com assassinos, traficantes e estupradores.</desc>
+<desc>Estreia do Repórter em Ação mostra expedição para desbravar os mistérios da Amazônia.</desc>
 <credits>
 <actor>Celso Freitas</actor>
 </credits>
@@ -681,10 +682,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150629001500 -0300" stop="20150629011500 -0300" channel="RHD" program_id="0000271995" event_id="000000103322632" series_key="00000000072212000000">
+<programme start="20150706001500 -0300" stop="20150706011500 -0300" channel="RHD" program_id="0000271995" event_id="00000000000098164519" series_key="00000000072212000000">
 <title lang="pt">Roberto Justus +</title>
-<desc>Justus receber César Filho, o novo contratado da Record, Zilu e Angel K no talk show da Record.</desc>
-<date>2015</date>
+<desc>O tema do programa deste domingo é "Parcerias". E recebe como convidados o cantor Péricles e seu filho Lucas Morato, e as apresentadoras Carla Cecato e Roberta Piza.</desc>
+<credits>
+<director>Ricardo Justus</director>
+<actor>Roberto Justus</actor>
+<actor>Walter Longo</actor>
+</credits>
 <category lang="pt">Variedades</category>
 <category lang="pt">Talk Show</category>
 <image>
@@ -700,7 +705,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150629011500 -0300" stop="20150629060000 -0300" channel="RHD" program_id="0000079020" event_id="000000103322633" series_key="">
+<programme start="20150706011500 -0300" stop="20150706060000 -0300" channel="RHD" program_id="0000079020" event_id="00000000000098164520" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -718,9 +723,9 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150629060000 -0300" stop="20150629072800 -0300" channel="RHD" program_id="0000102196" event_id="000000103322636" series_key="00000000066243000000">
-<title lang="pt">Balanço Geral</title>
-<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
+<programme start="20150706060000 -0300" stop="20150706072800 -0300" channel="RHD" program_id="0000301746" event_id="00000000000098164521" series_key="00000000066243000000">
+<title lang="pt">Balanço Geral Manhã</title>
+<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
 <category lang="pt">Jornalismo</category>
 <category lang="pt">Informativo</category>
 <image>
@@ -736,7 +741,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150629072800 -0300" stop="20150629085500 -0300" channel="RHD" program_id="0000072913" event_id="000000103322637" series_key="00000000066244000000">
+<programme start="20150706072800 -0300" stop="20150706085500 -0300" channel="RHD" program_id="0000072913" event_id="00000000000098164522" series_key="00000000066244000000">
 <title lang="pt">São Paulo no Ar</title>
 <desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
 <category lang="pt">Jornalismo</category>
@@ -754,7 +759,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150629085500 -0300" stop="20150629100000 -0300" channel="RHD" program_id="0000015945" event_id="000000103322638" series_key="00000000066238000000">
+<programme start="20150706085500 -0300" stop="20150706100000 -0300" channel="RHD" program_id="0000015945" event_id="00000000000098164523" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -772,7 +777,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150629100000 -0300" stop="20150629120000 -0300" channel="RHD" program_id="0000094577" event_id="000000103322639" series_key="00000000066226000000">
+<programme start="20150706100000 -0300" stop="20150706120000 -0300" channel="RHD" program_id="0000094577" event_id="00000000000098164524" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -790,17 +795,16 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150629120000 -0300" stop="20150629144000 -0300" channel="RHD" program_id="0000102196" event_id="000000103322641" series_key="00000000066243000000">
-<title lang="pt">Balanço Geral</title>
+<programme start="20150706120000 -0300" stop="20150706144000 -0300" channel="RHD" program_id="0000440115" event_id="00000000000098164525" series_key="00000000075858000000">
+<title lang="pt">Balanço Geral SP</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
 <category lang="pt">Informativo</category>
 <image>
-<image_name position="1">00000000066243.jpg</image_name>
-<image_broadcast>00000000066243</image_broadcast>
+<image_name position="1">00000000075858.jpg</image_name>
+<image_broadcast>00000000075858</image_broadcast>
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
-<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -808,7 +812,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150629144000 -0300" stop="20150629170000 -0300" channel="RHD" program_id="0000119084" event_id="000000103322643" series_key="00000000071807000000">
+<programme start="20150706144000 -0300" stop="20150706170000 -0300" channel="RHD" program_id="0000119084" event_id="00000000000098164526" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -826,7 +830,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150629170000 -0300" stop="20150629203000 -0300" channel="RHD" program_id="0000015967" event_id="000000103322644" series_key="00000000069485000000">
+<programme start="20150706170000 -0300" stop="20150706203000 -0300" channel="RHD" program_id="0000015967" event_id="00000000000098164527" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -844,9 +848,9 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150629203000 -0300" stop="20150629213000 -0300" channel="RHD" program_id="0000430159" event_id="000000103322645" series_key="00000000076587000000">
+<programme start="20150706203000 -0300" stop="20150706213000 -0300" channel="RHD" program_id="0000430159" event_id="00000000000098164528" series_key="00000000076587000000">
 <title lang="pt">Os Dez Mandamentos</title>
-<desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
+<desc>Sinopse Não Disponível.</desc>
 <credits>
 <director>Alexandre Avancini</director>
 <actor>Guilherme Winter</actor>
@@ -875,7 +879,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150629213000 -0300" stop="20150629223000 -0300" channel="RHD" program_id="0000015966" event_id="000000103322647" series_key="00000000066234000000">
+<programme start="20150706213000 -0300" stop="20150706223000 -0300" channel="RHD" program_id="0000015966" event_id="00000000000098164529" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -893,9 +897,9 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150629223000 -0300" stop="20150629233000 -0300" channel="RHD" program_id="0000380369" event_id="000000103322649" series_key="00000000073493000000">
+<programme start="20150706223000 -0300" stop="20150706233000 -0300" channel="RHD" program_id="0000380369" event_id="00000000000098164530" series_key="00000000073493000000">
 <title lang="pt">Repórter Record Investigação</title>
-<desc>Com imagens impressionantes daqueles que ficam mais de 10 horas por dia em condições insalubres. O Programa desta semana, revela quem são as pessoas que sobrevivem do que os outros jogam fora.</desc>
+<desc>O programa desta segunda-feira, entra  no universo das prostitutas de alta classe. Elas escolheram o mercado do sexo como fonte renda e contam detalhes de uma rotina de viagens e glamour.</desc>
 <date>2014</date>
 <category lang="pt">Jornalismo</category>
 <category lang="pt">Informativo</category>
@@ -912,7 +916,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150629233000 -0300" stop="20150630003000 -0300" channel="RHD" program_id="0000445131" event_id="000000103322650" series_key="00000000077112000000">
+<programme start="20150706233000 -0300" stop="20150707003000 -0300" channel="RHD" program_id="0000445131" event_id="00000000000098164531" series_key="00000000077112000000">
 <title lang="pt">Na Mira do Crime</title>
 <desc></desc>
 <category lang="pt">Séries</category>
@@ -929,7 +933,7 @@
 <value>Programa impróprio para menores de 16 anos</value>
 </rating>
 </programme>
-<programme start="20150630003000 -0300" stop="20150630011500 -0300" channel="RHD" program_id="0000375477" event_id="000000103322651" series_key="00000000065728000000">
+<programme start="20150707003000 -0300" stop="20150707011500 -0300" channel="RHD" program_id="0000375477" event_id="00000000000098164532" series_key="00000000065728000000">
 <title lang="pt">Grimm - Contos de Terror</title>
 <title lang="en">Grimm</title>
 <desc>Esse drama policial incorpora as histórias dos contos de fadas dos irmãos Grimm. Um policial chamado Nick começa a ver humanos como animais e quer proteger a sociedade deles.</desc>
@@ -961,7 +965,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150630011500 -0300" stop="20150630060000 -0300" channel="RHD" program_id="0000079020" event_id="000000103322652" series_key="">
+<programme start="20150707011500 -0300" stop="20150707060000 -0300" channel="RHD" program_id="0000079020" event_id="00000000000098164533" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -979,9 +983,9 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150630060000 -0300" stop="20150630072800 -0300" channel="RHD" program_id="0000102196" event_id="000000103322654" series_key="00000000066243000000">
-<title lang="pt">Balanço Geral</title>
-<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
+<programme start="20150707060000 -0300" stop="20150707072800 -0300" channel="RHD" program_id="0000301746" event_id="00000000000098164534" series_key="00000000066243000000">
+<title lang="pt">Balanço Geral Manhã</title>
+<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
 <category lang="pt">Jornalismo</category>
 <category lang="pt">Informativo</category>
 <image>
@@ -997,7 +1001,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150630072800 -0300" stop="20150630085500 -0300" channel="RHD" program_id="0000072913" event_id="000000103322656" series_key="00000000066244000000">
+<programme start="20150707072800 -0300" stop="20150707085500 -0300" channel="RHD" program_id="0000072913" event_id="00000000000098164535" series_key="00000000066244000000">
 <title lang="pt">São Paulo no Ar</title>
 <desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1015,7 +1019,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150630085500 -0300" stop="20150630100000 -0300" channel="RHD" program_id="0000015945" event_id="000000103322657" series_key="00000000066238000000">
+<programme start="20150707085500 -0300" stop="20150707100000 -0300" channel="RHD" program_id="0000015945" event_id="00000000000098164536" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1033,7 +1037,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150630100000 -0300" stop="20150630120000 -0300" channel="RHD" program_id="0000094577" event_id="000000103322658" series_key="00000000066226000000">
+<programme start="20150707100000 -0300" stop="20150707120000 -0300" channel="RHD" program_id="0000094577" event_id="00000000000098164537" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1051,17 +1055,16 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150630120000 -0300" stop="20150630144000 -0300" channel="RHD" program_id="0000102196" event_id="000000103322659" series_key="00000000066243000000">
-<title lang="pt">Balanço Geral</title>
+<programme start="20150707120000 -0300" stop="20150707144000 -0300" channel="RHD" program_id="0000440115" event_id="00000000000098164538" series_key="00000000075858000000">
+<title lang="pt">Balanço Geral SP</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
 <category lang="pt">Informativo</category>
 <image>
-<image_name position="1">00000000066243.jpg</image_name>
-<image_broadcast>00000000066243</image_broadcast>
+<image_name position="1">00000000075858.jpg</image_name>
+<image_broadcast>00000000075858</image_broadcast>
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
-<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -1069,7 +1072,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150630144000 -0300" stop="20150630170000 -0300" channel="RHD" program_id="0000119084" event_id="000000103322660" series_key="00000000071807000000">
+<programme start="20150707144000 -0300" stop="20150707170000 -0300" channel="RHD" program_id="0000119084" event_id="00000000000098164539" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -1087,7 +1090,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150630170000 -0300" stop="20150630203000 -0300" channel="RHD" program_id="0000015967" event_id="000000103322662" series_key="00000000069485000000">
+<programme start="20150707170000 -0300" stop="20150707203000 -0300" channel="RHD" program_id="0000015967" event_id="00000000000098164540" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1105,26 +1108,9 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150630203000 -0300" stop="20150630203500 -0300" channel="RHD" program_id="0000255383" event_id="000000103322664" series_key="">
-<title lang="pt">Propaganda Partidária</title>
-<desc>Programa Político.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">0000255383.jpg</image_name>
-<image_broadcast>0000255383</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150630203500 -0300" stop="20150630213000 -0300" channel="RHD" program_id="0000430159" event_id="000000103322665" series_key="00000000076587000000">
+<programme start="20150707203000 -0300" stop="20150707213000 -0300" channel="RHD" program_id="0000430159" event_id="00000000000098164541" series_key="00000000076587000000">
 <title lang="pt">Os Dez Mandamentos</title>
-<desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
+<desc>Sinopse Não Disponível.</desc>
 <credits>
 <director>Alexandre Avancini</director>
 <actor>Guilherme Winter</actor>
@@ -1153,7 +1139,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150630213000 -0300" stop="20150630223000 -0300" channel="RHD" program_id="0000015966" event_id="000000103322666" series_key="00000000066234000000">
+<programme start="20150707213000 -0300" stop="20150707223000 -0300" channel="RHD" program_id="0000015966" event_id="00000000000098164542" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1171,7 +1157,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150630223000 -0300" stop="20150701001500 -0300" channel="RHD" program_id="0000184059" event_id="000000103322668" series_key="">
+<programme start="20150707223000 -0300" stop="20150708001500 -0300" channel="RHD" program_id="0000184059" event_id="00000000000098164543" series_key="">
 <title lang="pt">Gugu</title>
 <title lang="en">Programa do Gugu</title>
 <desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
@@ -1194,7 +1180,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150701001500 -0300" stop="20150701011500 -0300" channel="RHD" program_id="0000145417" event_id="000000103322670" series_key="00000000026360000000">
+<programme start="20150708001500 -0300" stop="20150708011500 -0300" channel="RHD" program_id="0000145417" event_id="00000000000098164544" series_key="00000000026360000000">
 <title lang="pt">Breaking Bad</title>
 <title lang="en">Breaking Bad</title>
 <desc>Walter é um professor de química, casado e com um filho que tem paralisia cerebral. Ao descobrir que está com uma grave doença, começa a juntar o dinheiro para deixar para sua família quando ele partir.</desc>
@@ -1227,7 +1213,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150701011500 -0300" stop="20150701060000 -0300" channel="RHD" program_id="0000079020" event_id="000000103322671" series_key="">
+<programme start="20150708011500 -0300" stop="20150708060000 -0300" channel="RHD" program_id="0000079020" event_id="00000000000098164545" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -1245,9 +1231,9 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150701060000 -0300" stop="20150701072800 -0300" channel="RHD" program_id="0000102196" event_id="000000103322672" series_key="00000000066243000000">
-<title lang="pt">Balanço Geral</title>
-<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
+<programme start="20150708060000 -0300" stop="20150708072800 -0300" channel="RHD" program_id="0000301746" event_id="00000000000098164546" series_key="00000000066243000000">
+<title lang="pt">Balanço Geral Manhã</title>
+<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
 <category lang="pt">Jornalismo</category>
 <category lang="pt">Informativo</category>
 <image>
@@ -1263,7 +1249,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150701072800 -0300" stop="20150701085500 -0300" channel="RHD" program_id="0000072913" event_id="000000103322673" series_key="00000000066244000000">
+<programme start="20150708072800 -0300" stop="20150708085500 -0300" channel="RHD" program_id="0000072913" event_id="00000000000098164547" series_key="00000000066244000000">
 <title lang="pt">São Paulo no Ar</title>
 <desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1281,7 +1267,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150701085500 -0300" stop="20150701100000 -0300" channel="RHD" program_id="0000015945" event_id="000000103322674" series_key="00000000066238000000">
+<programme start="20150708085500 -0300" stop="20150708100000 -0300" channel="RHD" program_id="0000015945" event_id="00000000000098164548" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1299,7 +1285,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150701100000 -0300" stop="20150701120000 -0300" channel="RHD" program_id="0000094577" event_id="000000103322677" series_key="00000000066226000000">
+<programme start="20150708100000 -0300" stop="20150708120000 -0300" channel="RHD" program_id="0000094577" event_id="00000000000098164549" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1317,17 +1303,16 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150701120000 -0300" stop="20150701144000 -0300" channel="RHD" program_id="0000102196" event_id="000000103322678" series_key="00000000066243000000">
-<title lang="pt">Balanço Geral</title>
+<programme start="20150708120000 -0300" stop="20150708144000 -0300" channel="RHD" program_id="0000440115" event_id="00000000000098164550" series_key="00000000075858000000">
+<title lang="pt">Balanço Geral SP</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
 <category lang="pt">Informativo</category>
 <image>
-<image_name position="1">00000000066243.jpg</image_name>
-<image_broadcast>00000000066243</image_broadcast>
+<image_name position="1">00000000075858.jpg</image_name>
+<image_broadcast>00000000075858</image_broadcast>
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
-<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -1335,7 +1320,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150701144000 -0300" stop="20150701170000 -0300" channel="RHD" program_id="0000119084" event_id="000000103322679" series_key="00000000071807000000">
+<programme start="20150708144000 -0300" stop="20150708170000 -0300" channel="RHD" program_id="0000119084" event_id="00000000000098164551" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -1353,7 +1338,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150701170000 -0300" stop="20150701203000 -0300" channel="RHD" program_id="0000015967" event_id="000000103322680" series_key="00000000069485000000">
+<programme start="20150708170000 -0300" stop="20150708203000 -0300" channel="RHD" program_id="0000015967" event_id="00000000000098164552" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1371,9 +1356,9 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150701203000 -0300" stop="20150701213000 -0300" channel="RHD" program_id="0000430159" event_id="000000103322682" series_key="00000000076587000000">
+<programme start="20150708203000 -0300" stop="20150708213000 -0300" channel="RHD" program_id="0000430159" event_id="00000000000098164553" series_key="00000000076587000000">
 <title lang="pt">Os Dez Mandamentos</title>
-<desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
+<desc>Sinopse Não Disponível.</desc>
 <credits>
 <director>Alexandre Avancini</director>
 <actor>Guilherme Winter</actor>
@@ -1402,7 +1387,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150701213000 -0300" stop="20150701221500 -0300" channel="RHD" program_id="0000015966" event_id="000000103322684" series_key="00000000066234000000">
+<programme start="20150708213000 -0300" stop="20150708221500 -0300" channel="RHD" program_id="0000015966" event_id="00000000000098164554" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1420,7 +1405,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150701221500 -0300" stop="20150702001500 -0300" channel="RHD" program_id="0000184059" event_id="000000103322685" series_key="">
+<programme start="20150708221500 -0300" stop="20150709001500 -0300" channel="RHD" program_id="0000184059" event_id="00000000000098164555" series_key="">
 <title lang="pt">Gugu</title>
 <title lang="en">Programa do Gugu</title>
 <desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
@@ -1443,7 +1428,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150702001500 -0300" stop="20150702011500 -0300" channel="RHD" program_id="0000134042" event_id="000000103322686" series_key="00000000066236000000">
+<programme start="20150709001500 -0300" stop="20150709011500 -0300" channel="RHD" program_id="0000134042" event_id="00000000000098164556" series_key="00000000066236000000">
 <title lang="pt">Câmera Record</title>
 <desc>Explore as belezas e as curiosidades da Tailândia. Um lugar de paisagens exuberantes, comidas exóticas e inúmeras curiosidades, inclusive um mercado flutuante.</desc>
 <credits>
@@ -1464,7 +1449,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150702011500 -0300" stop="20150702060000 -0300" channel="RHD" program_id="0000079020" event_id="000000103322688" series_key="">
+<programme start="20150709011500 -0300" stop="20150709060000 -0300" channel="RHD" program_id="0000079020" event_id="00000000000098164557" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -1482,9 +1467,9 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150702060000 -0300" stop="20150702072800 -0300" channel="RHD" program_id="0000102196" event_id="000000103322689" series_key="00000000066243000000">
-<title lang="pt">Balanço Geral</title>
-<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
+<programme start="20150709060000 -0300" stop="20150709072800 -0300" channel="RHD" program_id="0000301746" event_id="00000000000098164558" series_key="00000000066243000000">
+<title lang="pt">Balanço Geral Manhã</title>
+<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
 <category lang="pt">Jornalismo</category>
 <category lang="pt">Informativo</category>
 <image>
@@ -1500,7 +1485,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150702072800 -0300" stop="20150702085500 -0300" channel="RHD" program_id="0000072913" event_id="000000103322690" series_key="00000000066244000000">
+<programme start="20150709072800 -0300" stop="20150709085500 -0300" channel="RHD" program_id="0000072913" event_id="00000000000098164559" series_key="00000000066244000000">
 <title lang="pt">São Paulo no Ar</title>
 <desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1518,7 +1503,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150702085500 -0300" stop="20150702100000 -0300" channel="RHD" program_id="0000015945" event_id="000000103322691" series_key="00000000066238000000">
+<programme start="20150709085500 -0300" stop="20150709100000 -0300" channel="RHD" program_id="0000015945" event_id="00000000000098164560" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1536,7 +1521,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150702100000 -0300" stop="20150702120000 -0300" channel="RHD" program_id="0000094577" event_id="000000103322693" series_key="00000000066226000000">
+<programme start="20150709100000 -0300" stop="20150709120000 -0300" channel="RHD" program_id="0000094577" event_id="00000000000098164561" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1554,17 +1539,16 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150702120000 -0300" stop="20150702144000 -0300" channel="RHD" program_id="0000102196" event_id="000000103322694" series_key="00000000066243000000">
-<title lang="pt">Balanço Geral</title>
+<programme start="20150709120000 -0300" stop="20150709144000 -0300" channel="RHD" program_id="0000440115" event_id="00000000000098164562" series_key="00000000075858000000">
+<title lang="pt">Balanço Geral SP</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
 <category lang="pt">Informativo</category>
 <image>
-<image_name position="1">00000000066243.jpg</image_name>
-<image_broadcast>00000000066243</image_broadcast>
+<image_name position="1">00000000075858.jpg</image_name>
+<image_broadcast>00000000075858</image_broadcast>
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
-<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -1572,7 +1556,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150702144000 -0300" stop="20150702170000 -0300" channel="RHD" program_id="0000119084" event_id="000000103322695" series_key="00000000071807000000">
+<programme start="20150709144000 -0300" stop="20150709170000 -0300" channel="RHD" program_id="0000119084" event_id="00000000000098164563" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -1590,7 +1574,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150702170000 -0300" stop="20150702203000 -0300" channel="RHD" program_id="0000015967" event_id="000000103322697" series_key="00000000069485000000">
+<programme start="20150709170000 -0300" stop="20150709203000 -0300" channel="RHD" program_id="0000015967" event_id="00000000000098164564" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1608,7 +1592,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150702203000 -0300" stop="20150702203500 -0300" channel="RHD" program_id="0000255383" event_id="000000103322698" series_key="">
+<programme start="20150709203000 -0300" stop="20150709204000 -0300" channel="RHD" program_id="0000255383" event_id="00000000000098164565" series_key="">
 <title lang="pt">Propaganda Partidária</title>
 <desc>Programa Político.</desc>
 <category lang="pt">Variedades</category>
@@ -1625,9 +1609,9 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150702203500 -0300" stop="20150702213000 -0300" channel="RHD" program_id="0000430159" event_id="000000103322700" series_key="00000000076587000000">
+<programme start="20150709204000 -0300" stop="20150709213000 -0300" channel="RHD" program_id="0000430159" event_id="00000000000098164566" series_key="00000000076587000000">
 <title lang="pt">Os Dez Mandamentos</title>
-<desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
+<desc>Sinopse Não Disponível.</desc>
 <credits>
 <director>Alexandre Avancini</director>
 <actor>Guilherme Winter</actor>
@@ -1656,7 +1640,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150702213000 -0300" stop="20150702223000 -0300" channel="RHD" program_id="0000015966" event_id="000000103322701" series_key="00000000066234000000">
+<programme start="20150709213000 -0300" stop="20150709223000 -0300" channel="RHD" program_id="0000015966" event_id="00000000000098164567" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1674,7 +1658,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150702223000 -0300" stop="20150703001500 -0300" channel="RHD" program_id="0000184059" event_id="000000103322703" series_key="">
+<programme start="20150709223000 -0300" stop="20150710001500 -0300" channel="RHD" program_id="0000184059" event_id="00000000000098164568" series_key="">
 <title lang="pt">Gugu</title>
 <title lang="en">Programa do Gugu</title>
 <desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
@@ -1697,7 +1681,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703001500 -0300" stop="20150703011500 -0300" channel="RHD" program_id="0000410414" event_id="000000103322704" series_key="00000000061897000000">
+<programme start="20150710001500 -0300" stop="20150710011500 -0300" channel="RHD" program_id="0000410414" event_id="00000000000098164569" series_key="00000000061897000000">
 <title lang="pt">C.S.I.</title>
 <title lang="en">C.S.I.</title>
 <desc>C.S.I retrata o difícil cotidiano de um grupo de investigadores judiciais da cidade de Las Vegas, que resolve casos em que a polícia fracassou, analisando os locais onde foram cometidos os crimes.</desc>
@@ -1730,7 +1714,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150703011500 -0300" stop="20150703060000 -0300" channel="RHD" program_id="0000079020" event_id="000000103322706" series_key="">
+<programme start="20150710011500 -0300" stop="20150710060000 -0300" channel="RHD" program_id="0000079020" event_id="00000000000098164570" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -1748,9 +1732,9 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703060000 -0300" stop="20150703072800 -0300" channel="RHD" program_id="0000102196" event_id="000000103322707" series_key="00000000066243000000">
-<title lang="pt">Balanço Geral</title>
-<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
+<programme start="20150710060000 -0300" stop="20150710072800 -0300" channel="RHD" program_id="0000301746" event_id="00000000000098164571" series_key="00000000066243000000">
+<title lang="pt">Balanço Geral Manhã</title>
+<desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
 <category lang="pt">Jornalismo</category>
 <category lang="pt">Informativo</category>
 <image>
@@ -1766,7 +1750,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703072800 -0300" stop="20150703085500 -0300" channel="RHD" program_id="0000072913" event_id="000000103322708" series_key="00000000066244000000">
+<programme start="20150710072800 -0300" stop="20150710085500 -0300" channel="RHD" program_id="0000072913" event_id="00000000000098164572" series_key="00000000066244000000">
 <title lang="pt">São Paulo no Ar</title>
 <desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1784,7 +1768,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703085500 -0300" stop="20150703100000 -0300" channel="RHD" program_id="0000015945" event_id="000000103322710" series_key="00000000066238000000">
+<programme start="20150710085500 -0300" stop="20150710100000 -0300" channel="RHD" program_id="0000015945" event_id="00000000000098164573" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1802,7 +1786,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703100000 -0300" stop="20150703120000 -0300" channel="RHD" program_id="0000094577" event_id="000000103322712" series_key="00000000066226000000">
+<programme start="20150710100000 -0300" stop="20150710120000 -0300" channel="RHD" program_id="0000094577" event_id="00000000000098164574" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1820,17 +1804,16 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703120000 -0300" stop="20150703144000 -0300" channel="RHD" program_id="0000102196" event_id="000000103322713" series_key="00000000066243000000">
-<title lang="pt">Balanço Geral</title>
+<programme start="20150710120000 -0300" stop="20150710144000 -0300" channel="RHD" program_id="0000440115" event_id="00000000000098164575" series_key="00000000075858000000">
+<title lang="pt">Balanço Geral SP</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
 <category lang="pt">Informativo</category>
 <image>
-<image_name position="1">00000000066243.jpg</image_name>
-<image_broadcast>00000000066243</image_broadcast>
+<image_name position="1">00000000075858.jpg</image_name>
+<image_broadcast>00000000075858</image_broadcast>
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
-<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -1838,7 +1821,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703144000 -0300" stop="20150703170000 -0300" channel="RHD" program_id="0000119084" event_id="000000103322714" series_key="00000000071807000000">
+<programme start="20150710144000 -0300" stop="20150710170000 -0300" channel="RHD" program_id="0000119084" event_id="00000000000098164576" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -1856,7 +1839,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150703170000 -0300" stop="20150703203000 -0300" channel="RHD" program_id="0000015967" event_id="000000103322715" series_key="00000000069485000000">
+<programme start="20150710170000 -0300" stop="20150710203000 -0300" channel="RHD" program_id="0000015967" event_id="00000000000098164577" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1874,9 +1857,9 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703203000 -0300" stop="20150703213000 -0300" channel="RHD" program_id="0000430159" event_id="000000103322718" series_key="00000000076587000000">
+<programme start="20150710203000 -0300" stop="20150710213000 -0300" channel="RHD" program_id="0000430159" event_id="00000000000098164578" series_key="00000000076587000000">
 <title lang="pt">Os Dez Mandamentos</title>
-<desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
+<desc>Sinopse Não Disponível.</desc>
 <credits>
 <director>Alexandre Avancini</director>
 <actor>Guilherme Winter</actor>
@@ -1905,7 +1888,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150703213000 -0300" stop="20150703223000 -0300" channel="RHD" program_id="0000015966" event_id="000000103322719" series_key="00000000066234000000">
+<programme start="20150710213000 -0300" stop="20150710223000 -0300" channel="RHD" program_id="0000015966" event_id="00000000000098164579" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1923,7 +1906,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703223000 -0300" stop="20150704011500 -0300" channel="RHD" program_id="0000015989" event_id="000000103322720" series_key="">
+<programme start="20150710223000 -0300" stop="20150711003000 -0300" channel="RHD" program_id="0000015989" event_id="00000000000098164580" series_key="">
 <title lang="pt">Super Tela</title>
 <title lang="en">Super Tela</title>
 <desc>Aqui você vai assistir comédia, ação, suspense e muito mais!</desc>
@@ -1942,7 +1925,26 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150704011500 -0300" stop="20150704063000 -0300" channel="RHD" program_id="0000079020" event_id="000000103322721" series_key="">
+<programme start="20150711003000 -0300" stop="20150711011500 -0300" channel="RHD" program_id="0000449243" event_id="00000000000099676331" series_key="">
+<title lang="pt">Pan 2015 - Cerimônia de Abertura</title>
+<desc></desc>
+<date>2015</date>
+<category lang="pt">Esporte</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000449243.jpg</image_name>
+<image_broadcast>0000449243</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Canadá</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150711011500 -0300" stop="20150711063000 -0300" channel="RHD" program_id="0000079020" event_id="00000000000098164581" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -1960,7 +1962,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704063000 -0300" stop="20150704070000 -0300" channel="RHD" program_id="0000235480" event_id="000000103322724" series_key="00000000073676000000">
+<programme start="20150711063000 -0300" stop="20150711070000 -0300" channel="RHD" program_id="0000235480" event_id="00000000000098164582" series_key="00000000073676000000">
 <title lang="pt">Nosso Tempo</title>
 <desc>Um programa da Igreja Universal do Reino de Deus. O Bispo Rogério leva uma palavra de fé e esperança a todos os internautas.</desc>
 <category lang="pt">Variedades</category>
@@ -1978,7 +1980,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704070000 -0300" stop="20150704101500 -0300" channel="RHD" program_id="0000291670" event_id="000000103322725" series_key="00000000066238000000">
+<programme start="20150711070000 -0300" stop="20150711101500 -0300" channel="RHD" program_id="0000291670" event_id="00000000000098164583" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil Especial</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1996,7 +1998,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704101500 -0300" stop="20150704120000 -0300" channel="RHD" program_id="0000179573" event_id="000000103322726" series_key="00000000072203000000">
+<programme start="20150711101500 -0300" stop="20150711120000 -0300" channel="RHD" program_id="0000179573" event_id="00000000000098164584" series_key="00000000072203000000">
 <title lang="pt">Esporte Fantástico</title>
 <desc>Rodrigo Faro aceita desafio de David Luiz e toma um banho de água fria: "Missão dada é missão cumprida".</desc>
 <category lang="pt">Jornalismo</category>
@@ -2014,7 +2016,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150704120000 -0300" stop="20150704130000 -0300" channel="RHD" program_id="0000258837" event_id="000000103322727" series_key="00000000073664000000">
+<programme start="20150711120000 -0300" stop="20150711130000 -0300" channel="RHD" program_id="0000258837" event_id="00000000000098164585" series_key="00000000073664000000">
 <title lang="pt">The Love School</title>
 <desc>Um dos grandes diferenciais é a interatividade dos apresentadores com o público, através do e-mail, facebook, twitter e até mesmo exibindo vídeos-pergunta, enviadas pelos telespectadores.</desc>
 <category lang="pt">Variedades</category>
@@ -2032,7 +2034,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150704130000 -0300" stop="20150704141500 -0300" channel="RHD" program_id="0000112751" event_id="000000103322729" series_key="00000000051563000000">
+<programme start="20150711130000 -0300" stop="20150711141500 -0300" channel="RHD" program_id="0000112751" event_id="00000000000098164586" series_key="00000000051563000000">
 <title lang="pt">Todo Mundo Odeia o Chris</title>
 <title lang="en">Everybody Hates Chris</title>
 <desc>Chris Rock narra com muito bom humor suas experiências durante a adolescência como o mais velho de três irmãos, em histórias hilariantes, inteligentes e sarcásticas, como a própria personalidade do comediante.</desc>
@@ -2067,7 +2069,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150704141500 -0300" stop="20150704151500 -0300" channel="RHD" program_id="0000291669" event_id="000000103322731" series_key="00000000073666000000">
+<programme start="20150711141500 -0300" stop="20150711151500 -0300" channel="RHD" program_id="0000291669" event_id="00000000000098164587" series_key="00000000073666000000">
 <title lang="pt">Record Kids - Pica Pau</title>
 <desc>As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca!</desc>
 <category lang="pt">Infantil</category>
@@ -2085,7 +2087,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704151500 -0300" stop="20150704172000 -0300" channel="RHD" program_id="0000060694" event_id="000000103322732" series_key="">
+<programme start="20150711151500 -0300" stop="20150711172000 -0300" channel="RHD" program_id="0000060694" event_id="00000000000098164588" series_key="">
 <title lang="pt">Cine Aventura</title>
 <desc>Aqui você vai assistir comédia, ação, suspense e muito mais!</desc>
 <category lang="pt">Variedades</category>
@@ -2099,7 +2101,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704172000 -0300" stop="20150704194500 -0300" channel="RHD" program_id="0000349954" event_id="000000103322733" series_key="00000000072204000000">
+<programme start="20150711172000 -0300" stop="20150711194500 -0300" channel="RHD" program_id="0000349954" event_id="00000000000098164589" series_key="00000000072204000000">
 <title lang="pt">Cidade Alerta Especial</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2117,7 +2119,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704194500 -0300" stop="20150704203000 -0300" channel="RHD" program_id="0000352611" event_id="000000103322734" series_key="00000000072205000000">
+<programme start="20150711194500 -0300" stop="20150711203000 -0300" channel="RHD" program_id="0000352611" event_id="00000000000098164590" series_key="00000000072205000000">
 <title lang="pt">Jornal da Record Especial</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2135,7 +2137,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704203000 -0300" stop="20150704230000 -0300" channel="RHD" program_id="0000379634" event_id="000000103322736" series_key="00000000073462000000">
+<programme start="20150711203000 -0300" stop="20150711230000 -0300" channel="RHD" program_id="0000379634" event_id="00000000000098164591" series_key="00000000073462000000">
 <title lang="pt">Programa da Sabrina</title>
 <desc>Sabrina receberá convidados para entrevistas, assim como bandas que vão agitar a platéia. Também trará reportagens pra lá de interessantes, entrevistas exclusivas e muito mais.</desc>
 <date>2014</date>
@@ -2154,7 +2156,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150704230000 -0300" stop="20150705011500 -0300" channel="RHD" program_id="0000201830" event_id="000000103322738" series_key="00000000073667000000">
+<programme start="20150711230000 -0300" stop="20150712011500 -0300" channel="RHD" program_id="0000201830" event_id="00000000000098164592" series_key="00000000073667000000">
 <title lang="pt">Legendários</title>
 <desc>Apresentada e dirigida por Marcos Mion, a atração promete entreter, informar e alegrar o telespectador com tudo o que existe de mais criativo na televisão.</desc>
 <category lang="pt">Variedades</category>
@@ -2172,7 +2174,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150705011500 -0300" stop="20150705060000 -0300" channel="RHD" program_id="0000079020" event_id="000000103322739" series_key="">
+<programme start="20150712011500 -0300" stop="20150712060000 -0300" channel="RHD" program_id="0000079020" event_id="00000000000098164593" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -2190,7 +2192,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705060000 -0300" stop="20150705063000 -0300" channel="RHD" program_id="0000015977" event_id="000000103322740" series_key="00000000073677000000">
+<programme start="20150712060000 -0300" stop="20150712063000 -0300" channel="RHD" program_id="0000015977" event_id="00000000000098164594" series_key="00000000073677000000">
 <title lang="pt">Santo Culto em seu Lar</title>
 <title lang="en">Santo Culto em seu Lar</title>
 <desc>Pregações abordando um tema específico, discutindo sempre em base de texto bíblico.</desc>
@@ -2209,7 +2211,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150705063000 -0300" stop="20150705080000 -0300" channel="RHD" program_id="0000098194" event_id="000000103322741" series_key="00000000073678000000">
+<programme start="20150712063000 -0300" stop="20150712080000 -0300" channel="RHD" program_id="0000098194" event_id="00000000000098164595" series_key="00000000073678000000">
 <title lang="pt">Desenhos Bíblicos</title>
 <title lang="en">Desenhos Bíblicos</title>
 <desc>Animações das histórias bíblicas.</desc>
@@ -2225,7 +2227,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705080000 -0300" stop="20150705090000 -0300" channel="RHD" program_id="0000442940" event_id="000000103322743" series_key="">
+<programme start="20150712080000 -0300" stop="20150712090000 -0300" channel="RHD" program_id="0000442940" event_id="00000000000098164596" series_key="">
 <title lang="pt">Programa do Templo</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2242,7 +2244,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705090000 -0300" stop="20150705110000 -0300" channel="RHD" program_id="0000291669" event_id="000000103322745" series_key="00000000073666000000">
+<programme start="20150712090000 -0300" stop="20150712110000 -0300" channel="RHD" program_id="0000291669" event_id="00000000000098164597" series_key="00000000073666000000">
 <title lang="pt">Record Kids - Pica Pau</title>
 <desc>As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca!</desc>
 <category lang="pt">Infantil</category>
@@ -2260,7 +2262,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705110000 -0300" stop="20150705153000 -0300" channel="RHD" program_id="0000017914" event_id="000000103322746" series_key="00000000072949000000">
+<programme start="20150712110000 -0300" stop="20150712153000 -0300" channel="RHD" program_id="0000017914" event_id="00000000000098164598" series_key="00000000072949000000">
 <title lang="pt">Domingo Show</title>
 <desc>Geraldo e sua equipe estarão a postos para noticiar, ao vivo, qualquer evento que esteja acontecendo, conferindo agilidade ao Domingo Show.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2278,7 +2280,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705153000 -0300" stop="20150705193000 -0300" channel="RHD" program_id="0000379635" event_id="000000103322747" series_key="00000000073463000000">
+<programme start="20150712153000 -0300" stop="20150712193000 -0300" channel="RHD" program_id="0000379635" event_id="00000000000098164599" series_key="00000000073463000000">
 <title lang="pt">Hora do Faro</title>
 <desc>O mesmo Rodrigo Faro talentoso, irreverente e divertido de sempre em um programa totalmente novo! Hora do Faro vai agitar as tardes de domingo com a alegria e a emoção já conhecidas do público de casa.</desc>
 <date>2014</date>
@@ -2297,7 +2299,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150705193000 -0300" stop="20150705231500 -0300" channel="RHD" program_id="0000074950" event_id="000000103322748" series_key="00000000072208000000">
+<programme start="20150712193000 -0300" stop="20150712231500 -0300" channel="RHD" program_id="0000074950" event_id="00000000000098164600" series_key="00000000072208000000">
 <title lang="pt">Domingo Espetacular</title>
 <title lang="en">Domingo Espetacular</title>
 <desc>Um jornalismo ágil e moderno, com reportagens de denúncia, comportamento, ciência, turismo, medicina e aventura, além de um panorama geral dos fatos que marcaram a semana.</desc>
@@ -2316,7 +2318,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705231500 -0300" stop="20150706001500 -0300" channel="RHD" program_id="0000420250" event_id="000000103322750" series_key="00000000076191000000">
+<programme start="20150712231500 -0300" stop="20150713001500 -0300" channel="RHD" program_id="0000420250" event_id="00000000000098164601" series_key="00000000076191000000">
 <title lang="pt">Repórter em Ação</title>
 <desc>Estreia do Repórter em Ação mostra expedição para desbravar os mistérios da Amazônia.</desc>
 <credits>
@@ -2338,7 +2340,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706001500 -0300" stop="20150706011500 -0300" channel="RHD" program_id="0000271995" event_id="000000103322751" series_key="00000000072212000000">
+<programme start="20150713001500 -0300" stop="20150713011500 -0300" channel="RHD" program_id="0000271995" event_id="00000000000098164602" series_key="00000000072212000000">
 <title lang="pt">Roberto Justus +</title>
 <desc>Justus receber César Filho, o novo contratado da Record, Zilu e Angel K no talk show da Record.</desc>
 <date>2015</date>
@@ -2357,7 +2359,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150706011500 -0300" stop="20150706060000 -0300" channel="RHD" program_id="0000079020" event_id="000000103322753" series_key="">
+<programme start="20150713011500 -0300" stop="20150713060000 -0300" channel="RHD" program_id="0000079020" event_id="00000000000098164603" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -2375,7 +2377,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706060000 -0300" stop="20150706072800 -0300" channel="RHD" program_id="0000102196" event_id="000000103322754" series_key="00000000066243000000">
+<programme start="20150713060000 -0300" stop="20150713072800 -0300" channel="RHD" program_id="0000102196" event_id="00000000000098164604" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2393,7 +2395,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706072800 -0300" stop="20150706085500 -0300" channel="RHD" program_id="0000072913" event_id="000000103322755" series_key="00000000066244000000">
+<programme start="20150713072800 -0300" stop="20150713085500 -0300" channel="RHD" program_id="0000072913" event_id="00000000000098164605" series_key="00000000066244000000">
 <title lang="pt">São Paulo no Ar</title>
 <desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2411,7 +2413,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706085500 -0300" stop="20150706100000 -0300" channel="RHD" program_id="0000015945" event_id="000000103322756" series_key="00000000066238000000">
+<programme start="20150713085500 -0300" stop="20150713100000 -0300" channel="RHD" program_id="0000015945" event_id="00000000000098164606" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2429,7 +2431,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706100000 -0300" stop="20150706120000 -0300" channel="RHD" program_id="0000094577" event_id="000000103322757" series_key="00000000066226000000">
+<programme start="20150713100000 -0300" stop="20150713120000 -0300" channel="RHD" program_id="0000094577" event_id="00000000000098164607" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2447,7 +2449,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706120000 -0300" stop="20150706144000 -0300" channel="RHD" program_id="0000102196" event_id="000000103322759" series_key="00000000066243000000">
+<programme start="20150713120000 -0300" stop="20150713144000 -0300" channel="RHD" program_id="0000102196" event_id="00000000000098164608" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2465,7 +2467,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706144000 -0300" stop="20150706170000 -0300" channel="RHD" program_id="0000119084" event_id="000000103322760" series_key="00000000071807000000">
+<programme start="20150713144000 -0300" stop="20150713170000 -0300" channel="RHD" program_id="0000119084" event_id="00000000000098164609" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -2483,7 +2485,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150706170000 -0300" stop="20150706203000 -0300" channel="RHD" program_id="0000015967" event_id="000000103322761" series_key="00000000069485000000">
+<programme start="20150713170000 -0300" stop="20150713203000 -0300" channel="RHD" program_id="0000015967" event_id="00000000000098164610" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2501,7 +2503,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706203000 -0300" stop="20150706213000 -0300" channel="RHD" program_id="0000430159" event_id="000000103322762" series_key="00000000076587000000">
+<programme start="20150713203000 -0300" stop="20150713213000 -0300" channel="RHD" program_id="0000430159" event_id="00000000000098164611" series_key="00000000076587000000">
 <title lang="pt">Os Dez Mandamentos</title>
 <desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
 <credits>
@@ -2532,7 +2534,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150706213000 -0300" stop="20150706223000 -0300" channel="RHD" program_id="0000015966" event_id="000000103322764" series_key="00000000066234000000">
+<programme start="20150713213000 -0300" stop="20150713223000 -0300" channel="RHD" program_id="0000015966" event_id="00000000000098164612" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2550,7 +2552,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706223000 -0300" stop="20150706233000 -0300" channel="RHD" program_id="0000380369" event_id="000000103322765" series_key="00000000073493000000">
+<programme start="20150713223000 -0300" stop="20150713233000 -0300" channel="RHD" program_id="0000380369" event_id="00000000000098164613" series_key="00000000073493000000">
 <title lang="pt">Repórter Record Investigação</title>
 <desc>O Repórter Record Investigação, exibe reportagem especial com imagens e depoimentos exclusivos sobre a trajetória dos dois brasileiros condenados à morte, por fuzilamento, na Indonésia.</desc>
 <date>2014</date>
@@ -2569,7 +2571,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150706233000 -0300" stop="20150707003000 -0300" channel="RHD" program_id="0000445131" event_id="000000103322766" series_key="00000000077112000000">
+<programme start="20150713233000 -0300" stop="20150714003000 -0300" channel="RHD" program_id="0000445131" event_id="00000000000098164614" series_key="00000000077112000000">
 <title lang="pt">Na Mira do Crime</title>
 <desc></desc>
 <category lang="pt">Séries</category>
@@ -2586,7 +2588,7 @@
 <value>Programa impróprio para menores de 16 anos</value>
 </rating>
 </programme>
-<programme start="20150707003000 -0300" stop="20150707011500 -0300" channel="RHD" program_id="0000375477" event_id="000000103322767" series_key="00000000065728000000">
+<programme start="20150714003000 -0300" stop="20150714011500 -0300" channel="RHD" program_id="0000375477" event_id="00000000000098164615" series_key="00000000065728000000">
 <title lang="pt">Grimm - Contos de Terror</title>
 <title lang="en">Grimm</title>
 <desc>Esse drama policial incorpora as histórias dos contos de fadas dos irmãos Grimm. Um policial chamado Nick começa a ver humanos como animais e quer proteger a sociedade deles.</desc>
@@ -2618,7 +2620,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150707011500 -0300" stop="20150707060000 -0300" channel="RHD" program_id="0000079020" event_id="000000103322768" series_key="">
+<programme start="20150714011500 -0300" stop="20150714060000 -0300" channel="RHD" program_id="0000079020" event_id="00000000000098164616" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -2636,7 +2638,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707060000 -0300" stop="20150707072800 -0300" channel="RHD" program_id="0000102196" event_id="000000103322769" series_key="00000000066243000000">
+<programme start="20150714060000 -0300" stop="20150714072800 -0300" channel="RHD" program_id="0000102196" event_id="00000000000098164617" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2654,7 +2656,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707072800 -0300" stop="20150707085500 -0300" channel="RHD" program_id="0000072913" event_id="000000103322771" series_key="00000000066244000000">
+<programme start="20150714072800 -0300" stop="20150714085500 -0300" channel="RHD" program_id="0000072913" event_id="00000000000098164618" series_key="00000000066244000000">
 <title lang="pt">São Paulo no Ar</title>
 <desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2672,7 +2674,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707085500 -0300" stop="20150707100000 -0300" channel="RHD" program_id="0000015945" event_id="000000103322773" series_key="00000000066238000000">
+<programme start="20150714085500 -0300" stop="20150714100000 -0300" channel="RHD" program_id="0000015945" event_id="00000000000098164619" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2690,7 +2692,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707100000 -0300" stop="20150707120000 -0300" channel="RHD" program_id="0000094577" event_id="000000103322774" series_key="00000000066226000000">
+<programme start="20150714100000 -0300" stop="20150714120000 -0300" channel="RHD" program_id="0000094577" event_id="00000000000098164620" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2708,7 +2710,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707120000 -0300" stop="20150707144000 -0300" channel="RHD" program_id="0000102196" event_id="000000103322775" series_key="00000000066243000000">
+<programme start="20150714120000 -0300" stop="20150714144000 -0300" channel="RHD" program_id="0000102196" event_id="00000000000098164621" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2726,7 +2728,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707144000 -0300" stop="20150707170000 -0300" channel="RHD" program_id="0000119084" event_id="000000103322777" series_key="00000000071807000000">
+<programme start="20150714144000 -0300" stop="20150714170000 -0300" channel="RHD" program_id="0000119084" event_id="00000000000098164622" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -2744,7 +2746,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150707170000 -0300" stop="20150707203000 -0300" channel="RHD" program_id="0000015967" event_id="000000103322778" series_key="00000000069485000000">
+<programme start="20150714170000 -0300" stop="20150714203000 -0300" channel="RHD" program_id="0000015967" event_id="00000000000098164623" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2762,7 +2764,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707203000 -0300" stop="20150707213000 -0300" channel="RHD" program_id="0000430159" event_id="000000103322779" series_key="00000000076587000000">
+<programme start="20150714203000 -0300" stop="20150714213000 -0300" channel="RHD" program_id="0000430159" event_id="00000000000098164624" series_key="00000000076587000000">
 <title lang="pt">Os Dez Mandamentos</title>
 <desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
 <credits>
@@ -2793,7 +2795,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150707213000 -0300" stop="20150707223000 -0300" channel="RHD" program_id="0000015966" event_id="000000103322780" series_key="00000000066234000000">
+<programme start="20150714213000 -0300" stop="20150714223000 -0300" channel="RHD" program_id="0000015966" event_id="00000000000098164625" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2811,7 +2813,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707223000 -0300" stop="20150708001500 -0300" channel="RHD" program_id="0000184059" event_id="000000103322781" series_key="">
+<programme start="20150714223000 -0300" stop="20150715001500 -0300" channel="RHD" program_id="0000184059" event_id="00000000000098164626" series_key="">
 <title lang="pt">Gugu</title>
 <title lang="en">Programa do Gugu</title>
 <desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
@@ -2834,7 +2836,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708001500 -0300" stop="20150708011500 -0300" channel="RHD" program_id="0000145417" event_id="000000103322784" series_key="00000000026360000000">
+<programme start="20150715001500 -0300" stop="20150715011500 -0300" channel="RHD" program_id="0000145417" event_id="00000000000098164627" series_key="00000000026360000000">
 <title lang="pt">Breaking Bad</title>
 <title lang="en">Breaking Bad</title>
 <desc>Walter é um professor de química, casado e com um filho que tem paralisia cerebral. Ao descobrir que está com uma grave doença, começa a juntar o dinheiro para deixar para sua família quando ele partir.</desc>
@@ -2867,7 +2869,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150708011500 -0300" stop="20150708060000 -0300" channel="RHD" program_id="0000079020" event_id="000000103322785" series_key="">
+<programme start="20150715011500 -0300" stop="20150715060000 -0300" channel="RHD" program_id="0000079020" event_id="00000000000098164628" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -2885,7 +2887,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708060000 -0300" stop="20150708072800 -0300" channel="RHD" program_id="0000102196" event_id="000000103322786" series_key="00000000066243000000">
+<programme start="20150715060000 -0300" stop="20150715072800 -0300" channel="RHD" program_id="0000102196" event_id="00000000000098164629" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2903,7 +2905,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708072800 -0300" stop="20150708085500 -0300" channel="RHD" program_id="0000072913" event_id="000000103322788" series_key="00000000066244000000">
+<programme start="20150715072800 -0300" stop="20150715085500 -0300" channel="RHD" program_id="0000072913" event_id="00000000000098164630" series_key="00000000066244000000">
 <title lang="pt">São Paulo no Ar</title>
 <desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2921,7 +2923,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708085500 -0300" stop="20150708100000 -0300" channel="RHD" program_id="0000015945" event_id="000000103322789" series_key="00000000066238000000">
+<programme start="20150715085500 -0300" stop="20150715100000 -0300" channel="RHD" program_id="0000015945" event_id="00000000000098164631" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2939,7 +2941,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708100000 -0300" stop="20150708120000 -0300" channel="RHD" program_id="0000094577" event_id="000000103322790" series_key="00000000066226000000">
+<programme start="20150715100000 -0300" stop="20150715120000 -0300" channel="RHD" program_id="0000094577" event_id="00000000000098164632" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2957,7 +2959,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708120000 -0300" stop="20150708144000 -0300" channel="RHD" program_id="0000102196" event_id="000000103322791" series_key="00000000066243000000">
+<programme start="20150715120000 -0300" stop="20150715144000 -0300" channel="RHD" program_id="0000102196" event_id="00000000000098164633" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2975,7 +2977,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708144000 -0300" stop="20150708170000 -0300" channel="RHD" program_id="0000119084" event_id="000000103322793" series_key="00000000071807000000">
+<programme start="20150715144000 -0300" stop="20150715170000 -0300" channel="RHD" program_id="0000119084" event_id="00000000000098164634" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -2993,7 +2995,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150708170000 -0300" stop="20150708203000 -0300" channel="RHD" program_id="0000015967" event_id="000000103322794" series_key="00000000069485000000">
+<programme start="20150715170000 -0300" stop="20150715203000 -0300" channel="RHD" program_id="0000015967" event_id="00000000000098164635" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3011,7 +3013,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708203000 -0300" stop="20150708213000 -0300" channel="RHD" program_id="0000430159" event_id="000000103322796" series_key="00000000076587000000">
+<programme start="20150715203000 -0300" stop="20150715213000 -0300" channel="RHD" program_id="0000430159" event_id="00000000000098164636" series_key="00000000076587000000">
 <title lang="pt">Os Dez Mandamentos</title>
 <desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
 <credits>
@@ -3042,7 +3044,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150708213000 -0300" stop="20150708220000 -0300" channel="RHD" program_id="0000015966" event_id="000000103322797" series_key="00000000066234000000">
+<programme start="20150715213000 -0300" stop="20150715220000 -0300" channel="RHD" program_id="0000015966" event_id="00000000000098164637" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3060,7 +3062,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708220000 -0300" stop="20150709001500 -0300" channel="RHD" program_id="0000184059" event_id="000000103322799" series_key="">
+<programme start="20150715220000 -0300" stop="20150716001500 -0300" channel="RHD" program_id="0000184059" event_id="00000000000098164638" series_key="">
 <title lang="pt">Gugu</title>
 <title lang="en">Programa do Gugu</title>
 <desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
@@ -3083,7 +3085,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709001500 -0300" stop="20150709011500 -0300" channel="RHD" program_id="0000134042" event_id="000000103322800" series_key="00000000066236000000">
+<programme start="20150716001500 -0300" stop="20150716011500 -0300" channel="RHD" program_id="0000134042" event_id="00000000000098164639" series_key="00000000066236000000">
 <title lang="pt">Câmera Record</title>
 <desc>Explore as belezas e as curiosidades da Tailândia. Um lugar de paisagens exuberantes, comidas exóticas e inúmeras curiosidades, inclusive um mercado flutuante.</desc>
 <credits>
@@ -3104,7 +3106,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150709011500 -0300" stop="20150709060000 -0300" channel="RHD" program_id="0000079020" event_id="000000103322802" series_key="">
+<programme start="20150716011500 -0300" stop="20150716060000 -0300" channel="RHD" program_id="0000079020" event_id="00000000000098164640" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -3122,7 +3124,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709060000 -0300" stop="20150709072800 -0300" channel="RHD" program_id="0000102196" event_id="000000103322804" series_key="00000000066243000000">
+<programme start="20150716060000 -0300" stop="20150716072800 -0300" channel="RHD" program_id="0000102196" event_id="00000000000098164641" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3140,7 +3142,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709072800 -0300" stop="20150709085500 -0300" channel="RHD" program_id="0000072913" event_id="000000103322805" series_key="00000000066244000000">
+<programme start="20150716072800 -0300" stop="20150716085500 -0300" channel="RHD" program_id="0000072913" event_id="00000000000098164642" series_key="00000000066244000000">
 <title lang="pt">São Paulo no Ar</title>
 <desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3158,7 +3160,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709085500 -0300" stop="20150709100000 -0300" channel="RHD" program_id="0000015945" event_id="000000103322806" series_key="00000000066238000000">
+<programme start="20150716085500 -0300" stop="20150716100000 -0300" channel="RHD" program_id="0000015945" event_id="00000000000098164643" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3176,7 +3178,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709100000 -0300" stop="20150709120000 -0300" channel="RHD" program_id="0000094577" event_id="000000103322807" series_key="00000000066226000000">
+<programme start="20150716100000 -0300" stop="20150716120000 -0300" channel="RHD" program_id="0000094577" event_id="00000000000098164644" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3194,7 +3196,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709120000 -0300" stop="20150709144000 -0300" channel="RHD" program_id="0000102196" event_id="000000103322809" series_key="00000000066243000000">
+<programme start="20150716120000 -0300" stop="20150716144000 -0300" channel="RHD" program_id="0000102196" event_id="00000000000098164645" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3212,7 +3214,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709144000 -0300" stop="20150709170000 -0300" channel="RHD" program_id="0000119084" event_id="000000103322811" series_key="00000000071807000000">
+<programme start="20150716144000 -0300" stop="20150716170000 -0300" channel="RHD" program_id="0000119084" event_id="00000000000098164646" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -3230,7 +3232,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150709170000 -0300" stop="20150709203000 -0300" channel="RHD" program_id="0000015967" event_id="000000103322812" series_key="00000000069485000000">
+<programme start="20150716170000 -0300" stop="20150716203000 -0300" channel="RHD" program_id="0000015967" event_id="00000000000098164647" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3248,7 +3250,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709203000 -0300" stop="20150709204000 -0300" channel="RHD" program_id="0000255383" event_id="000000103322813" series_key="">
+<programme start="20150716203000 -0300" stop="20150716204000 -0300" channel="RHD" program_id="0000255383" event_id="00000000000098164648" series_key="">
 <title lang="pt">Propaganda Partidária</title>
 <desc>Programa Político.</desc>
 <category lang="pt">Variedades</category>
@@ -3265,7 +3267,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709204000 -0300" stop="20150709213000 -0300" channel="RHD" program_id="0000430159" event_id="000000103322814" series_key="00000000076587000000">
+<programme start="20150716204000 -0300" stop="20150716213000 -0300" channel="RHD" program_id="0000430159" event_id="00000000000098164649" series_key="00000000076587000000">
 <title lang="pt">Os Dez Mandamentos</title>
 <desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
 <credits>
@@ -3296,7 +3298,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150709213000 -0300" stop="20150709223000 -0300" channel="RHD" program_id="0000015966" event_id="000000103322816" series_key="00000000066234000000">
+<programme start="20150716213000 -0300" stop="20150716223000 -0300" channel="RHD" program_id="0000015966" event_id="00000000000098164650" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3314,7 +3316,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709223000 -0300" stop="20150710001500 -0300" channel="RHD" program_id="0000184059" event_id="000000103322818" series_key="">
+<programme start="20150716223000 -0300" stop="20150717001500 -0300" channel="RHD" program_id="0000184059" event_id="00000000000098164651" series_key="">
 <title lang="pt">Gugu</title>
 <title lang="en">Programa do Gugu</title>
 <desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
@@ -3337,7 +3339,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710001500 -0300" stop="20150710011500 -0300" channel="RHD" program_id="0000410414" event_id="000000103322819" series_key="00000000061897000000">
+<programme start="20150717001500 -0300" stop="20150717011500 -0300" channel="RHD" program_id="0000410414" event_id="00000000000098164652" series_key="00000000061897000000">
 <title lang="pt">C.S.I.</title>
 <title lang="en">C.S.I.</title>
 <desc>C.S.I retrata o difícil cotidiano de um grupo de investigadores judiciais da cidade de Las Vegas, que resolve casos em que a polícia fracassou, analisando os locais onde foram cometidos os crimes.</desc>
@@ -3370,7 +3372,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150710011500 -0300" stop="20150710060000 -0300" channel="RHD" program_id="0000079020" event_id="000000103322820" series_key="">
+<programme start="20150717011500 -0300" stop="20150717060000 -0300" channel="RHD" program_id="0000079020" event_id="00000000000098164653" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -3388,7 +3390,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710060000 -0300" stop="20150710072800 -0300" channel="RHD" program_id="0000102196" event_id="000000103322822" series_key="00000000066243000000">
+<programme start="20150717060000 -0300" stop="20150717072800 -0300" channel="RHD" program_id="0000102196" event_id="00000000000098164654" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3406,7 +3408,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710072800 -0300" stop="20150710085500 -0300" channel="RHD" program_id="0000072913" event_id="000000103322823" series_key="00000000066244000000">
+<programme start="20150717072800 -0300" stop="20150717085500 -0300" channel="RHD" program_id="0000072913" event_id="00000000000098164655" series_key="00000000066244000000">
 <title lang="pt">São Paulo no Ar</title>
 <desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3424,7 +3426,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710085500 -0300" stop="20150710100000 -0300" channel="RHD" program_id="0000015945" event_id="000000103322825" series_key="00000000066238000000">
+<programme start="20150717085500 -0300" stop="20150717100000 -0300" channel="RHD" program_id="0000015945" event_id="00000000000098164656" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3442,7 +3444,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710100000 -0300" stop="20150710120000 -0300" channel="RHD" program_id="0000094577" event_id="000000103322826" series_key="00000000066226000000">
+<programme start="20150717100000 -0300" stop="20150717120000 -0300" channel="RHD" program_id="0000094577" event_id="00000000000098164657" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3460,7 +3462,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710120000 -0300" stop="20150710144000 -0300" channel="RHD" program_id="0000102196" event_id="000000103322828" series_key="00000000066243000000">
+<programme start="20150717120000 -0300" stop="20150717144000 -0300" channel="RHD" program_id="0000102196" event_id="00000000000098164658" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3478,7 +3480,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710144000 -0300" stop="20150710170000 -0300" channel="RHD" program_id="0000119084" event_id="000000103322829" series_key="00000000071807000000">
+<programme start="20150717144000 -0300" stop="20150717170000 -0300" channel="RHD" program_id="0000119084" event_id="00000000000098164659" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -3496,7 +3498,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150710170000 -0300" stop="20150710203000 -0300" channel="RHD" program_id="0000015967" event_id="000000103322830" series_key="00000000069485000000">
+<programme start="20150717170000 -0300" stop="20150717203000 -0300" channel="RHD" program_id="0000015967" event_id="00000000000098164660" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3514,7 +3516,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710203000 -0300" stop="20150710213000 -0300" channel="RHD" program_id="0000430159" event_id="000000103322831" series_key="00000000076587000000">
+<programme start="20150717203000 -0300" stop="20150717213000 -0300" channel="RHD" program_id="0000430159" event_id="00000000000098164661" series_key="00000000076587000000">
 <title lang="pt">Os Dez Mandamentos</title>
 <desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
 <credits>
@@ -3545,7 +3547,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150710213000 -0300" stop="20150710223000 -0300" channel="RHD" program_id="0000015966" event_id="000000103322832" series_key="00000000066234000000">
+<programme start="20150717213000 -0300" stop="20150717223000 -0300" channel="RHD" program_id="0000015966" event_id="00000000000098164662" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3563,7 +3565,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710223000 -0300" stop="20150711011500 -0300" channel="RHD" program_id="0000015989" event_id="000000103322833" series_key="">
+<programme start="20150717223000 -0300" stop="20150718011500 -0300" channel="RHD" program_id="0000015989" event_id="00000000000098164663" series_key="">
 <title lang="pt">Super Tela</title>
 <title lang="en">Super Tela</title>
 <desc>Aqui você vai assistir comédia, ação, suspense e muito mais!</desc>
@@ -3582,7 +3584,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150711011500 -0300" stop="20150711063000 -0300" channel="RHD" program_id="0000079020" event_id="000000103322834" series_key="">
+<programme start="20150718011500 -0300" stop="20150718063000 -0300" channel="RHD" program_id="0000079020" event_id="00000000000098164664" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -3600,7 +3602,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711063000 -0300" stop="20150711070000 -0300" channel="RHD" program_id="0000235480" event_id="000000103322835" series_key="00000000073676000000">
+<programme start="20150718063000 -0300" stop="20150718070000 -0300" channel="RHD" program_id="0000235480" event_id="00000000000098164665" series_key="00000000073676000000">
 <title lang="pt">Nosso Tempo</title>
 <desc>Um programa da Igreja Universal do Reino de Deus. O Bispo Rogério leva uma palavra de fé e esperança a todos os internautas.</desc>
 <category lang="pt">Variedades</category>
@@ -3618,7 +3620,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711070000 -0300" stop="20150711101500 -0300" channel="RHD" program_id="0000291670" event_id="000000103322838" series_key="00000000066238000000">
+<programme start="20150718070000 -0300" stop="20150718101500 -0300" channel="RHD" program_id="0000291670" event_id="00000000000098164666" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil Especial</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3636,7 +3638,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711101500 -0300" stop="20150711120000 -0300" channel="RHD" program_id="0000179573" event_id="000000103322839" series_key="00000000072203000000">
+<programme start="20150718101500 -0300" stop="20150718120000 -0300" channel="RHD" program_id="0000179573" event_id="00000000000098164667" series_key="00000000072203000000">
 <title lang="pt">Esporte Fantástico</title>
 <desc>Rodrigo Faro aceita desafio de David Luiz e toma um banho de água fria: "Missão dada é missão cumprida".</desc>
 <category lang="pt">Jornalismo</category>
@@ -3654,7 +3656,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150711120000 -0300" stop="20150711130000 -0300" channel="RHD" program_id="0000258837" event_id="000000103322840" series_key="00000000073664000000">
+<programme start="20150718120000 -0300" stop="20150718130000 -0300" channel="RHD" program_id="0000258837" event_id="00000000000098164668" series_key="00000000073664000000">
 <title lang="pt">The Love School</title>
 <desc>Um dos grandes diferenciais é a interatividade dos apresentadores com o público, através do e-mail, facebook, twitter e até mesmo exibindo vídeos-pergunta, enviadas pelos telespectadores.</desc>
 <category lang="pt">Variedades</category>
@@ -3672,7 +3674,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150711130000 -0300" stop="20150711141500 -0300" channel="RHD" program_id="0000112751" event_id="000000103322841" series_key="00000000051563000000">
+<programme start="20150718130000 -0300" stop="20150718141500 -0300" channel="RHD" program_id="0000112751" event_id="00000000000098164669" series_key="00000000051563000000">
 <title lang="pt">Todo Mundo Odeia o Chris</title>
 <title lang="en">Everybody Hates Chris</title>
 <desc>Chris Rock narra com muito bom humor suas experiências durante a adolescência como o mais velho de três irmãos, em histórias hilariantes, inteligentes e sarcásticas, como a própria personalidade do comediante.</desc>
@@ -3707,7 +3709,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150711141500 -0300" stop="20150711151500 -0300" channel="RHD" program_id="0000291669" event_id="000000103322843" series_key="00000000073666000000">
+<programme start="20150718141500 -0300" stop="20150718151500 -0300" channel="RHD" program_id="0000291669" event_id="00000000000098164670" series_key="00000000073666000000">
 <title lang="pt">Record Kids - Pica Pau</title>
 <desc>As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca!</desc>
 <category lang="pt">Infantil</category>
@@ -3725,7 +3727,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711151500 -0300" stop="20150711172000 -0300" channel="RHD" program_id="0000060694" event_id="000000103322844" series_key="">
+<programme start="20150718151500 -0300" stop="20150718172000 -0300" channel="RHD" program_id="0000060694" event_id="00000000000098164671" series_key="">
 <title lang="pt">Cine Aventura</title>
 <desc>Aqui você vai assistir comédia, ação, suspense e muito mais!</desc>
 <category lang="pt">Variedades</category>
@@ -3739,7 +3741,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711172000 -0300" stop="20150711194500 -0300" channel="RHD" program_id="0000349954" event_id="000000103322845" series_key="00000000072204000000">
+<programme start="20150718172000 -0300" stop="20150718194500 -0300" channel="RHD" program_id="0000349954" event_id="00000000000098164672" series_key="00000000072204000000">
 <title lang="pt">Cidade Alerta Especial</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3757,7 +3759,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711194500 -0300" stop="20150711203000 -0300" channel="RHD" program_id="0000352611" event_id="000000103322846" series_key="00000000072205000000">
+<programme start="20150718194500 -0300" stop="20150718203000 -0300" channel="RHD" program_id="0000352611" event_id="00000000000098164673" series_key="00000000072205000000">
 <title lang="pt">Jornal da Record Especial</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3775,7 +3777,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711203000 -0300" stop="20150711230000 -0300" channel="RHD" program_id="0000379634" event_id="000000103322847" series_key="00000000073462000000">
+<programme start="20150718203000 -0300" stop="20150718230000 -0300" channel="RHD" program_id="0000379634" event_id="00000000000098164674" series_key="00000000073462000000">
 <title lang="pt">Programa da Sabrina</title>
 <desc>Sabrina receberá convidados para entrevistas, assim como bandas que vão agitar a platéia. Também trará reportagens pra lá de interessantes, entrevistas exclusivas e muito mais.</desc>
 <date>2014</date>
@@ -3794,7 +3796,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150711230000 -0300" stop="20150712011500 -0300" channel="RHD" program_id="0000201830" event_id="000000103322848" series_key="00000000073667000000">
+<programme start="20150718230000 -0300" stop="20150719011500 -0300" channel="RHD" program_id="0000201830" event_id="00000000000098164675" series_key="00000000073667000000">
 <title lang="pt">Legendários</title>
 <desc>Apresentada e dirigida por Marcos Mion, a atração promete entreter, informar e alegrar o telespectador com tudo o que existe de mais criativo na televisão.</desc>
 <category lang="pt">Variedades</category>
@@ -3812,7 +3814,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150712011500 -0300" stop="20150712060000 -0300" channel="RHD" program_id="0000079020" event_id="000000103322849" series_key="">
+<programme start="20150719011500 -0300" stop="20150719060000 -0300" channel="RHD" program_id="0000079020" event_id="000000104787499" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -3830,7 +3832,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712060000 -0300" stop="20150712063000 -0300" channel="RHD" program_id="0000015977" event_id="000000103322850" series_key="00000000073677000000">
+<programme start="20150719060000 -0300" stop="20150719063000 -0300" channel="RHD" program_id="0000015977" event_id="000000104787501" series_key="00000000073677000000">
 <title lang="pt">Santo Culto em seu Lar</title>
 <title lang="en">Santo Culto em seu Lar</title>
 <desc>Pregações abordando um tema específico, discutindo sempre em base de texto bíblico.</desc>
@@ -3849,7 +3851,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150712063000 -0300" stop="20150712080000 -0300" channel="RHD" program_id="0000098194" event_id="000000103322852" series_key="00000000073678000000">
+<programme start="20150719063000 -0300" stop="20150719080000 -0300" channel="RHD" program_id="0000098194" event_id="000000104787502" series_key="00000000073678000000">
 <title lang="pt">Desenhos Bíblicos</title>
 <title lang="en">Desenhos Bíblicos</title>
 <desc>Animações das histórias bíblicas.</desc>
@@ -3865,7 +3867,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712080000 -0300" stop="20150712090000 -0300" channel="RHD" program_id="0000442940" event_id="000000103322853" series_key="">
+<programme start="20150719080000 -0300" stop="20150719090000 -0300" channel="RHD" program_id="0000442940" event_id="000000104787503" series_key="">
 <title lang="pt">Programa do Templo</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3882,7 +3884,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712090000 -0300" stop="20150712110000 -0300" channel="RHD" program_id="0000291669" event_id="000000103322854" series_key="00000000073666000000">
+<programme start="20150719090000 -0300" stop="20150719110000 -0300" channel="RHD" program_id="0000291669" event_id="000000104787504" series_key="00000000073666000000">
 <title lang="pt">Record Kids - Pica Pau</title>
 <desc>As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca!</desc>
 <category lang="pt">Infantil</category>
@@ -3900,7 +3902,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712110000 -0300" stop="20150712153000 -0300" channel="RHD" program_id="0000017914" event_id="000000103322856" series_key="00000000072949000000">
+<programme start="20150719110000 -0300" stop="20150719153000 -0300" channel="RHD" program_id="0000017914" event_id="000000104787505" series_key="00000000072949000000">
 <title lang="pt">Domingo Show</title>
 <desc>Geraldo e sua equipe estarão a postos para noticiar, ao vivo, qualquer evento que esteja acontecendo, conferindo agilidade ao Domingo Show.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3918,7 +3920,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712153000 -0300" stop="20150712193000 -0300" channel="RHD" program_id="0000379635" event_id="000000103322857" series_key="00000000073463000000">
+<programme start="20150719153000 -0300" stop="20150719193000 -0300" channel="RHD" program_id="0000379635" event_id="000000104787507" series_key="00000000073463000000">
 <title lang="pt">Hora do Faro</title>
 <desc>O mesmo Rodrigo Faro talentoso, irreverente e divertido de sempre em um programa totalmente novo! Hora do Faro vai agitar as tardes de domingo com a alegria e a emoção já conhecidas do público de casa.</desc>
 <date>2014</date>
@@ -3937,7 +3939,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150712193000 -0300" stop="20150712231500 -0300" channel="RHD" program_id="0000074950" event_id="000000103322858" series_key="00000000072208000000">
+<programme start="20150719193000 -0300" stop="20150719231500 -0300" channel="RHD" program_id="0000074950" event_id="000000104787508" series_key="00000000072208000000">
 <title lang="pt">Domingo Espetacular</title>
 <title lang="en">Domingo Espetacular</title>
 <desc>Um jornalismo ágil e moderno, com reportagens de denúncia, comportamento, ciência, turismo, medicina e aventura, além de um panorama geral dos fatos que marcaram a semana.</desc>
@@ -3956,7 +3958,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712231500 -0300" stop="20150713001500 -0300" channel="RHD" program_id="0000420250" event_id="000000103322859" series_key="00000000076191000000">
+<programme start="20150719231500 -0300" stop="20150720001500 -0300" channel="RHD" program_id="0000420250" event_id="000000104787509" series_key="00000000076191000000">
 <title lang="pt">Repórter em Ação</title>
 <desc>Estreia do Repórter em Ação mostra expedição para desbravar os mistérios da Amazônia.</desc>
 <credits>
@@ -3978,7 +3980,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713001500 -0300" stop="20150713011500 -0300" channel="RHD" program_id="0000271995" event_id="000000103322860" series_key="00000000072212000000">
+<programme start="20150720001500 -0300" stop="20150720011500 -0300" channel="RHD" program_id="0000271995" event_id="000000104787511" series_key="00000000072212000000">
 <title lang="pt">Roberto Justus +</title>
 <desc>Justus receber César Filho, o novo contratado da Record, Zilu e Angel K no talk show da Record.</desc>
 <date>2015</date>
@@ -3997,7 +3999,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150713011500 -0300" stop="20150713060000 -0300" channel="RHD" program_id="0000079020" event_id="000000103322861" series_key="">
+<programme start="20150720011500 -0300" stop="20150720060000 -0300" channel="RHD" program_id="0000079020" event_id="000000104787513" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -4015,7 +4017,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713060000 -0300" stop="20150713072800 -0300" channel="RHD" program_id="0000102196" event_id="000000103322862" series_key="00000000066243000000">
+<programme start="20150720060000 -0300" stop="20150720072800 -0300" channel="RHD" program_id="0000102196" event_id="000000104787514" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4033,7 +4035,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713072800 -0300" stop="20150713085500 -0300" channel="RHD" program_id="0000072913" event_id="000000103322863" series_key="00000000066244000000">
+<programme start="20150720072800 -0300" stop="20150720085500 -0300" channel="RHD" program_id="0000072913" event_id="000000104787515" series_key="00000000066244000000">
 <title lang="pt">São Paulo no Ar</title>
 <desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4051,7 +4053,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713085500 -0300" stop="20150713100000 -0300" channel="RHD" program_id="0000015945" event_id="000000103322864" series_key="00000000066238000000">
+<programme start="20150720085500 -0300" stop="20150720100000 -0300" channel="RHD" program_id="0000015945" event_id="000000104787516" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4069,7 +4071,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713100000 -0300" stop="20150713120000 -0300" channel="RHD" program_id="0000094577" event_id="000000103322865" series_key="00000000066226000000">
+<programme start="20150720100000 -0300" stop="20150720120000 -0300" channel="RHD" program_id="0000094577" event_id="000000104787518" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4087,7 +4089,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713120000 -0300" stop="20150713144000 -0300" channel="RHD" program_id="0000102196" event_id="000000103322867" series_key="00000000066243000000">
+<programme start="20150720120000 -0300" stop="20150720144000 -0300" channel="RHD" program_id="0000102196" event_id="000000104787519" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4105,7 +4107,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713144000 -0300" stop="20150713170000 -0300" channel="RHD" program_id="0000119084" event_id="000000103322869" series_key="00000000071807000000">
+<programme start="20150720144000 -0300" stop="20150720170000 -0300" channel="RHD" program_id="0000119084" event_id="000000104787520" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -4123,7 +4125,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150713170000 -0300" stop="20150713203000 -0300" channel="RHD" program_id="0000015967" event_id="000000103322870" series_key="00000000069485000000">
+<programme start="20150720170000 -0300" stop="20150720203000 -0300" channel="RHD" program_id="0000015967" event_id="000000104787522" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4141,7 +4143,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713203000 -0300" stop="20150713213000 -0300" channel="RHD" program_id="0000430159" event_id="000000103322871" series_key="00000000076587000000">
+<programme start="20150720203000 -0300" stop="20150720213000 -0300" channel="RHD" program_id="0000430159" event_id="000000104787523" series_key="00000000076587000000">
 <title lang="pt">Os Dez Mandamentos</title>
 <desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
 <credits>
@@ -4172,7 +4174,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150713213000 -0300" stop="20150713223000 -0300" channel="RHD" program_id="0000015966" event_id="000000103322872" series_key="00000000066234000000">
+<programme start="20150720213000 -0300" stop="20150720223000 -0300" channel="RHD" program_id="0000015966" event_id="000000104787525" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4190,7 +4192,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713223000 -0300" stop="20150713233000 -0300" channel="RHD" program_id="0000380369" event_id="000000103322874" series_key="00000000073493000000">
+<programme start="20150720223000 -0300" stop="20150720233000 -0300" channel="RHD" program_id="0000380369" event_id="000000104787526" series_key="00000000073493000000">
 <title lang="pt">Repórter Record Investigação</title>
 <desc>O Repórter Record Investigação, exibe reportagem especial com imagens e depoimentos exclusivos sobre a trajetória dos dois brasileiros condenados à morte, por fuzilamento, na Indonésia.</desc>
 <date>2014</date>
@@ -4209,7 +4211,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150713233000 -0300" stop="20150714003000 -0300" channel="RHD" program_id="0000445131" event_id="000000103322875" series_key="00000000077112000000">
+<programme start="20150720233000 -0300" stop="20150721003000 -0300" channel="RHD" program_id="0000445131" event_id="000000104787528" series_key="00000000077112000000">
 <title lang="pt">Na Mira do Crime</title>
 <desc></desc>
 <category lang="pt">Séries</category>
@@ -4226,7 +4228,7 @@
 <value>Programa impróprio para menores de 16 anos</value>
 </rating>
 </programme>
-<programme start="20150714003000 -0300" stop="20150714011500 -0300" channel="RHD" program_id="0000375477" event_id="000000103322876" series_key="00000000065728000000">
+<programme start="20150721003000 -0300" stop="20150721011500 -0300" channel="RHD" program_id="0000375477" event_id="000000104787529" series_key="00000000065728000000">
 <title lang="pt">Grimm - Contos de Terror</title>
 <title lang="en">Grimm</title>
 <desc>Esse drama policial incorpora as histórias dos contos de fadas dos irmãos Grimm. Um policial chamado Nick começa a ver humanos como animais e quer proteger a sociedade deles.</desc>
@@ -4258,7 +4260,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150714011500 -0300" stop="20150714060000 -0300" channel="RHD" program_id="0000079020" event_id="000000103322877" series_key="">
+<programme start="20150721011500 -0300" stop="20150721060000 -0300" channel="RHD" program_id="0000079020" event_id="000000104787531" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -4276,7 +4278,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714060000 -0300" stop="20150714072800 -0300" channel="RHD" program_id="0000102196" event_id="000000103322878" series_key="00000000066243000000">
+<programme start="20150721060000 -0300" stop="20150721072800 -0300" channel="RHD" program_id="0000102196" event_id="000000104787532" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4294,7 +4296,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714072800 -0300" stop="20150714085500 -0300" channel="RHD" program_id="0000072913" event_id="000000103322881" series_key="00000000066244000000">
+<programme start="20150721072800 -0300" stop="20150721085500 -0300" channel="RHD" program_id="0000072913" event_id="000000104787534" series_key="00000000066244000000">
 <title lang="pt">São Paulo no Ar</title>
 <desc>O São Paulo no Ar presta serviço para quem está se preparando para sair de casa. A equipe de motolinks chega antes e mostra de perto os fatos que marcam a manhã da capital paulista.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4312,7 +4314,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714085500 -0300" stop="20150714100000 -0300" channel="RHD" program_id="0000015945" event_id="000000103322882" series_key="00000000066238000000">
+<programme start="20150721085500 -0300" stop="20150721100000 -0300" channel="RHD" program_id="0000015945" event_id="000000104787535" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4330,7 +4332,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714100000 -0300" stop="20150714120000 -0300" channel="RHD" program_id="0000094577" event_id="000000103322883" series_key="00000000066226000000">
+<programme start="20150721100000 -0300" stop="20150721120000 -0300" channel="RHD" program_id="0000094577" event_id="000000104787536" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4348,7 +4350,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714120000 -0300" stop="20150714144000 -0300" channel="RHD" program_id="0000102196" event_id="000000103322884" series_key="00000000066243000000">
+<programme start="20150721120000 -0300" stop="20150721144000 -0300" channel="RHD" program_id="0000102196" event_id="000000104787538" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4366,7 +4368,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714144000 -0300" stop="20150714170000 -0300" channel="RHD" program_id="0000119084" event_id="000000103322886" series_key="00000000071807000000">
+<programme start="20150721144000 -0300" stop="20150721170000 -0300" channel="RHD" program_id="0000119084" event_id="000000104787540" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -4384,7 +4386,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150714170000 -0300" stop="20150714203000 -0300" channel="RHD" program_id="0000015967" event_id="000000103322887" series_key="00000000069485000000">
+<programme start="20150721170000 -0300" stop="20150721203000 -0300" channel="RHD" program_id="0000015967" event_id="000000104787541" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4402,7 +4404,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714203000 -0300" stop="20150714213000 -0300" channel="RHD" program_id="0000430159" event_id="000000103322888" series_key="00000000076587000000">
+<programme start="20150721203000 -0300" stop="20150721213000 -0300" channel="RHD" program_id="0000430159" event_id="000000104787542" series_key="00000000076587000000">
 <title lang="pt">Os Dez Mandamentos</title>
 <desc>Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho.</desc>
 <credits>
@@ -4433,7 +4435,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150714213000 -0300" stop="20150714223000 -0300" channel="RHD" program_id="0000015966" event_id="000000103322889" series_key="00000000066234000000">
+<programme start="20150721213000 -0300" stop="20150721223000 -0300" channel="RHD" program_id="0000015966" event_id="000000104787545" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4451,7 +4453,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714223000 -0300" stop="20150715001500 -0300" channel="RHD" program_id="0000184059" event_id="000000103322890" series_key="">
+<programme start="20150721223000 -0300" stop="20150722001500 -0300" channel="RHD" program_id="0000184059" event_id="000000104787546" series_key="">
 <title lang="pt">Gugu</title>
 <title lang="en">Programa do Gugu</title>
 <desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>

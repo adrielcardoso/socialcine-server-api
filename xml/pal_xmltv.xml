@@ -4,1932 +4,6 @@
 <display-name lang="pt">Tv Pampa - Rede Tv - Pelotas</display-name>
 <icon src="pal.gif" />
 </channel>
-<programme start="20150626001000 -0300" stop="20150626030000 -0300" channel="PAL" program_id="0000131024" event_id="00000000000098688976" series_key="00000000070972000000">
-<title lang="pt">Studio Pampa</title>
-<desc>As madrugadas dos gaúchos são bem mais animadas com o Studio Pampa, um programa divertido, com muita música, brincadeiras e bom humor.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000070972.jpg</image_name>
-<image_broadcast>00000000070972</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150626030000 -0300" stop="20150626083000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000098688978" series_key="">
-<title lang="pt">Programa Religioso</title>
-<desc>Programação religiosa diária.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000004369.jpg</image_name>
-<image_broadcast>0000004369</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150626083000 -0300" stop="20150626093000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000098688980" series_key="00000000070838000000">
-<title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150626093000 -0300" stop="20150626120000 -0300" channel="PAL" program_id="0000440793" event_id="00000000000098688982" series_key="00000000076958000000">
-<title lang="pt">Melhor Pra Você</title>
-<desc>Levar informação, entretenimento, dicas de saúde, culinária e prestação de serviço, com pitadas de bom humor e descontração. Comandado por três grandes apresentadores Celso Zucatelli, Edu Guedes e Mariana Leão.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000076958.jpg</image_name>
-<image_broadcast>00000000076958</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150626120000 -0300" stop="20150626140000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000098688984" series_key="">
-<title lang="pt">Programa Religioso</title>
-<desc>Programação religiosa diária.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000004369.jpg</image_name>
-<image_broadcast>0000004369</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150626140000 -0300" stop="20150626150000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000098688986" series_key="00000000070838000000">
-<title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150626150000 -0300" stop="20150626170000 -0300" channel="PAL" program_id="0000105520" event_id="00000000000098688988" series_key="">
-<title lang="pt">A Tarde é Sua</title>
-<desc>Comandada pela experiente Sonia Abrão, traz num programa versátil muita informação, entrevistas, famosos e polêmicas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000105520.jpg</image_name>
-<image_broadcast>0000105520</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150626170000 -0300" stop="20150626173000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000098688990" series_key="00000000070838000000">
-<title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150626173000 -0300" stop="20150626175500 -0300" channel="PAL" program_id="0000344325" event_id="00000000000098688992" series_key="00000000072140000000">
-<title lang="pt">Você na TV</title>
-<desc>'Você na TV' é um show de variedades marcado pela interatividade. De forma bem humorada, leve e descontraída, o programa apresenta casos reais de pessoas que enfrentam conflitos de relacionamento e outras dificuldades cotidianas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000072140.jpg</image_name>
-<image_broadcast>00000000072140</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150626175500 -0300" stop="20150626185500 -0300" channel="PAL" program_id="0000286652" event_id="00000000000098688994" series_key="00000000070967000000">
-<title lang="pt">Pampa Debates</title>
-<desc>Políticos, empresários e personalidades debatem com Paulo Sérgio Pinto sobre os principais assuntos do dia a dia. No ar pela TV Pampa há quase duas décadas, o Pampa Debates é um programa consagrado pela sociedade gaúcha.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">00000000070967.jpg</image_name>
-<image_broadcast>00000000070967</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150626185500 -0300" stop="20150626190500 -0300" channel="PAL" program_id="0000174748" event_id="00000000000098688996" series_key="00000000070971000000">
-<title lang="pt">Jornal da Pampa</title>
-<desc>O Jornal da Pampa traz as notícias mais importantes do Estado e os principais fatos do dia comentados com imparcialidade e credibilidade.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000070971.jpg</image_name>
-<image_broadcast>00000000070971</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150626190500 -0300" stop="20150626194500 -0300" channel="PAL" program_id="0000434267" event_id="00000000000098688998" series_key="">
-<title lang="pt">Atualidades Pampa</title>
-<desc>Com o comando de Magda Beatriz, os comunicadores da TV Pampa debatem com muita descontração os fatos que marcaram o dia, trazendo informação e opinião na medida certa.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000434267.jpg</image_name>
-<image_broadcast>0000434267</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150626194500 -0300" stop="20150626202500 -0300" channel="PAL" program_id="0000028505" event_id="00000000000098689000" series_key="">
-<title lang="pt">TV Fama</title>
-<title lang="en">TV Fama</title>
-<desc>O programa traz notícias, atualidades, curiosidades do meio artístico e tudo o que rola nos bastidores. Irreverente e dinâmico, traz entrevistas, notícias dos artistas, estréias de filmes, peças, eventos, desfiles e lançamentos.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000028505.jpg</image_name>
-<image_broadcast>0000028505</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150626202500 -0300" stop="20150626203000 -0300" channel="PAL" program_id="0000267721" event_id="00000000000098689002" series_key="00000000071330000000">
-<title lang="pt">Momento da Sorte</title>
-<desc>Acompanhe ao vivo os sorteios das Loterias da Caixa, como Mega-Sena, Quina e Lotofácil, além de informações e novidades sobre os jogos e premiações.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000071330.jpg</image_name>
-<image_broadcast>00000000071330</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150626203000 -0300" stop="20150626213000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000098689004" series_key="">
-<title lang="pt">Programa Religioso</title>
-<desc>Programação religiosa diária.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000004369.jpg</image_name>
-<image_broadcast>0000004369</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150626213000 -0300" stop="20150626221500 -0300" channel="PAL" program_id="0000094292" event_id="00000000000098689006" series_key="">
-<title lang="pt">RedeTV! News</title>
-<title lang="en">RedeTV! News</title>
-<desc>Sob o comando de Amanda Klein e Augusto Xavier traz a cobertura dos fatos com credibilidade e imparcialidade.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000094292.jpg</image_name>
-<image_broadcast>0000094292</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150626221500 -0300" stop="20150626230000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000098689008" series_key="00000000070838000000">
-<title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150626230000 -0300" stop="20150627000000 -0300" channel="PAL" program_id="0000438177" event_id="00000000000098689010" series_key="">
-<title lang="pt">Mariana Godoy Entrevista</title>
-<desc>O programa receberá cada semana um convidado em evidência com o momento político, cultural e social do país, e mostrará ao público uma faceta pouco conhecida de seu entrevistado. Sem filtros e sem retoques.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Talk Show</category>
-<image>
-<image_name position="1">0000438177.jpg</image_name>
-<image_broadcast>0000438177</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150627000000 -0300" stop="20150627025000 -0300" channel="PAL" program_id="0000131024" event_id="00000000000098689012" series_key="00000000070972000000">
-<title lang="pt">Studio Pampa</title>
-<desc>As madrugadas dos gaúchos são bem mais animadas com o Studio Pampa, um programa divertido, com muita música, brincadeiras e bom humor.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000070972.jpg</image_name>
-<image_broadcast>00000000070972</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150627025000 -0300" stop="20150627030000 -0300" channel="PAL" program_id="0000393427" event_id="00000000000098689014" series_key="">
-<title lang="pt">Os Vídeos Mais Bombados na Internet</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000393427.jpg</image_name>
-<image_broadcast>0000393427</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150627030000 -0300" stop="20150627092500 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078567" series_key="">
-<title lang="pt">Programa Religioso</title>
-<desc>Programação religiosa diária.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000004369.jpg</image_name>
-<image_broadcast>0000004369</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150627092500 -0300" stop="20150627095000 -0300" channel="PAL" program_id="0000129008" event_id="00000000000099078568" series_key="00000000070969000000">
-<title lang="pt">Marcas e Veículos</title>
-<title lang="en">Marcas e Veículos</title>
-<desc>O fascinante mundo do automobilismo é mostrado de maneira descontraída no Marcas &amp; Veículos. A paixão por carros servindo de combustível para mostrar os mais recentes lançamentos do setor, feiras e salões mundiais.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000070969.jpg</image_name>
-<image_broadcast>00000000070969</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150627095000 -0300" stop="20150627114500 -0300" channel="PAL" program_id="0000347411" event_id="00000000000099078569" series_key="00000000070838000000">
-<title lang="pt">Te Peguei na TV</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150627114500 -0300" stop="20150627172500 -0300" channel="PAL" program_id="0000393427" event_id="00000000000099078570" series_key="">
-<title lang="pt">Os Vídeos Mais Bombados na Internet</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000393427.jpg</image_name>
-<image_broadcast>0000393427</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150627172500 -0300" stop="20150627203000 -0300" channel="PAL" program_id="0000344325" event_id="00000000000099078571" series_key="00000000072140000000">
-<title lang="pt">Você na TV</title>
-<desc>'Você na TV' é um show de variedades marcado pela interatividade. De forma bem humorada, leve e descontraída, o programa apresenta casos reais de pessoas que enfrentam conflitos de relacionamento e outras dificuldades cotidianas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000072140.jpg</image_name>
-<image_broadcast>00000000072140</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150627203000 -0300" stop="20150627213000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078572" series_key="">
-<title lang="pt">Programa Religioso</title>
-<desc>Programação religiosa diária.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000004369.jpg</image_name>
-<image_broadcast>0000004369</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150627213000 -0300" stop="20150627221500 -0300" channel="PAL" program_id="0000094292" event_id="00000000000099078573" series_key="">
-<title lang="pt">RedeTV! News</title>
-<title lang="en">RedeTV! News</title>
-<desc>Sob o comando de Amanda Klein e Augusto Xavier traz a cobertura dos fatos com credibilidade e imparcialidade.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000094292.jpg</image_name>
-<image_broadcast>0000094292</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150627221500 -0300" stop="20150627230000 -0300" channel="PAL" program_id="0000196835" event_id="00000000000099078574" series_key="">
-<title lang="pt">Operação de Risco</title>
-<desc>O programa mostra a ação das polícias militar, civil e técnico-cientifica do Estado de São Paulo.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Reality Show</category>
-<image>
-<image_name position="1">0000196835.jpg</image_name>
-<image_broadcast>0000196835</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150627230000 -0300" stop="20150628003000 -0300" channel="PAL" program_id="0000203503" event_id="00000000000099078575" series_key="">
-<title lang="pt">Mega Senha</title>
-<desc>Mega Senha, um supergame que dará até um milhão de reais para quem adivinhar mais senhas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Game Show</category>
-<image>
-<image_name position="1">0000203503.jpg</image_name>
-<image_broadcast>0000203503</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150628003000 -0300" stop="20150628013000 -0300" channel="PAL" program_id="0000370555" event_id="00000000000099078576" series_key="">
-<title lang="pt">XFC Internacional</title>
-<desc>O XFC (Xtreme Fighting Championships), maior onda do MMA nos Estados Unidos e você começa a conferir tudo na RedeTV!</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Luta</category>
-<image>
-<image_name position="1">0000370555.jpg</image_name>
-<image_broadcast>0000370555</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150628013000 -0300" stop="20150628023000 -0300" channel="PAL" program_id="0000438177" event_id="00000000000099078577" series_key="">
-<title lang="pt">Mariana Godoy Entrevista</title>
-<desc>O programa receberá cada semana um convidado em evidência com o momento político, cultural e social do país, e mostrará ao público uma faceta pouco conhecida de seu entrevistado. Sem filtros e sem retoques.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Talk Show</category>
-<image>
-<image_name position="1">0000438177.jpg</image_name>
-<image_broadcast>0000438177</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150628023000 -0300" stop="20150628030000 -0300" channel="PAL" program_id="0000393427" event_id="00000000000099078578" series_key="">
-<title lang="pt">Os Vídeos Mais Bombados na Internet</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000393427.jpg</image_name>
-<image_broadcast>0000393427</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150628030000 -0300" stop="20150628100000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078579" series_key="">
-<title lang="pt">Programa Religioso</title>
-<desc>Programação religiosa diária.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000004369.jpg</image_name>
-<image_broadcast>0000004369</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150628100000 -0300" stop="20150628103000 -0300" channel="PAL" program_id="0000437995" event_id="00000000000099078580" series_key="">
-<title lang="pt">Marlon Santos Na Tv</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">0000437995.jpg</image_name>
-<image_broadcast>0000437995</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150628103000 -0300" stop="20150628120000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078581" series_key="00000000070838000000">
-<title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150628120000 -0300" stop="20150628130000 -0300" channel="PAL" program_id="0000289800" event_id="00000000000099078582" series_key="">
-<title lang="pt">Tri Legal Tchê</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000289800.jpg</image_name>
-<image_broadcast>0000289800</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150628130000 -0300" stop="20150628180000 -0300" channel="PAL" program_id="0000393427" event_id="00000000000099078583" series_key="">
-<title lang="pt">Os Vídeos Mais Bombados na Internet</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000393427.jpg</image_name>
-<image_broadcast>0000393427</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150628180000 -0300" stop="20150628213000 -0300" channel="PAL" program_id="0000387516" event_id="00000000000099078584" series_key="">
-<title lang="pt">Encrenca</title>
-<desc>Tatola, Dennys, Ricardinho e Ângelo, juntos e sintonizados, agora no Encrenca, vão ter a divertida tarefa de comentar as notícias da semana com irreverência, alem de entrevistas, quadros e uma pitada de futebol.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">0000387516.jpg</image_name>
-<image_broadcast>0000387516</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150628213000 -0300" stop="20150628221500 -0300" channel="PAL" program_id="0000403469" event_id="00000000000099078585" series_key="00000000075241000000">
-<title lang="pt">Havaí 5.0</title>
-<desc>Uma equipe policial que tem carta branca da governadora do Havaí e pode fazer o que for preciso para capturar os maiores criminosos do estado.</desc>
-<credits>
-<director>Leonard Freeman</director>
-<director>Leonard Freeman</director>
-</credits>
-<category lang="pt">Séries</category>
-<category lang="pt">Policial</category>
-<image>
-<image_name position="1">00000000075241.jpg</image_name>
-<image_broadcast>00000000075241</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 14 anos</value>
-</rating>
-</programme>
-<programme start="20150628221500 -0300" stop="20150629001500 -0300" channel="PAL" program_id="0000347411" event_id="00000000000099078586" series_key="00000000070838000000">
-<title lang="pt">Te Peguei na TV</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150629001500 -0300" stop="20150629021500 -0300" channel="PAL" program_id="0000387516" event_id="00000000000099078587" series_key="">
-<title lang="pt">Encrenca</title>
-<desc>Tatola, Dennys, Ricardinho e Ângelo, juntos e sintonizados, agora no Encrenca, vão ter a divertida tarefa de comentar as notícias da semana com irreverência, alem de entrevistas, quadros e uma pitada de futebol.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">0000387516.jpg</image_name>
-<image_broadcast>0000387516</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150629021500 -0300" stop="20150629030000 -0300" channel="PAL" program_id="0000347411" event_id="00000000000099078588" series_key="00000000070838000000">
-<title lang="pt">Te Peguei na TV</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150629030000 -0300" stop="20150629083000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078589" series_key="">
-<title lang="pt">Programa Religioso</title>
-<desc>Programação religiosa diária.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000004369.jpg</image_name>
-<image_broadcast>0000004369</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150629083000 -0300" stop="20150629093000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078590" series_key="00000000070838000000">
-<title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150629093000 -0300" stop="20150629120000 -0300" channel="PAL" program_id="0000440793" event_id="00000000000099078591" series_key="00000000076958000000">
-<title lang="pt">Melhor Pra Você</title>
-<desc>Levar informação, entretenimento, dicas de saúde, culinária e prestação de serviço, com pitadas de bom humor e descontração. Comandado por três grandes apresentadores Celso Zucatelli, Edu Guedes e Mariana Leão.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000076958.jpg</image_name>
-<image_broadcast>00000000076958</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150629120000 -0300" stop="20150629140000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078592" series_key="">
-<title lang="pt">Programa Religioso</title>
-<desc>Programação religiosa diária.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000004369.jpg</image_name>
-<image_broadcast>0000004369</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150629140000 -0300" stop="20150629150000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078593" series_key="00000000070838000000">
-<title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150629150000 -0300" stop="20150629170000 -0300" channel="PAL" program_id="0000105520" event_id="00000000000099078594" series_key="">
-<title lang="pt">A Tarde é Sua</title>
-<desc>Comandada pela experiente Sonia Abrão, traz num programa versátil muita informação, entrevistas, famosos e polêmicas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000105520.jpg</image_name>
-<image_broadcast>0000105520</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150629170000 -0300" stop="20150629173000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078595" series_key="00000000070838000000">
-<title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150629173000 -0300" stop="20150629175500 -0300" channel="PAL" program_id="0000344325" event_id="00000000000099078596" series_key="00000000072140000000">
-<title lang="pt">Você na TV</title>
-<desc>'Você na TV' é um show de variedades marcado pela interatividade. De forma bem humorada, leve e descontraída, o programa apresenta casos reais de pessoas que enfrentam conflitos de relacionamento e outras dificuldades cotidianas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000072140.jpg</image_name>
-<image_broadcast>00000000072140</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150629175500 -0300" stop="20150629185500 -0300" channel="PAL" program_id="0000286652" event_id="00000000000099078597" series_key="00000000070967000000">
-<title lang="pt">Pampa Debates</title>
-<desc>Políticos, empresários e personalidades debatem com Paulo Sérgio Pinto sobre os principais assuntos do dia a dia. No ar pela TV Pampa há quase duas décadas, o Pampa Debates é um programa consagrado pela sociedade gaúcha.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">00000000070967.jpg</image_name>
-<image_broadcast>00000000070967</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150629185500 -0300" stop="20150629190500 -0300" channel="PAL" program_id="0000174748" event_id="00000000000099078598" series_key="00000000070971000000">
-<title lang="pt">Jornal da Pampa</title>
-<desc>O Jornal da Pampa traz as notícias mais importantes do Estado e os principais fatos do dia comentados com imparcialidade e credibilidade.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000070971.jpg</image_name>
-<image_broadcast>00000000070971</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150629190500 -0300" stop="20150629194500 -0300" channel="PAL" program_id="0000434267" event_id="00000000000099078599" series_key="">
-<title lang="pt">Atualidades Pampa</title>
-<desc>Com o comando de Magda Beatriz, os comunicadores da TV Pampa debatem com muita descontração os fatos que marcaram o dia, trazendo informação e opinião na medida certa.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000434267.jpg</image_name>
-<image_broadcast>0000434267</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150629194500 -0300" stop="20150629202500 -0300" channel="PAL" program_id="0000028505" event_id="00000000000099078600" series_key="">
-<title lang="pt">TV Fama</title>
-<title lang="en">TV Fama</title>
-<desc>O programa traz notícias, atualidades, curiosidades do meio artístico e tudo o que rola nos bastidores. Irreverente e dinâmico, traz entrevistas, notícias dos artistas, estréias de filmes, peças, eventos, desfiles e lançamentos.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000028505.jpg</image_name>
-<image_broadcast>0000028505</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150629202500 -0300" stop="20150629203000 -0300" channel="PAL" program_id="0000267721" event_id="00000000000099078601" series_key="00000000071330000000">
-<title lang="pt">Momento da Sorte</title>
-<desc>Acompanhe ao vivo os sorteios das Loterias da Caixa, como Mega-Sena, Quina e Lotofácil, além de informações e novidades sobre os jogos e premiações.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000071330.jpg</image_name>
-<image_broadcast>00000000071330</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150629203000 -0300" stop="20150629213000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078602" series_key="">
-<title lang="pt">Programa Religioso</title>
-<desc>Programação religiosa diária.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000004369.jpg</image_name>
-<image_broadcast>0000004369</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150629213000 -0300" stop="20150629223000 -0300" channel="PAL" program_id="0000094292" event_id="00000000000099078603" series_key="">
-<title lang="pt">RedeTV! News</title>
-<title lang="en">RedeTV! News</title>
-<desc>Sob o comando de Amanda Klein e Augusto Xavier traz a cobertura dos fatos com credibilidade e imparcialidade.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000094292.jpg</image_name>
-<image_broadcast>0000094292</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150629223000 -0300" stop="20150630001500 -0300" channel="PAL" program_id="0000016546" event_id="00000000000099078604" series_key="">
-<title lang="pt">SuperPop</title>
-<title lang="en">SuperPop</title>
-<desc>Apresentado pela belíssima Luciana Gimenez, o SuperPop é um programa cheio de bom humor, polêmica e curiosidades,trazendo a cada dia um assunto diferente que vai fazer você ficar grudado na televisão.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000016546.jpg</image_name>
-<image_broadcast>0000016546</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 14 anos</value>
-</rating>
-</programme>
-<programme start="20150630001500 -0300" stop="20150630030000 -0300" channel="PAL" program_id="0000131024" event_id="00000000000099078605" series_key="00000000070972000000">
-<title lang="pt">Studio Pampa</title>
-<desc>As madrugadas dos gaúchos são bem mais animadas com o Studio Pampa, um programa divertido, com muita música, brincadeiras e bom humor.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000070972.jpg</image_name>
-<image_broadcast>00000000070972</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150630030000 -0300" stop="20150630083000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078606" series_key="">
-<title lang="pt">Programa Religioso</title>
-<desc>Programação religiosa diária.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000004369.jpg</image_name>
-<image_broadcast>0000004369</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150630083000 -0300" stop="20150630093000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078607" series_key="00000000070838000000">
-<title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150630093000 -0300" stop="20150630120000 -0300" channel="PAL" program_id="0000440793" event_id="00000000000099078608" series_key="00000000076958000000">
-<title lang="pt">Melhor Pra Você</title>
-<desc>Levar informação, entretenimento, dicas de saúde, culinária e prestação de serviço, com pitadas de bom humor e descontração. Comandado por três grandes apresentadores Celso Zucatelli, Edu Guedes e Mariana Leão.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000076958.jpg</image_name>
-<image_broadcast>00000000076958</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150630120000 -0300" stop="20150630140000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078609" series_key="">
-<title lang="pt">Programa Religioso</title>
-<desc>Programação religiosa diária.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000004369.jpg</image_name>
-<image_broadcast>0000004369</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150630140000 -0300" stop="20150630150000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078610" series_key="00000000070838000000">
-<title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150630150000 -0300" stop="20150630170000 -0300" channel="PAL" program_id="0000105520" event_id="00000000000099078611" series_key="">
-<title lang="pt">A Tarde é Sua</title>
-<desc>Comandada pela experiente Sonia Abrão, traz num programa versátil muita informação, entrevistas, famosos e polêmicas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000105520.jpg</image_name>
-<image_broadcast>0000105520</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150630170000 -0300" stop="20150630173000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078612" series_key="00000000070838000000">
-<title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150630173000 -0300" stop="20150630175500 -0300" channel="PAL" program_id="0000344325" event_id="00000000000099078613" series_key="00000000072140000000">
-<title lang="pt">Você na TV</title>
-<desc>'Você na TV' é um show de variedades marcado pela interatividade. De forma bem humorada, leve e descontraída, o programa apresenta casos reais de pessoas que enfrentam conflitos de relacionamento e outras dificuldades cotidianas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000072140.jpg</image_name>
-<image_broadcast>00000000072140</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150630175500 -0300" stop="20150630185500 -0300" channel="PAL" program_id="0000286652" event_id="00000000000099078614" series_key="00000000070967000000">
-<title lang="pt">Pampa Debates</title>
-<desc>Políticos, empresários e personalidades debatem com Paulo Sérgio Pinto sobre os principais assuntos do dia a dia. No ar pela TV Pampa há quase duas décadas, o Pampa Debates é um programa consagrado pela sociedade gaúcha.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">00000000070967.jpg</image_name>
-<image_broadcast>00000000070967</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150630185500 -0300" stop="20150630190500 -0300" channel="PAL" program_id="0000174748" event_id="00000000000099078615" series_key="00000000070971000000">
-<title lang="pt">Jornal da Pampa</title>
-<desc>O Jornal da Pampa traz as notícias mais importantes do Estado e os principais fatos do dia comentados com imparcialidade e credibilidade.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000070971.jpg</image_name>
-<image_broadcast>00000000070971</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150630190500 -0300" stop="20150630194500 -0300" channel="PAL" program_id="0000434267" event_id="00000000000099078616" series_key="">
-<title lang="pt">Atualidades Pampa</title>
-<desc>Com o comando de Magda Beatriz, os comunicadores da TV Pampa debatem com muita descontração os fatos que marcaram o dia, trazendo informação e opinião na medida certa.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000434267.jpg</image_name>
-<image_broadcast>0000434267</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150630194500 -0300" stop="20150630202500 -0300" channel="PAL" program_id="0000028505" event_id="00000000000099078617" series_key="">
-<title lang="pt">TV Fama</title>
-<title lang="en">TV Fama</title>
-<desc>O programa traz notícias, atualidades, curiosidades do meio artístico e tudo o que rola nos bastidores. Irreverente e dinâmico, traz entrevistas, notícias dos artistas, estréias de filmes, peças, eventos, desfiles e lançamentos.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000028505.jpg</image_name>
-<image_broadcast>0000028505</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150630202500 -0300" stop="20150630203000 -0300" channel="PAL" program_id="0000267721" event_id="00000000000099078618" series_key="00000000071330000000">
-<title lang="pt">Momento da Sorte</title>
-<desc>Acompanhe ao vivo os sorteios das Loterias da Caixa, como Mega-Sena, Quina e Lotofácil, além de informações e novidades sobre os jogos e premiações.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000071330.jpg</image_name>
-<image_broadcast>00000000071330</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150630203000 -0300" stop="20150630203500 -0300" channel="PAL" program_id="0000255383" event_id="00000000000099078619" series_key="">
-<title lang="pt">Propaganda Partidária</title>
-<desc>Programa Político.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">0000255383.jpg</image_name>
-<image_broadcast>0000255383</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150630203500 -0300" stop="20150630213500 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078620" series_key="">
-<title lang="pt">Programa Religioso</title>
-<desc>Programação religiosa diária.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000004369.jpg</image_name>
-<image_broadcast>0000004369</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150630213500 -0300" stop="20150630223500 -0300" channel="PAL" program_id="0000094292" event_id="00000000000099078621" series_key="">
-<title lang="pt">RedeTV! News</title>
-<title lang="en">RedeTV! News</title>
-<desc>Sob o comando de Amanda Klein e Augusto Xavier traz a cobertura dos fatos com credibilidade e imparcialidade.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000094292.jpg</image_name>
-<image_broadcast>0000094292</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150630223500 -0300" stop="20150701000000 -0300" channel="PAL" program_id="0000307967" event_id="00000000000099078622" series_key="">
-<title lang="pt">Luciana by Night</title>
-<desc>Luciana Gimenez receberá, a cada programa, personalidades, artistas e pessoas em evidência para um bate-papo descontraído sobre os assuntos em destaque no Brasil e no mundo.</desc>
-<credits>
-<actor>Luciana Gimenez</actor>
-<actor>Diogo Portugal</actor>
-</credits>
-<category lang="pt">Variedades</category>
-<category lang="pt">Talk Show</category>
-<image>
-<image_name position="1">0000307967.jpg</image_name>
-<image_broadcast>0000307967</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150701000000 -0300" stop="20150701025000 -0300" channel="PAL" program_id="0000131024" event_id="00000000000099078623" series_key="00000000070972000000">
-<title lang="pt">Studio Pampa</title>
-<desc>As madrugadas dos gaúchos são bem mais animadas com o Studio Pampa, um programa divertido, com muita música, brincadeiras e bom humor.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000070972.jpg</image_name>
-<image_broadcast>00000000070972</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150701025000 -0300" stop="20150701030000 -0300" channel="PAL" program_id="0000393427" event_id="00000000000099078624" series_key="">
-<title lang="pt">Os Vídeos Mais Bombados na Internet</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000393427.jpg</image_name>
-<image_broadcast>0000393427</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150701030000 -0300" stop="20150701083000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078625" series_key="">
-<title lang="pt">Programa Religioso</title>
-<desc>Programação religiosa diária.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000004369.jpg</image_name>
-<image_broadcast>0000004369</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150701083000 -0300" stop="20150701093000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078626" series_key="00000000070838000000">
-<title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150701093000 -0300" stop="20150701120000 -0300" channel="PAL" program_id="0000440793" event_id="00000000000099078627" series_key="00000000076958000000">
-<title lang="pt">Melhor Pra Você</title>
-<desc>Levar informação, entretenimento, dicas de saúde, culinária e prestação de serviço, com pitadas de bom humor e descontração. Comandado por três grandes apresentadores Celso Zucatelli, Edu Guedes e Mariana Leão.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000076958.jpg</image_name>
-<image_broadcast>00000000076958</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150701120000 -0300" stop="20150701140000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078628" series_key="">
-<title lang="pt">Programa Religioso</title>
-<desc>Programação religiosa diária.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000004369.jpg</image_name>
-<image_broadcast>0000004369</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150701140000 -0300" stop="20150701150000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078629" series_key="00000000070838000000">
-<title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150701150000 -0300" stop="20150701170000 -0300" channel="PAL" program_id="0000105520" event_id="00000000000099078630" series_key="">
-<title lang="pt">A Tarde é Sua</title>
-<desc>Comandada pela experiente Sonia Abrão, traz num programa versátil muita informação, entrevistas, famosos e polêmicas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000105520.jpg</image_name>
-<image_broadcast>0000105520</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150701170000 -0300" stop="20150701173000 -0300" channel="PAL" program_id="0000347411" event_id="00000000000099078631" series_key="00000000070838000000">
-<title lang="pt">Te Peguei na TV</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150701173000 -0300" stop="20150701175500 -0300" channel="PAL" program_id="0000344325" event_id="00000000000099078632" series_key="00000000072140000000">
-<title lang="pt">Você na TV</title>
-<desc>'Você na TV' é um show de variedades marcado pela interatividade. De forma bem humorada, leve e descontraída, o programa apresenta casos reais de pessoas que enfrentam conflitos de relacionamento e outras dificuldades cotidianas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000072140.jpg</image_name>
-<image_broadcast>00000000072140</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150701175500 -0300" stop="20150701185500 -0300" channel="PAL" program_id="0000286652" event_id="00000000000099078633" series_key="00000000070967000000">
-<title lang="pt">Pampa Debates</title>
-<desc>Políticos, empresários e personalidades debatem com Paulo Sérgio Pinto sobre os principais assuntos do dia a dia. No ar pela TV Pampa há quase duas décadas, o Pampa Debates é um programa consagrado pela sociedade gaúcha.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">00000000070967.jpg</image_name>
-<image_broadcast>00000000070967</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150701185500 -0300" stop="20150701190500 -0300" channel="PAL" program_id="0000174748" event_id="00000000000099078634" series_key="00000000070971000000">
-<title lang="pt">Jornal da Pampa</title>
-<desc>O Jornal da Pampa traz as notícias mais importantes do Estado e os principais fatos do dia comentados com imparcialidade e credibilidade.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000070971.jpg</image_name>
-<image_broadcast>00000000070971</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150701190500 -0300" stop="20150701194500 -0300" channel="PAL" program_id="0000434267" event_id="00000000000099078635" series_key="">
-<title lang="pt">Atualidades Pampa</title>
-<desc>Com o comando de Magda Beatriz, os comunicadores da TV Pampa debatem com muita descontração os fatos que marcaram o dia, trazendo informação e opinião na medida certa.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000434267.jpg</image_name>
-<image_broadcast>0000434267</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150701194500 -0300" stop="20150701202500 -0300" channel="PAL" program_id="0000028505" event_id="00000000000099078636" series_key="">
-<title lang="pt">TV Fama</title>
-<title lang="en">TV Fama</title>
-<desc>O programa traz notícias, atualidades, curiosidades do meio artístico e tudo o que rola nos bastidores. Irreverente e dinâmico, traz entrevistas, notícias dos artistas, estréias de filmes, peças, eventos, desfiles e lançamentos.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000028505.jpg</image_name>
-<image_broadcast>0000028505</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150701202500 -0300" stop="20150701203000 -0300" channel="PAL" program_id="0000267721" event_id="00000000000099078637" series_key="00000000071330000000">
-<title lang="pt">Momento da Sorte</title>
-<desc>Acompanhe ao vivo os sorteios das Loterias da Caixa, como Mega-Sena, Quina e Lotofácil, além de informações e novidades sobre os jogos e premiações.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">00000000071330.jpg</image_name>
-<image_broadcast>00000000071330</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150701203000 -0300" stop="20150701213000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078638" series_key="">
-<title lang="pt">Programa Religioso</title>
-<desc>Programação religiosa diária.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000004369.jpg</image_name>
-<image_broadcast>0000004369</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150701213000 -0300" stop="20150701223000 -0300" channel="PAL" program_id="0000094292" event_id="00000000000099078639" series_key="">
-<title lang="pt">RedeTV! News</title>
-<title lang="en">RedeTV! News</title>
-<desc>Sob o comando de Amanda Klein e Augusto Xavier traz a cobertura dos fatos com credibilidade e imparcialidade.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000094292.jpg</image_name>
-<image_broadcast>0000094292</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150701223000 -0300" stop="20150702000000 -0300" channel="PAL" program_id="0000016546" event_id="00000000000099078640" series_key="">
-<title lang="pt">SuperPop</title>
-<title lang="en">SuperPop</title>
-<desc>Apresentado pela belíssima Luciana Gimenez, o SuperPop é um programa cheio de bom humor, polêmica e curiosidades,trazendo a cada dia um assunto diferente que vai fazer você ficar grudado na televisão.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000016546.jpg</image_name>
-<image_broadcast>0000016546</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 14 anos</value>
-</rating>
-</programme>
-<programme start="20150702000000 -0300" stop="20150702025000 -0300" channel="PAL" program_id="0000131024" event_id="00000000000099078641" series_key="00000000070972000000">
-<title lang="pt">Studio Pampa</title>
-<desc>As madrugadas dos gaúchos são bem mais animadas com o Studio Pampa, um programa divertido, com muita música, brincadeiras e bom humor.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">00000000070972.jpg</image_name>
-<image_broadcast>00000000070972</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150702025000 -0300" stop="20150702030000 -0300" channel="PAL" program_id="0000393427" event_id="00000000000099078642" series_key="">
-<title lang="pt">Os Vídeos Mais Bombados na Internet</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000393427.jpg</image_name>
-<image_broadcast>0000393427</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150702030000 -0300" stop="20150702083000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078643" series_key="">
-<title lang="pt">Programa Religioso</title>
-<desc>Programação religiosa diária.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000004369.jpg</image_name>
-<image_broadcast>0000004369</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150702083000 -0300" stop="20150702093000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078644" series_key="00000000070838000000">
-<title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150702093000 -0300" stop="20150702120000 -0300" channel="PAL" program_id="0000440793" event_id="00000000000099078645" series_key="00000000076958000000">
-<title lang="pt">Melhor Pra Você</title>
-<desc>Levar informação, entretenimento, dicas de saúde, culinária e prestação de serviço, com pitadas de bom humor e descontração. Comandado por três grandes apresentadores Celso Zucatelli, Edu Guedes e Mariana Leão.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000076958.jpg</image_name>
-<image_broadcast>00000000076958</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150702120000 -0300" stop="20150702140000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078646" series_key="">
-<title lang="pt">Programa Religioso</title>
-<desc>Programação religiosa diária.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000004369.jpg</image_name>
-<image_broadcast>0000004369</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150702140000 -0300" stop="20150702150000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078647" series_key="00000000070838000000">
-<title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150702150000 -0300" stop="20150702170000 -0300" channel="PAL" program_id="0000105520" event_id="00000000000099078648" series_key="">
-<title lang="pt">A Tarde é Sua</title>
-<desc>Comandada pela experiente Sonia Abrão, traz num programa versátil muita informação, entrevistas, famosos e polêmicas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000105520.jpg</image_name>
-<image_broadcast>0000105520</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150702170000 -0300" stop="20150702173000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078649" series_key="00000000070838000000">
-<title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000070838.jpg</image_name>
-<image_broadcast>00000000070838</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150702173000 -0300" stop="20150702175500 -0300" channel="PAL" program_id="0000344325" event_id="00000000000099078650" series_key="00000000072140000000">
-<title lang="pt">Você na TV</title>
-<desc>'Você na TV' é um show de variedades marcado pela interatividade. De forma bem humorada, leve e descontraída, o programa apresenta casos reais de pessoas que enfrentam conflitos de relacionamento e outras dificuldades cotidianas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Comédia</category>
-<image>
-<image_name position="1">00000000072140.jpg</image_name>
-<image_broadcast>00000000072140</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150702175500 -0300" stop="20150702185500 -0300" channel="PAL" program_id="0000286652" event_id="00000000000099078651" series_key="00000000070967000000">
-<title lang="pt">Pampa Debates</title>
-<desc>Políticos, empresários e personalidades debatem com Paulo Sérgio Pinto sobre os principais assuntos do dia a dia. No ar pela TV Pampa há quase duas décadas, o Pampa Debates é um programa consagrado pela sociedade gaúcha.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">00000000070967.jpg</image_name>
-<image_broadcast>00000000070967</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150702185500 -0300" stop="20150702190500 -0300" channel="PAL" program_id="0000174748" event_id="00000000000099078652" series_key="00000000070971000000">
-<title lang="pt">Jornal da Pampa</title>
-<desc>O Jornal da Pampa traz as notícias mais importantes do Estado e os principais fatos do dia comentados com imparcialidade e credibilidade.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">00000000070971.jpg</image_name>
-<image_broadcast>00000000070971</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150702190500 -0300" stop="20150702194500 -0300" channel="PAL" program_id="0000434267" event_id="00000000000099078653" series_key="">
-<title lang="pt">Atualidades Pampa</title>
-<desc>Com o comando de Magda Beatriz, os comunicadores da TV Pampa debatem com muita descontração os fatos que marcaram o dia, trazendo informação e opinião na medida certa.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Debate</category>
-<image>
-<image_name position="1">0000434267.jpg</image_name>
-<image_broadcast>0000434267</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150702194500 -0300" stop="20150702203000 -0300" channel="PAL" program_id="0000028505" event_id="00000000000099078654" series_key="">
-<title lang="pt">TV Fama</title>
-<title lang="en">TV Fama</title>
-<desc>O programa traz notícias, atualidades, curiosidades do meio artístico e tudo o que rola nos bastidores. Irreverente e dinâmico, traz entrevistas, notícias dos artistas, estréias de filmes, peças, eventos, desfiles e lançamentos.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000028505.jpg</image_name>
-<image_broadcast>0000028505</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
-</rating>
-</programme>
-<programme start="20150702203000 -0300" stop="20150702203500 -0300" channel="PAL" program_id="0000255383" event_id="00000000000099078655" series_key="">
-<title lang="pt">Propaganda Partidária</title>
-<desc>Programa Político.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Política</category>
-<image>
-<image_name position="1">0000255383.jpg</image_name>
-<image_broadcast>0000255383</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150702203500 -0300" stop="20150702213500 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078656" series_key="">
-<title lang="pt">Programa Religioso</title>
-<desc>Programação religiosa diária.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000004369.jpg</image_name>
-<image_broadcast>0000004369</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150702213500 -0300" stop="20150702223500 -0300" channel="PAL" program_id="0000094292" event_id="00000000000099078657" series_key="">
-<title lang="pt">RedeTV! News</title>
-<title lang="en">RedeTV! News</title>
-<desc>Sob o comando de Amanda Klein e Augusto Xavier traz a cobertura dos fatos com credibilidade e imparcialidade.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000094292.jpg</image_name>
-<image_broadcast>0000094292</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150702223500 -0300" stop="20150703000000 -0300" channel="PAL" program_id="0000016464" event_id="00000000000099078658" series_key="">
-<title lang="pt">Sob Medida</title>
-<desc>Apresentado por Daniela Albuquerque, o reality fashion transformará os participantes e mostrará o que cada um deles tem de melhor. E, de quebra, reformará um ambiente de sua casa.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Moda e Estilo</category>
-<image>
-<image_name position="1">0000016464.jpg</image_name>
-<image_broadcast>0000016464</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
 <programme start="20150703000000 -0300" stop="20150703030000 -0300" channel="PAL" program_id="0000131024" event_id="00000000000099078659" series_key="00000000070972000000">
 <title lang="pt">Studio Pampa</title>
 <desc>As madrugadas dos gaúchos são bem mais animadas com o Studio Pampa, um programa divertido, com muita música, brincadeiras e bom humor.</desc>
@@ -1963,7 +37,7 @@
 </programme>
 <programme start="20150703083000 -0300" stop="20150703093000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078661" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -2015,7 +89,7 @@
 </programme>
 <programme start="20150703140000 -0300" stop="20150703150000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078664" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -2049,7 +123,7 @@
 </programme>
 <programme start="20150703170000 -0300" stop="20150703173000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078666" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -2206,7 +280,7 @@
 </programme>
 <programme start="20150703221500 -0300" stop="20150703230000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078675" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -2509,7 +583,7 @@
 </programme>
 <programme start="20150705103000 -0300" stop="20150705120000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078693" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -2667,7 +741,7 @@
 </programme>
 <programme start="20150706083000 -0300" stop="20150706093000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078702" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -2719,7 +793,7 @@
 </programme>
 <programme start="20150706140000 -0300" stop="20150706150000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078705" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -2753,7 +827,7 @@
 </programme>
 <programme start="20150706170000 -0300" stop="20150706173000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078707" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -2959,7 +1033,7 @@
 </programme>
 <programme start="20150707083000 -0300" stop="20150707093000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078719" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -3011,7 +1085,7 @@
 </programme>
 <programme start="20150707140000 -0300" stop="20150707150000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078722" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -3045,7 +1119,7 @@
 </programme>
 <programme start="20150707170000 -0300" stop="20150707173000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078724" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -3289,7 +1363,7 @@
 </programme>
 <programme start="20150708083000 -0300" stop="20150708093000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078738" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -3341,7 +1415,7 @@
 </programme>
 <programme start="20150708140000 -0300" stop="20150708150000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078741" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -3598,7 +1672,7 @@
 </programme>
 <programme start="20150709083000 -0300" stop="20150709093000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078756" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -3650,7 +1724,7 @@
 </programme>
 <programme start="20150709140000 -0300" stop="20150709150000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078759" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -3684,7 +1758,7 @@
 </programme>
 <programme start="20150709170000 -0300" stop="20150709173000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078761" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -3889,7 +1963,7 @@
 </programme>
 <programme start="20150710083000 -0300" stop="20150710093000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078773" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -3941,7 +2015,7 @@
 </programme>
 <programme start="20150710140000 -0300" stop="20150710150000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078776" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -3975,7 +2049,7 @@
 </programme>
 <programme start="20150710170000 -0300" stop="20150710173000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078778" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -4132,7 +2206,7 @@
 </programme>
 <programme start="20150710221500 -0300" stop="20150710230000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078787" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -4435,7 +2509,7 @@
 </programme>
 <programme start="20150712103000 -0300" stop="20150712120000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078805" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -4593,7 +2667,7 @@
 </programme>
 <programme start="20150713083000 -0300" stop="20150713093000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078814" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -4645,7 +2719,7 @@
 </programme>
 <programme start="20150713140000 -0300" stop="20150713150000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078817" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -4679,7 +2753,7 @@
 </programme>
 <programme start="20150713170000 -0300" stop="20150713173000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078819" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -4885,7 +2959,7 @@
 </programme>
 <programme start="20150714083000 -0300" stop="20150714093000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078831" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -4937,7 +3011,7 @@
 </programme>
 <programme start="20150714140000 -0300" stop="20150714150000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078834" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -4971,7 +3045,7 @@
 </programme>
 <programme start="20150714170000 -0300" stop="20150714173000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078836" series_key="00000000070838000000">
 <title lang="pt">Te Peguei</title>
-<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
 <category lang="pt">Variedades</category>
 <category lang="pt">Comédia</category>
 <image>
@@ -5144,6 +3218,1932 @@
 </rating>
 </programme>
 <programme start="20150714223500 -0300" stop="20150715000000 -0300" channel="PAL" program_id="0000307967" event_id="00000000000099078846" series_key="">
+<title lang="pt">Luciana by Night</title>
+<desc>Luciana Gimenez receberá, a cada programa, personalidades, artistas e pessoas em evidência para um bate-papo descontraído sobre os assuntos em destaque no Brasil e no mundo.</desc>
+<credits>
+<actor>Luciana Gimenez</actor>
+<actor>Diogo Portugal</actor>
+</credits>
+<category lang="pt">Variedades</category>
+<category lang="pt">Talk Show</category>
+<image>
+<image_name position="1">0000307967.jpg</image_name>
+<image_broadcast>0000307967</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150715000000 -0300" stop="20150715025000 -0300" channel="PAL" program_id="0000131024" event_id="00000000000099078847" series_key="00000000070972000000">
+<title lang="pt">Studio Pampa</title>
+<desc>As madrugadas dos gaúchos são bem mais animadas com o Studio Pampa, um programa divertido, com muita música, brincadeiras e bom humor.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">00000000070972.jpg</image_name>
+<image_broadcast>00000000070972</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150715025000 -0300" stop="20150715030000 -0300" channel="PAL" program_id="0000393427" event_id="00000000000099078848" series_key="">
+<title lang="pt">Os Vídeos Mais Bombados na Internet</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000393427.jpg</image_name>
+<image_broadcast>0000393427</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150715030000 -0300" stop="20150715083000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078849" series_key="">
+<title lang="pt">Programa Religioso</title>
+<desc>Programação religiosa diária.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000004369.jpg</image_name>
+<image_broadcast>0000004369</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150715083000 -0300" stop="20150715093000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078850" series_key="00000000070838000000">
+<title lang="pt">Te Peguei</title>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150715093000 -0300" stop="20150715120000 -0300" channel="PAL" program_id="0000440793" event_id="00000000000099078851" series_key="00000000076958000000">
+<title lang="pt">Melhor Pra Você</title>
+<desc>Levar informação, entretenimento, dicas de saúde, culinária e prestação de serviço, com pitadas de bom humor e descontração. Comandado por três grandes apresentadores Celso Zucatelli, Edu Guedes e Mariana Leão.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000076958.jpg</image_name>
+<image_broadcast>00000000076958</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150715120000 -0300" stop="20150715140000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078852" series_key="">
+<title lang="pt">Programa Religioso</title>
+<desc>Programação religiosa diária.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000004369.jpg</image_name>
+<image_broadcast>0000004369</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150715140000 -0300" stop="20150715150000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078853" series_key="00000000070838000000">
+<title lang="pt">Te Peguei</title>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150715150000 -0300" stop="20150715170000 -0300" channel="PAL" program_id="0000105520" event_id="00000000000099078854" series_key="">
+<title lang="pt">A Tarde é Sua</title>
+<desc>Comandada pela experiente Sonia Abrão, traz num programa versátil muita informação, entrevistas, famosos e polêmicas.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000105520.jpg</image_name>
+<image_broadcast>0000105520</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150715170000 -0300" stop="20150715173000 -0300" channel="PAL" program_id="0000347411" event_id="00000000000099078855" series_key="00000000070838000000">
+<title lang="pt">Te Peguei na TV</title>
+<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150715173000 -0300" stop="20150715175500 -0300" channel="PAL" program_id="0000344325" event_id="00000000000099078856" series_key="00000000072140000000">
+<title lang="pt">Você na TV</title>
+<desc>'Você na TV' é um show de variedades marcado pela interatividade. De forma bem humorada, leve e descontraída, o programa apresenta casos reais de pessoas que enfrentam conflitos de relacionamento e outras dificuldades cotidianas.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000072140.jpg</image_name>
+<image_broadcast>00000000072140</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150715175500 -0300" stop="20150715185500 -0300" channel="PAL" program_id="0000286652" event_id="00000000000099078857" series_key="00000000070967000000">
+<title lang="pt">Pampa Debates</title>
+<desc>Políticos, empresários e personalidades debatem com Paulo Sérgio Pinto sobre os principais assuntos do dia a dia. No ar pela TV Pampa há quase duas décadas, o Pampa Debates é um programa consagrado pela sociedade gaúcha.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">00000000070967.jpg</image_name>
+<image_broadcast>00000000070967</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150715185500 -0300" stop="20150715190500 -0300" channel="PAL" program_id="0000174748" event_id="00000000000099078858" series_key="00000000070971000000">
+<title lang="pt">Jornal da Pampa</title>
+<desc>O Jornal da Pampa traz as notícias mais importantes do Estado e os principais fatos do dia comentados com imparcialidade e credibilidade.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000070971.jpg</image_name>
+<image_broadcast>00000000070971</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150715190500 -0300" stop="20150715194500 -0300" channel="PAL" program_id="0000434267" event_id="00000000000099078859" series_key="">
+<title lang="pt">Atualidades Pampa</title>
+<desc>Com o comando de Magda Beatriz, os comunicadores da TV Pampa debatem com muita descontração os fatos que marcaram o dia, trazendo informação e opinião na medida certa.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000434267.jpg</image_name>
+<image_broadcast>0000434267</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150715194500 -0300" stop="20150715202500 -0300" channel="PAL" program_id="0000028505" event_id="00000000000099078860" series_key="">
+<title lang="pt">TV Fama</title>
+<title lang="en">TV Fama</title>
+<desc>O programa traz notícias, atualidades, curiosidades do meio artístico e tudo o que rola nos bastidores. Irreverente e dinâmico, traz entrevistas, notícias dos artistas, estréias de filmes, peças, eventos, desfiles e lançamentos.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000028505.jpg</image_name>
+<image_broadcast>0000028505</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150715202500 -0300" stop="20150715203000 -0300" channel="PAL" program_id="0000267721" event_id="00000000000099078861" series_key="00000000071330000000">
+<title lang="pt">Momento da Sorte</title>
+<desc>Acompanhe ao vivo os sorteios das Loterias da Caixa, como Mega-Sena, Quina e Lotofácil, além de informações e novidades sobre os jogos e premiações.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000071330.jpg</image_name>
+<image_broadcast>00000000071330</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150715203000 -0300" stop="20150715213000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078862" series_key="">
+<title lang="pt">Programa Religioso</title>
+<desc>Programação religiosa diária.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000004369.jpg</image_name>
+<image_broadcast>0000004369</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150715213000 -0300" stop="20150715223000 -0300" channel="PAL" program_id="0000094292" event_id="00000000000099078863" series_key="">
+<title lang="pt">RedeTV! News</title>
+<title lang="en">RedeTV! News</title>
+<desc>Sob o comando de Amanda Klein e Augusto Xavier traz a cobertura dos fatos com credibilidade e imparcialidade.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000094292.jpg</image_name>
+<image_broadcast>0000094292</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150715223000 -0300" stop="20150716000000 -0300" channel="PAL" program_id="0000016546" event_id="00000000000099078864" series_key="">
+<title lang="pt">SuperPop</title>
+<title lang="en">SuperPop</title>
+<desc>Apresentado pela belíssima Luciana Gimenez, o SuperPop é um programa cheio de bom humor, polêmica e curiosidades,trazendo a cada dia um assunto diferente que vai fazer você ficar grudado na televisão.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000016546.jpg</image_name>
+<image_broadcast>0000016546</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150716000000 -0300" stop="20150716025000 -0300" channel="PAL" program_id="0000131024" event_id="00000000000099078865" series_key="00000000070972000000">
+<title lang="pt">Studio Pampa</title>
+<desc>As madrugadas dos gaúchos são bem mais animadas com o Studio Pampa, um programa divertido, com muita música, brincadeiras e bom humor.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">00000000070972.jpg</image_name>
+<image_broadcast>00000000070972</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150716025000 -0300" stop="20150716030000 -0300" channel="PAL" program_id="0000393427" event_id="00000000000099078866" series_key="">
+<title lang="pt">Os Vídeos Mais Bombados na Internet</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000393427.jpg</image_name>
+<image_broadcast>0000393427</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150716030000 -0300" stop="20150716083000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078867" series_key="">
+<title lang="pt">Programa Religioso</title>
+<desc>Programação religiosa diária.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000004369.jpg</image_name>
+<image_broadcast>0000004369</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150716083000 -0300" stop="20150716093000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078868" series_key="00000000070838000000">
+<title lang="pt">Te Peguei</title>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150716093000 -0300" stop="20150716120000 -0300" channel="PAL" program_id="0000440793" event_id="00000000000099078869" series_key="00000000076958000000">
+<title lang="pt">Melhor Pra Você</title>
+<desc>Levar informação, entretenimento, dicas de saúde, culinária e prestação de serviço, com pitadas de bom humor e descontração. Comandado por três grandes apresentadores Celso Zucatelli, Edu Guedes e Mariana Leão.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000076958.jpg</image_name>
+<image_broadcast>00000000076958</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150716120000 -0300" stop="20150716140000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078870" series_key="">
+<title lang="pt">Programa Religioso</title>
+<desc>Programação religiosa diária.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000004369.jpg</image_name>
+<image_broadcast>0000004369</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150716140000 -0300" stop="20150716150000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078871" series_key="00000000070838000000">
+<title lang="pt">Te Peguei</title>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150716150000 -0300" stop="20150716170000 -0300" channel="PAL" program_id="0000105520" event_id="00000000000099078872" series_key="">
+<title lang="pt">A Tarde é Sua</title>
+<desc>Comandada pela experiente Sonia Abrão, traz num programa versátil muita informação, entrevistas, famosos e polêmicas.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000105520.jpg</image_name>
+<image_broadcast>0000105520</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150716170000 -0300" stop="20150716173000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078873" series_key="00000000070838000000">
+<title lang="pt">Te Peguei</title>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150716173000 -0300" stop="20150716175500 -0300" channel="PAL" program_id="0000344325" event_id="00000000000099078874" series_key="00000000072140000000">
+<title lang="pt">Você na TV</title>
+<desc>'Você na TV' é um show de variedades marcado pela interatividade. De forma bem humorada, leve e descontraída, o programa apresenta casos reais de pessoas que enfrentam conflitos de relacionamento e outras dificuldades cotidianas.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000072140.jpg</image_name>
+<image_broadcast>00000000072140</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150716175500 -0300" stop="20150716185500 -0300" channel="PAL" program_id="0000286652" event_id="00000000000099078875" series_key="00000000070967000000">
+<title lang="pt">Pampa Debates</title>
+<desc>Políticos, empresários e personalidades debatem com Paulo Sérgio Pinto sobre os principais assuntos do dia a dia. No ar pela TV Pampa há quase duas décadas, o Pampa Debates é um programa consagrado pela sociedade gaúcha.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">00000000070967.jpg</image_name>
+<image_broadcast>00000000070967</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150716185500 -0300" stop="20150716190500 -0300" channel="PAL" program_id="0000174748" event_id="00000000000099078876" series_key="00000000070971000000">
+<title lang="pt">Jornal da Pampa</title>
+<desc>O Jornal da Pampa traz as notícias mais importantes do Estado e os principais fatos do dia comentados com imparcialidade e credibilidade.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000070971.jpg</image_name>
+<image_broadcast>00000000070971</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150716190500 -0300" stop="20150716194500 -0300" channel="PAL" program_id="0000434267" event_id="00000000000099078877" series_key="">
+<title lang="pt">Atualidades Pampa</title>
+<desc>Com o comando de Magda Beatriz, os comunicadores da TV Pampa debatem com muita descontração os fatos que marcaram o dia, trazendo informação e opinião na medida certa.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000434267.jpg</image_name>
+<image_broadcast>0000434267</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150716194500 -0300" stop="20150716203000 -0300" channel="PAL" program_id="0000028505" event_id="00000000000099078878" series_key="">
+<title lang="pt">TV Fama</title>
+<title lang="en">TV Fama</title>
+<desc>O programa traz notícias, atualidades, curiosidades do meio artístico e tudo o que rola nos bastidores. Irreverente e dinâmico, traz entrevistas, notícias dos artistas, estréias de filmes, peças, eventos, desfiles e lançamentos.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000028505.jpg</image_name>
+<image_broadcast>0000028505</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150716203000 -0300" stop="20150716203500 -0300" channel="PAL" program_id="0000255383" event_id="00000000000099078879" series_key="">
+<title lang="pt">Propaganda Partidária</title>
+<desc>Programa Político.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000255383.jpg</image_name>
+<image_broadcast>0000255383</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150716203500 -0300" stop="20150716213500 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078880" series_key="">
+<title lang="pt">Programa Religioso</title>
+<desc>Programação religiosa diária.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000004369.jpg</image_name>
+<image_broadcast>0000004369</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150716213500 -0300" stop="20150716223500 -0300" channel="PAL" program_id="0000094292" event_id="00000000000099078881" series_key="">
+<title lang="pt">RedeTV! News</title>
+<title lang="en">RedeTV! News</title>
+<desc>Sob o comando de Amanda Klein e Augusto Xavier traz a cobertura dos fatos com credibilidade e imparcialidade.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000094292.jpg</image_name>
+<image_broadcast>0000094292</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150716223500 -0300" stop="20150717000000 -0300" channel="PAL" program_id="0000016464" event_id="00000000000099078882" series_key="">
+<title lang="pt">Sob Medida</title>
+<desc>Apresentado por Daniela Albuquerque, o reality fashion transformará os participantes e mostrará o que cada um deles tem de melhor. E, de quebra, reformará um ambiente de sua casa.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Moda e Estilo</category>
+<image>
+<image_name position="1">0000016464.jpg</image_name>
+<image_broadcast>0000016464</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150717000000 -0300" stop="20150717030000 -0300" channel="PAL" program_id="0000131024" event_id="00000000000099078883" series_key="00000000070972000000">
+<title lang="pt">Studio Pampa</title>
+<desc>As madrugadas dos gaúchos são bem mais animadas com o Studio Pampa, um programa divertido, com muita música, brincadeiras e bom humor.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">00000000070972.jpg</image_name>
+<image_broadcast>00000000070972</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150717030000 -0300" stop="20150717083000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078884" series_key="">
+<title lang="pt">Programa Religioso</title>
+<desc>Programação religiosa diária.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000004369.jpg</image_name>
+<image_broadcast>0000004369</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150717083000 -0300" stop="20150717093000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078885" series_key="00000000070838000000">
+<title lang="pt">Te Peguei</title>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150717093000 -0300" stop="20150717120000 -0300" channel="PAL" program_id="0000440793" event_id="00000000000099078886" series_key="00000000076958000000">
+<title lang="pt">Melhor Pra Você</title>
+<desc>Levar informação, entretenimento, dicas de saúde, culinária e prestação de serviço, com pitadas de bom humor e descontração. Comandado por três grandes apresentadores Celso Zucatelli, Edu Guedes e Mariana Leão.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000076958.jpg</image_name>
+<image_broadcast>00000000076958</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150717120000 -0300" stop="20150717140000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078887" series_key="">
+<title lang="pt">Programa Religioso</title>
+<desc>Programação religiosa diária.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000004369.jpg</image_name>
+<image_broadcast>0000004369</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150717140000 -0300" stop="20150717150000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078888" series_key="00000000070838000000">
+<title lang="pt">Te Peguei</title>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150717150000 -0300" stop="20150717170000 -0300" channel="PAL" program_id="0000105520" event_id="00000000000099078889" series_key="">
+<title lang="pt">A Tarde é Sua</title>
+<desc>Comandada pela experiente Sonia Abrão, traz num programa versátil muita informação, entrevistas, famosos e polêmicas.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000105520.jpg</image_name>
+<image_broadcast>0000105520</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150717170000 -0300" stop="20150717173000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078890" series_key="00000000070838000000">
+<title lang="pt">Te Peguei</title>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150717173000 -0300" stop="20150717175500 -0300" channel="PAL" program_id="0000344325" event_id="00000000000099078891" series_key="00000000072140000000">
+<title lang="pt">Você na TV</title>
+<desc>'Você na TV' é um show de variedades marcado pela interatividade. De forma bem humorada, leve e descontraída, o programa apresenta casos reais de pessoas que enfrentam conflitos de relacionamento e outras dificuldades cotidianas.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000072140.jpg</image_name>
+<image_broadcast>00000000072140</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150717175500 -0300" stop="20150717185500 -0300" channel="PAL" program_id="0000286652" event_id="00000000000099078892" series_key="00000000070967000000">
+<title lang="pt">Pampa Debates</title>
+<desc>Políticos, empresários e personalidades debatem com Paulo Sérgio Pinto sobre os principais assuntos do dia a dia. No ar pela TV Pampa há quase duas décadas, o Pampa Debates é um programa consagrado pela sociedade gaúcha.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">00000000070967.jpg</image_name>
+<image_broadcast>00000000070967</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150717185500 -0300" stop="20150717190500 -0300" channel="PAL" program_id="0000174748" event_id="00000000000099078893" series_key="00000000070971000000">
+<title lang="pt">Jornal da Pampa</title>
+<desc>O Jornal da Pampa traz as notícias mais importantes do Estado e os principais fatos do dia comentados com imparcialidade e credibilidade.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000070971.jpg</image_name>
+<image_broadcast>00000000070971</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150717190500 -0300" stop="20150717194500 -0300" channel="PAL" program_id="0000434267" event_id="00000000000099078894" series_key="">
+<title lang="pt">Atualidades Pampa</title>
+<desc>Com o comando de Magda Beatriz, os comunicadores da TV Pampa debatem com muita descontração os fatos que marcaram o dia, trazendo informação e opinião na medida certa.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000434267.jpg</image_name>
+<image_broadcast>0000434267</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150717194500 -0300" stop="20150717202500 -0300" channel="PAL" program_id="0000028505" event_id="00000000000099078895" series_key="">
+<title lang="pt">TV Fama</title>
+<title lang="en">TV Fama</title>
+<desc>O programa traz notícias, atualidades, curiosidades do meio artístico e tudo o que rola nos bastidores. Irreverente e dinâmico, traz entrevistas, notícias dos artistas, estréias de filmes, peças, eventos, desfiles e lançamentos.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000028505.jpg</image_name>
+<image_broadcast>0000028505</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150717202500 -0300" stop="20150717203000 -0300" channel="PAL" program_id="0000267721" event_id="00000000000099078896" series_key="00000000071330000000">
+<title lang="pt">Momento da Sorte</title>
+<desc>Acompanhe ao vivo os sorteios das Loterias da Caixa, como Mega-Sena, Quina e Lotofácil, além de informações e novidades sobre os jogos e premiações.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000071330.jpg</image_name>
+<image_broadcast>00000000071330</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150717203000 -0300" stop="20150717213000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078897" series_key="">
+<title lang="pt">Programa Religioso</title>
+<desc>Programação religiosa diária.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000004369.jpg</image_name>
+<image_broadcast>0000004369</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150717213000 -0300" stop="20150717221500 -0300" channel="PAL" program_id="0000094292" event_id="00000000000099078898" series_key="">
+<title lang="pt">RedeTV! News</title>
+<title lang="en">RedeTV! News</title>
+<desc>Sob o comando de Amanda Klein e Augusto Xavier traz a cobertura dos fatos com credibilidade e imparcialidade.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000094292.jpg</image_name>
+<image_broadcast>0000094292</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150717221500 -0300" stop="20150717230000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078899" series_key="00000000070838000000">
+<title lang="pt">Te Peguei</title>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150717230000 -0300" stop="20150718000000 -0300" channel="PAL" program_id="0000438177" event_id="00000000000099078900" series_key="">
+<title lang="pt">Mariana Godoy Entrevista</title>
+<desc>O programa receberá cada semana um convidado em evidência com o momento político, cultural e social do país, e mostrará ao público uma faceta pouco conhecida de seu entrevistado. Sem filtros e sem retoques.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Talk Show</category>
+<image>
+<image_name position="1">0000438177.jpg</image_name>
+<image_broadcast>0000438177</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150718000000 -0300" stop="20150718025000 -0300" channel="PAL" program_id="0000131024" event_id="00000000000099078901" series_key="00000000070972000000">
+<title lang="pt">Studio Pampa</title>
+<desc>As madrugadas dos gaúchos são bem mais animadas com o Studio Pampa, um programa divertido, com muita música, brincadeiras e bom humor.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">00000000070972.jpg</image_name>
+<image_broadcast>00000000070972</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150718025000 -0300" stop="20150718030000 -0300" channel="PAL" program_id="0000393427" event_id="00000000000099078902" series_key="">
+<title lang="pt">Os Vídeos Mais Bombados na Internet</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000393427.jpg</image_name>
+<image_broadcast>0000393427</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150718030000 -0300" stop="20150718092500 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078903" series_key="">
+<title lang="pt">Programa Religioso</title>
+<desc>Programação religiosa diária.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000004369.jpg</image_name>
+<image_broadcast>0000004369</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150718092500 -0300" stop="20150718095000 -0300" channel="PAL" program_id="0000129008" event_id="00000000000099078904" series_key="00000000070969000000">
+<title lang="pt">Marcas e Veículos</title>
+<title lang="en">Marcas e Veículos</title>
+<desc>O fascinante mundo do automobilismo é mostrado de maneira descontraída no Marcas &amp; Veículos. A paixão por carros servindo de combustível para mostrar os mais recentes lançamentos do setor, feiras e salões mundiais.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000070969.jpg</image_name>
+<image_broadcast>00000000070969</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150718095000 -0300" stop="20150718114500 -0300" channel="PAL" program_id="0000347411" event_id="00000000000099078905" series_key="00000000070838000000">
+<title lang="pt">Te Peguei na TV</title>
+<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150718114500 -0300" stop="20150718172500 -0300" channel="PAL" program_id="0000393427" event_id="00000000000099078906" series_key="">
+<title lang="pt">Os Vídeos Mais Bombados na Internet</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000393427.jpg</image_name>
+<image_broadcast>0000393427</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150718172500 -0300" stop="20150718203000 -0300" channel="PAL" program_id="0000344325" event_id="00000000000099078907" series_key="00000000072140000000">
+<title lang="pt">Você na TV</title>
+<desc>'Você na TV' é um show de variedades marcado pela interatividade. De forma bem humorada, leve e descontraída, o programa apresenta casos reais de pessoas que enfrentam conflitos de relacionamento e outras dificuldades cotidianas.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000072140.jpg</image_name>
+<image_broadcast>00000000072140</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150718203000 -0300" stop="20150718213000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078908" series_key="">
+<title lang="pt">Programa Religioso</title>
+<desc>Programação religiosa diária.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000004369.jpg</image_name>
+<image_broadcast>0000004369</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150718213000 -0300" stop="20150718221500 -0300" channel="PAL" program_id="0000094292" event_id="00000000000099078909" series_key="">
+<title lang="pt">RedeTV! News</title>
+<title lang="en">RedeTV! News</title>
+<desc>Sob o comando de Amanda Klein e Augusto Xavier traz a cobertura dos fatos com credibilidade e imparcialidade.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000094292.jpg</image_name>
+<image_broadcast>0000094292</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150718221500 -0300" stop="20150718230000 -0300" channel="PAL" program_id="0000196835" event_id="00000000000099078910" series_key="">
+<title lang="pt">Operação de Risco</title>
+<desc>O programa mostra a ação das polícias militar, civil e técnico-cientifica do Estado de São Paulo.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Reality Show</category>
+<image>
+<image_name position="1">0000196835.jpg</image_name>
+<image_broadcast>0000196835</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150718230000 -0300" stop="20150719003000 -0300" channel="PAL" program_id="0000203503" event_id="00000000000099078911" series_key="">
+<title lang="pt">Mega Senha</title>
+<desc>Mega Senha, um supergame que dará até um milhão de reais para quem adivinhar mais senhas.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Game Show</category>
+<image>
+<image_name position="1">0000203503.jpg</image_name>
+<image_broadcast>0000203503</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150719003000 -0300" stop="20150719013000 -0300" channel="PAL" program_id="0000370555" event_id="00000000000099078912" series_key="">
+<title lang="pt">XFC Internacional</title>
+<desc>O XFC (Xtreme Fighting Championships), maior onda do MMA nos Estados Unidos e você começa a conferir tudo na RedeTV!</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Luta</category>
+<image>
+<image_name position="1">0000370555.jpg</image_name>
+<image_broadcast>0000370555</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150719013000 -0300" stop="20150719023000 -0300" channel="PAL" program_id="0000438177" event_id="00000000000099078913" series_key="">
+<title lang="pt">Mariana Godoy Entrevista</title>
+<desc>O programa receberá cada semana um convidado em evidência com o momento político, cultural e social do país, e mostrará ao público uma faceta pouco conhecida de seu entrevistado. Sem filtros e sem retoques.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Talk Show</category>
+<image>
+<image_name position="1">0000438177.jpg</image_name>
+<image_broadcast>0000438177</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150719023000 -0300" stop="20150719030000 -0300" channel="PAL" program_id="0000393427" event_id="00000000000099078914" series_key="">
+<title lang="pt">Os Vídeos Mais Bombados na Internet</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000393427.jpg</image_name>
+<image_broadcast>0000393427</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150719030000 -0300" stop="20150719100000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078915" series_key="">
+<title lang="pt">Programa Religioso</title>
+<desc>Programação religiosa diária.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000004369.jpg</image_name>
+<image_broadcast>0000004369</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150719100000 -0300" stop="20150719103000 -0300" channel="PAL" program_id="0000437995" event_id="00000000000099078916" series_key="">
+<title lang="pt">Marlon Santos Na Tv</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000437995.jpg</image_name>
+<image_broadcast>0000437995</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150719103000 -0300" stop="20150719120000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078917" series_key="00000000070838000000">
+<title lang="pt">Te Peguei</title>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150719120000 -0300" stop="20150719130000 -0300" channel="PAL" program_id="0000289800" event_id="00000000000099078918" series_key="">
+<title lang="pt">Tri Legal Tchê</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000289800.jpg</image_name>
+<image_broadcast>0000289800</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150719130000 -0300" stop="20150719180000 -0300" channel="PAL" program_id="0000393427" event_id="00000000000099078919" series_key="">
+<title lang="pt">Os Vídeos Mais Bombados na Internet</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000393427.jpg</image_name>
+<image_broadcast>0000393427</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150719180000 -0300" stop="20150719213000 -0300" channel="PAL" program_id="0000387516" event_id="00000000000099078920" series_key="">
+<title lang="pt">Encrenca</title>
+<desc>Tatola, Dennys, Ricardinho e Ângelo, juntos e sintonizados, agora no Encrenca, vão ter a divertida tarefa de comentar as notícias da semana com irreverência, alem de entrevistas, quadros e uma pitada de futebol.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">0000387516.jpg</image_name>
+<image_broadcast>0000387516</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150719213000 -0300" stop="20150719221500 -0300" channel="PAL" program_id="0000403469" event_id="00000000000099078921" series_key="00000000075241000000">
+<title lang="pt">Havaí 5.0</title>
+<desc>Uma equipe policial que tem carta branca da governadora do Havaí e pode fazer o que for preciso para capturar os maiores criminosos do estado.</desc>
+<credits>
+<director>Leonard Freeman</director>
+<director>Leonard Freeman</director>
+</credits>
+<category lang="pt">Séries</category>
+<category lang="pt">Policial</category>
+<image>
+<image_name position="1">00000000075241.jpg</image_name>
+<image_broadcast>00000000075241</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150719221500 -0300" stop="20150720001500 -0300" channel="PAL" program_id="0000347411" event_id="00000000000099078922" series_key="00000000070838000000">
+<title lang="pt">Te Peguei na TV</title>
+<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150720001500 -0300" stop="20150720021500 -0300" channel="PAL" program_id="0000387516" event_id="00000000000099078923" series_key="">
+<title lang="pt">Encrenca</title>
+<desc>Tatola, Dennys, Ricardinho e Ângelo, juntos e sintonizados, agora no Encrenca, vão ter a divertida tarefa de comentar as notícias da semana com irreverência, alem de entrevistas, quadros e uma pitada de futebol.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">0000387516.jpg</image_name>
+<image_broadcast>0000387516</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150720021500 -0300" stop="20150720030000 -0300" channel="PAL" program_id="0000347411" event_id="00000000000099078924" series_key="00000000070838000000">
+<title lang="pt">Te Peguei na TV</title>
+<desc>João Kléber apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150720030000 -0300" stop="20150720083000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078925" series_key="">
+<title lang="pt">Programa Religioso</title>
+<desc>Programação religiosa diária.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000004369.jpg</image_name>
+<image_broadcast>0000004369</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150720083000 -0300" stop="20150720093000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078926" series_key="00000000070838000000">
+<title lang="pt">Te Peguei</title>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150720093000 -0300" stop="20150720120000 -0300" channel="PAL" program_id="0000440793" event_id="00000000000099078927" series_key="00000000076958000000">
+<title lang="pt">Melhor Pra Você</title>
+<desc>Levar informação, entretenimento, dicas de saúde, culinária e prestação de serviço, com pitadas de bom humor e descontração. Comandado por três grandes apresentadores Celso Zucatelli, Edu Guedes e Mariana Leão.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000076958.jpg</image_name>
+<image_broadcast>00000000076958</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150720120000 -0300" stop="20150720140000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078928" series_key="">
+<title lang="pt">Programa Religioso</title>
+<desc>Programação religiosa diária.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000004369.jpg</image_name>
+<image_broadcast>0000004369</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150720140000 -0300" stop="20150720150000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078929" series_key="00000000070838000000">
+<title lang="pt">Te Peguei</title>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150720150000 -0300" stop="20150720170000 -0300" channel="PAL" program_id="0000105520" event_id="00000000000099078930" series_key="">
+<title lang="pt">A Tarde é Sua</title>
+<desc>Comandada pela experiente Sonia Abrão, traz num programa versátil muita informação, entrevistas, famosos e polêmicas.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000105520.jpg</image_name>
+<image_broadcast>0000105520</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150720170000 -0300" stop="20150720173000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078931" series_key="00000000070838000000">
+<title lang="pt">Te Peguei</title>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150720173000 -0300" stop="20150720175500 -0300" channel="PAL" program_id="0000344325" event_id="00000000000099078932" series_key="00000000072140000000">
+<title lang="pt">Você na TV</title>
+<desc>'Você na TV' é um show de variedades marcado pela interatividade. De forma bem humorada, leve e descontraída, o programa apresenta casos reais de pessoas que enfrentam conflitos de relacionamento e outras dificuldades cotidianas.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000072140.jpg</image_name>
+<image_broadcast>00000000072140</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150720175500 -0300" stop="20150720185500 -0300" channel="PAL" program_id="0000286652" event_id="00000000000099078933" series_key="00000000070967000000">
+<title lang="pt">Pampa Debates</title>
+<desc>Políticos, empresários e personalidades debatem com Paulo Sérgio Pinto sobre os principais assuntos do dia a dia. No ar pela TV Pampa há quase duas décadas, o Pampa Debates é um programa consagrado pela sociedade gaúcha.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">00000000070967.jpg</image_name>
+<image_broadcast>00000000070967</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150720185500 -0300" stop="20150720190500 -0300" channel="PAL" program_id="0000174748" event_id="00000000000099078934" series_key="00000000070971000000">
+<title lang="pt">Jornal da Pampa</title>
+<desc>O Jornal da Pampa traz as notícias mais importantes do Estado e os principais fatos do dia comentados com imparcialidade e credibilidade.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000070971.jpg</image_name>
+<image_broadcast>00000000070971</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150720190500 -0300" stop="20150720194500 -0300" channel="PAL" program_id="0000434267" event_id="00000000000099078935" series_key="">
+<title lang="pt">Atualidades Pampa</title>
+<desc>Com o comando de Magda Beatriz, os comunicadores da TV Pampa debatem com muita descontração os fatos que marcaram o dia, trazendo informação e opinião na medida certa.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000434267.jpg</image_name>
+<image_broadcast>0000434267</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150720194500 -0300" stop="20150720202500 -0300" channel="PAL" program_id="0000028505" event_id="00000000000099078936" series_key="">
+<title lang="pt">TV Fama</title>
+<title lang="en">TV Fama</title>
+<desc>O programa traz notícias, atualidades, curiosidades do meio artístico e tudo o que rola nos bastidores. Irreverente e dinâmico, traz entrevistas, notícias dos artistas, estréias de filmes, peças, eventos, desfiles e lançamentos.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000028505.jpg</image_name>
+<image_broadcast>0000028505</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150720202500 -0300" stop="20150720203000 -0300" channel="PAL" program_id="0000267721" event_id="00000000000099078937" series_key="00000000071330000000">
+<title lang="pt">Momento da Sorte</title>
+<desc>Acompanhe ao vivo os sorteios das Loterias da Caixa, como Mega-Sena, Quina e Lotofácil, além de informações e novidades sobre os jogos e premiações.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000071330.jpg</image_name>
+<image_broadcast>00000000071330</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150720203000 -0300" stop="20150720213000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078938" series_key="">
+<title lang="pt">Programa Religioso</title>
+<desc>Programação religiosa diária.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000004369.jpg</image_name>
+<image_broadcast>0000004369</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150720213000 -0300" stop="20150720223000 -0300" channel="PAL" program_id="0000094292" event_id="00000000000099078939" series_key="">
+<title lang="pt">RedeTV! News</title>
+<title lang="en">RedeTV! News</title>
+<desc>Sob o comando de Amanda Klein e Augusto Xavier traz a cobertura dos fatos com credibilidade e imparcialidade.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000094292.jpg</image_name>
+<image_broadcast>0000094292</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150720223000 -0300" stop="20150721001500 -0300" channel="PAL" program_id="0000016546" event_id="00000000000099078940" series_key="">
+<title lang="pt">SuperPop</title>
+<title lang="en">SuperPop</title>
+<desc>Apresentado pela belíssima Luciana Gimenez, o SuperPop é um programa cheio de bom humor, polêmica e curiosidades,trazendo a cada dia um assunto diferente que vai fazer você ficar grudado na televisão.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000016546.jpg</image_name>
+<image_broadcast>0000016546</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 14 anos</value>
+</rating>
+</programme>
+<programme start="20150721001500 -0300" stop="20150721030000 -0300" channel="PAL" program_id="0000131024" event_id="00000000000099078941" series_key="00000000070972000000">
+<title lang="pt">Studio Pampa</title>
+<desc>As madrugadas dos gaúchos são bem mais animadas com o Studio Pampa, um programa divertido, com muita música, brincadeiras e bom humor.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">00000000070972.jpg</image_name>
+<image_broadcast>00000000070972</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150721030000 -0300" stop="20150721083000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078942" series_key="">
+<title lang="pt">Programa Religioso</title>
+<desc>Programação religiosa diária.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000004369.jpg</image_name>
+<image_broadcast>0000004369</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150721083000 -0300" stop="20150721093000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078943" series_key="00000000070838000000">
+<title lang="pt">Te Peguei</title>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150721093000 -0300" stop="20150721120000 -0300" channel="PAL" program_id="0000440793" event_id="00000000000099078944" series_key="00000000076958000000">
+<title lang="pt">Melhor Pra Você</title>
+<desc>Levar informação, entretenimento, dicas de saúde, culinária e prestação de serviço, com pitadas de bom humor e descontração. Comandado por três grandes apresentadores Celso Zucatelli, Edu Guedes e Mariana Leão.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000076958.jpg</image_name>
+<image_broadcast>00000000076958</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150721120000 -0300" stop="20150721140000 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078945" series_key="">
+<title lang="pt">Programa Religioso</title>
+<desc>Programação religiosa diária.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000004369.jpg</image_name>
+<image_broadcast>0000004369</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150721140000 -0300" stop="20150721150000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078946" series_key="00000000070838000000">
+<title lang="pt">Te Peguei</title>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150721150000 -0300" stop="20150721170000 -0300" channel="PAL" program_id="0000105520" event_id="00000000000099078947" series_key="">
+<title lang="pt">A Tarde é Sua</title>
+<desc>Comandada pela experiente Sonia Abrão, traz num programa versátil muita informação, entrevistas, famosos e polêmicas.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000105520.jpg</image_name>
+<image_broadcast>0000105520</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150721170000 -0300" stop="20150721173000 -0300" channel="PAL" program_id="0000323868" event_id="00000000000099078948" series_key="00000000070838000000">
+<title lang="pt">Te Peguei</title>
+<desc>Íris Stefanelli apresenta as pegadinhas mais hilárias e divertidas da TV!</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000070838.jpg</image_name>
+<image_broadcast>00000000070838</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150721173000 -0300" stop="20150721175500 -0300" channel="PAL" program_id="0000344325" event_id="00000000000099078949" series_key="00000000072140000000">
+<title lang="pt">Você na TV</title>
+<desc>'Você na TV' é um show de variedades marcado pela interatividade. De forma bem humorada, leve e descontraída, o programa apresenta casos reais de pessoas que enfrentam conflitos de relacionamento e outras dificuldades cotidianas.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Comédia</category>
+<image>
+<image_name position="1">00000000072140.jpg</image_name>
+<image_broadcast>00000000072140</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150721175500 -0300" stop="20150721185500 -0300" channel="PAL" program_id="0000286652" event_id="00000000000099078950" series_key="00000000070967000000">
+<title lang="pt">Pampa Debates</title>
+<desc>Políticos, empresários e personalidades debatem com Paulo Sérgio Pinto sobre os principais assuntos do dia a dia. No ar pela TV Pampa há quase duas décadas, o Pampa Debates é um programa consagrado pela sociedade gaúcha.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">00000000070967.jpg</image_name>
+<image_broadcast>00000000070967</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150721185500 -0300" stop="20150721190500 -0300" channel="PAL" program_id="0000174748" event_id="00000000000099078951" series_key="00000000070971000000">
+<title lang="pt">Jornal da Pampa</title>
+<desc>O Jornal da Pampa traz as notícias mais importantes do Estado e os principais fatos do dia comentados com imparcialidade e credibilidade.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">00000000070971.jpg</image_name>
+<image_broadcast>00000000070971</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150721190500 -0300" stop="20150721194500 -0300" channel="PAL" program_id="0000434267" event_id="00000000000099078952" series_key="">
+<title lang="pt">Atualidades Pampa</title>
+<desc>Com o comando de Magda Beatriz, os comunicadores da TV Pampa debatem com muita descontração os fatos que marcaram o dia, trazendo informação e opinião na medida certa.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Debate</category>
+<image>
+<image_name position="1">0000434267.jpg</image_name>
+<image_broadcast>0000434267</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150721194500 -0300" stop="20150721202500 -0300" channel="PAL" program_id="0000028505" event_id="00000000000099078953" series_key="">
+<title lang="pt">TV Fama</title>
+<title lang="en">TV Fama</title>
+<desc>O programa traz notícias, atualidades, curiosidades do meio artístico e tudo o que rola nos bastidores. Irreverente e dinâmico, traz entrevistas, notícias dos artistas, estréias de filmes, peças, eventos, desfiles e lançamentos.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000028505.jpg</image_name>
+<image_broadcast>0000028505</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 10 anos</value>
+</rating>
+</programme>
+<programme start="20150721202500 -0300" stop="20150721203000 -0300" channel="PAL" program_id="0000267721" event_id="00000000000099078954" series_key="00000000071330000000">
+<title lang="pt">Momento da Sorte</title>
+<desc>Acompanhe ao vivo os sorteios das Loterias da Caixa, como Mega-Sena, Quina e Lotofácil, além de informações e novidades sobre os jogos e premiações.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">00000000071330.jpg</image_name>
+<image_broadcast>00000000071330</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150721203000 -0300" stop="20150721203500 -0300" channel="PAL" program_id="0000255383" event_id="00000000000099078955" series_key="">
+<title lang="pt">Propaganda Partidária</title>
+<desc>Programa Político.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Política</category>
+<image>
+<image_name position="1">0000255383.jpg</image_name>
+<image_broadcast>0000255383</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150721203500 -0300" stop="20150721213500 -0300" channel="PAL" program_id="0000004369" event_id="00000000000099078956" series_key="">
+<title lang="pt">Programa Religioso</title>
+<desc>Programação religiosa diária.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000004369.jpg</image_name>
+<image_broadcast>0000004369</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150721213500 -0300" stop="20150721223500 -0300" channel="PAL" program_id="0000094292" event_id="00000000000099078957" series_key="">
+<title lang="pt">RedeTV! News</title>
+<title lang="en">RedeTV! News</title>
+<desc>Sob o comando de Amanda Klein e Augusto Xavier traz a cobertura dos fatos com credibilidade e imparcialidade.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000094292.jpg</image_name>
+<image_broadcast>0000094292</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150721223500 -0300" stop="20150722000000 -0300" channel="PAL" program_id="0000307967" event_id="00000000000099078958" series_key="">
 <title lang="pt">Luciana by Night</title>
 <desc>Luciana Gimenez receberá, a cada programa, personalidades, artistas e pessoas em evidência para um bate-papo descontraído sobre os assuntos em destaque no Brasil e no mundo.</desc>
 <credits>

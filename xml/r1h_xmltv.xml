@@ -4,22 +4,21 @@
 <display-name lang="pt">Record Belém HD</display-name>
 <icon src="r1h.gif" />
 </channel>
-<programme start="20150626001500 -0300" stop="20150626011500 -0300" channel="R1H" program_id="0000446469" event_id="000000103319937" series_key="00000000026643013010">
+<programme start="20150703001500 -0300" stop="20150703011500 -0300" channel="R1H" program_id="0000448317" event_id="000000104783076" series_key="00000000026643013011">
 <title lang="pt">C.S.I. - Investigação Criminal</title>
-<title lang="en">C.S.I: 10</title>
-<sub-title lang="pt">Temp. 13 - Ep. 10</sub-title>
-<desc>Cinco pessoas morrem em um acidente de avião. Enquanto isso, Sara começa a sentir a tensão de ter uma relação de longa distância com Grissom, já que um antigo caso acaba envolvido em uma investigação.</desc>
+<title lang="en">C.S.I: Dead Air</title>
+<sub-title lang="pt">Temp. 13 - Ep. 11</sub-title>
+<desc>A âncora de um noticiário local é morta durante uma transmissão ao vivo.</desc>
 <credits>
-<director>Frank Waldeck</director>
+<director>Philip Conserva</director>
 <actor>Ted Danson</actor>
-<actor>David Berman</actor>
-<actor>Anthony Brophy</actor>
-<actor>George Eads</actor>
 <actor>Jorja Fox</actor>
-<actor>Anthony Molinari</actor>
-<actor>Gina Ravera</actor>
+<actor>Elisabeth Shue</actor>
+<actor>George Eads</actor>
+<actor>Eric Szmanda</actor>
+<actor>Robert David Hall</actor>
 </credits>
-<date>2012</date>
+<date>2013</date>
 <category lang="pt">Séries</category>
 <category lang="pt">Policial</category>
 <image>
@@ -28,8 +27,8 @@
 <image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
 <country>EUA</country>
-<episode-num system="xmltv_ns">13.10.</episode-num>
-<episode-num system="onscreen">10</episode-num>
+<episode-num system="xmltv_ns">13.11.</episode-num>
+<episode-num system="onscreen">11</episode-num>
 <video>
 <colour>yes</colour>
 </video>
@@ -40,7 +39,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150626011500 -0300" stop="20150626063000 -0300" channel="R1H" program_id="0000079020" event_id="000000103319938" series_key="">
+<programme start="20150703011500 -0300" stop="20150703063000 -0300" channel="R1H" program_id="0000079020" event_id="000000104783077" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -58,7 +57,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150626063000 -0300" stop="20150626073000 -0300" channel="R1H" program_id="0000102196" event_id="000000103319939" series_key="00000000066243000000">
+<programme start="20150703063000 -0300" stop="20150703073000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783078" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -76,7 +75,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150626073000 -0300" stop="20150626084500 -0300" channel="R1H" program_id="0000349960" event_id="000000103319940" series_key="00000000073658000000">
+<programme start="20150703073000 -0300" stop="20150703084500 -0300" channel="R1H" program_id="0000349960" event_id="000000104783079" series_key="00000000073658000000">
 <title lang="pt">Fala Pará - Ao Vivo</title>
 <desc>Responsabilidade à serviço da informação. Um Telejornal completo, onde as notícias de Belém e todo interior do Pará são destaques. De segunda à sexta-feira, às sete e quarenta da manhã, o Fala Pará traz os principais fatos do dia.</desc>
 <category lang="pt">Jornalismo</category>
@@ -94,7 +93,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150626084500 -0300" stop="20150626100000 -0300" channel="R1H" program_id="0000015945" event_id="000000103319941" series_key="00000000066238000000">
+<programme start="20150703084500 -0300" stop="20150703100000 -0300" channel="R1H" program_id="0000015945" event_id="000000104783080" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -112,7 +111,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150626100000 -0300" stop="20150626120000 -0300" channel="R1H" program_id="0000094577" event_id="000000103319942" series_key="00000000066226000000">
+<programme start="20150703100000 -0300" stop="20150703120000 -0300" channel="R1H" program_id="0000094577" event_id="000000104783082" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -130,7 +129,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150626120000 -0300" stop="20150626143000 -0300" channel="R1H" program_id="0000102196" event_id="000000103319943" series_key="00000000066243000000">
+<programme start="20150703120000 -0300" stop="20150703143000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783083" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -148,7 +147,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150626143000 -0300" stop="20150626172000 -0300" channel="R1H" program_id="0000119084" event_id="000000103319944" series_key="00000000071807000000">
+<programme start="20150703143000 -0300" stop="20150703172000 -0300" channel="R1H" program_id="0000119084" event_id="000000104783084" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -166,7 +165,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150626172000 -0300" stop="20150626181500 -0300" channel="R1H" program_id="0000015967" event_id="000000103319945" series_key="00000000069485000000">
+<programme start="20150703172000 -0300" stop="20150703181500 -0300" channel="R1H" program_id="0000015967" event_id="000000104783085" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -184,7 +183,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150626181500 -0300" stop="20150626193000 -0300" channel="R1H" program_id="0000349959" event_id="000000103319946" series_key="00000000073096000000">
+<programme start="20150703181500 -0300" stop="20150703193000 -0300" channel="R1H" program_id="0000349959" event_id="000000104783087" series_key="00000000073096000000">
 <title lang="pt">Cidade Alerta - Pará</title>
 <desc>O Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -202,7 +201,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150626193000 -0300" stop="20150626204000 -0300" channel="R1H" program_id="0000349961" event_id="000000103319947" series_key="00000000073659000000">
+<programme start="20150703193000 -0300" stop="20150703204000 -0300" channel="R1H" program_id="0000349961" event_id="000000104783088" series_key="00000000073659000000">
 <title lang="pt">Pará Record</title>
 <desc>Jornalismo ágil, reportagens exclusivas e prestação de serviços.</desc>
 <category lang="pt">Jornalismo</category>
@@ -220,7 +219,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150626204000 -0300" stop="20150626213000 -0300" channel="R1H" program_id="0000015966" event_id="000000103319948" series_key="00000000066234000000">
+<programme start="20150703204000 -0300" stop="20150703213000 -0300" channel="R1H" program_id="0000015966" event_id="000000104783089" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -238,7 +237,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150626213000 -0300" stop="20150626223000 -0300" channel="R1H" program_id="0000386082" event_id="000000103319949" series_key="00000000074023000000">
+<programme start="20150703213000 -0300" stop="20150703223000 -0300" channel="R1H" program_id="0000386082" event_id="000000104783090" series_key="00000000074023000000">
 <title lang="pt">Vitória</title>
 <desc></desc>
 <credits>
@@ -264,31 +263,34 @@
 <value>Programa impróprio para menores de 14 anos</value>
 </rating>
 </programme>
-<programme start="20150626223000 -0300" stop="20150627011500 -0300" channel="R1H" program_id="0000446959" event_id="000000103319950" series_key="00000000039454000000">
-<title lang="pt">Miami Vice</title>
-<title lang="en">Miami Vice</title>
-<desc>Sonny e Tubbs são detetives nos Estados Unidos. Após um plano do FBI dar errado, eles são chamados para capturar Arcángel, um poderoso traficante que vive no Haiti.</desc>
+<programme start="20150703223000 -0300" stop="20150704011500 -0300" channel="R1H" program_id="0000448596" event_id="000000104783092" series_key="">
+<title lang="pt">A Múmia - Tumba Do Imperador Dragão</title>
+<title lang="en">Tomb of the Dragon Emperor</title>
+<desc>O impiedoso imperador dragão é amaldiçoado pela feiticeira Zi Juan, o que faz com que ele e seu exército de 10 mil homens seja petrificado.</desc>
 <credits>
-<director>Michael Mann</director>
-<actor>Jamie Foxx</actor>
-<actor>Gong Li</actor>
-<actor>Colin Farrel</actor>
+<director>Rob Cohen</director>
+<actor>Brendan Fraser</actor>
+<actor>Maria Bello</actor>
+<actor>Jet Li</actor>
+<actor>John Hannah</actor>
+<actor>Michelle Yeoh</actor>
 </credits>
+<date>2008</date>
 <category lang="pt">Filme</category>
-<category lang="pt">Policial</category>
+<category lang="pt">Aventura</category>
 <image>
-<image_name position="1">00000000039454.jpg</image_name>
-<image_broadcast>00000000039454</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
+<image_name position="1">0000448596.jpg</image_name>
+<image_broadcast>0000448596</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
 <colour>yes</colour>
 </video>
 <rating system="Advisory">
-<value>Programa impróprio para menores de 16 anos</value>
+<value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150627011500 -0300" stop="20150627063000 -0300" channel="R1H" program_id="0000079020" event_id="000000103319951" series_key="">
+<programme start="20150704011500 -0300" stop="20150704063000 -0300" channel="R1H" program_id="0000079020" event_id="000000104783093" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -306,7 +308,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150627063000 -0300" stop="20150627070000 -0300" channel="R1H" program_id="0000235480" event_id="000000103319952" series_key="00000000073676000000">
+<programme start="20150704063000 -0300" stop="20150704070000 -0300" channel="R1H" program_id="0000235480" event_id="000000104783094" series_key="00000000073676000000">
 <title lang="pt">Nosso Tempo</title>
 <desc>Um programa da Igreja Universal do Reino de Deus. O Bispo Rogério leva uma palavra de fé e esperança a todos os internautas.</desc>
 <category lang="pt">Variedades</category>
@@ -324,7 +326,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150627070000 -0300" stop="20150627101500 -0300" channel="R1H" program_id="0000291670" event_id="000000103319953" series_key="00000000066238000000">
+<programme start="20150704070000 -0300" stop="20150704101500 -0300" channel="R1H" program_id="0000291670" event_id="000000104783095" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil Especial</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -342,14 +344,9 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150627101500 -0300" stop="20150627120000 -0300" channel="R1H" program_id="0000179573" event_id="000000103319954" series_key="00000000072203000000">
+<programme start="20150704101500 -0300" stop="20150704120000 -0300" channel="R1H" program_id="0000179573" event_id="000000104783097" series_key="00000000072203000000">
 <title lang="pt">Esporte Fantástico</title>
-<desc>O Esporte Fantástico deste sábado, exibe entrevista exclusiva com Lucas, ex-craque do São Paulo. E também entrevista Vanderlei Luxemburgo, que provoca os comentaristas da atualidade.</desc>
-<credits>
-<actor>Mylena Ciribelli</actor>
-<actor>Cláudia Reis</actor>
-<actor>Lucas Pereira e Juliana Rios</actor>
-</credits>
+<desc>Rodrigo Faro aceita desafio de David Luiz e toma um banho de água fria: "Missão dada é missão cumprida".</desc>
 <category lang="pt">Jornalismo</category>
 <category lang="pt">Esportivo</category>
 <image>
@@ -362,10 +359,10 @@
 <colour>yes</colour>
 </video>
 <rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
+<value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150627120000 -0300" stop="20150627130000 -0300" channel="R1H" program_id="0000258837" event_id="000000103319955" series_key="00000000073664000000">
+<programme start="20150704120000 -0300" stop="20150704130000 -0300" channel="R1H" program_id="0000258837" event_id="000000104783098" series_key="00000000073664000000">
 <title lang="pt">The Love School</title>
 <desc>Um dos grandes diferenciais é a interatividade dos apresentadores com o público, através do e-mail, facebook, twitter e até mesmo exibindo vídeos-pergunta, enviadas pelos telespectadores.</desc>
 <category lang="pt">Variedades</category>
@@ -383,7 +380,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150627130000 -0300" stop="20150627153000 -0300" channel="R1H" program_id="0000291669" event_id="000000103319956" series_key="00000000073666000000">
+<programme start="20150704130000 -0300" stop="20150704153000 -0300" channel="R1H" program_id="0000291669" event_id="000000104783099" series_key="00000000073666000000">
 <title lang="pt">Record Kids - Pica Pau</title>
 <desc>As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca!</desc>
 <category lang="pt">Infantil</category>
@@ -401,31 +398,31 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150627153000 -0300" stop="20150627172000 -0300" channel="R1H" program_id="0000447017" event_id="000000103319957" series_key="">
-<title lang="pt">Honey - No Ritmo Dos Seus Sonhos</title>
-<title lang="en">Honey</title>
-<desc>Honey é uma dançarina que sonha se tornar uma coreógrafa. Michael, um dietor de clipes, faz com que ela se torne uma coreografa de sucesso, mas ele se revolta quando ela nega seu pedido.</desc>
+<programme start="20150704153000 -0300" stop="20150704172000 -0300" channel="R1H" program_id="0000449041" event_id="000000104783100" series_key="">
+<title lang="pt">Arthur 3 - A Guerra dos Dois Mundos</title>
+<title lang="en">Arthur et la Guerre des Deux Mondes</title>
+<desc>Maltazard, o malvado M, agora tem dois metros de altura e refinou sua técnica de aterrorizar seres humanos. Seu objetivo é simples: formar um exército de capangas gigantes e dominar o universo.</desc>
 <credits>
-<director>Bille Woodruff</director>
-<actor>Jessica Alba</actor>
-<actor>Joy Bryant</actor>
-<actor>Mekhi Phifer</actor>
+<director>Luc Besson</director>
+<director>Luc Besson</director>
 </credits>
+<date>2010</date>
 <category lang="pt">Filme</category>
-<category lang="pt">Musical</category>
+<category lang="pt">Animação</category>
 <image>
-<image_name position="1">0000447017.jpg</image_name>
-<image_broadcast>0000447017</image_broadcast>
+<image_name position="1">0000449041.jpg</image_name>
+<image_broadcast>0000449041</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
+<country>França</country>
 <video>
 <colour>yes</colour>
 </video>
 <rating system="Advisory">
-<value>Programa impróprio para menores de 10 anos</value>
+<value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150627172000 -0300" stop="20150627194500 -0300" channel="R1H" program_id="0000349954" event_id="000000103319958" series_key="00000000072204000000">
+<programme start="20150704172000 -0300" stop="20150704194500 -0300" channel="R1H" program_id="0000349954" event_id="000000104783102" series_key="00000000072204000000">
 <title lang="pt">Cidade Alerta Especial</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -443,7 +440,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150627194500 -0300" stop="20150627203000 -0300" channel="R1H" program_id="0000352611" event_id="000000103319959" series_key="00000000072205000000">
+<programme start="20150704194500 -0300" stop="20150704203000 -0300" channel="R1H" program_id="0000352611" event_id="000000104783103" series_key="00000000072205000000">
 <title lang="pt">Jornal da Record Especial</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -461,9 +458,9 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150627203000 -0300" stop="20150627230000 -0300" channel="R1H" program_id="0000379634" event_id="000000103319960" series_key="00000000073462000000">
+<programme start="20150704203000 -0300" stop="20150704230000 -0300" channel="R1H" program_id="0000379634" event_id="000000104783104" series_key="00000000073462000000">
 <title lang="pt">Programa da Sabrina</title>
-<desc>Uma mistura de ritmos vai invadir o programa deste sábado. Do axé ao funk, passando pelo sertanejo universitário, a sempre animada Sabrina vai comandar uma grande festa no palco da atração.</desc>
+<desc>Com batalha de comida e muito "rebolation" . Sabrina aterrissa em Salvador para um encontro com Léo Santana, que vai dar o que falar. A japa mostra o bate-papo divertido com o famoso.</desc>
 <credits>
 <actor>Sabrina Satto</actor>
 </credits>
@@ -482,9 +479,9 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150627230000 -0300" stop="20150628011500 -0300" channel="R1H" program_id="0000201830" event_id="000000103319961" series_key="00000000073667000000">
+<programme start="20150704230000 -0300" stop="20150705011500 -0300" channel="R1H" program_id="0000201830" event_id="000000104783106" series_key="00000000073667000000">
 <title lang="pt">Legendários</title>
-<desc>Que Marcos Mion e sua turma adoram aprontar, todo mundo já sabe. E neste sábado não vai ser diferente o apresentador vai fazer a maior bagunça na casa de Geraldo Luís.</desc>
+<desc>Michel Teló passou por muitos momentos que Valem a Pena Ver Direito. E Mion, que não deixa passar nada, foi atrás de vídeos antigos do cantor para fazer a galera rir com imagens que ninguém nunca havia prestado tanta atenção até agora.</desc>
 <credits>
 <actor>Marcos Mion</actor>
 <actor>Juju Salimeni</actor>
@@ -504,7 +501,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150628011500 -0300" stop="20150628060000 -0300" channel="R1H" program_id="0000079020" event_id="000000103319962" series_key="">
+<programme start="20150705011500 -0300" stop="20150705060000 -0300" channel="R1H" program_id="0000079020" event_id="000000104783108" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -522,7 +519,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150628060000 -0300" stop="20150628063000 -0300" channel="R1H" program_id="0000015977" event_id="000000103319963" series_key="00000000073677000000">
+<programme start="20150705060000 -0300" stop="20150705063000 -0300" channel="R1H" program_id="0000015977" event_id="000000104783109" series_key="00000000073677000000">
 <title lang="pt">Santo Culto em seu Lar</title>
 <title lang="en">Santo Culto em seu Lar</title>
 <desc>Pregações abordando um tema específico, discutindo sempre em base de texto bíblico.</desc>
@@ -541,7 +538,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150628063000 -0300" stop="20150628093000 -0300" channel="R1H" program_id="0000098194" event_id="000000103319964" series_key="00000000073678000000">
+<programme start="20150705063000 -0300" stop="20150705093000 -0300" channel="R1H" program_id="0000098194" event_id="000000104783110" series_key="00000000073678000000">
 <title lang="pt">Desenhos Bíblicos</title>
 <title lang="en">Desenhos Bíblicos</title>
 <desc>Animações das histórias bíblicas.</desc>
@@ -557,7 +554,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150628093000 -0300" stop="20150628110000 -0300" channel="R1H" program_id="0000082399" event_id="000000103319965" series_key="00000000073668000000">
+<programme start="20150705093000 -0300" stop="20150705110000 -0300" channel="R1H" program_id="0000082399" event_id="000000104783112" series_key="00000000073668000000">
 <title lang="pt">Record Kids</title>
 <desc>Para animar a manhã de seu fim de semana, muita diversão para toda a família com os desenhos da "Record Kids".</desc>
 <category lang="pt">Infantil</category>
@@ -575,9 +572,9 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150628110000 -0300" stop="20150628153000 -0300" channel="R1H" program_id="0000017914" event_id="000000103319966" series_key="00000000072949000000">
+<programme start="20150705110000 -0300" stop="20150705153000 -0300" channel="R1H" program_id="0000017914" event_id="000000104783113" series_key="00000000072949000000">
 <title lang="pt">Domingo Show</title>
-<desc>Geraldo entrevista com exclusividade, a única testemunha do acidente do cantor sertanejo João Paulo que morreu há 18 anos, e faz revelações inéditas sobre o caso.</desc>
+<desc>"Tudo o que eu passei de dificuldade na vida foi com muita honestidade, muito caráter, com muita humildade..."  Marrone abre sua fazenda em Goiânia para Geraldo Luís e fala sobre casamento, carreira artística e depressão.</desc>
 <credits>
 <director>Rafael Perantunes</director>
 <actor>Geraldo Luís</actor>
@@ -597,13 +594,12 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150628153000 -0300" stop="20150628193000 -0300" channel="R1H" program_id="0000379635" event_id="000000103319967" series_key="00000000073463000000">
+<programme start="20150705153000 -0300" stop="20150705193000 -0300" channel="R1H" program_id="0000379635" event_id="000000104783114" series_key="00000000073463000000">
 <title lang="pt">Hora do Faro</title>
-<desc>Brincadeiras, revelações, emoção e alegria tomam conta na exibição da segunda entrevista que emocionou o pais, o encontro entre Rodrigo Faro e Xuxa Meneghel.</desc>
+<desc>Um dos acontecimentos que chocou o País nas últimas semanas foi a morte de Cristiano Araújo e Allana Moraes. Faro visita o pai do cantor  para conversar e conhecer a casa em que ele vivia.</desc>
 <credits>
 <actor>Rodrigo Faro</actor>
 </credits>
-<date>2014</date>
 <category lang="pt">Variedades</category>
 <category lang="pt">Talk Show</category>
 <image>
@@ -619,10 +615,15 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150628193000 -0300" stop="20150628231500 -0300" channel="R1H" program_id="0000074950" event_id="000000103319968" series_key="00000000072208000000">
+<programme start="20150705193000 -0300" stop="20150705231500 -0300" channel="R1H" program_id="0000074950" event_id="000000104783116" series_key="00000000072208000000">
 <title lang="pt">Domingo Espetacular</title>
 <title lang="en">Domingo Espetacular</title>
-<desc>Domingo Espetacular vai ao outro lado do mundo para revelar detalhes da cultura do Paquistão: o trânsito caótico, a gastronomia exótica, os hábitos dos muçulmanos.</desc>
+<desc>O programa mostra os cuidados na hora de escolher o que comer fora de casa. E uma reportagem sobre a nova mania, o food truck,  que invadiu as grandes cidades com uma proposta mais chic de lanche rápido.</desc>
+<credits>
+<actor>Paulo Henrique Amorim</actor>
+<actor>Janine Borba e Thalita Oliveira</actor>
+</credits>
+<date>2004</date>
 <category lang="pt">Variedades</category>
 <category lang="pt">Diversos</category>
 <image>
@@ -638,9 +639,9 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150628231500 -0300" stop="20150629001500 -0300" channel="R1H" program_id="0000420250" event_id="000000103319969" series_key="00000000076191000000">
+<programme start="20150705231500 -0300" stop="20150706001500 -0300" channel="R1H" program_id="0000420250" event_id="000000104783118" series_key="00000000076191000000">
 <title lang="pt">Repórter em Ação</title>
-<desc>O programa conta histórias de mulheres que enfrentam preconceitos para viver uma relação amorosa com assassinos, traficantes e estupradores.</desc>
+<desc>Estreia do Repórter em Ação mostra expedição para desbravar os mistérios da Amazônia.</desc>
 <credits>
 <actor>Celso Freitas</actor>
 </credits>
@@ -660,10 +661,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150629001500 -0300" stop="20150629011500 -0300" channel="R1H" program_id="0000271995" event_id="000000103319970" series_key="00000000072212000000">
+<programme start="20150706001500 -0300" stop="20150706011500 -0300" channel="R1H" program_id="0000271995" event_id="000000104783119" series_key="00000000072212000000">
 <title lang="pt">Roberto Justus +</title>
-<desc>Justus receber César Filho, o novo contratado da Record, Zilu e Angel K no talk show da Record.</desc>
-<date>2015</date>
+<desc>O tema do programa deste domingo é "Parcerias". E recebe como convidados o cantor Péricles e seu filho Lucas Morato, e as apresentadoras Carla Cecato e Roberta Piza.</desc>
+<credits>
+<director>Ricardo Justus</director>
+<actor>Roberto Justus</actor>
+<actor>Walter Longo</actor>
+</credits>
 <category lang="pt">Variedades</category>
 <category lang="pt">Talk Show</category>
 <image>
@@ -676,10 +681,10 @@
 <colour>yes</colour>
 </video>
 <rating system="Advisory">
-<value>Programa livre para todas as idades</value>
+<value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150629011500 -0300" stop="20150629063000 -0300" channel="R1H" program_id="0000079020" event_id="000000103319971" series_key="">
+<programme start="20150706011500 -0300" stop="20150706063000 -0300" channel="R1H" program_id="0000079020" event_id="000000104783120" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -697,7 +702,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150629063000 -0300" stop="20150629073000 -0300" channel="R1H" program_id="0000102196" event_id="000000103319972" series_key="00000000066243000000">
+<programme start="20150706063000 -0300" stop="20150706073000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783122" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -715,7 +720,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150629073000 -0300" stop="20150629084500 -0300" channel="R1H" program_id="0000349960" event_id="000000103319973" series_key="00000000073658000000">
+<programme start="20150706073000 -0300" stop="20150706084500 -0300" channel="R1H" program_id="0000349960" event_id="000000104783123" series_key="00000000073658000000">
 <title lang="pt">Fala Pará - Ao Vivo</title>
 <desc>Responsabilidade à serviço da informação. Um Telejornal completo, onde as notícias de Belém e todo interior do Pará são destaques. De segunda à sexta-feira, às sete e quarenta da manhã, o Fala Pará traz os principais fatos do dia.</desc>
 <category lang="pt">Jornalismo</category>
@@ -733,7 +738,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150629084500 -0300" stop="20150629100000 -0300" channel="R1H" program_id="0000015945" event_id="000000103319974" series_key="00000000066238000000">
+<programme start="20150706084500 -0300" stop="20150706100000 -0300" channel="R1H" program_id="0000015945" event_id="000000104783125" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -751,7 +756,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150629100000 -0300" stop="20150629120000 -0300" channel="R1H" program_id="0000094577" event_id="000000103319975" series_key="00000000066226000000">
+<programme start="20150706100000 -0300" stop="20150706120000 -0300" channel="R1H" program_id="0000094577" event_id="000000104783126" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -769,7 +774,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150629120000 -0300" stop="20150629143000 -0300" channel="R1H" program_id="0000102196" event_id="000000103319976" series_key="00000000066243000000">
+<programme start="20150706120000 -0300" stop="20150706143000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783127" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -787,7 +792,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150629143000 -0300" stop="20150629172000 -0300" channel="R1H" program_id="0000119084" event_id="000000103319977" series_key="00000000071807000000">
+<programme start="20150706143000 -0300" stop="20150706172000 -0300" channel="R1H" program_id="0000119084" event_id="000000104783129" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -805,7 +810,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150629172000 -0300" stop="20150629181500 -0300" channel="R1H" program_id="0000015967" event_id="000000103319978" series_key="00000000069485000000">
+<programme start="20150706172000 -0300" stop="20150706181500 -0300" channel="R1H" program_id="0000015967" event_id="000000104783130" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -823,7 +828,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150629181500 -0300" stop="20150629193000 -0300" channel="R1H" program_id="0000349959" event_id="000000103319979" series_key="00000000073096000000">
+<programme start="20150706181500 -0300" stop="20150706193000 -0300" channel="R1H" program_id="0000349959" event_id="000000104783131" series_key="00000000073096000000">
 <title lang="pt">Cidade Alerta - Pará</title>
 <desc>O Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -841,7 +846,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150629193000 -0300" stop="20150629204000 -0300" channel="R1H" program_id="0000349961" event_id="000000103319980" series_key="00000000073659000000">
+<programme start="20150706193000 -0300" stop="20150706204000 -0300" channel="R1H" program_id="0000349961" event_id="000000104783132" series_key="00000000073659000000">
 <title lang="pt">Pará Record</title>
 <desc>Jornalismo ágil, reportagens exclusivas e prestação de serviços.</desc>
 <category lang="pt">Jornalismo</category>
@@ -859,7 +864,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150629204000 -0300" stop="20150629213000 -0300" channel="R1H" program_id="0000015966" event_id="000000103319981" series_key="00000000066234000000">
+<programme start="20150706204000 -0300" stop="20150706213000 -0300" channel="R1H" program_id="0000015966" event_id="000000104783133" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -877,7 +882,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150629213000 -0300" stop="20150629223000 -0300" channel="R1H" program_id="0000386082" event_id="000000103319982" series_key="00000000074023000000">
+<programme start="20150706213000 -0300" stop="20150706223000 -0300" channel="R1H" program_id="0000386082" event_id="000000104783135" series_key="00000000074023000000">
 <title lang="pt">Vitória</title>
 <desc></desc>
 <credits>
@@ -903,7 +908,7 @@
 <value>Programa impróprio para menores de 14 anos</value>
 </rating>
 </programme>
-<programme start="20150629223000 -0300" stop="20150629233000 -0300" channel="R1H" program_id="0000184059" event_id="000000103319983" series_key="">
+<programme start="20150706223000 -0300" stop="20150706233000 -0300" channel="R1H" program_id="0000184059" event_id="000000104783136" series_key="">
 <title lang="pt">Gugu</title>
 <title lang="en">Programa do Gugu</title>
 <desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
@@ -926,9 +931,9 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150629233000 -0300" stop="20150630003000 -0300" channel="R1H" program_id="0000380369" event_id="000000103319984" series_key="00000000073493000000">
+<programme start="20150706233000 -0300" stop="20150707003000 -0300" channel="R1H" program_id="0000380369" event_id="000000104783137" series_key="00000000073493000000">
 <title lang="pt">Repórter Record Investigação</title>
-<desc>Com imagens impressionantes daqueles que ficam mais de 10 horas por dia em condições insalubres. O Programa desta semana, revela quem são as pessoas que sobrevivem do que os outros jogam fora.</desc>
+<desc>O programa desta segunda-feira, entra  no universo das prostitutas de alta classe. Elas escolheram o mercado do sexo como fonte renda e contam detalhes de uma rotina de viagens e glamour.</desc>
 <date>2014</date>
 <category lang="pt">Jornalismo</category>
 <category lang="pt">Informativo</category>
@@ -945,7 +950,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150630003000 -0300" stop="20150630011500 -0300" channel="R1H" program_id="0000433396" event_id="000000103319985" series_key="00000000065728002019">
+<programme start="20150707003000 -0300" stop="20150707011500 -0300" channel="R1H" program_id="0000433396" event_id="000000104783138" series_key="00000000065728002019">
 <title lang="pt">Grimm - Contos de Terror</title>
 <title lang="en">Grimm: Endangered</title>
 <sub-title lang="pt">Temp. 2 - Ep. 19</sub-title>
@@ -981,7 +986,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150630011500 -0300" stop="20150630063000 -0300" channel="R1H" program_id="0000079020" event_id="000000103319986" series_key="">
+<programme start="20150707011500 -0300" stop="20150707063000 -0300" channel="R1H" program_id="0000079020" event_id="000000104783140" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -999,7 +1004,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150630063000 -0300" stop="20150630073000 -0300" channel="R1H" program_id="0000102196" event_id="000000103319987" series_key="00000000066243000000">
+<programme start="20150707063000 -0300" stop="20150707073000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783141" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1017,7 +1022,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150630073000 -0300" stop="20150630084500 -0300" channel="R1H" program_id="0000349960" event_id="000000103319988" series_key="00000000073658000000">
+<programme start="20150707073000 -0300" stop="20150707084500 -0300" channel="R1H" program_id="0000349960" event_id="000000104783142" series_key="00000000073658000000">
 <title lang="pt">Fala Pará - Ao Vivo</title>
 <desc>Responsabilidade à serviço da informação. Um Telejornal completo, onde as notícias de Belém e todo interior do Pará são destaques. De segunda à sexta-feira, às sete e quarenta da manhã, o Fala Pará traz os principais fatos do dia.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1035,7 +1040,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150630084500 -0300" stop="20150630100000 -0300" channel="R1H" program_id="0000015945" event_id="000000103319989" series_key="00000000066238000000">
+<programme start="20150707084500 -0300" stop="20150707100000 -0300" channel="R1H" program_id="0000015945" event_id="000000104783143" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1053,7 +1058,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150630100000 -0300" stop="20150630120000 -0300" channel="R1H" program_id="0000094577" event_id="000000103319990" series_key="00000000066226000000">
+<programme start="20150707100000 -0300" stop="20150707120000 -0300" channel="R1H" program_id="0000094577" event_id="000000104783145" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1071,7 +1076,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150630120000 -0300" stop="20150630143000 -0300" channel="R1H" program_id="0000102196" event_id="000000103319991" series_key="00000000066243000000">
+<programme start="20150707120000 -0300" stop="20150707143000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783146" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1089,7 +1094,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150630143000 -0300" stop="20150630172000 -0300" channel="R1H" program_id="0000119084" event_id="000000103319992" series_key="00000000071807000000">
+<programme start="20150707143000 -0300" stop="20150707172000 -0300" channel="R1H" program_id="0000119084" event_id="000000104783147" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -1107,7 +1112,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150630172000 -0300" stop="20150630181500 -0300" channel="R1H" program_id="0000015967" event_id="000000103319993" series_key="00000000069485000000">
+<programme start="20150707172000 -0300" stop="20150707181500 -0300" channel="R1H" program_id="0000015967" event_id="000000104783149" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1125,7 +1130,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150630181500 -0300" stop="20150630193000 -0300" channel="R1H" program_id="0000349959" event_id="000000103319994" series_key="00000000073096000000">
+<programme start="20150707181500 -0300" stop="20150707193000 -0300" channel="R1H" program_id="0000349959" event_id="000000104783150" series_key="00000000073096000000">
 <title lang="pt">Cidade Alerta - Pará</title>
 <desc>O Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1143,7 +1148,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150630193000 -0300" stop="20150630204000 -0300" channel="R1H" program_id="0000349961" event_id="000000103319995" series_key="00000000073659000000">
+<programme start="20150707193000 -0300" stop="20150707204000 -0300" channel="R1H" program_id="0000349961" event_id="000000104783151" series_key="00000000073659000000">
 <title lang="pt">Pará Record</title>
 <desc>Jornalismo ágil, reportagens exclusivas e prestação de serviços.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1161,7 +1166,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150630204000 -0300" stop="20150630213000 -0300" channel="R1H" program_id="0000015966" event_id="000000103319996" series_key="00000000066234000000">
+<programme start="20150707204000 -0300" stop="20150707213000 -0300" channel="R1H" program_id="0000015966" event_id="000000104783152" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1179,7 +1184,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150630213000 -0300" stop="20150630223000 -0300" channel="R1H" program_id="0000386082" event_id="000000103319997" series_key="00000000074023000000">
+<programme start="20150707213000 -0300" stop="20150707223000 -0300" channel="R1H" program_id="0000386082" event_id="000000104783153" series_key="00000000074023000000">
 <title lang="pt">Vitória</title>
 <desc></desc>
 <credits>
@@ -1205,7 +1210,7 @@
 <value>Programa impróprio para menores de 14 anos</value>
 </rating>
 </programme>
-<programme start="20150630223000 -0300" stop="20150630233000 -0300" channel="R1H" program_id="0000184059" event_id="000000103319998" series_key="">
+<programme start="20150707223000 -0300" stop="20150707233000 -0300" channel="R1H" program_id="0000184059" event_id="000000104783155" series_key="">
 <title lang="pt">Gugu</title>
 <title lang="en">Programa do Gugu</title>
 <desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
@@ -1228,7 +1233,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150630233000 -0300" stop="20150701001500 -0300" channel="R1H" program_id="0000410419" event_id="000000103319999" series_key="00000000061897000000">
+<programme start="20150707233000 -0300" stop="20150708001500 -0300" channel="R1H" program_id="0000410419" event_id="000000104783156" series_key="00000000061897000000">
 <title lang="pt">C.S.I. Miami</title>
 <title lang="en">C.S.I. Miami</title>
 <desc>O trabalho da equipe de investigadores do sul da Flórida que soluciona crimes através da mistura de métodos científicos, técnicas tradicionais, tecnologia de ponta e instinto apurado para descobrir pistas.</desc>
@@ -1260,7 +1265,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150701001500 -0300" stop="20150701011500 -0300" channel="R1H" program_id="0000410419" event_id="000000103320000" series_key="00000000061897000000">
+<programme start="20150708001500 -0300" stop="20150708011500 -0300" channel="R1H" program_id="0000410419" event_id="000000104783157" series_key="00000000061897000000">
 <title lang="pt">C.S.I. Miami</title>
 <title lang="en">C.S.I. Miami</title>
 <desc>O trabalho da equipe de investigadores do sul da Flórida que soluciona crimes através da mistura de métodos científicos, técnicas tradicionais, tecnologia de ponta e instinto apurado para descobrir pistas.</desc>
@@ -1292,7 +1297,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150701011500 -0300" stop="20150701063000 -0300" channel="R1H" program_id="0000079020" event_id="000000103320001" series_key="">
+<programme start="20150708011500 -0300" stop="20150708063000 -0300" channel="R1H" program_id="0000079020" event_id="000000104783159" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -1310,7 +1315,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150701063000 -0300" stop="20150701073000 -0300" channel="R1H" program_id="0000102196" event_id="000000103320002" series_key="00000000066243000000">
+<programme start="20150708063000 -0300" stop="20150708073000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783160" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1328,7 +1333,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150701073000 -0300" stop="20150701084500 -0300" channel="R1H" program_id="0000349960" event_id="000000103320003" series_key="00000000073658000000">
+<programme start="20150708073000 -0300" stop="20150708084500 -0300" channel="R1H" program_id="0000349960" event_id="000000104783161" series_key="00000000073658000000">
 <title lang="pt">Fala Pará - Ao Vivo</title>
 <desc>Responsabilidade à serviço da informação. Um Telejornal completo, onde as notícias de Belém e todo interior do Pará são destaques. De segunda à sexta-feira, às sete e quarenta da manhã, o Fala Pará traz os principais fatos do dia.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1346,7 +1351,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150701084500 -0300" stop="20150701100000 -0300" channel="R1H" program_id="0000015945" event_id="000000103320004" series_key="00000000066238000000">
+<programme start="20150708084500 -0300" stop="20150708100000 -0300" channel="R1H" program_id="0000015945" event_id="000000104783162" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1364,7 +1369,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150701100000 -0300" stop="20150701120000 -0300" channel="R1H" program_id="0000094577" event_id="000000103320005" series_key="00000000066226000000">
+<programme start="20150708100000 -0300" stop="20150708120000 -0300" channel="R1H" program_id="0000094577" event_id="000000104783164" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1382,7 +1387,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150701120000 -0300" stop="20150701143000 -0300" channel="R1H" program_id="0000102196" event_id="000000103320006" series_key="00000000066243000000">
+<programme start="20150708120000 -0300" stop="20150708143000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783165" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1400,7 +1405,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150701143000 -0300" stop="20150701172000 -0300" channel="R1H" program_id="0000119084" event_id="000000103320007" series_key="00000000071807000000">
+<programme start="20150708143000 -0300" stop="20150708172000 -0300" channel="R1H" program_id="0000119084" event_id="000000104783166" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -1418,7 +1423,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150701172000 -0300" stop="20150701181500 -0300" channel="R1H" program_id="0000015967" event_id="000000103320008" series_key="00000000069485000000">
+<programme start="20150708172000 -0300" stop="20150708181500 -0300" channel="R1H" program_id="0000015967" event_id="000000104783167" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1436,7 +1441,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150701181500 -0300" stop="20150701193000 -0300" channel="R1H" program_id="0000349959" event_id="000000103320009" series_key="00000000073096000000">
+<programme start="20150708181500 -0300" stop="20150708193000 -0300" channel="R1H" program_id="0000349959" event_id="000000104783168" series_key="00000000073096000000">
 <title lang="pt">Cidade Alerta - Pará</title>
 <desc>O Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1454,7 +1459,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150701193000 -0300" stop="20150701204000 -0300" channel="R1H" program_id="0000349961" event_id="000000103320010" series_key="00000000073659000000">
+<programme start="20150708193000 -0300" stop="20150708204000 -0300" channel="R1H" program_id="0000349961" event_id="000000104783169" series_key="00000000073659000000">
 <title lang="pt">Pará Record</title>
 <desc>Jornalismo ágil, reportagens exclusivas e prestação de serviços.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1472,7 +1477,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150701204000 -0300" stop="20150701213000 -0300" channel="R1H" program_id="0000015966" event_id="000000103320011" series_key="00000000066234000000">
+<programme start="20150708204000 -0300" stop="20150708213000 -0300" channel="R1H" program_id="0000015966" event_id="000000104783170" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1490,7 +1495,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150701213000 -0300" stop="20150701223000 -0300" channel="R1H" program_id="0000386082" event_id="000000103320012" series_key="00000000074023000000">
+<programme start="20150708213000 -0300" stop="20150708223000 -0300" channel="R1H" program_id="0000386082" event_id="000000104783171" series_key="00000000074023000000">
 <title lang="pt">Vitória</title>
 <desc></desc>
 <credits>
@@ -1516,7 +1521,7 @@
 <value>Programa impróprio para menores de 14 anos</value>
 </rating>
 </programme>
-<programme start="20150701223000 -0300" stop="20150701233000 -0300" channel="R1H" program_id="0000184059" event_id="000000103320013" series_key="">
+<programme start="20150708223000 -0300" stop="20150708233000 -0300" channel="R1H" program_id="0000184059" event_id="000000104783173" series_key="">
 <title lang="pt">Gugu</title>
 <title lang="en">Programa do Gugu</title>
 <desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
@@ -1539,7 +1544,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150701233000 -0300" stop="20150702003000 -0300" channel="R1H" program_id="0000134042" event_id="000000103320014" series_key="00000000066236000000">
+<programme start="20150708233000 -0300" stop="20150709003000 -0300" channel="R1H" program_id="0000134042" event_id="000000104783174" series_key="00000000066236000000">
 <title lang="pt">Câmera Record</title>
 <desc>Na final do reality A Fazenda, o Câmera Record discute as grandes polêmicas dos participantes.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1557,7 +1562,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150702003000 -0300" stop="20150702011500 -0300" channel="R1H" program_id="0000419532" event_id="000000103320015" series_key="00000000073521001001">
+<programme start="20150709003000 -0300" stop="20150709011500 -0300" channel="R1H" program_id="0000419532" event_id="000000104783175" series_key="00000000073521001001">
 <title lang="pt">Chicago P.D. - Distrito 21</title>
 <title lang="en">Chicago P.D.: Stepping Stone</title>
 <sub-title lang="pt">Temp. 1 - Ep. 1</sub-title>
@@ -1592,7 +1597,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150702011500 -0300" stop="20150702063000 -0300" channel="R1H" program_id="0000079020" event_id="000000103320016" series_key="">
+<programme start="20150709011500 -0300" stop="20150709063000 -0300" channel="R1H" program_id="0000079020" event_id="000000104783176" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -1610,7 +1615,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150702063000 -0300" stop="20150702073000 -0300" channel="R1H" program_id="0000102196" event_id="000000103320017" series_key="00000000066243000000">
+<programme start="20150709063000 -0300" stop="20150709073000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783177" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1628,7 +1633,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150702073000 -0300" stop="20150702084500 -0300" channel="R1H" program_id="0000349960" event_id="000000103320018" series_key="00000000073658000000">
+<programme start="20150709073000 -0300" stop="20150709084500 -0300" channel="R1H" program_id="0000349960" event_id="000000104783179" series_key="00000000073658000000">
 <title lang="pt">Fala Pará - Ao Vivo</title>
 <desc>Responsabilidade à serviço da informação. Um Telejornal completo, onde as notícias de Belém e todo interior do Pará são destaques. De segunda à sexta-feira, às sete e quarenta da manhã, o Fala Pará traz os principais fatos do dia.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1646,7 +1651,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150702084500 -0300" stop="20150702100000 -0300" channel="R1H" program_id="0000015945" event_id="000000103320019" series_key="00000000066238000000">
+<programme start="20150709084500 -0300" stop="20150709100000 -0300" channel="R1H" program_id="0000015945" event_id="000000104783180" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1664,7 +1669,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150702100000 -0300" stop="20150702120000 -0300" channel="R1H" program_id="0000094577" event_id="000000103320020" series_key="00000000066226000000">
+<programme start="20150709100000 -0300" stop="20150709120000 -0300" channel="R1H" program_id="0000094577" event_id="000000104783181" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1682,7 +1687,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150702120000 -0300" stop="20150702143000 -0300" channel="R1H" program_id="0000102196" event_id="000000103320021" series_key="00000000066243000000">
+<programme start="20150709120000 -0300" stop="20150709143000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783183" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1700,7 +1705,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150702143000 -0300" stop="20150702172000 -0300" channel="R1H" program_id="0000119084" event_id="000000103320022" series_key="00000000071807000000">
+<programme start="20150709143000 -0300" stop="20150709172000 -0300" channel="R1H" program_id="0000119084" event_id="000000104783184" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -1718,7 +1723,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150702172000 -0300" stop="20150702181500 -0300" channel="R1H" program_id="0000015967" event_id="000000103320023" series_key="00000000069485000000">
+<programme start="20150709172000 -0300" stop="20150709181500 -0300" channel="R1H" program_id="0000015967" event_id="000000104783185" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1736,7 +1741,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150702181500 -0300" stop="20150702193000 -0300" channel="R1H" program_id="0000349959" event_id="000000103320024" series_key="00000000073096000000">
+<programme start="20150709181500 -0300" stop="20150709193000 -0300" channel="R1H" program_id="0000349959" event_id="000000104783186" series_key="00000000073096000000">
 <title lang="pt">Cidade Alerta - Pará</title>
 <desc>O Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1754,7 +1759,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150702193000 -0300" stop="20150702203000 -0300" channel="R1H" program_id="0000349961" event_id="000000103320025" series_key="00000000073659000000">
+<programme start="20150709193000 -0300" stop="20150709203000 -0300" channel="R1H" program_id="0000349961" event_id="000000104783188" series_key="00000000073659000000">
 <title lang="pt">Pará Record</title>
 <desc>Jornalismo ágil, reportagens exclusivas e prestação de serviços.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1772,7 +1777,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150702203000 -0300" stop="20150702204000 -0300" channel="R1H" program_id="0000255383" event_id="000000103320026" series_key="">
+<programme start="20150709203000 -0300" stop="20150709204000 -0300" channel="R1H" program_id="0000255383" event_id="000000104783189" series_key="">
 <title lang="pt">Propaganda Partidária</title>
 <desc>Programa Político.</desc>
 <category lang="pt">Variedades</category>
@@ -1789,7 +1794,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150702204000 -0300" stop="20150702213000 -0300" channel="R1H" program_id="0000015966" event_id="000000103320027" series_key="00000000066234000000">
+<programme start="20150709204000 -0300" stop="20150709213000 -0300" channel="R1H" program_id="0000015966" event_id="000000104783190" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1807,7 +1812,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150702213000 -0300" stop="20150702223000 -0300" channel="R1H" program_id="0000386082" event_id="000000103320028" series_key="00000000074023000000">
+<programme start="20150709213000 -0300" stop="20150709223000 -0300" channel="R1H" program_id="0000386082" event_id="000000104783191" series_key="00000000074023000000">
 <title lang="pt">Vitória</title>
 <desc></desc>
 <credits>
@@ -1833,7 +1838,7 @@
 <value>Programa impróprio para menores de 14 anos</value>
 </rating>
 </programme>
-<programme start="20150702223000 -0300" stop="20150702233000 -0300" channel="R1H" program_id="0000184059" event_id="000000103320029" series_key="">
+<programme start="20150709223000 -0300" stop="20150709233000 -0300" channel="R1H" program_id="0000184059" event_id="000000104783193" series_key="">
 <title lang="pt">Gugu</title>
 <title lang="en">Programa do Gugu</title>
 <desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
@@ -1856,7 +1861,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150702233000 -0300" stop="20150703001500 -0300" channel="R1H" program_id="0000410414" event_id="000000103320030" series_key="00000000061897000000">
+<programme start="20150709233000 -0300" stop="20150710001500 -0300" channel="R1H" program_id="0000410414" event_id="000000104783194" series_key="00000000061897000000">
 <title lang="pt">C.S.I.</title>
 <title lang="en">C.S.I.</title>
 <desc>C.S.I retrata o difícil cotidiano de um grupo de investigadores judiciais da cidade de Las Vegas, que resolve casos em que a polícia fracassou, analisando os locais onde foram cometidos os crimes.</desc>
@@ -1889,7 +1894,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150703001500 -0300" stop="20150703011500 -0300" channel="R1H" program_id="0000410414" event_id="000000103320031" series_key="00000000061897000000">
+<programme start="20150710001500 -0300" stop="20150710011500 -0300" channel="R1H" program_id="0000410414" event_id="000000104783195" series_key="00000000061897000000">
 <title lang="pt">C.S.I.</title>
 <title lang="en">C.S.I.</title>
 <desc>C.S.I retrata o difícil cotidiano de um grupo de investigadores judiciais da cidade de Las Vegas, que resolve casos em que a polícia fracassou, analisando os locais onde foram cometidos os crimes.</desc>
@@ -1922,7 +1927,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150703011500 -0300" stop="20150703063000 -0300" channel="R1H" program_id="0000079020" event_id="000000103320032" series_key="">
+<programme start="20150710011500 -0300" stop="20150710063000 -0300" channel="R1H" program_id="0000079020" event_id="000000104783197" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -1940,7 +1945,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703063000 -0300" stop="20150703073000 -0300" channel="R1H" program_id="0000102196" event_id="000000103320033" series_key="00000000066243000000">
+<programme start="20150710063000 -0300" stop="20150710073000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783198" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1958,7 +1963,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703073000 -0300" stop="20150703084500 -0300" channel="R1H" program_id="0000349960" event_id="000000103320034" series_key="00000000073658000000">
+<programme start="20150710073000 -0300" stop="20150710084500 -0300" channel="R1H" program_id="0000349960" event_id="000000104783199" series_key="00000000073658000000">
 <title lang="pt">Fala Pará - Ao Vivo</title>
 <desc>Responsabilidade à serviço da informação. Um Telejornal completo, onde as notícias de Belém e todo interior do Pará são destaques. De segunda à sexta-feira, às sete e quarenta da manhã, o Fala Pará traz os principais fatos do dia.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1976,7 +1981,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703084500 -0300" stop="20150703100000 -0300" channel="R1H" program_id="0000015945" event_id="000000103320035" series_key="00000000066238000000">
+<programme start="20150710084500 -0300" stop="20150710100000 -0300" channel="R1H" program_id="0000015945" event_id="000000104783200" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1994,7 +1999,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703100000 -0300" stop="20150703120000 -0300" channel="R1H" program_id="0000094577" event_id="000000103320036" series_key="00000000066226000000">
+<programme start="20150710100000 -0300" stop="20150710120000 -0300" channel="R1H" program_id="0000094577" event_id="000000104783201" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2012,7 +2017,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703120000 -0300" stop="20150703143000 -0300" channel="R1H" program_id="0000102196" event_id="000000103320037" series_key="00000000066243000000">
+<programme start="20150710120000 -0300" stop="20150710143000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783202" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2030,7 +2035,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703143000 -0300" stop="20150703172000 -0300" channel="R1H" program_id="0000119084" event_id="000000103320038" series_key="00000000071807000000">
+<programme start="20150710143000 -0300" stop="20150710172000 -0300" channel="R1H" program_id="0000119084" event_id="000000104783203" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -2048,7 +2053,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150703172000 -0300" stop="20150703181500 -0300" channel="R1H" program_id="0000015967" event_id="000000103320039" series_key="00000000069485000000">
+<programme start="20150710172000 -0300" stop="20150710181500 -0300" channel="R1H" program_id="0000015967" event_id="000000104783204" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2066,7 +2071,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703181500 -0300" stop="20150703193000 -0300" channel="R1H" program_id="0000349959" event_id="000000103320040" series_key="00000000073096000000">
+<programme start="20150710181500 -0300" stop="20150710193000 -0300" channel="R1H" program_id="0000349959" event_id="000000104783205" series_key="00000000073096000000">
 <title lang="pt">Cidade Alerta - Pará</title>
 <desc>O Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2084,7 +2089,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703193000 -0300" stop="20150703204000 -0300" channel="R1H" program_id="0000349961" event_id="000000103320041" series_key="00000000073659000000">
+<programme start="20150710193000 -0300" stop="20150710204000 -0300" channel="R1H" program_id="0000349961" event_id="000000104783207" series_key="00000000073659000000">
 <title lang="pt">Pará Record</title>
 <desc>Jornalismo ágil, reportagens exclusivas e prestação de serviços.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2102,7 +2107,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703204000 -0300" stop="20150703213000 -0300" channel="R1H" program_id="0000015966" event_id="000000103320042" series_key="00000000066234000000">
+<programme start="20150710204000 -0300" stop="20150710213000 -0300" channel="R1H" program_id="0000015966" event_id="000000104783208" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2120,7 +2125,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703213000 -0300" stop="20150703223000 -0300" channel="R1H" program_id="0000386082" event_id="000000103320043" series_key="00000000074023000000">
+<programme start="20150710213000 -0300" stop="20150710223000 -0300" channel="R1H" program_id="0000386082" event_id="000000104783209" series_key="00000000074023000000">
 <title lang="pt">Vitória</title>
 <desc></desc>
 <credits>
@@ -2146,7 +2151,7 @@
 <value>Programa impróprio para menores de 14 anos</value>
 </rating>
 </programme>
-<programme start="20150703223000 -0300" stop="20150704011500 -0300" channel="R1H" program_id="0000015989" event_id="000000103320044" series_key="">
+<programme start="20150710223000 -0300" stop="20150711011500 -0300" channel="R1H" program_id="0000015989" event_id="000000104783210" series_key="">
 <title lang="pt">Super Tela</title>
 <title lang="en">Super Tela</title>
 <desc>Aqui você vai assistir comédia, ação, suspense e muito mais!</desc>
@@ -2165,7 +2170,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150704011500 -0300" stop="20150704063000 -0300" channel="R1H" program_id="0000079020" event_id="000000103320045" series_key="">
+<programme start="20150711011500 -0300" stop="20150711063000 -0300" channel="R1H" program_id="0000079020" event_id="000000104783211" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -2183,7 +2188,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704063000 -0300" stop="20150704070000 -0300" channel="R1H" program_id="0000235480" event_id="000000103320046" series_key="00000000073676000000">
+<programme start="20150711063000 -0300" stop="20150711070000 -0300" channel="R1H" program_id="0000235480" event_id="000000104783213" series_key="00000000073676000000">
 <title lang="pt">Nosso Tempo</title>
 <desc>Um programa da Igreja Universal do Reino de Deus. O Bispo Rogério leva uma palavra de fé e esperança a todos os internautas.</desc>
 <category lang="pt">Variedades</category>
@@ -2201,7 +2206,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704070000 -0300" stop="20150704101500 -0300" channel="R1H" program_id="0000291670" event_id="000000103320047" series_key="00000000066238000000">
+<programme start="20150711070000 -0300" stop="20150711101500 -0300" channel="R1H" program_id="0000291670" event_id="000000104783214" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil Especial</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2219,7 +2224,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704101500 -0300" stop="20150704120000 -0300" channel="R1H" program_id="0000179573" event_id="000000103320048" series_key="00000000072203000000">
+<programme start="20150711101500 -0300" stop="20150711120000 -0300" channel="R1H" program_id="0000179573" event_id="000000104783215" series_key="00000000072203000000">
 <title lang="pt">Esporte Fantástico</title>
 <desc>Rodrigo Faro aceita desafio de David Luiz e toma um banho de água fria: "Missão dada é missão cumprida".</desc>
 <category lang="pt">Jornalismo</category>
@@ -2237,7 +2242,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704120000 -0300" stop="20150704130000 -0300" channel="R1H" program_id="0000258837" event_id="000000103320049" series_key="00000000073664000000">
+<programme start="20150711120000 -0300" stop="20150711130000 -0300" channel="R1H" program_id="0000258837" event_id="000000104783216" series_key="00000000073664000000">
 <title lang="pt">The Love School</title>
 <desc>Um dos grandes diferenciais é a interatividade dos apresentadores com o público, através do e-mail, facebook, twitter e até mesmo exibindo vídeos-pergunta, enviadas pelos telespectadores.</desc>
 <category lang="pt">Variedades</category>
@@ -2255,7 +2260,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150704130000 -0300" stop="20150704153000 -0300" channel="R1H" program_id="0000291669" event_id="000000103320050" series_key="00000000073666000000">
+<programme start="20150711130000 -0300" stop="20150711153000 -0300" channel="R1H" program_id="0000291669" event_id="000000104783218" series_key="00000000073666000000">
 <title lang="pt">Record Kids - Pica Pau</title>
 <desc>As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca!</desc>
 <category lang="pt">Infantil</category>
@@ -2273,7 +2278,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704153000 -0300" stop="20150704172000 -0300" channel="R1H" program_id="0000060694" event_id="000000103320051" series_key="">
+<programme start="20150711153000 -0300" stop="20150711172000 -0300" channel="R1H" program_id="0000060694" event_id="000000104783219" series_key="">
 <title lang="pt">Cine Aventura</title>
 <desc>Aqui você vai assistir comédia, ação, suspense e muito mais!</desc>
 <category lang="pt">Variedades</category>
@@ -2287,7 +2292,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704172000 -0300" stop="20150704194500 -0300" channel="R1H" program_id="0000349954" event_id="000000103320052" series_key="00000000072204000000">
+<programme start="20150711172000 -0300" stop="20150711194500 -0300" channel="R1H" program_id="0000349954" event_id="000000104783220" series_key="00000000072204000000">
 <title lang="pt">Cidade Alerta Especial</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2305,7 +2310,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704194500 -0300" stop="20150704203000 -0300" channel="R1H" program_id="0000352611" event_id="000000103320053" series_key="00000000072205000000">
+<programme start="20150711194500 -0300" stop="20150711203000 -0300" channel="R1H" program_id="0000352611" event_id="000000104783221" series_key="00000000072205000000">
 <title lang="pt">Jornal da Record Especial</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2323,7 +2328,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704203000 -0300" stop="20150704230000 -0300" channel="R1H" program_id="0000379634" event_id="000000103320054" series_key="00000000073462000000">
+<programme start="20150711203000 -0300" stop="20150711230000 -0300" channel="R1H" program_id="0000379634" event_id="000000104783223" series_key="00000000073462000000">
 <title lang="pt">Programa da Sabrina</title>
 <desc>Sabrina receberá convidados para entrevistas, assim como bandas que vão agitar a platéia. Também trará reportagens pra lá de interessantes, entrevistas exclusivas e muito mais.</desc>
 <date>2014</date>
@@ -2342,7 +2347,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150704230000 -0300" stop="20150705011500 -0300" channel="R1H" program_id="0000201830" event_id="000000103320055" series_key="00000000073667000000">
+<programme start="20150711230000 -0300" stop="20150712011500 -0300" channel="R1H" program_id="0000201830" event_id="000000104783224" series_key="00000000073667000000">
 <title lang="pt">Legendários</title>
 <desc>Apresentada e dirigida por Marcos Mion, a atração promete entreter, informar e alegrar o telespectador com tudo o que existe de mais criativo na televisão.</desc>
 <category lang="pt">Variedades</category>
@@ -2360,7 +2365,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150705011500 -0300" stop="20150705060000 -0300" channel="R1H" program_id="0000079020" event_id="000000103320056" series_key="">
+<programme start="20150712011500 -0300" stop="20150712060000 -0300" channel="R1H" program_id="0000079020" event_id="000000104783225" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -2378,7 +2383,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705060000 -0300" stop="20150705063000 -0300" channel="R1H" program_id="0000015977" event_id="000000103320057" series_key="00000000073677000000">
+<programme start="20150712060000 -0300" stop="20150712063000 -0300" channel="R1H" program_id="0000015977" event_id="000000104783226" series_key="00000000073677000000">
 <title lang="pt">Santo Culto em seu Lar</title>
 <title lang="en">Santo Culto em seu Lar</title>
 <desc>Pregações abordando um tema específico, discutindo sempre em base de texto bíblico.</desc>
@@ -2397,7 +2402,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150705063000 -0300" stop="20150705093000 -0300" channel="R1H" program_id="0000098194" event_id="000000103320058" series_key="00000000073678000000">
+<programme start="20150712063000 -0300" stop="20150712093000 -0300" channel="R1H" program_id="0000098194" event_id="000000104783227" series_key="00000000073678000000">
 <title lang="pt">Desenhos Bíblicos</title>
 <title lang="en">Desenhos Bíblicos</title>
 <desc>Animações das histórias bíblicas.</desc>
@@ -2413,7 +2418,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705093000 -0300" stop="20150705110000 -0300" channel="R1H" program_id="0000082399" event_id="000000103320059" series_key="00000000073668000000">
+<programme start="20150712093000 -0300" stop="20150712110000 -0300" channel="R1H" program_id="0000082399" event_id="000000104783228" series_key="00000000073668000000">
 <title lang="pt">Record Kids</title>
 <desc>Para animar a manhã de seu fim de semana, muita diversão para toda a família com os desenhos da "Record Kids".</desc>
 <category lang="pt">Infantil</category>
@@ -2431,7 +2436,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705110000 -0300" stop="20150705153000 -0300" channel="R1H" program_id="0000017914" event_id="000000103320060" series_key="00000000072949000000">
+<programme start="20150712110000 -0300" stop="20150712153000 -0300" channel="R1H" program_id="0000017914" event_id="000000104783229" series_key="00000000072949000000">
 <title lang="pt">Domingo Show</title>
 <desc>O Domingo Show traz a volta de um dos maiores fenômenos do pagode: Netinho de Paula. No palco, ele vai lançar em primeira mão o seu novo grupo e ainda participará do polêmico quadro Roleta da Morte.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2449,7 +2454,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705153000 -0300" stop="20150705193000 -0300" channel="R1H" program_id="0000379635" event_id="000000103320061" series_key="00000000073463000000">
+<programme start="20150712153000 -0300" stop="20150712193000 -0300" channel="R1H" program_id="0000379635" event_id="000000104783230" series_key="00000000073463000000">
 <title lang="pt">Hora do Faro</title>
 <desc>Com 25 anos de carreira, Alexandre Pires sempre se emociona ao relembrar os momentos mais marcantes de sua trajetória profissional, o vocalista do Só Pra Contrariar participa do quadro Raio X da Vida.</desc>
 <date>2014</date>
@@ -2468,7 +2473,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150705193000 -0300" stop="20150705231500 -0300" channel="R1H" program_id="0000074950" event_id="000000103320062" series_key="00000000072208000000">
+<programme start="20150712193000 -0300" stop="20150712231500 -0300" channel="R1H" program_id="0000074950" event_id="000000104783232" series_key="00000000072208000000">
 <title lang="pt">Domingo Espetacular</title>
 <title lang="en">Domingo Espetacular</title>
 <desc>Domingo Espetacular vai ao outro lado do mundo para revelar detalhes da cultura do Paquistão: o trânsito caótico, a gastronomia exótica, os hábitos dos muçulmanos.</desc>
@@ -2487,7 +2492,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705231500 -0300" stop="20150706001500 -0300" channel="R1H" program_id="0000420250" event_id="000000103320063" series_key="00000000076191000000">
+<programme start="20150712231500 -0300" stop="20150713001500 -0300" channel="R1H" program_id="0000420250" event_id="000000104783233" series_key="00000000076191000000">
 <title lang="pt">Repórter em Ação</title>
 <desc>Estreia do Repórter em Ação mostra expedição para desbravar os mistérios da Amazônia.</desc>
 <credits>
@@ -2509,7 +2514,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706001500 -0300" stop="20150706011500 -0300" channel="R1H" program_id="0000271995" event_id="000000103320064" series_key="00000000072212000000">
+<programme start="20150713001500 -0300" stop="20150713011500 -0300" channel="R1H" program_id="0000271995" event_id="000000104783234" series_key="00000000072212000000">
 <title lang="pt">Roberto Justus +</title>
 <desc>Justus receber César Filho, o novo contratado da Record, Zilu e Angel K no talk show da Record.</desc>
 <date>2015</date>
@@ -2528,7 +2533,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706011500 -0300" stop="20150706063000 -0300" channel="R1H" program_id="0000079020" event_id="000000103320065" series_key="">
+<programme start="20150713011500 -0300" stop="20150713063000 -0300" channel="R1H" program_id="0000079020" event_id="000000104783235" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -2546,7 +2551,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706063000 -0300" stop="20150706073000 -0300" channel="R1H" program_id="0000102196" event_id="000000103320066" series_key="00000000066243000000">
+<programme start="20150713063000 -0300" stop="20150713073000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783237" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2564,7 +2569,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706073000 -0300" stop="20150706084500 -0300" channel="R1H" program_id="0000349960" event_id="000000103320067" series_key="00000000073658000000">
+<programme start="20150713073000 -0300" stop="20150713084500 -0300" channel="R1H" program_id="0000349960" event_id="000000104783238" series_key="00000000073658000000">
 <title lang="pt">Fala Pará - Ao Vivo</title>
 <desc>Responsabilidade à serviço da informação. Um Telejornal completo, onde as notícias de Belém e todo interior do Pará são destaques. De segunda à sexta-feira, às sete e quarenta da manhã, o Fala Pará traz os principais fatos do dia.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2582,7 +2587,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706084500 -0300" stop="20150706100000 -0300" channel="R1H" program_id="0000015945" event_id="000000103320068" series_key="00000000066238000000">
+<programme start="20150713084500 -0300" stop="20150713100000 -0300" channel="R1H" program_id="0000015945" event_id="000000104783239" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2600,7 +2605,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706100000 -0300" stop="20150706120000 -0300" channel="R1H" program_id="0000094577" event_id="000000103320069" series_key="00000000066226000000">
+<programme start="20150713100000 -0300" stop="20150713120000 -0300" channel="R1H" program_id="0000094577" event_id="000000104783240" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2618,7 +2623,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706120000 -0300" stop="20150706143000 -0300" channel="R1H" program_id="0000102196" event_id="000000103320070" series_key="00000000066243000000">
+<programme start="20150713120000 -0300" stop="20150713143000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783241" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2636,7 +2641,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706143000 -0300" stop="20150706172000 -0300" channel="R1H" program_id="0000119084" event_id="000000103320071" series_key="00000000071807000000">
+<programme start="20150713143000 -0300" stop="20150713172000 -0300" channel="R1H" program_id="0000119084" event_id="000000104783242" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -2654,7 +2659,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150706172000 -0300" stop="20150706181500 -0300" channel="R1H" program_id="0000015967" event_id="000000103320072" series_key="00000000069485000000">
+<programme start="20150713172000 -0300" stop="20150713181500 -0300" channel="R1H" program_id="0000015967" event_id="000000104783243" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2672,7 +2677,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706181500 -0300" stop="20150706193000 -0300" channel="R1H" program_id="0000349959" event_id="000000103320073" series_key="00000000073096000000">
+<programme start="20150713181500 -0300" stop="20150713193000 -0300" channel="R1H" program_id="0000349959" event_id="000000104783245" series_key="00000000073096000000">
 <title lang="pt">Cidade Alerta - Pará</title>
 <desc>O Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2690,7 +2695,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706193000 -0300" stop="20150706204000 -0300" channel="R1H" program_id="0000349961" event_id="000000103320074" series_key="00000000073659000000">
+<programme start="20150713193000 -0300" stop="20150713204000 -0300" channel="R1H" program_id="0000349961" event_id="000000104783246" series_key="00000000073659000000">
 <title lang="pt">Pará Record</title>
 <desc>Jornalismo ágil, reportagens exclusivas e prestação de serviços.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2708,7 +2713,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706204000 -0300" stop="20150706213000 -0300" channel="R1H" program_id="0000015966" event_id="000000103320075" series_key="00000000066234000000">
+<programme start="20150713204000 -0300" stop="20150713213000 -0300" channel="R1H" program_id="0000015966" event_id="000000104783247" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2726,7 +2731,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706213000 -0300" stop="20150706223000 -0300" channel="R1H" program_id="0000386082" event_id="000000103320076" series_key="00000000074023000000">
+<programme start="20150713213000 -0300" stop="20150713223000 -0300" channel="R1H" program_id="0000386082" event_id="000000104783248" series_key="00000000074023000000">
 <title lang="pt">Vitória</title>
 <desc></desc>
 <credits>
@@ -2752,7 +2757,7 @@
 <value>Programa impróprio para menores de 14 anos</value>
 </rating>
 </programme>
-<programme start="20150706223000 -0300" stop="20150706233000 -0300" channel="R1H" program_id="0000184059" event_id="000000103320077" series_key="">
+<programme start="20150713223000 -0300" stop="20150713233000 -0300" channel="R1H" program_id="0000184059" event_id="000000104783250" series_key="">
 <title lang="pt">Gugu</title>
 <title lang="en">Programa do Gugu</title>
 <desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
@@ -2775,7 +2780,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706233000 -0300" stop="20150707003000 -0300" channel="R1H" program_id="0000380369" event_id="000000103320078" series_key="00000000073493000000">
+<programme start="20150713233000 -0300" stop="20150714003000 -0300" channel="R1H" program_id="0000380369" event_id="000000104783251" series_key="00000000073493000000">
 <title lang="pt">Repórter Record Investigação</title>
 <desc>O Repórter Record Investigação mostra como os erros médicos são cada vez mais comuns nas redes públicas ou privadas.</desc>
 <date>2014</date>
@@ -2794,7 +2799,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150707003000 -0300" stop="20150707011500 -0300" channel="R1H" program_id="0000433396" event_id="000000103320079" series_key="00000000065728002019">
+<programme start="20150714003000 -0300" stop="20150714011500 -0300" channel="R1H" program_id="0000433396" event_id="000000104783252" series_key="00000000065728002019">
 <title lang="pt">Grimm - Contos de Terror</title>
 <title lang="en">Grimm: Endangered</title>
 <sub-title lang="pt">Temp. 2 - Ep. 19</sub-title>
@@ -2830,7 +2835,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150707011500 -0300" stop="20150707063000 -0300" channel="R1H" program_id="0000079020" event_id="000000103320080" series_key="">
+<programme start="20150714011500 -0300" stop="20150714063000 -0300" channel="R1H" program_id="0000079020" event_id="000000104783253" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -2848,7 +2853,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707063000 -0300" stop="20150707073000 -0300" channel="R1H" program_id="0000102196" event_id="000000103320081" series_key="00000000066243000000">
+<programme start="20150714063000 -0300" stop="20150714073000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783254" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2866,7 +2871,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707073000 -0300" stop="20150707084500 -0300" channel="R1H" program_id="0000349960" event_id="000000103320082" series_key="00000000073658000000">
+<programme start="20150714073000 -0300" stop="20150714084500 -0300" channel="R1H" program_id="0000349960" event_id="000000104783255" series_key="00000000073658000000">
 <title lang="pt">Fala Pará - Ao Vivo</title>
 <desc>Responsabilidade à serviço da informação. Um Telejornal completo, onde as notícias de Belém e todo interior do Pará são destaques. De segunda à sexta-feira, às sete e quarenta da manhã, o Fala Pará traz os principais fatos do dia.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2884,7 +2889,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707084500 -0300" stop="20150707100000 -0300" channel="R1H" program_id="0000015945" event_id="000000103320083" series_key="00000000066238000000">
+<programme start="20150714084500 -0300" stop="20150714100000 -0300" channel="R1H" program_id="0000015945" event_id="000000104783256" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2902,7 +2907,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707100000 -0300" stop="20150707120000 -0300" channel="R1H" program_id="0000094577" event_id="000000103320084" series_key="00000000066226000000">
+<programme start="20150714100000 -0300" stop="20150714120000 -0300" channel="R1H" program_id="0000094577" event_id="000000104783257" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2920,7 +2925,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707120000 -0300" stop="20150707143000 -0300" channel="R1H" program_id="0000102196" event_id="000000103320085" series_key="00000000066243000000">
+<programme start="20150714120000 -0300" stop="20150714143000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783258" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2938,7 +2943,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707143000 -0300" stop="20150707172000 -0300" channel="R1H" program_id="0000119084" event_id="000000103320086" series_key="00000000071807000000">
+<programme start="20150714143000 -0300" stop="20150714172000 -0300" channel="R1H" program_id="0000119084" event_id="000000104783259" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -2956,7 +2961,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150707172000 -0300" stop="20150707181500 -0300" channel="R1H" program_id="0000015967" event_id="000000103320087" series_key="00000000069485000000">
+<programme start="20150714172000 -0300" stop="20150714181500 -0300" channel="R1H" program_id="0000015967" event_id="000000104783260" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2974,7 +2979,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707181500 -0300" stop="20150707193000 -0300" channel="R1H" program_id="0000349959" event_id="000000103320088" series_key="00000000073096000000">
+<programme start="20150714181500 -0300" stop="20150714193000 -0300" channel="R1H" program_id="0000349959" event_id="000000104783261" series_key="00000000073096000000">
 <title lang="pt">Cidade Alerta - Pará</title>
 <desc>O Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2992,7 +2997,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707193000 -0300" stop="20150707204000 -0300" channel="R1H" program_id="0000349961" event_id="000000103320089" series_key="00000000073659000000">
+<programme start="20150714193000 -0300" stop="20150714204000 -0300" channel="R1H" program_id="0000349961" event_id="000000104783263" series_key="00000000073659000000">
 <title lang="pt">Pará Record</title>
 <desc>Jornalismo ágil, reportagens exclusivas e prestação de serviços.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3010,7 +3015,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707204000 -0300" stop="20150707213000 -0300" channel="R1H" program_id="0000015966" event_id="000000103320090" series_key="00000000066234000000">
+<programme start="20150714204000 -0300" stop="20150714213000 -0300" channel="R1H" program_id="0000015966" event_id="000000104783264" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3028,7 +3033,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707213000 -0300" stop="20150707223000 -0300" channel="R1H" program_id="0000386082" event_id="000000103320091" series_key="00000000074023000000">
+<programme start="20150714213000 -0300" stop="20150714223000 -0300" channel="R1H" program_id="0000386082" event_id="000000104783265" series_key="00000000074023000000">
 <title lang="pt">Vitória</title>
 <desc></desc>
 <credits>
@@ -3054,7 +3059,7 @@
 <value>Programa impróprio para menores de 14 anos</value>
 </rating>
 </programme>
-<programme start="20150707223000 -0300" stop="20150707233000 -0300" channel="R1H" program_id="0000184059" event_id="000000103320092" series_key="">
+<programme start="20150714223000 -0300" stop="20150714233000 -0300" channel="R1H" program_id="0000184059" event_id="000000104783266" series_key="">
 <title lang="pt">Gugu</title>
 <title lang="en">Programa do Gugu</title>
 <desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
@@ -3077,7 +3082,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707233000 -0300" stop="20150708001500 -0300" channel="R1H" program_id="0000410419" event_id="000000103320093" series_key="00000000061897000000">
+<programme start="20150714233000 -0300" stop="20150715001500 -0300" channel="R1H" program_id="0000410419" event_id="000000104783268" series_key="00000000061897000000">
 <title lang="pt">C.S.I. Miami</title>
 <title lang="en">C.S.I. Miami</title>
 <desc>O trabalho da equipe de investigadores do sul da Flórida que soluciona crimes através da mistura de métodos científicos, técnicas tradicionais, tecnologia de ponta e instinto apurado para descobrir pistas.</desc>
@@ -3109,7 +3114,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150708001500 -0300" stop="20150708011500 -0300" channel="R1H" program_id="0000410419" event_id="000000103320094" series_key="00000000061897000000">
+<programme start="20150715001500 -0300" stop="20150715011500 -0300" channel="R1H" program_id="0000410419" event_id="000000104783269" series_key="00000000061897000000">
 <title lang="pt">C.S.I. Miami</title>
 <title lang="en">C.S.I. Miami</title>
 <desc>O trabalho da equipe de investigadores do sul da Flórida que soluciona crimes através da mistura de métodos científicos, técnicas tradicionais, tecnologia de ponta e instinto apurado para descobrir pistas.</desc>
@@ -3141,7 +3146,7 @@
 <value>3/5</value>
 </star-rating>
 </programme>
-<programme start="20150708011500 -0300" stop="20150708063000 -0300" channel="R1H" program_id="0000079020" event_id="000000103320095" series_key="">
+<programme start="20150715011500 -0300" stop="20150715063000 -0300" channel="R1H" program_id="0000079020" event_id="000000104783270" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -3159,7 +3164,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708063000 -0300" stop="20150708073000 -0300" channel="R1H" program_id="0000102196" event_id="000000103320096" series_key="00000000066243000000">
+<programme start="20150715063000 -0300" stop="20150715073000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783272" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3177,7 +3182,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708073000 -0300" stop="20150708084500 -0300" channel="R1H" program_id="0000349960" event_id="000000103320097" series_key="00000000073658000000">
+<programme start="20150715073000 -0300" stop="20150715084500 -0300" channel="R1H" program_id="0000349960" event_id="000000104783273" series_key="00000000073658000000">
 <title lang="pt">Fala Pará - Ao Vivo</title>
 <desc>Responsabilidade à serviço da informação. Um Telejornal completo, onde as notícias de Belém e todo interior do Pará são destaques. De segunda à sexta-feira, às sete e quarenta da manhã, o Fala Pará traz os principais fatos do dia.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3195,7 +3200,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708084500 -0300" stop="20150708100000 -0300" channel="R1H" program_id="0000015945" event_id="000000103320098" series_key="00000000066238000000">
+<programme start="20150715084500 -0300" stop="20150715100000 -0300" channel="R1H" program_id="0000015945" event_id="000000104783274" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3213,7 +3218,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708100000 -0300" stop="20150708120000 -0300" channel="R1H" program_id="0000094577" event_id="000000103320099" series_key="00000000066226000000">
+<programme start="20150715100000 -0300" stop="20150715120000 -0300" channel="R1H" program_id="0000094577" event_id="000000104783275" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3231,7 +3236,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708120000 -0300" stop="20150708143000 -0300" channel="R1H" program_id="0000102196" event_id="000000103320100" series_key="00000000066243000000">
+<programme start="20150715120000 -0300" stop="20150715143000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783277" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3249,7 +3254,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708143000 -0300" stop="20150708172000 -0300" channel="R1H" program_id="0000119084" event_id="000000103320101" series_key="00000000071807000000">
+<programme start="20150715143000 -0300" stop="20150715172000 -0300" channel="R1H" program_id="0000119084" event_id="000000104783278" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -3267,7 +3272,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150708172000 -0300" stop="20150708181500 -0300" channel="R1H" program_id="0000015967" event_id="000000103320102" series_key="00000000069485000000">
+<programme start="20150715172000 -0300" stop="20150715181500 -0300" channel="R1H" program_id="0000015967" event_id="000000104783279" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3285,7 +3290,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708181500 -0300" stop="20150708193000 -0300" channel="R1H" program_id="0000349959" event_id="000000103320103" series_key="00000000073096000000">
+<programme start="20150715181500 -0300" stop="20150715193000 -0300" channel="R1H" program_id="0000349959" event_id="000000104783280" series_key="00000000073096000000">
 <title lang="pt">Cidade Alerta - Pará</title>
 <desc>O Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3303,7 +3308,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708193000 -0300" stop="20150708204000 -0300" channel="R1H" program_id="0000349961" event_id="000000103320104" series_key="00000000073659000000">
+<programme start="20150715193000 -0300" stop="20150715204000 -0300" channel="R1H" program_id="0000349961" event_id="000000104783282" series_key="00000000073659000000">
 <title lang="pt">Pará Record</title>
 <desc>Jornalismo ágil, reportagens exclusivas e prestação de serviços.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3321,7 +3326,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708204000 -0300" stop="20150708213000 -0300" channel="R1H" program_id="0000015966" event_id="000000103320105" series_key="00000000066234000000">
+<programme start="20150715204000 -0300" stop="20150715213000 -0300" channel="R1H" program_id="0000015966" event_id="000000104783283" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3339,7 +3344,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708213000 -0300" stop="20150708223000 -0300" channel="R1H" program_id="0000386082" event_id="000000103320106" series_key="00000000074023000000">
+<programme start="20150715213000 -0300" stop="20150715223000 -0300" channel="R1H" program_id="0000386082" event_id="000000104783284" series_key="00000000074023000000">
 <title lang="pt">Vitória</title>
 <desc></desc>
 <credits>
@@ -3365,7 +3370,7 @@
 <value>Programa impróprio para menores de 14 anos</value>
 </rating>
 </programme>
-<programme start="20150708223000 -0300" stop="20150708233000 -0300" channel="R1H" program_id="0000184059" event_id="000000103320107" series_key="">
+<programme start="20150715223000 -0300" stop="20150715233000 -0300" channel="R1H" program_id="0000184059" event_id="000000104783286" series_key="">
 <title lang="pt">Gugu</title>
 <title lang="en">Programa do Gugu</title>
 <desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
@@ -3388,7 +3393,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708233000 -0300" stop="20150709003000 -0300" channel="R1H" program_id="0000134042" event_id="000000103320108" series_key="00000000066236000000">
+<programme start="20150715233000 -0300" stop="20150716003000 -0300" channel="R1H" program_id="0000134042" event_id="000000104783287" series_key="00000000066236000000">
 <title lang="pt">Câmera Record</title>
 <desc>Na final do reality A Fazenda, o Câmera Record discute as grandes polêmicas dos participantes.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3406,7 +3411,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709003000 -0300" stop="20150709011500 -0300" channel="R1H" program_id="0000419532" event_id="000000103320109" series_key="00000000073521001001">
+<programme start="20150716003000 -0300" stop="20150716011500 -0300" channel="R1H" program_id="0000419532" event_id="000000104783288" series_key="00000000073521001001">
 <title lang="pt">Chicago P.D. - Distrito 21</title>
 <title lang="en">Chicago P.D.: Stepping Stone</title>
 <sub-title lang="pt">Temp. 1 - Ep. 1</sub-title>
@@ -3441,7 +3446,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150709011500 -0300" stop="20150709063000 -0300" channel="R1H" program_id="0000079020" event_id="000000103320110" series_key="">
+<programme start="20150716011500 -0300" stop="20150716063000 -0300" channel="R1H" program_id="0000079020" event_id="000000104783289" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -3459,7 +3464,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709063000 -0300" stop="20150709073000 -0300" channel="R1H" program_id="0000102196" event_id="000000103320111" series_key="00000000066243000000">
+<programme start="20150716063000 -0300" stop="20150716073000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783291" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3477,7 +3482,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709073000 -0300" stop="20150709084500 -0300" channel="R1H" program_id="0000349960" event_id="000000103320112" series_key="00000000073658000000">
+<programme start="20150716073000 -0300" stop="20150716084500 -0300" channel="R1H" program_id="0000349960" event_id="000000104783292" series_key="00000000073658000000">
 <title lang="pt">Fala Pará - Ao Vivo</title>
 <desc>Responsabilidade à serviço da informação. Um Telejornal completo, onde as notícias de Belém e todo interior do Pará são destaques. De segunda à sexta-feira, às sete e quarenta da manhã, o Fala Pará traz os principais fatos do dia.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3495,7 +3500,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709084500 -0300" stop="20150709100000 -0300" channel="R1H" program_id="0000015945" event_id="000000103320113" series_key="00000000066238000000">
+<programme start="20150716084500 -0300" stop="20150716100000 -0300" channel="R1H" program_id="0000015945" event_id="000000104783293" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3513,7 +3518,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709100000 -0300" stop="20150709120000 -0300" channel="R1H" program_id="0000094577" event_id="000000103320114" series_key="00000000066226000000">
+<programme start="20150716100000 -0300" stop="20150716120000 -0300" channel="R1H" program_id="0000094577" event_id="000000104783294" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3531,7 +3536,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709120000 -0300" stop="20150709143000 -0300" channel="R1H" program_id="0000102196" event_id="000000103320115" series_key="00000000066243000000">
+<programme start="20150716120000 -0300" stop="20150716143000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783296" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3549,7 +3554,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709143000 -0300" stop="20150709172000 -0300" channel="R1H" program_id="0000119084" event_id="000000103320116" series_key="00000000071807000000">
+<programme start="20150716143000 -0300" stop="20150716172000 -0300" channel="R1H" program_id="0000119084" event_id="000000104783297" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -3567,7 +3572,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150709172000 -0300" stop="20150709181500 -0300" channel="R1H" program_id="0000015967" event_id="000000103320117" series_key="00000000069485000000">
+<programme start="20150716172000 -0300" stop="20150716181500 -0300" channel="R1H" program_id="0000015967" event_id="000000104783298" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3585,7 +3590,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709181500 -0300" stop="20150709193000 -0300" channel="R1H" program_id="0000349959" event_id="000000103320118" series_key="00000000073096000000">
+<programme start="20150716181500 -0300" stop="20150716193000 -0300" channel="R1H" program_id="0000349959" event_id="000000104783299" series_key="00000000073096000000">
 <title lang="pt">Cidade Alerta - Pará</title>
 <desc>O Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3603,7 +3608,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709193000 -0300" stop="20150709203000 -0300" channel="R1H" program_id="0000349961" event_id="000000103320119" series_key="00000000073659000000">
+<programme start="20150716193000 -0300" stop="20150716203000 -0300" channel="R1H" program_id="0000349961" event_id="000000104783301" series_key="00000000073659000000">
 <title lang="pt">Pará Record</title>
 <desc>Jornalismo ágil, reportagens exclusivas e prestação de serviços.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3621,7 +3626,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709203000 -0300" stop="20150709204000 -0300" channel="R1H" program_id="0000255383" event_id="000000103320120" series_key="">
+<programme start="20150716203000 -0300" stop="20150716204000 -0300" channel="R1H" program_id="0000255383" event_id="000000104783302" series_key="">
 <title lang="pt">Propaganda Partidária</title>
 <desc>Programa Político.</desc>
 <category lang="pt">Variedades</category>
@@ -3638,7 +3643,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709204000 -0300" stop="20150709213000 -0300" channel="R1H" program_id="0000015966" event_id="000000103320121" series_key="00000000066234000000">
+<programme start="20150716204000 -0300" stop="20150716213000 -0300" channel="R1H" program_id="0000015966" event_id="000000104783303" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3656,7 +3661,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709213000 -0300" stop="20150709223000 -0300" channel="R1H" program_id="0000386082" event_id="000000103320122" series_key="00000000074023000000">
+<programme start="20150716213000 -0300" stop="20150716223000 -0300" channel="R1H" program_id="0000386082" event_id="000000104783304" series_key="00000000074023000000">
 <title lang="pt">Vitória</title>
 <desc></desc>
 <credits>
@@ -3682,7 +3687,7 @@
 <value>Programa impróprio para menores de 14 anos</value>
 </rating>
 </programme>
-<programme start="20150709223000 -0300" stop="20150709233000 -0300" channel="R1H" program_id="0000184059" event_id="000000103320123" series_key="">
+<programme start="20150716223000 -0300" stop="20150716233000 -0300" channel="R1H" program_id="0000184059" event_id="000000104783305" series_key="">
 <title lang="pt">Gugu</title>
 <title lang="en">Programa do Gugu</title>
 <desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
@@ -3705,7 +3710,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709233000 -0300" stop="20150710001500 -0300" channel="R1H" program_id="0000410414" event_id="000000103320124" series_key="00000000061897000000">
+<programme start="20150716233000 -0300" stop="20150717001500 -0300" channel="R1H" program_id="0000410414" event_id="000000104783306" series_key="00000000061897000000">
 <title lang="pt">C.S.I.</title>
 <title lang="en">C.S.I.</title>
 <desc>C.S.I retrata o difícil cotidiano de um grupo de investigadores judiciais da cidade de Las Vegas, que resolve casos em que a polícia fracassou, analisando os locais onde foram cometidos os crimes.</desc>
@@ -3738,7 +3743,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150710001500 -0300" stop="20150710011500 -0300" channel="R1H" program_id="0000410414" event_id="000000103320125" series_key="00000000061897000000">
+<programme start="20150717001500 -0300" stop="20150717011500 -0300" channel="R1H" program_id="0000410414" event_id="000000104783308" series_key="00000000061897000000">
 <title lang="pt">C.S.I.</title>
 <title lang="en">C.S.I.</title>
 <desc>C.S.I retrata o difícil cotidiano de um grupo de investigadores judiciais da cidade de Las Vegas, que resolve casos em que a polícia fracassou, analisando os locais onde foram cometidos os crimes.</desc>
@@ -3771,7 +3776,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150710011500 -0300" stop="20150710063000 -0300" channel="R1H" program_id="0000079020" event_id="000000103320126" series_key="">
+<programme start="20150717011500 -0300" stop="20150717063000 -0300" channel="R1H" program_id="0000079020" event_id="000000104783309" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -3789,7 +3794,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710063000 -0300" stop="20150710073000 -0300" channel="R1H" program_id="0000102196" event_id="000000103320127" series_key="00000000066243000000">
+<programme start="20150717063000 -0300" stop="20150717073000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783310" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3807,7 +3812,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710073000 -0300" stop="20150710084500 -0300" channel="R1H" program_id="0000349960" event_id="000000103320128" series_key="00000000073658000000">
+<programme start="20150717073000 -0300" stop="20150717084500 -0300" channel="R1H" program_id="0000349960" event_id="000000104783311" series_key="00000000073658000000">
 <title lang="pt">Fala Pará - Ao Vivo</title>
 <desc>Responsabilidade à serviço da informação. Um Telejornal completo, onde as notícias de Belém e todo interior do Pará são destaques. De segunda à sexta-feira, às sete e quarenta da manhã, o Fala Pará traz os principais fatos do dia.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3825,7 +3830,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710084500 -0300" stop="20150710100000 -0300" channel="R1H" program_id="0000015945" event_id="000000103320129" series_key="00000000066238000000">
+<programme start="20150717084500 -0300" stop="20150717100000 -0300" channel="R1H" program_id="0000015945" event_id="000000104783313" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3843,7 +3848,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710100000 -0300" stop="20150710120000 -0300" channel="R1H" program_id="0000094577" event_id="000000103320130" series_key="00000000066226000000">
+<programme start="20150717100000 -0300" stop="20150717120000 -0300" channel="R1H" program_id="0000094577" event_id="000000104783314" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3861,7 +3866,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710120000 -0300" stop="20150710143000 -0300" channel="R1H" program_id="0000102196" event_id="000000103320131" series_key="00000000066243000000">
+<programme start="20150717120000 -0300" stop="20150717143000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783315" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3879,7 +3884,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710143000 -0300" stop="20150710172000 -0300" channel="R1H" program_id="0000119084" event_id="000000103320132" series_key="00000000071807000000">
+<programme start="20150717143000 -0300" stop="20150717172000 -0300" channel="R1H" program_id="0000119084" event_id="000000104783316" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -3897,7 +3902,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150710172000 -0300" stop="20150710181500 -0300" channel="R1H" program_id="0000015967" event_id="000000103320133" series_key="00000000069485000000">
+<programme start="20150717172000 -0300" stop="20150717181500 -0300" channel="R1H" program_id="0000015967" event_id="000000104783317" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3915,7 +3920,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710181500 -0300" stop="20150710193000 -0300" channel="R1H" program_id="0000349959" event_id="000000103320134" series_key="00000000073096000000">
+<programme start="20150717181500 -0300" stop="20150717193000 -0300" channel="R1H" program_id="0000349959" event_id="000000104783319" series_key="00000000073096000000">
 <title lang="pt">Cidade Alerta - Pará</title>
 <desc>O Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3933,7 +3938,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710193000 -0300" stop="20150710204000 -0300" channel="R1H" program_id="0000349961" event_id="000000103320135" series_key="00000000073659000000">
+<programme start="20150717193000 -0300" stop="20150717204000 -0300" channel="R1H" program_id="0000349961" event_id="000000104783320" series_key="00000000073659000000">
 <title lang="pt">Pará Record</title>
 <desc>Jornalismo ágil, reportagens exclusivas e prestação de serviços.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3951,7 +3956,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710204000 -0300" stop="20150710213000 -0300" channel="R1H" program_id="0000015966" event_id="000000103320136" series_key="00000000066234000000">
+<programme start="20150717204000 -0300" stop="20150717213000 -0300" channel="R1H" program_id="0000015966" event_id="000000104783321" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3969,7 +3974,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710213000 -0300" stop="20150710223000 -0300" channel="R1H" program_id="0000386082" event_id="000000103320137" series_key="00000000074023000000">
+<programme start="20150717213000 -0300" stop="20150717223000 -0300" channel="R1H" program_id="0000386082" event_id="000000104783322" series_key="00000000074023000000">
 <title lang="pt">Vitória</title>
 <desc></desc>
 <credits>
@@ -3995,7 +4000,7 @@
 <value>Programa impróprio para menores de 14 anos</value>
 </rating>
 </programme>
-<programme start="20150710223000 -0300" stop="20150711011500 -0300" channel="R1H" program_id="0000015989" event_id="000000103320138" series_key="">
+<programme start="20150717223000 -0300" stop="20150718011500 -0300" channel="R1H" program_id="0000015989" event_id="000000104783324" series_key="">
 <title lang="pt">Super Tela</title>
 <title lang="en">Super Tela</title>
 <desc>Aqui você vai assistir comédia, ação, suspense e muito mais!</desc>
@@ -4014,7 +4019,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150711011500 -0300" stop="20150711063000 -0300" channel="R1H" program_id="0000079020" event_id="000000103320139" series_key="">
+<programme start="20150718011500 -0300" stop="20150718063000 -0300" channel="R1H" program_id="0000079020" event_id="000000104783325" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -4032,7 +4037,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711063000 -0300" stop="20150711070000 -0300" channel="R1H" program_id="0000235480" event_id="000000103320140" series_key="00000000073676000000">
+<programme start="20150718063000 -0300" stop="20150718070000 -0300" channel="R1H" program_id="0000235480" event_id="000000104783326" series_key="00000000073676000000">
 <title lang="pt">Nosso Tempo</title>
 <desc>Um programa da Igreja Universal do Reino de Deus. O Bispo Rogério leva uma palavra de fé e esperança a todos os internautas.</desc>
 <category lang="pt">Variedades</category>
@@ -4050,7 +4055,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711070000 -0300" stop="20150711101500 -0300" channel="R1H" program_id="0000291670" event_id="000000103320141" series_key="00000000066238000000">
+<programme start="20150718070000 -0300" stop="20150718101500 -0300" channel="R1H" program_id="0000291670" event_id="000000104783327" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil Especial</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4068,7 +4073,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711101500 -0300" stop="20150711120000 -0300" channel="R1H" program_id="0000179573" event_id="000000103320142" series_key="00000000072203000000">
+<programme start="20150718101500 -0300" stop="20150718120000 -0300" channel="R1H" program_id="0000179573" event_id="000000104783328" series_key="00000000072203000000">
 <title lang="pt">Esporte Fantástico</title>
 <desc>Rodrigo Faro aceita desafio de David Luiz e toma um banho de água fria: "Missão dada é missão cumprida".</desc>
 <category lang="pt">Jornalismo</category>
@@ -4086,7 +4091,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711120000 -0300" stop="20150711130000 -0300" channel="R1H" program_id="0000258837" event_id="000000103320143" series_key="00000000073664000000">
+<programme start="20150718120000 -0300" stop="20150718130000 -0300" channel="R1H" program_id="0000258837" event_id="000000104783330" series_key="00000000073664000000">
 <title lang="pt">The Love School</title>
 <desc>Um dos grandes diferenciais é a interatividade dos apresentadores com o público, através do e-mail, facebook, twitter e até mesmo exibindo vídeos-pergunta, enviadas pelos telespectadores.</desc>
 <category lang="pt">Variedades</category>
@@ -4104,7 +4109,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150711130000 -0300" stop="20150711153000 -0300" channel="R1H" program_id="0000291669" event_id="000000103320144" series_key="00000000073666000000">
+<programme start="20150718130000 -0300" stop="20150718153000 -0300" channel="R1H" program_id="0000291669" event_id="000000104783331" series_key="00000000073666000000">
 <title lang="pt">Record Kids - Pica Pau</title>
 <desc>As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca!</desc>
 <category lang="pt">Infantil</category>
@@ -4122,7 +4127,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711153000 -0300" stop="20150711172000 -0300" channel="R1H" program_id="0000060694" event_id="000000103320145" series_key="">
+<programme start="20150718153000 -0300" stop="20150718172000 -0300" channel="R1H" program_id="0000060694" event_id="000000104783332" series_key="">
 <title lang="pt">Cine Aventura</title>
 <desc>Aqui você vai assistir comédia, ação, suspense e muito mais!</desc>
 <category lang="pt">Variedades</category>
@@ -4136,7 +4141,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711172000 -0300" stop="20150711194500 -0300" channel="R1H" program_id="0000349954" event_id="000000103320146" series_key="00000000072204000000">
+<programme start="20150718172000 -0300" stop="20150718194500 -0300" channel="R1H" program_id="0000349954" event_id="000000104783333" series_key="00000000072204000000">
 <title lang="pt">Cidade Alerta Especial</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4154,7 +4159,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711194500 -0300" stop="20150711203000 -0300" channel="R1H" program_id="0000352611" event_id="000000103320147" series_key="00000000072205000000">
+<programme start="20150718194500 -0300" stop="20150718203000 -0300" channel="R1H" program_id="0000352611" event_id="000000104783334" series_key="00000000072205000000">
 <title lang="pt">Jornal da Record Especial</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4172,7 +4177,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711203000 -0300" stop="20150711230000 -0300" channel="R1H" program_id="0000379634" event_id="000000103320148" series_key="00000000073462000000">
+<programme start="20150718203000 -0300" stop="20150718230000 -0300" channel="R1H" program_id="0000379634" event_id="000000104783336" series_key="00000000073462000000">
 <title lang="pt">Programa da Sabrina</title>
 <desc>Sabrina receberá convidados para entrevistas, assim como bandas que vão agitar a platéia. Também trará reportagens pra lá de interessantes, entrevistas exclusivas e muito mais.</desc>
 <date>2014</date>
@@ -4191,7 +4196,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150711230000 -0300" stop="20150712011500 -0300" channel="R1H" program_id="0000201830" event_id="000000103320149" series_key="00000000073667000000">
+<programme start="20150718230000 -0300" stop="20150719011500 -0300" channel="R1H" program_id="0000201830" event_id="000000104783337" series_key="00000000073667000000">
 <title lang="pt">Legendários</title>
 <desc>Apresentada e dirigida por Marcos Mion, a atração promete entreter, informar e alegrar o telespectador com tudo o que existe de mais criativo na televisão.</desc>
 <category lang="pt">Variedades</category>
@@ -4209,7 +4214,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150712011500 -0300" stop="20150712060000 -0300" channel="R1H" program_id="0000079020" event_id="000000103320150" series_key="">
+<programme start="20150719011500 -0300" stop="20150719060000 -0300" channel="R1H" program_id="0000079020" event_id="000000104783338" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -4227,7 +4232,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712060000 -0300" stop="20150712063000 -0300" channel="R1H" program_id="0000015977" event_id="000000103320151" series_key="00000000073677000000">
+<programme start="20150719060000 -0300" stop="20150719063000 -0300" channel="R1H" program_id="0000015977" event_id="000000104783339" series_key="00000000073677000000">
 <title lang="pt">Santo Culto em seu Lar</title>
 <title lang="en">Santo Culto em seu Lar</title>
 <desc>Pregações abordando um tema específico, discutindo sempre em base de texto bíblico.</desc>
@@ -4246,7 +4251,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150712063000 -0300" stop="20150712093000 -0300" channel="R1H" program_id="0000098194" event_id="000000103320152" series_key="00000000073678000000">
+<programme start="20150719063000 -0300" stop="20150719093000 -0300" channel="R1H" program_id="0000098194" event_id="000000104783340" series_key="00000000073678000000">
 <title lang="pt">Desenhos Bíblicos</title>
 <title lang="en">Desenhos Bíblicos</title>
 <desc>Animações das histórias bíblicas.</desc>
@@ -4262,7 +4267,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712093000 -0300" stop="20150712110000 -0300" channel="R1H" program_id="0000082399" event_id="000000103320153" series_key="00000000073668000000">
+<programme start="20150719093000 -0300" stop="20150719110000 -0300" channel="R1H" program_id="0000082399" event_id="000000104783341" series_key="00000000073668000000">
 <title lang="pt">Record Kids</title>
 <desc>Para animar a manhã de seu fim de semana, muita diversão para toda a família com os desenhos da "Record Kids".</desc>
 <category lang="pt">Infantil</category>
@@ -4280,7 +4285,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712110000 -0300" stop="20150712153000 -0300" channel="R1H" program_id="0000017914" event_id="000000103320154" series_key="00000000072949000000">
+<programme start="20150719110000 -0300" stop="20150719153000 -0300" channel="R1H" program_id="0000017914" event_id="000000104783342" series_key="00000000072949000000">
 <title lang="pt">Domingo Show</title>
 <desc>O Domingo Show traz a volta de um dos maiores fenômenos do pagode: Netinho de Paula. No palco, ele vai lançar em primeira mão o seu novo grupo e ainda participará do polêmico quadro Roleta da Morte.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4298,7 +4303,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712153000 -0300" stop="20150712193000 -0300" channel="R1H" program_id="0000379635" event_id="000000103320155" series_key="00000000073463000000">
+<programme start="20150719153000 -0300" stop="20150719193000 -0300" channel="R1H" program_id="0000379635" event_id="000000104783343" series_key="00000000073463000000">
 <title lang="pt">Hora do Faro</title>
 <desc>Com 25 anos de carreira, Alexandre Pires sempre se emociona ao relembrar os momentos mais marcantes de sua trajetória profissional, o vocalista do Só Pra Contrariar participa do quadro Raio X da Vida.</desc>
 <date>2014</date>
@@ -4317,7 +4322,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150712193000 -0300" stop="20150712231500 -0300" channel="R1H" program_id="0000074950" event_id="000000103320156" series_key="00000000072208000000">
+<programme start="20150719193000 -0300" stop="20150719231500 -0300" channel="R1H" program_id="0000074950" event_id="000000104783344" series_key="00000000072208000000">
 <title lang="pt">Domingo Espetacular</title>
 <title lang="en">Domingo Espetacular</title>
 <desc>Domingo Espetacular vai ao outro lado do mundo para revelar detalhes da cultura do Paquistão: o trânsito caótico, a gastronomia exótica, os hábitos dos muçulmanos.</desc>
@@ -4336,7 +4341,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712231500 -0300" stop="20150713001500 -0300" channel="R1H" program_id="0000420250" event_id="000000103320157" series_key="00000000076191000000">
+<programme start="20150719231500 -0300" stop="20150720001500 -0300" channel="R1H" program_id="0000420250" event_id="000000104783345" series_key="00000000076191000000">
 <title lang="pt">Repórter em Ação</title>
 <desc>Estreia do Repórter em Ação mostra expedição para desbravar os mistérios da Amazônia.</desc>
 <credits>
@@ -4358,7 +4363,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713001500 -0300" stop="20150713011500 -0300" channel="R1H" program_id="0000271995" event_id="000000103320158" series_key="00000000072212000000">
+<programme start="20150720001500 -0300" stop="20150720011500 -0300" channel="R1H" program_id="0000271995" event_id="000000104783347" series_key="00000000072212000000">
 <title lang="pt">Roberto Justus +</title>
 <desc>Justus receber César Filho, o novo contratado da Record, Zilu e Angel K no talk show da Record.</desc>
 <date>2015</date>
@@ -4377,7 +4382,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713011500 -0300" stop="20150713063000 -0300" channel="R1H" program_id="0000079020" event_id="000000103320159" series_key="">
+<programme start="20150720011500 -0300" stop="20150720063000 -0300" channel="R1H" program_id="0000079020" event_id="000000104783348" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -4395,7 +4400,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713063000 -0300" stop="20150713073000 -0300" channel="R1H" program_id="0000102196" event_id="000000103320160" series_key="00000000066243000000">
+<programme start="20150720063000 -0300" stop="20150720073000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783349" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4413,7 +4418,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713073000 -0300" stop="20150713084500 -0300" channel="R1H" program_id="0000349960" event_id="000000103320161" series_key="00000000073658000000">
+<programme start="20150720073000 -0300" stop="20150720084500 -0300" channel="R1H" program_id="0000349960" event_id="000000104783350" series_key="00000000073658000000">
 <title lang="pt">Fala Pará - Ao Vivo</title>
 <desc>Responsabilidade à serviço da informação. Um Telejornal completo, onde as notícias de Belém e todo interior do Pará são destaques. De segunda à sexta-feira, às sete e quarenta da manhã, o Fala Pará traz os principais fatos do dia.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4431,7 +4436,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713084500 -0300" stop="20150713100000 -0300" channel="R1H" program_id="0000015945" event_id="000000103320162" series_key="00000000066238000000">
+<programme start="20150720084500 -0300" stop="20150720100000 -0300" channel="R1H" program_id="0000015945" event_id="000000104783352" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4449,7 +4454,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713100000 -0300" stop="20150713120000 -0300" channel="R1H" program_id="0000094577" event_id="000000103320163" series_key="00000000066226000000">
+<programme start="20150720100000 -0300" stop="20150720120000 -0300" channel="R1H" program_id="0000094577" event_id="000000104783353" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4467,7 +4472,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713120000 -0300" stop="20150713143000 -0300" channel="R1H" program_id="0000102196" event_id="000000103320164" series_key="00000000066243000000">
+<programme start="20150720120000 -0300" stop="20150720143000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783354" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4485,7 +4490,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713143000 -0300" stop="20150713172000 -0300" channel="R1H" program_id="0000119084" event_id="000000103320165" series_key="00000000071807000000">
+<programme start="20150720143000 -0300" stop="20150720172000 -0300" channel="R1H" program_id="0000119084" event_id="000000104783355" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -4503,7 +4508,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150713172000 -0300" stop="20150713181500 -0300" channel="R1H" program_id="0000015967" event_id="000000103320166" series_key="00000000069485000000">
+<programme start="20150720172000 -0300" stop="20150720181500 -0300" channel="R1H" program_id="0000015967" event_id="000000104783357" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4521,7 +4526,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713181500 -0300" stop="20150713193000 -0300" channel="R1H" program_id="0000349959" event_id="000000103320167" series_key="00000000073096000000">
+<programme start="20150720181500 -0300" stop="20150720193000 -0300" channel="R1H" program_id="0000349959" event_id="000000104783358" series_key="00000000073096000000">
 <title lang="pt">Cidade Alerta - Pará</title>
 <desc>O Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4539,7 +4544,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713193000 -0300" stop="20150713204000 -0300" channel="R1H" program_id="0000349961" event_id="000000103320168" series_key="00000000073659000000">
+<programme start="20150720193000 -0300" stop="20150720204000 -0300" channel="R1H" program_id="0000349961" event_id="000000104783359" series_key="00000000073659000000">
 <title lang="pt">Pará Record</title>
 <desc>Jornalismo ágil, reportagens exclusivas e prestação de serviços.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4557,7 +4562,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713204000 -0300" stop="20150713213000 -0300" channel="R1H" program_id="0000015966" event_id="000000103320169" series_key="00000000066234000000">
+<programme start="20150720204000 -0300" stop="20150720213000 -0300" channel="R1H" program_id="0000015966" event_id="000000104783361" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4575,7 +4580,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713213000 -0300" stop="20150713223000 -0300" channel="R1H" program_id="0000386082" event_id="000000103320170" series_key="00000000074023000000">
+<programme start="20150720213000 -0300" stop="20150720223000 -0300" channel="R1H" program_id="0000386082" event_id="000000104783362" series_key="00000000074023000000">
 <title lang="pt">Vitória</title>
 <desc></desc>
 <credits>
@@ -4601,7 +4606,7 @@
 <value>Programa impróprio para menores de 14 anos</value>
 </rating>
 </programme>
-<programme start="20150713223000 -0300" stop="20150713233000 -0300" channel="R1H" program_id="0000184059" event_id="000000103320171" series_key="">
+<programme start="20150720223000 -0300" stop="20150720233000 -0300" channel="R1H" program_id="0000184059" event_id="000000104783363" series_key="">
 <title lang="pt">Gugu</title>
 <title lang="en">Programa do Gugu</title>
 <desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
@@ -4624,7 +4629,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713233000 -0300" stop="20150714003000 -0300" channel="R1H" program_id="0000380369" event_id="000000103320172" series_key="00000000073493000000">
+<programme start="20150720233000 -0300" stop="20150721003000 -0300" channel="R1H" program_id="0000380369" event_id="000000104783364" series_key="00000000073493000000">
 <title lang="pt">Repórter Record Investigação</title>
 <desc>O Repórter Record Investigação mostra como os erros médicos são cada vez mais comuns nas redes públicas ou privadas.</desc>
 <date>2014</date>
@@ -4643,7 +4648,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150714003000 -0300" stop="20150714011500 -0300" channel="R1H" program_id="0000433396" event_id="000000103320173" series_key="00000000065728002019">
+<programme start="20150721003000 -0300" stop="20150721011500 -0300" channel="R1H" program_id="0000433396" event_id="000000104783366" series_key="00000000065728002019">
 <title lang="pt">Grimm - Contos de Terror</title>
 <title lang="en">Grimm: Endangered</title>
 <sub-title lang="pt">Temp. 2 - Ep. 19</sub-title>
@@ -4679,7 +4684,7 @@
 <value>4/5</value>
 </star-rating>
 </programme>
-<programme start="20150714011500 -0300" stop="20150714063000 -0300" channel="R1H" program_id="0000079020" event_id="000000103320174" series_key="">
+<programme start="20150721011500 -0300" stop="20150721063000 -0300" channel="R1H" program_id="0000079020" event_id="000000104783367" series_key="">
 <title lang="pt">Programação IURD</title>
 <desc>Programa diário da Igreja Universal do Reino de Deus.</desc>
 <category lang="pt">Variedades</category>
@@ -4697,7 +4702,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714063000 -0300" stop="20150714073000 -0300" channel="R1H" program_id="0000102196" event_id="000000103320175" series_key="00000000066243000000">
+<programme start="20150721063000 -0300" stop="20150721073000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783368" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4715,7 +4720,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714073000 -0300" stop="20150714084500 -0300" channel="R1H" program_id="0000349960" event_id="000000103320176" series_key="00000000073658000000">
+<programme start="20150721073000 -0300" stop="20150721084500 -0300" channel="R1H" program_id="0000349960" event_id="000000104783369" series_key="00000000073658000000">
 <title lang="pt">Fala Pará - Ao Vivo</title>
 <desc>Responsabilidade à serviço da informação. Um Telejornal completo, onde as notícias de Belém e todo interior do Pará são destaques. De segunda à sexta-feira, às sete e quarenta da manhã, o Fala Pará traz os principais fatos do dia.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4733,7 +4738,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714084500 -0300" stop="20150714100000 -0300" channel="R1H" program_id="0000015945" event_id="000000103320177" series_key="00000000066238000000">
+<programme start="20150721084500 -0300" stop="20150721100000 -0300" channel="R1H" program_id="0000015945" event_id="000000104783370" series_key="00000000066238000000">
 <title lang="pt">Fala Brasil</title>
 <desc>Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4751,7 +4756,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714100000 -0300" stop="20150714120000 -0300" channel="R1H" program_id="0000094577" event_id="000000103320178" series_key="00000000066226000000">
+<programme start="20150721100000 -0300" stop="20150721120000 -0300" channel="R1H" program_id="0000094577" event_id="000000104783371" series_key="00000000066226000000">
 <title lang="pt">Hoje em Dia</title>
 <desc>Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4769,7 +4774,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714120000 -0300" stop="20150714143000 -0300" channel="R1H" program_id="0000102196" event_id="000000103320179" series_key="00000000066243000000">
+<programme start="20150721120000 -0300" stop="20150721143000 -0300" channel="R1H" program_id="0000102196" event_id="000000104783372" series_key="00000000066243000000">
 <title lang="pt">Balanço Geral</title>
 <desc>O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4787,7 +4792,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714143000 -0300" stop="20150714172000 -0300" channel="R1H" program_id="0000119084" event_id="000000103320180" series_key="00000000071807000000">
+<programme start="20150721143000 -0300" stop="20150721172000 -0300" channel="R1H" program_id="0000119084" event_id="000000104783374" series_key="00000000071807000000">
 <title lang="pt">Programa da Tarde</title>
 <desc>O programa com quadros para animar toda a família, onde o telespectador pode paraticipar em uma plateia no estúdio, por telefone e internet.</desc>
 <category lang="pt">Variedades</category>
@@ -4805,7 +4810,7 @@
 <value>Programa impróprio para menores de 10 anos</value>
 </rating>
 </programme>
-<programme start="20150714172000 -0300" stop="20150714181500 -0300" channel="R1H" program_id="0000015967" event_id="000000103320181" series_key="00000000069485000000">
+<programme start="20150721172000 -0300" stop="20150721181500 -0300" channel="R1H" program_id="0000015967" event_id="000000104783375" series_key="00000000069485000000">
 <title lang="pt">Cidade Alerta</title>
 <desc>Apresentado atualmente por Marcelo Rezende, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4823,7 +4828,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714181500 -0300" stop="20150714193000 -0300" channel="R1H" program_id="0000349959" event_id="000000103320182" series_key="00000000073096000000">
+<programme start="20150721181500 -0300" stop="20150721193000 -0300" channel="R1H" program_id="0000349959" event_id="000000104783376" series_key="00000000073096000000">
 <title lang="pt">Cidade Alerta - Pará</title>
 <desc>O Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4841,7 +4846,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714193000 -0300" stop="20150714204000 -0300" channel="R1H" program_id="0000349961" event_id="000000103320183" series_key="00000000073659000000">
+<programme start="20150721193000 -0300" stop="20150721204000 -0300" channel="R1H" program_id="0000349961" event_id="000000104783377" series_key="00000000073659000000">
 <title lang="pt">Pará Record</title>
 <desc>Jornalismo ágil, reportagens exclusivas e prestação de serviços.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4859,7 +4864,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714204000 -0300" stop="20150714213000 -0300" channel="R1H" program_id="0000015966" event_id="000000103320184" series_key="00000000066234000000">
+<programme start="20150721204000 -0300" stop="20150721213000 -0300" channel="R1H" program_id="0000015966" event_id="000000104783379" series_key="00000000066234000000">
 <title lang="pt">Jornal da Record</title>
 <desc>O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
 <category lang="pt">Jornalismo</category>
@@ -4877,7 +4882,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714213000 -0300" stop="20150714223000 -0300" channel="R1H" program_id="0000386082" event_id="000000103320185" series_key="00000000074023000000">
+<programme start="20150721213000 -0300" stop="20150721223000 -0300" channel="R1H" program_id="0000386082" event_id="000000104783380" series_key="00000000074023000000">
 <title lang="pt">Vitória</title>
 <desc></desc>
 <credits>
@@ -4903,7 +4908,7 @@
 <value>Programa impróprio para menores de 14 anos</value>
 </rating>
 </programme>
-<programme start="20150714223000 -0300" stop="20150714233000 -0300" channel="R1H" program_id="0000184059" event_id="000000103320186" series_key="">
+<programme start="20150721223000 -0300" stop="20150721233000 -0300" channel="R1H" program_id="0000184059" event_id="000000104783381" series_key="">
 <title lang="pt">Gugu</title>
 <title lang="en">Programa do Gugu</title>
 <desc>O Programa do Gugu, vem com tudo, com novos quadros, entrevistas, sucessos e promete muita, diversão, emoção, humor, jornalismo e música.</desc>
@@ -4926,7 +4931,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714233000 -0300" stop="20150715001500 -0300" channel="R1H" program_id="0000410419" event_id="000000103320187" series_key="00000000061897000000">
+<programme start="20150721233000 -0300" stop="20150722001500 -0300" channel="R1H" program_id="0000410419" event_id="000000104783382" series_key="00000000061897000000">
 <title lang="pt">C.S.I. Miami</title>
 <title lang="en">C.S.I. Miami</title>
 <desc>O trabalho da equipe de investigadores do sul da Flórida que soluciona crimes através da mistura de métodos científicos, técnicas tradicionais, tecnologia de ponta e instinto apurado para descobrir pistas.</desc>
