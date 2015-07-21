@@ -4,7 +4,7 @@
 <display-name lang="pt">Blue TV São Paulo</display-name>
 <icon src="csp.gif" />
 </channel>
-<programme start="20150703040000 -0300" stop="20150703080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000099895719" series_key="">
+<programme start="20150720040000 -0300" stop="20150720080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000101315191" series_key="">
 <title lang="pt">Sem Programação</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -21,7 +21,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703080000 -0300" stop="20150703083000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895720" series_key="">
+<programme start="20150720080000 -0300" stop="20150720083000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315192" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -38,7 +38,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703083000 -0300" stop="20150703090000 -0300" channel="CSP" program_id="0000131808" event_id="00000000000099895721" series_key="">
+<programme start="20150720083000 -0300" stop="20150720090000 -0300" channel="CSP" program_id="0000131808" event_id="00000000000101315193" series_key="">
 <title lang="pt">4 Linhas</title>
 <title lang="en">4 Linhas</title>
 <desc>Apresentado por Juarez Araújo, o programa recebe toda semana um personagem do mundo dos esportes. Com sutileza e irreverência, o jornalista entrevista craques do passado ou atuais, mostrando o perfil do atleta.</desc>
@@ -56,555 +56,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703090000 -0300" stop="20150703091500 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895722" series_key="">
-<title lang="pt">Blue TV</title>
-<desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000124922.jpg</image_name>
-<image_broadcast>0000124922</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150703091500 -0300" stop="20150703093000 -0300" channel="CSP" program_id="0000138870" event_id="00000000000099895723" series_key="">
-<title lang="pt">Onu em Ação</title>
-<title lang="en">Onu em Ação</title>
-<desc>A Blue TV traz com exclusividade, legendados em português, diversos documentários e reportagens sobre os problemas e realizações de vários locais do mundo, produzidos pelas equipes de jornalismo das Nações Unidas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000138870.jpg</image_name>
-<image_broadcast>0000138870</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150703093000 -0300" stop="20150703123000 -0300" channel="CSP" program_id="0000160725" event_id="00000000000099895724" series_key="">
-<title lang="pt">Dicas Imperdíveis</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000160725.jpg</image_name>
-<image_broadcast>0000160725</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150703123000 -0300" stop="20150703153000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895725" series_key="">
-<title lang="pt">Blue TV</title>
-<desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000124922.jpg</image_name>
-<image_broadcast>0000124922</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150703153000 -0300" stop="20150703160000 -0300" channel="CSP" program_id="0000401234" event_id="00000000000099895726" series_key="">
-<title lang="pt">Desenvolvimento Sustentável</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000401234.jpg</image_name>
-<image_broadcast>0000401234</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150703160000 -0300" stop="20150703200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000099895727" series_key="">
-<title lang="pt">France 24</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000311420.jpg</image_name>
-<image_broadcast>0000311420</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150703200000 -0300" stop="20150704040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895728" series_key="">
-<title lang="pt">Blue TV</title>
-<desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000124922.jpg</image_name>
-<image_broadcast>0000124922</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704040000 -0300" stop="20150704080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000099895729" series_key="">
-<title lang="pt">Sem Programação</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000319679.jpg</image_name>
-<image_broadcast>0000319679</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704080000 -0300" stop="20150704093000 -0300" channel="CSP" program_id="0000267779" event_id="00000000000099895730" series_key="">
-<title lang="pt">Programação a Confirmar</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000267779.jpg</image_name>
-<image_broadcast>0000267779</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704093000 -0300" stop="20150704123000 -0300" channel="CSP" program_id="0000160725" event_id="00000000000099895731" series_key="">
-<title lang="pt">Dicas Imperdíveis</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000160725.jpg</image_name>
-<image_broadcast>0000160725</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704123000 -0300" stop="20150704150000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000099895732" series_key="">
-<title lang="pt">France 24</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000311420.jpg</image_name>
-<image_broadcast>0000311420</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704150000 -0300" stop="20150704161500 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895733" series_key="">
-<title lang="pt">Blue TV</title>
-<desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000124922.jpg</image_name>
-<image_broadcast>0000124922</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704161500 -0300" stop="20150704164500 -0300" channel="CSP" program_id="0000267779" event_id="00000000000099895734" series_key="">
-<title lang="pt">Programação a Confirmar</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000267779.jpg</image_name>
-<image_broadcast>0000267779</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704164500 -0300" stop="20150704171500 -0300" channel="CSP" program_id="0000271439" event_id="00000000000099895735" series_key="">
-<title lang="pt">Século 21</title>
-<desc>Documentários e reportagens realizados pelas equipes de jornalismo da Organização das Nações Unidas ao redor do mundo, mostrando os principais problemas e realizações da humanidade.</desc>
-<category lang="pt">Documentário</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000271439.jpg</image_name>
-<image_broadcast>0000271439</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704171500 -0300" stop="20150704174500 -0300" channel="CSP" program_id="0000131808" event_id="00000000000099895736" series_key="">
-<title lang="pt">4 Linhas</title>
-<title lang="en">4 Linhas</title>
-<desc>Apresentado por Juarez Araújo, o programa recebe toda semana um personagem do mundo dos esportes. Com sutileza e irreverência, o jornalista entrevista craques do passado ou atuais, mostrando o perfil do atleta.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">0000131808.jpg</image_name>
-<image_broadcast>0000131808</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704174500 -0300" stop="20150704180000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895737" series_key="">
-<title lang="pt">Blue TV</title>
-<desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000124922.jpg</image_name>
-<image_broadcast>0000124922</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704180000 -0300" stop="20150704200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000099895738" series_key="">
-<title lang="pt">France 24</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000311420.jpg</image_name>
-<image_broadcast>0000311420</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704200000 -0300" stop="20150704203000 -0300" channel="CSP" program_id="0000401234" event_id="00000000000099895739" series_key="">
-<title lang="pt">Desenvolvimento Sustentável</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000401234.jpg</image_name>
-<image_broadcast>0000401234</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704203000 -0300" stop="20150705040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895740" series_key="">
-<title lang="pt">Blue TV</title>
-<desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000124922.jpg</image_name>
-<image_broadcast>0000124922</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705040000 -0300" stop="20150705080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000099895741" series_key="">
-<title lang="pt">Sem Programação</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000319679.jpg</image_name>
-<image_broadcast>0000319679</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705080000 -0300" stop="20150705090000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895742" series_key="">
-<title lang="pt">Blue TV</title>
-<desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000124922.jpg</image_name>
-<image_broadcast>0000124922</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705090000 -0300" stop="20150705093000 -0300" channel="CSP" program_id="0000271439" event_id="00000000000099895743" series_key="">
-<title lang="pt">Século 21</title>
-<desc>Documentários e reportagens realizados pelas equipes de jornalismo da Organização das Nações Unidas ao redor do mundo, mostrando os principais problemas e realizações da humanidade.</desc>
-<category lang="pt">Documentário</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000271439.jpg</image_name>
-<image_broadcast>0000271439</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705093000 -0300" stop="20150705123000 -0300" channel="CSP" program_id="0000160725" event_id="00000000000099895744" series_key="">
-<title lang="pt">Dicas Imperdíveis</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000160725.jpg</image_name>
-<image_broadcast>0000160725</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705123000 -0300" stop="20150705133000 -0300" channel="CSP" program_id="0000267779" event_id="00000000000099895745" series_key="">
-<title lang="pt">Programação a Confirmar</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000267779.jpg</image_name>
-<image_broadcast>0000267779</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705133000 -0300" stop="20150705154500 -0300" channel="CSP" program_id="0000311420" event_id="00000000000099895746" series_key="">
-<title lang="pt">France 24</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000311420.jpg</image_name>
-<image_broadcast>0000311420</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705154500 -0300" stop="20150705161500 -0300" channel="CSP" program_id="0000271439" event_id="00000000000099895747" series_key="">
-<title lang="pt">Século 21</title>
-<desc>Documentários e reportagens realizados pelas equipes de jornalismo da Organização das Nações Unidas ao redor do mundo, mostrando os principais problemas e realizações da humanidade.</desc>
-<category lang="pt">Documentário</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000271439.jpg</image_name>
-<image_broadcast>0000271439</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705161500 -0300" stop="20150705164500 -0300" channel="CSP" program_id="0000131808" event_id="00000000000099895748" series_key="">
-<title lang="pt">4 Linhas</title>
-<title lang="en">4 Linhas</title>
-<desc>Apresentado por Juarez Araújo, o programa recebe toda semana um personagem do mundo dos esportes. Com sutileza e irreverência, o jornalista entrevista craques do passado ou atuais, mostrando o perfil do atleta.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">0000131808.jpg</image_name>
-<image_broadcast>0000131808</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705164500 -0300" stop="20150705170000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895749" series_key="">
-<title lang="pt">Blue TV</title>
-<desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000124922.jpg</image_name>
-<image_broadcast>0000124922</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705170000 -0300" stop="20150705173000 -0300" channel="CSP" program_id="0000401234" event_id="00000000000099895750" series_key="">
-<title lang="pt">Desenvolvimento Sustentável</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000401234.jpg</image_name>
-<image_broadcast>0000401234</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705173000 -0300" stop="20150705174500 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895751" series_key="">
-<title lang="pt">Blue TV</title>
-<desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000124922.jpg</image_name>
-<image_broadcast>0000124922</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705174500 -0300" stop="20150705180000 -0300" channel="CSP" program_id="0000138870" event_id="00000000000099895752" series_key="">
-<title lang="pt">Onu em Ação</title>
-<title lang="en">Onu em Ação</title>
-<desc>A Blue TV traz com exclusividade, legendados em português, diversos documentários e reportagens sobre os problemas e realizações de vários locais do mundo, produzidos pelas equipes de jornalismo das Nações Unidas.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Informativo</category>
-<image>
-<image_name position="1">0000138870.jpg</image_name>
-<image_broadcast>0000138870</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa impróprio para menores de 12 anos</value>
-</rating>
-</programme>
-<programme start="20150705180000 -0300" stop="20150705200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000099895753" series_key="">
-<title lang="pt">France 24</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000311420.jpg</image_name>
-<image_broadcast>0000311420</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705200000 -0300" stop="20150705213000 -0300" channel="CSP" program_id="0000115550" event_id="00000000000099895754" series_key="">
+<programme start="20150720090000 -0300" stop="20150720103000 -0300" channel="CSP" program_id="0000115550" event_id="00000000000101315194" series_key="">
 <title lang="pt">424</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -618,7 +70,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705213000 -0300" stop="20150706040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895755" series_key="">
+<programme start="20150720103000 -0300" stop="20150720110000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315195" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -635,90 +87,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706040000 -0300" stop="20150706080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000099895756" series_key="">
-<title lang="pt">Sem Programação</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000319679.jpg</image_name>
-<image_broadcast>0000319679</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706080000 -0300" stop="20150706083000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895757" series_key="">
-<title lang="pt">Blue TV</title>
-<desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000124922.jpg</image_name>
-<image_broadcast>0000124922</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706083000 -0300" stop="20150706090000 -0300" channel="CSP" program_id="0000131808" event_id="00000000000099895758" series_key="">
-<title lang="pt">4 Linhas</title>
-<title lang="en">4 Linhas</title>
-<desc>Apresentado por Juarez Araújo, o programa recebe toda semana um personagem do mundo dos esportes. Com sutileza e irreverência, o jornalista entrevista craques do passado ou atuais, mostrando o perfil do atleta.</desc>
-<category lang="pt">Jornalismo</category>
-<category lang="pt">Esportivo</category>
-<image>
-<image_name position="1">0000131808.jpg</image_name>
-<image_broadcast>0000131808</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706090000 -0300" stop="20150706103000 -0300" channel="CSP" program_id="0000115550" event_id="00000000000099895759" series_key="">
-<title lang="pt">424</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000115550.jpg</image_name>
-<image_broadcast>0000115550</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706103000 -0300" stop="20150706110000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895760" series_key="">
-<title lang="pt">Blue TV</title>
-<desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000124922.jpg</image_name>
-<image_broadcast>0000124922</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706110000 -0300" stop="20150706113000 -0300" channel="CSP" program_id="0000271439" event_id="00000000000099895761" series_key="">
+<programme start="20150720110000 -0300" stop="20150720113000 -0300" channel="CSP" program_id="0000271439" event_id="00000000000101315196" series_key="">
 <title lang="pt">Século 21</title>
 <desc>Documentários e reportagens realizados pelas equipes de jornalismo da Organização das Nações Unidas ao redor do mundo, mostrando os principais problemas e realizações da humanidade.</desc>
 <category lang="pt">Documentário</category>
@@ -735,7 +104,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706113000 -0300" stop="20150706160000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895762" series_key="">
+<programme start="20150720113000 -0300" stop="20150720160000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315197" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -752,7 +121,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706160000 -0300" stop="20150706200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000099895763" series_key="">
+<programme start="20150720160000 -0300" stop="20150720200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000101315198" series_key="">
 <title lang="pt">France 24</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -769,7 +138,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706200000 -0300" stop="20150707040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895764" series_key="">
+<programme start="20150720200000 -0300" stop="20150721040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315199" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -786,7 +155,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707040000 -0300" stop="20150707080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000099895765" series_key="">
+<programme start="20150721040000 -0300" stop="20150721080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000101315200" series_key="">
 <title lang="pt">Sem Programação</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -803,7 +172,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707080000 -0300" stop="20150707083000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895766" series_key="">
+<programme start="20150721080000 -0300" stop="20150721083000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315201" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -820,7 +189,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707083000 -0300" stop="20150707090000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895767" series_key="">
+<programme start="20150721083000 -0300" stop="20150721090000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315202" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -837,7 +206,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707090000 -0300" stop="20150707091500 -0300" channel="CSP" program_id="0000138870" event_id="00000000000099895768" series_key="">
+<programme start="20150721090000 -0300" stop="20150721091500 -0300" channel="CSP" program_id="0000138870" event_id="00000000000101315203" series_key="">
 <title lang="pt">Onu em Ação</title>
 <title lang="en">Onu em Ação</title>
 <desc>A Blue TV traz com exclusividade, legendados em português, diversos documentários e reportagens sobre os problemas e realizações de vários locais do mundo, produzidos pelas equipes de jornalismo das Nações Unidas.</desc>
@@ -855,7 +224,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150707091500 -0300" stop="20150707113000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895769" series_key="">
+<programme start="20150721091500 -0300" stop="20150721113000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315204" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -872,7 +241,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707113000 -0300" stop="20150707120000 -0300" channel="CSP" program_id="0000131808" event_id="00000000000099895770" series_key="">
+<programme start="20150721113000 -0300" stop="20150721120000 -0300" channel="CSP" program_id="0000131808" event_id="00000000000101315205" series_key="">
 <title lang="pt">4 Linhas</title>
 <title lang="en">4 Linhas</title>
 <desc>Apresentado por Juarez Araújo, o programa recebe toda semana um personagem do mundo dos esportes. Com sutileza e irreverência, o jornalista entrevista craques do passado ou atuais, mostrando o perfil do atleta.</desc>
@@ -890,7 +259,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707120000 -0300" stop="20150707160000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895771" series_key="">
+<programme start="20150721120000 -0300" stop="20150721160000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315206" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -907,7 +276,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707160000 -0300" stop="20150707200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000099895772" series_key="">
+<programme start="20150721160000 -0300" stop="20150721200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000101315207" series_key="">
 <title lang="pt">France 24</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -924,7 +293,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707200000 -0300" stop="20150707210000 -0300" channel="CSP" program_id="0000016557" event_id="00000000000099895773" series_key="00000000066261000000">
+<programme start="20150721200000 -0300" stop="20150721210000 -0300" channel="CSP" program_id="0000016557" event_id="00000000000101315208" series_key="00000000066261000000">
 <title lang="pt">Show Business</title>
 <desc>Um programa de entrevistas e informações, comandado por João Doria Jr. traz matérias voltadas para o debate econômico em âmbito empresarial.</desc>
 <category lang="pt">Jornalismo</category>
@@ -942,7 +311,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707210000 -0300" stop="20150708040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895774" series_key="">
+<programme start="20150721210000 -0300" stop="20150722040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315209" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -959,7 +328,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708040000 -0300" stop="20150708080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000099895775" series_key="">
+<programme start="20150722040000 -0300" stop="20150722080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000101315210" series_key="">
 <title lang="pt">Sem Programação</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -976,7 +345,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708080000 -0300" stop="20150708083000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895776" series_key="">
+<programme start="20150722080000 -0300" stop="20150722083000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315211" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -993,7 +362,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708083000 -0300" stop="20150708090000 -0300" channel="CSP" program_id="0000271439" event_id="00000000000099895777" series_key="">
+<programme start="20150722083000 -0300" stop="20150722090000 -0300" channel="CSP" program_id="0000271439" event_id="00000000000101315212" series_key="">
 <title lang="pt">Século 21</title>
 <desc>Documentários e reportagens realizados pelas equipes de jornalismo da Organização das Nações Unidas ao redor do mundo, mostrando os principais problemas e realizações da humanidade.</desc>
 <category lang="pt">Documentário</category>
@@ -1010,7 +379,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708090000 -0300" stop="20150708093000 -0300" channel="CSP" program_id="0000131808" event_id="00000000000099895778" series_key="">
+<programme start="20150722090000 -0300" stop="20150722093000 -0300" channel="CSP" program_id="0000131808" event_id="00000000000101315213" series_key="">
 <title lang="pt">4 Linhas</title>
 <title lang="en">4 Linhas</title>
 <desc>Apresentado por Juarez Araújo, o programa recebe toda semana um personagem do mundo dos esportes. Com sutileza e irreverência, o jornalista entrevista craques do passado ou atuais, mostrando o perfil do atleta.</desc>
@@ -1028,7 +397,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708093000 -0300" stop="20150708160000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895779" series_key="">
+<programme start="20150722093000 -0300" stop="20150722160000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315214" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -1045,7 +414,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708160000 -0300" stop="20150708200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000099895780" series_key="">
+<programme start="20150722160000 -0300" stop="20150722200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000101315215" series_key="">
 <title lang="pt">France 24</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1062,7 +431,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708200000 -0300" stop="20150709003000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895781" series_key="">
+<programme start="20150722200000 -0300" stop="20150723003000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315216" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -1079,7 +448,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709003000 -0300" stop="20150709040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895782" series_key="">
+<programme start="20150723003000 -0300" stop="20150723040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315217" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -1096,7 +465,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709040000 -0300" stop="20150709080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000099895783" series_key="">
+<programme start="20150723040000 -0300" stop="20150723080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000101315218" series_key="">
 <title lang="pt">Sem Programação</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1113,7 +482,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709080000 -0300" stop="20150709083000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895784" series_key="">
+<programme start="20150723080000 -0300" stop="20150723083000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315219" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -1130,7 +499,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709083000 -0300" stop="20150709084500 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895785" series_key="">
+<programme start="20150723083000 -0300" stop="20150723084500 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315220" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -1147,7 +516,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709084500 -0300" stop="20150709090000 -0300" channel="CSP" program_id="0000138870" event_id="00000000000099895786" series_key="">
+<programme start="20150723084500 -0300" stop="20150723090000 -0300" channel="CSP" program_id="0000138870" event_id="00000000000101315221" series_key="">
 <title lang="pt">Onu em Ação</title>
 <title lang="en">Onu em Ação</title>
 <desc>A Blue TV traz com exclusividade, legendados em português, diversos documentários e reportagens sobre os problemas e realizações de vários locais do mundo, produzidos pelas equipes de jornalismo das Nações Unidas.</desc>
@@ -1165,7 +534,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150709090000 -0300" stop="20150709093000 -0300" channel="CSP" program_id="0000401234" event_id="00000000000099895787" series_key="">
+<programme start="20150723090000 -0300" stop="20150723093000 -0300" channel="CSP" program_id="0000401234" event_id="00000000000101315222" series_key="">
 <title lang="pt">Desenvolvimento Sustentável</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1182,7 +551,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709093000 -0300" stop="20150709123000 -0300" channel="CSP" program_id="0000160725" event_id="00000000000099895788" series_key="">
+<programme start="20150723093000 -0300" stop="20150723123000 -0300" channel="CSP" program_id="0000160725" event_id="00000000000101315223" series_key="">
 <title lang="pt">Dicas Imperdíveis</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1199,7 +568,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709123000 -0300" stop="20150709160000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895789" series_key="">
+<programme start="20150723123000 -0300" stop="20150723160000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315224" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -1216,7 +585,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709160000 -0300" stop="20150709200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000099895790" series_key="">
+<programme start="20150723160000 -0300" stop="20150723200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000101315225" series_key="">
 <title lang="pt">France 24</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1233,7 +602,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709200000 -0300" stop="20150710040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895791" series_key="">
+<programme start="20150723200000 -0300" stop="20150724040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315226" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -1250,7 +619,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710040000 -0300" stop="20150710080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000099895792" series_key="">
+<programme start="20150724040000 -0300" stop="20150724080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000101315227" series_key="">
 <title lang="pt">Sem Programação</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1267,7 +636,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710080000 -0300" stop="20150710083000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895793" series_key="">
+<programme start="20150724080000 -0300" stop="20150724083000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315228" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -1284,7 +653,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710083000 -0300" stop="20150710090000 -0300" channel="CSP" program_id="0000131808" event_id="00000000000099895794" series_key="">
+<programme start="20150724083000 -0300" stop="20150724090000 -0300" channel="CSP" program_id="0000131808" event_id="00000000000101315229" series_key="">
 <title lang="pt">4 Linhas</title>
 <title lang="en">4 Linhas</title>
 <desc>Apresentado por Juarez Araújo, o programa recebe toda semana um personagem do mundo dos esportes. Com sutileza e irreverência, o jornalista entrevista craques do passado ou atuais, mostrando o perfil do atleta.</desc>
@@ -1302,7 +671,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710090000 -0300" stop="20150710091500 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895795" series_key="">
+<programme start="20150724090000 -0300" stop="20150724091500 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315230" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -1319,7 +688,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710091500 -0300" stop="20150710093000 -0300" channel="CSP" program_id="0000138870" event_id="00000000000099895796" series_key="">
+<programme start="20150724091500 -0300" stop="20150724093000 -0300" channel="CSP" program_id="0000138870" event_id="00000000000101315231" series_key="">
 <title lang="pt">Onu em Ação</title>
 <title lang="en">Onu em Ação</title>
 <desc>A Blue TV traz com exclusividade, legendados em português, diversos documentários e reportagens sobre os problemas e realizações de vários locais do mundo, produzidos pelas equipes de jornalismo das Nações Unidas.</desc>
@@ -1337,7 +706,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150710093000 -0300" stop="20150710123000 -0300" channel="CSP" program_id="0000160725" event_id="00000000000099895797" series_key="">
+<programme start="20150724093000 -0300" stop="20150724123000 -0300" channel="CSP" program_id="0000160725" event_id="00000000000101315232" series_key="">
 <title lang="pt">Dicas Imperdíveis</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1354,7 +723,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710123000 -0300" stop="20150710153000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895798" series_key="">
+<programme start="20150724123000 -0300" stop="20150724153000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315233" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -1371,7 +740,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710153000 -0300" stop="20150710160000 -0300" channel="CSP" program_id="0000401234" event_id="00000000000099895799" series_key="">
+<programme start="20150724153000 -0300" stop="20150724160000 -0300" channel="CSP" program_id="0000401234" event_id="00000000000101315234" series_key="">
 <title lang="pt">Desenvolvimento Sustentável</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1388,7 +757,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710160000 -0300" stop="20150710200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000099895800" series_key="">
+<programme start="20150724160000 -0300" stop="20150724200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000101315235" series_key="">
 <title lang="pt">France 24</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1405,7 +774,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710200000 -0300" stop="20150711040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895801" series_key="">
+<programme start="20150724200000 -0300" stop="20150725040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315236" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -1422,7 +791,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711040000 -0300" stop="20150711080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000099895802" series_key="">
+<programme start="20150725040000 -0300" stop="20150725080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000101315237" series_key="">
 <title lang="pt">Sem Programação</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1439,7 +808,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711080000 -0300" stop="20150711093000 -0300" channel="CSP" program_id="0000267779" event_id="00000000000099895803" series_key="">
+<programme start="20150725080000 -0300" stop="20150725093000 -0300" channel="CSP" program_id="0000267779" event_id="00000000000101315238" series_key="">
 <title lang="pt">Programação a Confirmar</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1456,7 +825,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711093000 -0300" stop="20150711123000 -0300" channel="CSP" program_id="0000160725" event_id="00000000000099895804" series_key="">
+<programme start="20150725093000 -0300" stop="20150725123000 -0300" channel="CSP" program_id="0000160725" event_id="00000000000101315239" series_key="">
 <title lang="pt">Dicas Imperdíveis</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1473,7 +842,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711123000 -0300" stop="20150711150000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000099895805" series_key="">
+<programme start="20150725123000 -0300" stop="20150725150000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000101315240" series_key="">
 <title lang="pt">France 24</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1490,7 +859,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711150000 -0300" stop="20150711161500 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895806" series_key="">
+<programme start="20150725150000 -0300" stop="20150725161500 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315241" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -1507,7 +876,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711161500 -0300" stop="20150711164500 -0300" channel="CSP" program_id="0000267779" event_id="00000000000099895807" series_key="">
+<programme start="20150725161500 -0300" stop="20150725164500 -0300" channel="CSP" program_id="0000267779" event_id="00000000000101315242" series_key="">
 <title lang="pt">Programação a Confirmar</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1524,7 +893,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711164500 -0300" stop="20150711171500 -0300" channel="CSP" program_id="0000271439" event_id="00000000000099895808" series_key="">
+<programme start="20150725164500 -0300" stop="20150725171500 -0300" channel="CSP" program_id="0000271439" event_id="00000000000101315243" series_key="">
 <title lang="pt">Século 21</title>
 <desc>Documentários e reportagens realizados pelas equipes de jornalismo da Organização das Nações Unidas ao redor do mundo, mostrando os principais problemas e realizações da humanidade.</desc>
 <category lang="pt">Documentário</category>
@@ -1541,7 +910,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711171500 -0300" stop="20150711174500 -0300" channel="CSP" program_id="0000131808" event_id="00000000000099895809" series_key="">
+<programme start="20150725171500 -0300" stop="20150725174500 -0300" channel="CSP" program_id="0000131808" event_id="00000000000101315244" series_key="">
 <title lang="pt">4 Linhas</title>
 <title lang="en">4 Linhas</title>
 <desc>Apresentado por Juarez Araújo, o programa recebe toda semana um personagem do mundo dos esportes. Com sutileza e irreverência, o jornalista entrevista craques do passado ou atuais, mostrando o perfil do atleta.</desc>
@@ -1559,7 +928,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711174500 -0300" stop="20150711180000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895810" series_key="">
+<programme start="20150725174500 -0300" stop="20150725180000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315245" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -1576,7 +945,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711180000 -0300" stop="20150711200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000099895811" series_key="">
+<programme start="20150725180000 -0300" stop="20150725200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000101315246" series_key="">
 <title lang="pt">France 24</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1593,7 +962,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711200000 -0300" stop="20150711203000 -0300" channel="CSP" program_id="0000401234" event_id="00000000000099895812" series_key="">
+<programme start="20150725200000 -0300" stop="20150725203000 -0300" channel="CSP" program_id="0000401234" event_id="00000000000101315247" series_key="">
 <title lang="pt">Desenvolvimento Sustentável</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1610,7 +979,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711203000 -0300" stop="20150712040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895813" series_key="">
+<programme start="20150725203000 -0300" stop="20150726040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315248" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -1627,7 +996,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712040000 -0300" stop="20150712080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000099895814" series_key="">
+<programme start="20150726040000 -0300" stop="20150726080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000101315249" series_key="">
 <title lang="pt">Sem Programação</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1644,7 +1013,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712080000 -0300" stop="20150712090000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895815" series_key="">
+<programme start="20150726080000 -0300" stop="20150726090000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315250" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -1661,7 +1030,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712090000 -0300" stop="20150712093000 -0300" channel="CSP" program_id="0000271439" event_id="00000000000099895816" series_key="">
+<programme start="20150726090000 -0300" stop="20150726093000 -0300" channel="CSP" program_id="0000271439" event_id="00000000000101315251" series_key="">
 <title lang="pt">Século 21</title>
 <desc>Documentários e reportagens realizados pelas equipes de jornalismo da Organização das Nações Unidas ao redor do mundo, mostrando os principais problemas e realizações da humanidade.</desc>
 <category lang="pt">Documentário</category>
@@ -1678,7 +1047,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712093000 -0300" stop="20150712123000 -0300" channel="CSP" program_id="0000160725" event_id="00000000000099895817" series_key="">
+<programme start="20150726093000 -0300" stop="20150726123000 -0300" channel="CSP" program_id="0000160725" event_id="00000000000101315252" series_key="">
 <title lang="pt">Dicas Imperdíveis</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1695,7 +1064,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712123000 -0300" stop="20150712133000 -0300" channel="CSP" program_id="0000267779" event_id="00000000000099895818" series_key="">
+<programme start="20150726123000 -0300" stop="20150726133000 -0300" channel="CSP" program_id="0000267779" event_id="00000000000101315253" series_key="">
 <title lang="pt">Programação a Confirmar</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1712,7 +1081,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712133000 -0300" stop="20150712154500 -0300" channel="CSP" program_id="0000311420" event_id="00000000000099895819" series_key="">
+<programme start="20150726133000 -0300" stop="20150726154500 -0300" channel="CSP" program_id="0000311420" event_id="00000000000101315254" series_key="">
 <title lang="pt">France 24</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1729,7 +1098,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712154500 -0300" stop="20150712161500 -0300" channel="CSP" program_id="0000271439" event_id="00000000000099895820" series_key="">
+<programme start="20150726154500 -0300" stop="20150726161500 -0300" channel="CSP" program_id="0000271439" event_id="00000000000101315255" series_key="">
 <title lang="pt">Século 21</title>
 <desc>Documentários e reportagens realizados pelas equipes de jornalismo da Organização das Nações Unidas ao redor do mundo, mostrando os principais problemas e realizações da humanidade.</desc>
 <category lang="pt">Documentário</category>
@@ -1746,7 +1115,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712161500 -0300" stop="20150712164500 -0300" channel="CSP" program_id="0000131808" event_id="00000000000099895821" series_key="">
+<programme start="20150726161500 -0300" stop="20150726164500 -0300" channel="CSP" program_id="0000131808" event_id="00000000000101315256" series_key="">
 <title lang="pt">4 Linhas</title>
 <title lang="en">4 Linhas</title>
 <desc>Apresentado por Juarez Araújo, o programa recebe toda semana um personagem do mundo dos esportes. Com sutileza e irreverência, o jornalista entrevista craques do passado ou atuais, mostrando o perfil do atleta.</desc>
@@ -1764,7 +1133,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712164500 -0300" stop="20150712170000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895822" series_key="">
+<programme start="20150726164500 -0300" stop="20150726170000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315257" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -1781,7 +1150,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712170000 -0300" stop="20150712173000 -0300" channel="CSP" program_id="0000401234" event_id="00000000000099895823" series_key="">
+<programme start="20150726170000 -0300" stop="20150726173000 -0300" channel="CSP" program_id="0000401234" event_id="00000000000101315258" series_key="">
 <title lang="pt">Desenvolvimento Sustentável</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1798,7 +1167,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712173000 -0300" stop="20150712174500 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895824" series_key="">
+<programme start="20150726173000 -0300" stop="20150726174500 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315259" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -1815,7 +1184,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712174500 -0300" stop="20150712180000 -0300" channel="CSP" program_id="0000138870" event_id="00000000000099895825" series_key="">
+<programme start="20150726174500 -0300" stop="20150726180000 -0300" channel="CSP" program_id="0000138870" event_id="00000000000101315260" series_key="">
 <title lang="pt">Onu em Ação</title>
 <title lang="en">Onu em Ação</title>
 <desc>A Blue TV traz com exclusividade, legendados em português, diversos documentários e reportagens sobre os problemas e realizações de vários locais do mundo, produzidos pelas equipes de jornalismo das Nações Unidas.</desc>
@@ -1833,7 +1202,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150712180000 -0300" stop="20150712200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000099895826" series_key="">
+<programme start="20150726180000 -0300" stop="20150726200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000101315261" series_key="">
 <title lang="pt">France 24</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1850,7 +1219,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712200000 -0300" stop="20150712213000 -0300" channel="CSP" program_id="0000115550" event_id="00000000000099895827" series_key="">
+<programme start="20150726200000 -0300" stop="20150726213000 -0300" channel="CSP" program_id="0000115550" event_id="00000000000101315262" series_key="">
 <title lang="pt">424</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1864,7 +1233,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712213000 -0300" stop="20150713040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895828" series_key="">
+<programme start="20150726213000 -0300" stop="20150727040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315263" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -1881,7 +1250,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713040000 -0300" stop="20150713080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000099895829" series_key="">
+<programme start="20150727040000 -0300" stop="20150727080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000101315264" series_key="">
 <title lang="pt">Sem Programação</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1898,7 +1267,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713080000 -0300" stop="20150713083000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895830" series_key="">
+<programme start="20150727080000 -0300" stop="20150727083000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315265" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -1915,7 +1284,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713083000 -0300" stop="20150713090000 -0300" channel="CSP" program_id="0000131808" event_id="00000000000099895831" series_key="">
+<programme start="20150727083000 -0300" stop="20150727090000 -0300" channel="CSP" program_id="0000131808" event_id="00000000000101315266" series_key="">
 <title lang="pt">4 Linhas</title>
 <title lang="en">4 Linhas</title>
 <desc>Apresentado por Juarez Araújo, o programa recebe toda semana um personagem do mundo dos esportes. Com sutileza e irreverência, o jornalista entrevista craques do passado ou atuais, mostrando o perfil do atleta.</desc>
@@ -1933,7 +1302,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713090000 -0300" stop="20150713103000 -0300" channel="CSP" program_id="0000115550" event_id="00000000000099895832" series_key="">
+<programme start="20150727090000 -0300" stop="20150727103000 -0300" channel="CSP" program_id="0000115550" event_id="00000000000101315267" series_key="">
 <title lang="pt">424</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1947,7 +1316,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713103000 -0300" stop="20150713110000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895833" series_key="">
+<programme start="20150727103000 -0300" stop="20150727110000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315268" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -1964,7 +1333,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713110000 -0300" stop="20150713113000 -0300" channel="CSP" program_id="0000271439" event_id="00000000000099895834" series_key="">
+<programme start="20150727110000 -0300" stop="20150727113000 -0300" channel="CSP" program_id="0000271439" event_id="00000000000101315269" series_key="">
 <title lang="pt">Século 21</title>
 <desc>Documentários e reportagens realizados pelas equipes de jornalismo da Organização das Nações Unidas ao redor do mundo, mostrando os principais problemas e realizações da humanidade.</desc>
 <category lang="pt">Documentário</category>
@@ -1981,7 +1350,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713113000 -0300" stop="20150713160000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895835" series_key="">
+<programme start="20150727113000 -0300" stop="20150727160000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315270" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -1998,7 +1367,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713160000 -0300" stop="20150713200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000099895836" series_key="">
+<programme start="20150727160000 -0300" stop="20150727200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000101315271" series_key="">
 <title lang="pt">France 24</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2015,7 +1384,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713200000 -0300" stop="20150714040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895837" series_key="">
+<programme start="20150727200000 -0300" stop="20150728040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315272" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -2032,7 +1401,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714040000 -0300" stop="20150714080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000099895838" series_key="">
+<programme start="20150728040000 -0300" stop="20150728080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000101315273" series_key="">
 <title lang="pt">Sem Programação</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2049,7 +1418,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714080000 -0300" stop="20150714083000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895839" series_key="">
+<programme start="20150728080000 -0300" stop="20150728083000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315274" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -2066,7 +1435,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714083000 -0300" stop="20150714090000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895840" series_key="">
+<programme start="20150728083000 -0300" stop="20150728090000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315275" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -2083,7 +1452,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714090000 -0300" stop="20150714091500 -0300" channel="CSP" program_id="0000138870" event_id="00000000000099895841" series_key="">
+<programme start="20150728090000 -0300" stop="20150728091500 -0300" channel="CSP" program_id="0000138870" event_id="00000000000101315276" series_key="">
 <title lang="pt">Onu em Ação</title>
 <title lang="en">Onu em Ação</title>
 <desc>A Blue TV traz com exclusividade, legendados em português, diversos documentários e reportagens sobre os problemas e realizações de vários locais do mundo, produzidos pelas equipes de jornalismo das Nações Unidas.</desc>
@@ -2101,7 +1470,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150714091500 -0300" stop="20150714113000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895842" series_key="">
+<programme start="20150728091500 -0300" stop="20150728113000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315277" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -2118,7 +1487,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714113000 -0300" stop="20150714120000 -0300" channel="CSP" program_id="0000131808" event_id="00000000000099895843" series_key="">
+<programme start="20150728113000 -0300" stop="20150728120000 -0300" channel="CSP" program_id="0000131808" event_id="00000000000101315278" series_key="">
 <title lang="pt">4 Linhas</title>
 <title lang="en">4 Linhas</title>
 <desc>Apresentado por Juarez Araújo, o programa recebe toda semana um personagem do mundo dos esportes. Com sutileza e irreverência, o jornalista entrevista craques do passado ou atuais, mostrando o perfil do atleta.</desc>
@@ -2136,7 +1505,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714120000 -0300" stop="20150714160000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895844" series_key="">
+<programme start="20150728120000 -0300" stop="20150728160000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315279" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -2153,7 +1522,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714160000 -0300" stop="20150714200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000099895845" series_key="">
+<programme start="20150728160000 -0300" stop="20150728200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000101315280" series_key="">
 <title lang="pt">France 24</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2170,7 +1539,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714200000 -0300" stop="20150714210000 -0300" channel="CSP" program_id="0000016557" event_id="00000000000099895846" series_key="00000000066261000000">
+<programme start="20150728200000 -0300" stop="20150728210000 -0300" channel="CSP" program_id="0000016557" event_id="00000000000101315281" series_key="00000000066261000000">
 <title lang="pt">Show Business</title>
 <desc>Um programa de entrevistas e informações, comandado por João Doria Jr. traz matérias voltadas para o debate econômico em âmbito empresarial.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2188,7 +1557,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714210000 -0300" stop="20150715040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895847" series_key="">
+<programme start="20150728210000 -0300" stop="20150729040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315282" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -2205,7 +1574,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715040000 -0300" stop="20150715080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000099895848" series_key="">
+<programme start="20150729040000 -0300" stop="20150729080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000101315283" series_key="">
 <title lang="pt">Sem Programação</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2222,7 +1591,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715080000 -0300" stop="20150715083000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895849" series_key="">
+<programme start="20150729080000 -0300" stop="20150729083000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315284" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -2239,7 +1608,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715083000 -0300" stop="20150715090000 -0300" channel="CSP" program_id="0000271439" event_id="00000000000099895850" series_key="">
+<programme start="20150729083000 -0300" stop="20150729090000 -0300" channel="CSP" program_id="0000271439" event_id="00000000000101315285" series_key="">
 <title lang="pt">Século 21</title>
 <desc>Documentários e reportagens realizados pelas equipes de jornalismo da Organização das Nações Unidas ao redor do mundo, mostrando os principais problemas e realizações da humanidade.</desc>
 <category lang="pt">Documentário</category>
@@ -2256,7 +1625,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715090000 -0300" stop="20150715093000 -0300" channel="CSP" program_id="0000131808" event_id="00000000000099895851" series_key="">
+<programme start="20150729090000 -0300" stop="20150729093000 -0300" channel="CSP" program_id="0000131808" event_id="00000000000101315286" series_key="">
 <title lang="pt">4 Linhas</title>
 <title lang="en">4 Linhas</title>
 <desc>Apresentado por Juarez Araújo, o programa recebe toda semana um personagem do mundo dos esportes. Com sutileza e irreverência, o jornalista entrevista craques do passado ou atuais, mostrando o perfil do atleta.</desc>
@@ -2274,7 +1643,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715093000 -0300" stop="20150715160000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895852" series_key="">
+<programme start="20150729093000 -0300" stop="20150729160000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315287" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -2291,7 +1660,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715160000 -0300" stop="20150715200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000099895853" series_key="">
+<programme start="20150729160000 -0300" stop="20150729200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000101315288" series_key="">
 <title lang="pt">France 24</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2308,7 +1677,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715200000 -0300" stop="20150716003000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895854" series_key="">
+<programme start="20150729200000 -0300" stop="20150730003000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315289" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -2325,7 +1694,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716003000 -0300" stop="20150716040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895855" series_key="">
+<programme start="20150730003000 -0300" stop="20150730040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315290" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -2342,7 +1711,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716040000 -0300" stop="20150716080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000099895856" series_key="">
+<programme start="20150730040000 -0300" stop="20150730080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000101315291" series_key="">
 <title lang="pt">Sem Programação</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2359,7 +1728,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716080000 -0300" stop="20150716083000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895857" series_key="">
+<programme start="20150730080000 -0300" stop="20150730083000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315292" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -2376,7 +1745,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716083000 -0300" stop="20150716084500 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895858" series_key="">
+<programme start="20150730083000 -0300" stop="20150730084500 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315293" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -2393,7 +1762,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716084500 -0300" stop="20150716090000 -0300" channel="CSP" program_id="0000138870" event_id="00000000000099895859" series_key="">
+<programme start="20150730084500 -0300" stop="20150730090000 -0300" channel="CSP" program_id="0000138870" event_id="00000000000101315294" series_key="">
 <title lang="pt">Onu em Ação</title>
 <title lang="en">Onu em Ação</title>
 <desc>A Blue TV traz com exclusividade, legendados em português, diversos documentários e reportagens sobre os problemas e realizações de vários locais do mundo, produzidos pelas equipes de jornalismo das Nações Unidas.</desc>
@@ -2411,7 +1780,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150716090000 -0300" stop="20150716093000 -0300" channel="CSP" program_id="0000401234" event_id="00000000000099895860" series_key="">
+<programme start="20150730090000 -0300" stop="20150730093000 -0300" channel="CSP" program_id="0000401234" event_id="00000000000101315295" series_key="">
 <title lang="pt">Desenvolvimento Sustentável</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2428,7 +1797,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716093000 -0300" stop="20150716123000 -0300" channel="CSP" program_id="0000160725" event_id="00000000000099895861" series_key="">
+<programme start="20150730093000 -0300" stop="20150730123000 -0300" channel="CSP" program_id="0000160725" event_id="00000000000101315296" series_key="">
 <title lang="pt">Dicas Imperdíveis</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2445,7 +1814,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716123000 -0300" stop="20150716160000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895862" series_key="">
+<programme start="20150730123000 -0300" stop="20150730160000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315297" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -2462,7 +1831,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716160000 -0300" stop="20150716200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000099895863" series_key="">
+<programme start="20150730160000 -0300" stop="20150730200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000101315298" series_key="">
 <title lang="pt">France 24</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2479,7 +1848,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716200000 -0300" stop="20150717040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895864" series_key="">
+<programme start="20150730200000 -0300" stop="20150731040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315299" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -2496,7 +1865,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717040000 -0300" stop="20150717080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000099895865" series_key="">
+<programme start="20150731040000 -0300" stop="20150731080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000101315300" series_key="">
 <title lang="pt">Sem Programação</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2513,7 +1882,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717080000 -0300" stop="20150717083000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895866" series_key="">
+<programme start="20150731080000 -0300" stop="20150731083000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315301" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -2530,7 +1899,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717083000 -0300" stop="20150717090000 -0300" channel="CSP" program_id="0000131808" event_id="00000000000099895867" series_key="">
+<programme start="20150731083000 -0300" stop="20150731090000 -0300" channel="CSP" program_id="0000131808" event_id="00000000000101315302" series_key="">
 <title lang="pt">4 Linhas</title>
 <title lang="en">4 Linhas</title>
 <desc>Apresentado por Juarez Araújo, o programa recebe toda semana um personagem do mundo dos esportes. Com sutileza e irreverência, o jornalista entrevista craques do passado ou atuais, mostrando o perfil do atleta.</desc>
@@ -2548,7 +1917,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717090000 -0300" stop="20150717091500 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895868" series_key="">
+<programme start="20150731090000 -0300" stop="20150731091500 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315303" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -2565,7 +1934,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717091500 -0300" stop="20150717093000 -0300" channel="CSP" program_id="0000138870" event_id="00000000000099895869" series_key="">
+<programme start="20150731091500 -0300" stop="20150731093000 -0300" channel="CSP" program_id="0000138870" event_id="00000000000101315304" series_key="">
 <title lang="pt">Onu em Ação</title>
 <title lang="en">Onu em Ação</title>
 <desc>A Blue TV traz com exclusividade, legendados em português, diversos documentários e reportagens sobre os problemas e realizações de vários locais do mundo, produzidos pelas equipes de jornalismo das Nações Unidas.</desc>
@@ -2583,7 +1952,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150717093000 -0300" stop="20150717123000 -0300" channel="CSP" program_id="0000160725" event_id="00000000000099895870" series_key="">
+<programme start="20150731093000 -0300" stop="20150731123000 -0300" channel="CSP" program_id="0000160725" event_id="00000000000101315305" series_key="">
 <title lang="pt">Dicas Imperdíveis</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2600,7 +1969,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717123000 -0300" stop="20150717153000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895871" series_key="">
+<programme start="20150731123000 -0300" stop="20150731153000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315306" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -2617,7 +1986,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717153000 -0300" stop="20150717160000 -0300" channel="CSP" program_id="0000401234" event_id="00000000000099895872" series_key="">
+<programme start="20150731153000 -0300" stop="20150731160000 -0300" channel="CSP" program_id="0000401234" event_id="00000000000101315307" series_key="">
 <title lang="pt">Desenvolvimento Sustentável</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2634,7 +2003,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717160000 -0300" stop="20150717200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000099895873" series_key="">
+<programme start="20150731160000 -0300" stop="20150731200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000101315308" series_key="">
 <title lang="pt">France 24</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2651,7 +2020,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717200000 -0300" stop="20150718040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000099895874" series_key="">
+<programme start="20150731200000 -0300" stop="20150801040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315309" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -2668,7 +2037,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718040000 -0300" stop="20150718080000 -0300" channel="CSP" program_id="0000319679" event_id="000000104729846" series_key="">
+<programme start="20150801040000 -0300" stop="20150801080000 -0300" channel="CSP" program_id="0000319679" event_id="00000000000101315310" series_key="">
 <title lang="pt">Sem Programação</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2685,7 +2054,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718080000 -0300" stop="20150718093000 -0300" channel="CSP" program_id="0000267779" event_id="000000104729847" series_key="">
+<programme start="20150801080000 -0300" stop="20150801093000 -0300" channel="CSP" program_id="0000267779" event_id="00000000000101315311" series_key="">
 <title lang="pt">Programação a Confirmar</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2702,7 +2071,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718093000 -0300" stop="20150718123000 -0300" channel="CSP" program_id="0000160725" event_id="000000104729849" series_key="">
+<programme start="20150801093000 -0300" stop="20150801123000 -0300" channel="CSP" program_id="0000160725" event_id="00000000000101315312" series_key="">
 <title lang="pt">Dicas Imperdíveis</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2719,7 +2088,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718123000 -0300" stop="20150718150000 -0300" channel="CSP" program_id="0000311420" event_id="000000104729850" series_key="">
+<programme start="20150801123000 -0300" stop="20150801150000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000101315313" series_key="">
 <title lang="pt">France 24</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2736,7 +2105,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718150000 -0300" stop="20150718161500 -0300" channel="CSP" program_id="0000124922" event_id="000000104729851" series_key="">
+<programme start="20150801150000 -0300" stop="20150801161500 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315314" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -2753,7 +2122,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718161500 -0300" stop="20150718164500 -0300" channel="CSP" program_id="0000267779" event_id="000000104729854" series_key="">
+<programme start="20150801161500 -0300" stop="20150801164500 -0300" channel="CSP" program_id="0000267779" event_id="00000000000101315315" series_key="">
 <title lang="pt">Programação a Confirmar</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2770,7 +2139,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718164500 -0300" stop="20150718171500 -0300" channel="CSP" program_id="0000271439" event_id="000000104729855" series_key="">
+<programme start="20150801164500 -0300" stop="20150801171500 -0300" channel="CSP" program_id="0000271439" event_id="00000000000101315316" series_key="">
 <title lang="pt">Século 21</title>
 <desc>Documentários e reportagens realizados pelas equipes de jornalismo da Organização das Nações Unidas ao redor do mundo, mostrando os principais problemas e realizações da humanidade.</desc>
 <category lang="pt">Documentário</category>
@@ -2787,7 +2156,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718171500 -0300" stop="20150718174500 -0300" channel="CSP" program_id="0000131808" event_id="000000104729857" series_key="">
+<programme start="20150801171500 -0300" stop="20150801174500 -0300" channel="CSP" program_id="0000131808" event_id="00000000000101315317" series_key="">
 <title lang="pt">4 Linhas</title>
 <title lang="en">4 Linhas</title>
 <desc>Apresentado por Juarez Araújo, o programa recebe toda semana um personagem do mundo dos esportes. Com sutileza e irreverência, o jornalista entrevista craques do passado ou atuais, mostrando o perfil do atleta.</desc>
@@ -2805,7 +2174,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718174500 -0300" stop="20150718180000 -0300" channel="CSP" program_id="0000124922" event_id="000000104729859" series_key="">
+<programme start="20150801174500 -0300" stop="20150801180000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315318" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -2822,7 +2191,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718180000 -0300" stop="20150718200000 -0300" channel="CSP" program_id="0000311420" event_id="000000104729861" series_key="">
+<programme start="20150801180000 -0300" stop="20150801200000 -0300" channel="CSP" program_id="0000311420" event_id="00000000000101315319" series_key="">
 <title lang="pt">France 24</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2839,7 +2208,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718200000 -0300" stop="20150718203000 -0300" channel="CSP" program_id="0000401234" event_id="000000104729862" series_key="">
+<programme start="20150801200000 -0300" stop="20150801203000 -0300" channel="CSP" program_id="0000401234" event_id="00000000000101315320" series_key="">
 <title lang="pt">Desenvolvimento Sustentável</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2856,7 +2225,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718203000 -0300" stop="20150719040000 -0300" channel="CSP" program_id="0000124922" event_id="000000104729864" series_key="">
+<programme start="20150801203000 -0300" stop="20150802040000 -0300" channel="CSP" program_id="0000124922" event_id="00000000000101315321" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -2873,7 +2242,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719040000 -0300" stop="20150719080000 -0300" channel="CSP" program_id="0000319679" event_id="000000104729866" series_key="">
+<programme start="20150802040000 -0300" stop="20150802080000 -0300" channel="CSP" program_id="0000319679" event_id="000000107511893" series_key="">
 <title lang="pt">Sem Programação</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2890,7 +2259,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719080000 -0300" stop="20150719090000 -0300" channel="CSP" program_id="0000124922" event_id="000000104729868" series_key="">
+<programme start="20150802080000 -0300" stop="20150802090000 -0300" channel="CSP" program_id="0000124922" event_id="000000107511895" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -2907,7 +2276,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719090000 -0300" stop="20150719093000 -0300" channel="CSP" program_id="0000271439" event_id="000000104729870" series_key="">
+<programme start="20150802090000 -0300" stop="20150802093000 -0300" channel="CSP" program_id="0000271439" event_id="000000107511898" series_key="">
 <title lang="pt">Século 21</title>
 <desc>Documentários e reportagens realizados pelas equipes de jornalismo da Organização das Nações Unidas ao redor do mundo, mostrando os principais problemas e realizações da humanidade.</desc>
 <category lang="pt">Documentário</category>
@@ -2924,7 +2293,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719093000 -0300" stop="20150719123000 -0300" channel="CSP" program_id="0000160725" event_id="000000104729872" series_key="">
+<programme start="20150802093000 -0300" stop="20150802123000 -0300" channel="CSP" program_id="0000160725" event_id="000000107511901" series_key="">
 <title lang="pt">Dicas Imperdíveis</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2941,7 +2310,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719123000 -0300" stop="20150719133000 -0300" channel="CSP" program_id="0000267779" event_id="000000104729874" series_key="">
+<programme start="20150802123000 -0300" stop="20150802133000 -0300" channel="CSP" program_id="0000267779" event_id="000000107511904" series_key="">
 <title lang="pt">Programação a Confirmar</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2958,7 +2327,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719133000 -0300" stop="20150719154500 -0300" channel="CSP" program_id="0000311420" event_id="000000104729877" series_key="">
+<programme start="20150802133000 -0300" stop="20150802154500 -0300" channel="CSP" program_id="0000311420" event_id="000000107511906" series_key="">
 <title lang="pt">France 24</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2975,7 +2344,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719154500 -0300" stop="20150719161500 -0300" channel="CSP" program_id="0000271439" event_id="000000104729879" series_key="">
+<programme start="20150802154500 -0300" stop="20150802161500 -0300" channel="CSP" program_id="0000271439" event_id="000000107511909" series_key="">
 <title lang="pt">Século 21</title>
 <desc>Documentários e reportagens realizados pelas equipes de jornalismo da Organização das Nações Unidas ao redor do mundo, mostrando os principais problemas e realizações da humanidade.</desc>
 <category lang="pt">Documentário</category>
@@ -2992,7 +2361,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719161500 -0300" stop="20150719164500 -0300" channel="CSP" program_id="0000131808" event_id="000000104729881" series_key="">
+<programme start="20150802161500 -0300" stop="20150802164500 -0300" channel="CSP" program_id="0000131808" event_id="000000107511910" series_key="">
 <title lang="pt">4 Linhas</title>
 <title lang="en">4 Linhas</title>
 <desc>Apresentado por Juarez Araújo, o programa recebe toda semana um personagem do mundo dos esportes. Com sutileza e irreverência, o jornalista entrevista craques do passado ou atuais, mostrando o perfil do atleta.</desc>
@@ -3010,7 +2379,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719164500 -0300" stop="20150719170000 -0300" channel="CSP" program_id="0000124922" event_id="000000104729882" series_key="">
+<programme start="20150802164500 -0300" stop="20150802170000 -0300" channel="CSP" program_id="0000124922" event_id="000000107511912" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -3027,7 +2396,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719170000 -0300" stop="20150719173000 -0300" channel="CSP" program_id="0000401234" event_id="000000104729884" series_key="">
+<programme start="20150802170000 -0300" stop="20150802173000 -0300" channel="CSP" program_id="0000401234" event_id="000000107511914" series_key="">
 <title lang="pt">Desenvolvimento Sustentável</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3044,7 +2413,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719173000 -0300" stop="20150719174500 -0300" channel="CSP" program_id="0000124922" event_id="000000104729885" series_key="">
+<programme start="20150802173000 -0300" stop="20150802174500 -0300" channel="CSP" program_id="0000124922" event_id="000000107511916" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -3061,7 +2430,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719174500 -0300" stop="20150719180000 -0300" channel="CSP" program_id="0000138870" event_id="000000104729887" series_key="">
+<programme start="20150802174500 -0300" stop="20150802180000 -0300" channel="CSP" program_id="0000138870" event_id="000000107511918" series_key="">
 <title lang="pt">Onu em Ação</title>
 <title lang="en">Onu em Ação</title>
 <desc>A Blue TV traz com exclusividade, legendados em português, diversos documentários e reportagens sobre os problemas e realizações de vários locais do mundo, produzidos pelas equipes de jornalismo das Nações Unidas.</desc>
@@ -3079,7 +2448,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150719180000 -0300" stop="20150719200000 -0300" channel="CSP" program_id="0000311420" event_id="000000104729889" series_key="">
+<programme start="20150802180000 -0300" stop="20150802200000 -0300" channel="CSP" program_id="0000311420" event_id="000000107511921" series_key="">
 <title lang="pt">France 24</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3096,7 +2465,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719200000 -0300" stop="20150719213000 -0300" channel="CSP" program_id="0000115550" event_id="000000104729891" series_key="">
+<programme start="20150802200000 -0300" stop="20150802213000 -0300" channel="CSP" program_id="0000115550" event_id="000000107511923" series_key="">
 <title lang="pt">424</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3110,7 +2479,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719213000 -0300" stop="20150720040000 -0300" channel="CSP" program_id="0000124922" event_id="000000104729893" series_key="">
+<programme start="20150802213000 -0300" stop="20150803040000 -0300" channel="CSP" program_id="0000124922" event_id="000000107511925" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -3127,7 +2496,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720040000 -0300" stop="20150720080000 -0300" channel="CSP" program_id="0000319679" event_id="000000104729895" series_key="">
+<programme start="20150803040000 -0300" stop="20150803080000 -0300" channel="CSP" program_id="0000319679" event_id="000000107511927" series_key="">
 <title lang="pt">Sem Programação</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3144,7 +2513,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720080000 -0300" stop="20150720083000 -0300" channel="CSP" program_id="0000124922" event_id="000000104729897" series_key="">
+<programme start="20150803080000 -0300" stop="20150803083000 -0300" channel="CSP" program_id="0000124922" event_id="000000107511930" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -3161,7 +2530,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720083000 -0300" stop="20150720090000 -0300" channel="CSP" program_id="0000131808" event_id="000000104729899" series_key="">
+<programme start="20150803083000 -0300" stop="20150803090000 -0300" channel="CSP" program_id="0000131808" event_id="000000107511933" series_key="">
 <title lang="pt">4 Linhas</title>
 <title lang="en">4 Linhas</title>
 <desc>Apresentado por Juarez Araújo, o programa recebe toda semana um personagem do mundo dos esportes. Com sutileza e irreverência, o jornalista entrevista craques do passado ou atuais, mostrando o perfil do atleta.</desc>
@@ -3179,7 +2548,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720090000 -0300" stop="20150720103000 -0300" channel="CSP" program_id="0000115550" event_id="000000104729901" series_key="">
+<programme start="20150803090000 -0300" stop="20150803103000 -0300" channel="CSP" program_id="0000115550" event_id="000000107511936" series_key="">
 <title lang="pt">424</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3193,7 +2562,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720103000 -0300" stop="20150720110000 -0300" channel="CSP" program_id="0000124922" event_id="000000104729903" series_key="">
+<programme start="20150803103000 -0300" stop="20150803110000 -0300" channel="CSP" program_id="0000124922" event_id="000000107511938" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -3210,7 +2579,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720110000 -0300" stop="20150720113000 -0300" channel="CSP" program_id="0000271439" event_id="000000104729906" series_key="">
+<programme start="20150803110000 -0300" stop="20150803113000 -0300" channel="CSP" program_id="0000271439" event_id="000000107511941" series_key="">
 <title lang="pt">Século 21</title>
 <desc>Documentários e reportagens realizados pelas equipes de jornalismo da Organização das Nações Unidas ao redor do mundo, mostrando os principais problemas e realizações da humanidade.</desc>
 <category lang="pt">Documentário</category>
@@ -3227,7 +2596,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720113000 -0300" stop="20150720160000 -0300" channel="CSP" program_id="0000124922" event_id="000000104729912" series_key="">
+<programme start="20150803113000 -0300" stop="20150803160000 -0300" channel="CSP" program_id="0000124922" event_id="000000107511943" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -3244,7 +2613,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720160000 -0300" stop="20150720200000 -0300" channel="CSP" program_id="0000311420" event_id="000000104729914" series_key="">
+<programme start="20150803160000 -0300" stop="20150803200000 -0300" channel="CSP" program_id="0000311420" event_id="000000107511945" series_key="">
 <title lang="pt">France 24</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3261,7 +2630,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720200000 -0300" stop="20150721040000 -0300" channel="CSP" program_id="0000124922" event_id="000000104729917" series_key="">
+<programme start="20150803200000 -0300" stop="20150804040000 -0300" channel="CSP" program_id="0000124922" event_id="000000107511948" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -3278,7 +2647,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721040000 -0300" stop="20150721080000 -0300" channel="CSP" program_id="0000319679" event_id="000000104729920" series_key="">
+<programme start="20150804040000 -0300" stop="20150804080000 -0300" channel="CSP" program_id="0000319679" event_id="000000107511951" series_key="">
 <title lang="pt">Sem Programação</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3295,7 +2664,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721080000 -0300" stop="20150721083000 -0300" channel="CSP" program_id="0000124922" event_id="000000104729922" series_key="">
+<programme start="20150804080000 -0300" stop="20150804083000 -0300" channel="CSP" program_id="0000124922" event_id="000000107511953" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -3312,7 +2681,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721083000 -0300" stop="20150721090000 -0300" channel="CSP" program_id="0000124922" event_id="000000104729924" series_key="">
+<programme start="20150804083000 -0300" stop="20150804090000 -0300" channel="CSP" program_id="0000124922" event_id="000000107511955" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -3329,7 +2698,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721090000 -0300" stop="20150721091500 -0300" channel="CSP" program_id="0000138870" event_id="000000104729927" series_key="">
+<programme start="20150804090000 -0300" stop="20150804091500 -0300" channel="CSP" program_id="0000138870" event_id="000000107511957" series_key="">
 <title lang="pt">Onu em Ação</title>
 <title lang="en">Onu em Ação</title>
 <desc>A Blue TV traz com exclusividade, legendados em português, diversos documentários e reportagens sobre os problemas e realizações de vários locais do mundo, produzidos pelas equipes de jornalismo das Nações Unidas.</desc>
@@ -3347,7 +2716,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150721091500 -0300" stop="20150721113000 -0300" channel="CSP" program_id="0000124922" event_id="000000104729929" series_key="">
+<programme start="20150804091500 -0300" stop="20150804113000 -0300" channel="CSP" program_id="0000124922" event_id="000000107511960" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -3364,7 +2733,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721113000 -0300" stop="20150721120000 -0300" channel="CSP" program_id="0000131808" event_id="000000104729930" series_key="">
+<programme start="20150804113000 -0300" stop="20150804120000 -0300" channel="CSP" program_id="0000131808" event_id="000000107511963" series_key="">
 <title lang="pt">4 Linhas</title>
 <title lang="en">4 Linhas</title>
 <desc>Apresentado por Juarez Araújo, o programa recebe toda semana um personagem do mundo dos esportes. Com sutileza e irreverência, o jornalista entrevista craques do passado ou atuais, mostrando o perfil do atleta.</desc>
@@ -3382,7 +2751,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721120000 -0300" stop="20150721160000 -0300" channel="CSP" program_id="0000124922" event_id="000000104729931" series_key="">
+<programme start="20150804120000 -0300" stop="20150804160000 -0300" channel="CSP" program_id="0000124922" event_id="000000107511966" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>
@@ -3399,7 +2768,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721160000 -0300" stop="20150721200000 -0300" channel="CSP" program_id="0000311420" event_id="000000104729932" series_key="">
+<programme start="20150804160000 -0300" stop="20150804200000 -0300" channel="CSP" program_id="0000311420" event_id="000000107511969" series_key="">
 <title lang="pt">France 24</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3416,7 +2785,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721200000 -0300" stop="20150721210000 -0300" channel="CSP" program_id="0000016557" event_id="000000104729933" series_key="00000000066261000000">
+<programme start="20150804200000 -0300" stop="20150804210000 -0300" channel="CSP" program_id="0000016557" event_id="000000107511971" series_key="00000000066261000000">
 <title lang="pt">Show Business</title>
 <desc>Um programa de entrevistas e informações, comandado por João Doria Jr. traz matérias voltadas para o debate econômico em âmbito empresarial.</desc>
 <category lang="pt">Jornalismo</category>
@@ -3434,7 +2803,470 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721210000 -0300" stop="20150722040000 -0300" channel="CSP" program_id="0000124922" event_id="000000104729934" series_key="">
+<programme start="20150804210000 -0300" stop="20150805040000 -0300" channel="CSP" program_id="0000124922" event_id="000000107511974" series_key="">
+<title lang="pt">Blue TV</title>
+<desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000124922.jpg</image_name>
+<image_broadcast>0000124922</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805040000 -0300" stop="20150805080000 -0300" channel="CSP" program_id="0000319679" event_id="000000107511976" series_key="">
+<title lang="pt">Sem Programação</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000319679.jpg</image_name>
+<image_broadcast>0000319679</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805080000 -0300" stop="20150805083000 -0300" channel="CSP" program_id="0000124922" event_id="000000107511979" series_key="">
+<title lang="pt">Blue TV</title>
+<desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000124922.jpg</image_name>
+<image_broadcast>0000124922</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805083000 -0300" stop="20150805090000 -0300" channel="CSP" program_id="0000271439" event_id="000000107511982" series_key="">
+<title lang="pt">Século 21</title>
+<desc>Documentários e reportagens realizados pelas equipes de jornalismo da Organização das Nações Unidas ao redor do mundo, mostrando os principais problemas e realizações da humanidade.</desc>
+<category lang="pt">Documentário</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000271439.jpg</image_name>
+<image_broadcast>0000271439</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805090000 -0300" stop="20150805093000 -0300" channel="CSP" program_id="0000131808" event_id="000000107511984" series_key="">
+<title lang="pt">4 Linhas</title>
+<title lang="en">4 Linhas</title>
+<desc>Apresentado por Juarez Araújo, o programa recebe toda semana um personagem do mundo dos esportes. Com sutileza e irreverência, o jornalista entrevista craques do passado ou atuais, mostrando o perfil do atleta.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">0000131808.jpg</image_name>
+<image_broadcast>0000131808</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805093000 -0300" stop="20150805160000 -0300" channel="CSP" program_id="0000124922" event_id="000000107511986" series_key="">
+<title lang="pt">Blue TV</title>
+<desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000124922.jpg</image_name>
+<image_broadcast>0000124922</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805160000 -0300" stop="20150805200000 -0300" channel="CSP" program_id="0000311420" event_id="000000107511989" series_key="">
+<title lang="pt">France 24</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000311420.jpg</image_name>
+<image_broadcast>0000311420</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805200000 -0300" stop="20150806003000 -0300" channel="CSP" program_id="0000124922" event_id="000000107511991" series_key="">
+<title lang="pt">Blue TV</title>
+<desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000124922.jpg</image_name>
+<image_broadcast>0000124922</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806003000 -0300" stop="20150806040000 -0300" channel="CSP" program_id="0000124922" event_id="000000107511994" series_key="">
+<title lang="pt">Blue TV</title>
+<desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000124922.jpg</image_name>
+<image_broadcast>0000124922</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806040000 -0300" stop="20150806080000 -0300" channel="CSP" program_id="0000319679" event_id="000000107511996" series_key="">
+<title lang="pt">Sem Programação</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000319679.jpg</image_name>
+<image_broadcast>0000319679</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806080000 -0300" stop="20150806083000 -0300" channel="CSP" program_id="0000124922" event_id="000000107511998" series_key="">
+<title lang="pt">Blue TV</title>
+<desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000124922.jpg</image_name>
+<image_broadcast>0000124922</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806083000 -0300" stop="20150806084500 -0300" channel="CSP" program_id="0000124922" event_id="000000107512001" series_key="">
+<title lang="pt">Blue TV</title>
+<desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000124922.jpg</image_name>
+<image_broadcast>0000124922</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806084500 -0300" stop="20150806090000 -0300" channel="CSP" program_id="0000138870" event_id="000000107512004" series_key="">
+<title lang="pt">Onu em Ação</title>
+<title lang="en">Onu em Ação</title>
+<desc>A Blue TV traz com exclusividade, legendados em português, diversos documentários e reportagens sobre os problemas e realizações de vários locais do mundo, produzidos pelas equipes de jornalismo das Nações Unidas.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000138870.jpg</image_name>
+<image_broadcast>0000138870</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150806090000 -0300" stop="20150806093000 -0300" channel="CSP" program_id="0000401234" event_id="000000107512006" series_key="">
+<title lang="pt">Desenvolvimento Sustentável</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000401234.jpg</image_name>
+<image_broadcast>0000401234</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806093000 -0300" stop="20150806123000 -0300" channel="CSP" program_id="0000160725" event_id="000000107512008" series_key="">
+<title lang="pt">Dicas Imperdíveis</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000160725.jpg</image_name>
+<image_broadcast>0000160725</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806123000 -0300" stop="20150806160000 -0300" channel="CSP" program_id="0000124922" event_id="000000107512011" series_key="">
+<title lang="pt">Blue TV</title>
+<desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000124922.jpg</image_name>
+<image_broadcast>0000124922</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806160000 -0300" stop="20150806200000 -0300" channel="CSP" program_id="0000311420" event_id="000000107512014" series_key="">
+<title lang="pt">France 24</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000311420.jpg</image_name>
+<image_broadcast>0000311420</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806200000 -0300" stop="20150807040000 -0300" channel="CSP" program_id="0000124922" event_id="000000107512016" series_key="">
+<title lang="pt">Blue TV</title>
+<desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000124922.jpg</image_name>
+<image_broadcast>0000124922</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807040000 -0300" stop="20150807080000 -0300" channel="CSP" program_id="0000319679" event_id="000000107512019" series_key="">
+<title lang="pt">Sem Programação</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000319679.jpg</image_name>
+<image_broadcast>0000319679</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807080000 -0300" stop="20150807083000 -0300" channel="CSP" program_id="0000124922" event_id="000000107512021" series_key="">
+<title lang="pt">Blue TV</title>
+<desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000124922.jpg</image_name>
+<image_broadcast>0000124922</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807083000 -0300" stop="20150807090000 -0300" channel="CSP" program_id="0000131808" event_id="000000107512024" series_key="">
+<title lang="pt">4 Linhas</title>
+<title lang="en">4 Linhas</title>
+<desc>Apresentado por Juarez Araújo, o programa recebe toda semana um personagem do mundo dos esportes. Com sutileza e irreverência, o jornalista entrevista craques do passado ou atuais, mostrando o perfil do atleta.</desc>
+<category lang="pt">Jornalismo</category>
+<category lang="pt">Esportivo</category>
+<image>
+<image_name position="1">0000131808.jpg</image_name>
+<image_broadcast>0000131808</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807090000 -0300" stop="20150807091500 -0300" channel="CSP" program_id="0000124922" event_id="000000107512026" series_key="">
+<title lang="pt">Blue TV</title>
+<desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000124922.jpg</image_name>
+<image_broadcast>0000124922</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807091500 -0300" stop="20150807093000 -0300" channel="CSP" program_id="0000138870" event_id="000000107512029" series_key="">
+<title lang="pt">Onu em Ação</title>
+<title lang="en">Onu em Ação</title>
+<desc>A Blue TV traz com exclusividade, legendados em português, diversos documentários e reportagens sobre os problemas e realizações de vários locais do mundo, produzidos pelas equipes de jornalismo das Nações Unidas.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Informativo</category>
+<image>
+<image_name position="1">0000138870.jpg</image_name>
+<image_broadcast>0000138870</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150807093000 -0300" stop="20150807123000 -0300" channel="CSP" program_id="0000160725" event_id="000000107512032" series_key="">
+<title lang="pt">Dicas Imperdíveis</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000160725.jpg</image_name>
+<image_broadcast>0000160725</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807123000 -0300" stop="20150807153000 -0300" channel="CSP" program_id="0000124922" event_id="000000107512034" series_key="">
+<title lang="pt">Blue TV</title>
+<desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000124922.jpg</image_name>
+<image_broadcast>0000124922</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807153000 -0300" stop="20150807160000 -0300" channel="CSP" program_id="0000401234" event_id="000000107512037" series_key="">
+<title lang="pt">Desenvolvimento Sustentável</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000401234.jpg</image_name>
+<image_broadcast>0000401234</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807160000 -0300" stop="20150807200000 -0300" channel="CSP" program_id="0000311420" event_id="000000107512039" series_key="">
+<title lang="pt">France 24</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000311420.jpg</image_name>
+<image_broadcast>0000311420</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807200000 -0300" stop="20150808040000 -0300" channel="CSP" program_id="0000124922" event_id="000000107512042" series_key="">
 <title lang="pt">Blue TV</title>
 <desc>Canal de variedades com o objetivo de entreter e informar o público de diferentes universos. Apresenta vários gêneros de programação como música, esportes, séries, talk shows, desenhos, filmes e documentários.</desc>
 <category lang="pt">Variedades</category>

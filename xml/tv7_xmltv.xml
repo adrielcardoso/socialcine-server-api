@@ -4,7 +4,7 @@
 <display-name lang="pt">Tv+ Brasília - Canal 15</display-name>
 <icon src="tv7.gif" />
 </channel>
-<programme start="20150703060000 -0300" stop="20150703120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929122" series_key="">
+<programme start="20150720010000 -0300" stop="20150720014500 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343851" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -21,7 +21,41 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703120000 -0300" stop="20150703120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929123" series_key="">
+<programme start="20150720014500 -0300" stop="20150720060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343852" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150720060000 -0300" stop="20150720120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343853" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150720120000 -0300" stop="20150720120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343854" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -38,7 +72,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703120300 -0300" stop="20150703130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929124" series_key="">
+<programme start="20150720120300 -0300" stop="20150720130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343855" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -55,7 +89,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703130000 -0300" stop="20150703132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929125" series_key="">
+<programme start="20150720130000 -0300" stop="20150720132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343856" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -74,7 +108,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703132000 -0300" stop="20150703180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929126" series_key="">
+<programme start="20150720132000 -0300" stop="20150720180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343857" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -91,7 +125,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703180000 -0300" stop="20150703180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929127" series_key="">
+<programme start="20150720180000 -0300" stop="20150720180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343858" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -108,7 +142,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703180300 -0300" stop="20150703233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929128" series_key="">
+<programme start="20150720180300 -0300" stop="20150720233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343859" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -125,7 +159,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703233000 -0300" stop="20150703235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929129" series_key="">
+<programme start="20150720233000 -0300" stop="20150720235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343860" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -144,7 +178,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703235000 -0300" stop="20150704060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929130" series_key="">
+<programme start="20150720235000 -0300" stop="20150721060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343861" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -161,7 +195,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704060000 -0300" stop="20150704120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929131" series_key="">
+<programme start="20150721060000 -0300" stop="20150721120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343862" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -178,7 +212,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704120000 -0300" stop="20150704120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929132" series_key="">
+<programme start="20150721120000 -0300" stop="20150721120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343863" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -195,7 +229,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704120300 -0300" stop="20150704130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929133" series_key="">
+<programme start="20150721120300 -0300" stop="20150721130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343864" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -212,7 +246,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704130000 -0300" stop="20150704132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929134" series_key="">
+<programme start="20150721130000 -0300" stop="20150721132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343865" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -231,7 +265,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704132000 -0300" stop="20150704180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929135" series_key="">
+<programme start="20150721132000 -0300" stop="20150721180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343866" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -248,7 +282,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704180000 -0300" stop="20150704180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929136" series_key="">
+<programme start="20150721180000 -0300" stop="20150721180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343867" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -265,7 +299,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704180300 -0300" stop="20150704233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929137" series_key="">
+<programme start="20150721180300 -0300" stop="20150721223000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343868" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -282,615 +316,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704233000 -0300" stop="20150704235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929138" series_key="">
-<title lang="pt">TV+ Acontece</title>
-<title lang="en">TV+ Acontece</title>
-<desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000126534.jpg</image_name>
-<image_broadcast>0000126534</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704235000 -0300" stop="20150705060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929139" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705060000 -0300" stop="20150705120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929140" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705120000 -0300" stop="20150705120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929141" series_key="">
-<title lang="pt">Ave Maria</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000166417.jpg</image_name>
-<image_broadcast>0000166417</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705120300 -0300" stop="20150705130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929142" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705130000 -0300" stop="20150705132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929143" series_key="">
-<title lang="pt">TV+ Acontece</title>
-<title lang="en">TV+ Acontece</title>
-<desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000126534.jpg</image_name>
-<image_broadcast>0000126534</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705132000 -0300" stop="20150705140000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929144" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705140000 -0300" stop="20150705143000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929145" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705143000 -0300" stop="20150705180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929146" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705180000 -0300" stop="20150705180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929147" series_key="">
-<title lang="pt">Ave Maria</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000166417.jpg</image_name>
-<image_broadcast>0000166417</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705180300 -0300" stop="20150705190000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929148" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705190000 -0300" stop="20150705200000 -0300" channel="TV7" program_id="0000070813" event_id="00000000000099929149" series_key="">
-<title lang="pt">Momentos de Sabedoria</title>
-<title lang="en">Momentos de Sabedoria</title>
-<desc>Abordagem franca e sem qualquer tipo de proselitismo religioso, revela a origem espiritual da vida em forma racional. Espiritualidade levada a sério. Apresentação: Nelson Moraes e Marisa de Mello</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000070813.jpg</image_name>
-<image_broadcast>0000070813</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705200000 -0300" stop="20150705210000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929150" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705210000 -0300" stop="20150705213000 -0300" channel="TV7" program_id="0000166419" event_id="00000000000099929151" series_key="">
-<title lang="pt">TV+ Entrevista</title>
-<desc>Num clima intimista e descontraído, nossos entrevistadores tentam extrair dados sobre vida e carreira de profissionais dos mais variados segmentos da sociedade.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">0000166419.jpg</image_name>
-<image_broadcast>0000166419</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705213000 -0300" stop="20150705233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929152" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705233000 -0300" stop="20150705235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929153" series_key="">
-<title lang="pt">TV+ Acontece</title>
-<title lang="en">TV+ Acontece</title>
-<desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000126534.jpg</image_name>
-<image_broadcast>0000126534</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705235000 -0300" stop="20150706010000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929154" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706010000 -0300" stop="20150706014500 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929155" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706014500 -0300" stop="20150706060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929156" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706060000 -0300" stop="20150706120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929157" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706120000 -0300" stop="20150706120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929158" series_key="">
-<title lang="pt">Ave Maria</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000166417.jpg</image_name>
-<image_broadcast>0000166417</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706120300 -0300" stop="20150706130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929159" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706130000 -0300" stop="20150706132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929160" series_key="">
-<title lang="pt">TV+ Acontece</title>
-<title lang="en">TV+ Acontece</title>
-<desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000126534.jpg</image_name>
-<image_broadcast>0000126534</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706132000 -0300" stop="20150706180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929161" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706180000 -0300" stop="20150706180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929162" series_key="">
-<title lang="pt">Ave Maria</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000166417.jpg</image_name>
-<image_broadcast>0000166417</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706180300 -0300" stop="20150706233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929163" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706233000 -0300" stop="20150706235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929164" series_key="">
-<title lang="pt">TV+ Acontece</title>
-<title lang="en">TV+ Acontece</title>
-<desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000126534.jpg</image_name>
-<image_broadcast>0000126534</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706235000 -0300" stop="20150707060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929165" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707060000 -0300" stop="20150707120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929166" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707120000 -0300" stop="20150707120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929167" series_key="">
-<title lang="pt">Ave Maria</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000166417.jpg</image_name>
-<image_broadcast>0000166417</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707120300 -0300" stop="20150707130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929168" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707130000 -0300" stop="20150707132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929169" series_key="">
-<title lang="pt">TV+ Acontece</title>
-<title lang="en">TV+ Acontece</title>
-<desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000126534.jpg</image_name>
-<image_broadcast>0000126534</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707132000 -0300" stop="20150707180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929170" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707180000 -0300" stop="20150707180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929171" series_key="">
-<title lang="pt">Ave Maria</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Religião</category>
-<image>
-<image_name position="1">0000166417.jpg</image_name>
-<image_broadcast>0000166417</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707180300 -0300" stop="20150707223000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929172" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707223000 -0300" stop="20150707231500 -0300" channel="TV7" program_id="0000166416" event_id="00000000000099929173" series_key="">
+<programme start="20150721223000 -0300" stop="20150721231500 -0300" channel="TV7" program_id="0000166416" event_id="00000000000101343869" series_key="">
 <title lang="pt">Show Business</title>
 <desc>Entrevistas exclusivas com empresários, personalidades e autoridades com debates de assuntos atuais em economia, negócios e variedades. Apresentação: João Doria Jr.</desc>
 <category lang="pt">Variedades</category>
@@ -907,7 +333,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707231500 -0300" stop="20150707233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929174" series_key="">
+<programme start="20150721231500 -0300" stop="20150721233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343870" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -924,7 +350,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707233000 -0300" stop="20150707235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929175" series_key="">
+<programme start="20150721233000 -0300" stop="20150721235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343871" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -943,7 +369,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707235000 -0300" stop="20150708060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929176" series_key="">
+<programme start="20150721235000 -0300" stop="20150722060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343872" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -960,7 +386,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708060000 -0300" stop="20150708120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929177" series_key="">
+<programme start="20150722060000 -0300" stop="20150722120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343873" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -977,7 +403,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708120000 -0300" stop="20150708120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929178" series_key="">
+<programme start="20150722120000 -0300" stop="20150722120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343874" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -994,7 +420,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708120300 -0300" stop="20150708130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929179" series_key="">
+<programme start="20150722120300 -0300" stop="20150722130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343875" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1011,7 +437,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708130000 -0300" stop="20150708132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929180" series_key="">
+<programme start="20150722130000 -0300" stop="20150722132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343876" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -1030,7 +456,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708132000 -0300" stop="20150708180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929181" series_key="">
+<programme start="20150722132000 -0300" stop="20150722180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343877" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1047,7 +473,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708180000 -0300" stop="20150708180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929182" series_key="">
+<programme start="20150722180000 -0300" stop="20150722180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343878" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1064,7 +490,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708180300 -0300" stop="20150708233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929183" series_key="">
+<programme start="20150722180300 -0300" stop="20150722233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343879" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1081,7 +507,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708233000 -0300" stop="20150708235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929184" series_key="">
+<programme start="20150722233000 -0300" stop="20150722235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343880" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -1100,7 +526,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708235000 -0300" stop="20150709000000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929185" series_key="">
+<programme start="20150722235000 -0300" stop="20150723000000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343881" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1117,7 +543,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709000000 -0300" stop="20150709010000 -0300" channel="TV7" program_id="0000236328" event_id="00000000000099929186" series_key="">
+<programme start="20150723000000 -0300" stop="20150723010000 -0300" channel="TV7" program_id="0000236328" event_id="00000000000101343882" series_key="">
 <title lang="pt">Toquinho, Violão e Futebol</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1134,7 +560,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709010000 -0300" stop="20150709013000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929187" series_key="">
+<programme start="20150723010000 -0300" stop="20150723013000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343883" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1151,7 +577,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709013000 -0300" stop="20150709060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929188" series_key="">
+<programme start="20150723013000 -0300" stop="20150723060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343884" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1168,7 +594,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709060000 -0300" stop="20150709120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929189" series_key="">
+<programme start="20150723060000 -0300" stop="20150723120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343885" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1185,7 +611,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709120000 -0300" stop="20150709120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929190" series_key="">
+<programme start="20150723120000 -0300" stop="20150723120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343886" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1202,7 +628,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709120300 -0300" stop="20150709130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929191" series_key="">
+<programme start="20150723120300 -0300" stop="20150723130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343887" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1219,7 +645,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709130000 -0300" stop="20150709132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929192" series_key="">
+<programme start="20150723130000 -0300" stop="20150723132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343888" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -1238,7 +664,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709132000 -0300" stop="20150709180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929193" series_key="">
+<programme start="20150723132000 -0300" stop="20150723180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343889" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1255,7 +681,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709180000 -0300" stop="20150709180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929194" series_key="">
+<programme start="20150723180000 -0300" stop="20150723180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343890" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1272,7 +698,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709180300 -0300" stop="20150709233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929195" series_key="">
+<programme start="20150723180300 -0300" stop="20150723233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343891" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1289,7 +715,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709233000 -0300" stop="20150709235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929196" series_key="">
+<programme start="20150723233000 -0300" stop="20150723235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343892" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -1308,7 +734,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709235000 -0300" stop="20150710060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929197" series_key="">
+<programme start="20150723235000 -0300" stop="20150724060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343893" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1325,7 +751,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710060000 -0300" stop="20150710120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929198" series_key="">
+<programme start="20150724060000 -0300" stop="20150724120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343894" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1342,7 +768,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710120000 -0300" stop="20150710120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929199" series_key="">
+<programme start="20150724120000 -0300" stop="20150724120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343895" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1359,7 +785,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710120300 -0300" stop="20150710130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929200" series_key="">
+<programme start="20150724120300 -0300" stop="20150724130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343896" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1376,7 +802,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710130000 -0300" stop="20150710132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929201" series_key="">
+<programme start="20150724130000 -0300" stop="20150724132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343897" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -1395,7 +821,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710132000 -0300" stop="20150710180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929202" series_key="">
+<programme start="20150724132000 -0300" stop="20150724180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343898" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1412,7 +838,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710180000 -0300" stop="20150710180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929203" series_key="">
+<programme start="20150724180000 -0300" stop="20150724180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343899" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1429,7 +855,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710180300 -0300" stop="20150710233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929204" series_key="">
+<programme start="20150724180300 -0300" stop="20150724233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343900" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1446,7 +872,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710233000 -0300" stop="20150710235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929205" series_key="">
+<programme start="20150724233000 -0300" stop="20150724235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343901" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -1465,7 +891,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710235000 -0300" stop="20150711060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929206" series_key="">
+<programme start="20150724235000 -0300" stop="20150725060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343902" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1482,7 +908,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711060000 -0300" stop="20150711120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929207" series_key="">
+<programme start="20150725060000 -0300" stop="20150725120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343903" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1499,7 +925,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711120000 -0300" stop="20150711120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929208" series_key="">
+<programme start="20150725120000 -0300" stop="20150725120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343904" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1516,7 +942,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711120300 -0300" stop="20150711130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929209" series_key="">
+<programme start="20150725120300 -0300" stop="20150725130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343905" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1533,7 +959,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711130000 -0300" stop="20150711132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929210" series_key="">
+<programme start="20150725130000 -0300" stop="20150725132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343906" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -1552,7 +978,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711132000 -0300" stop="20150711180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929211" series_key="">
+<programme start="20150725132000 -0300" stop="20150725180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343907" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1569,7 +995,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711180000 -0300" stop="20150711180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929212" series_key="">
+<programme start="20150725180000 -0300" stop="20150725180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343908" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1586,7 +1012,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711180300 -0300" stop="20150711233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929213" series_key="">
+<programme start="20150725180300 -0300" stop="20150725233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343909" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1603,7 +1029,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711233000 -0300" stop="20150711235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929214" series_key="">
+<programme start="20150725233000 -0300" stop="20150725235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343910" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -1622,7 +1048,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711235000 -0300" stop="20150712060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929215" series_key="">
+<programme start="20150725235000 -0300" stop="20150726060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343911" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1639,7 +1065,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712060000 -0300" stop="20150712120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929216" series_key="">
+<programme start="20150726060000 -0300" stop="20150726120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343912" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1656,7 +1082,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712120000 -0300" stop="20150712120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929217" series_key="">
+<programme start="20150726120000 -0300" stop="20150726120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343913" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1673,7 +1099,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712120300 -0300" stop="20150712130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929218" series_key="">
+<programme start="20150726120300 -0300" stop="20150726130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343914" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1690,7 +1116,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712130000 -0300" stop="20150712132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929219" series_key="">
+<programme start="20150726130000 -0300" stop="20150726132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343915" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -1709,7 +1135,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712132000 -0300" stop="20150712140000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929220" series_key="">
+<programme start="20150726132000 -0300" stop="20150726140000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343916" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1726,7 +1152,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712140000 -0300" stop="20150712143000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929221" series_key="">
+<programme start="20150726140000 -0300" stop="20150726143000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343917" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1743,7 +1169,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712143000 -0300" stop="20150712180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929222" series_key="">
+<programme start="20150726143000 -0300" stop="20150726180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343918" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1760,7 +1186,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712180000 -0300" stop="20150712180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929223" series_key="">
+<programme start="20150726180000 -0300" stop="20150726180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343919" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1777,7 +1203,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712180300 -0300" stop="20150712190000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929224" series_key="">
+<programme start="20150726180300 -0300" stop="20150726190000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343920" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1794,7 +1220,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712190000 -0300" stop="20150712200000 -0300" channel="TV7" program_id="0000070813" event_id="00000000000099929225" series_key="">
+<programme start="20150726190000 -0300" stop="20150726200000 -0300" channel="TV7" program_id="0000070813" event_id="00000000000101343921" series_key="">
 <title lang="pt">Momentos de Sabedoria</title>
 <title lang="en">Momentos de Sabedoria</title>
 <desc>Abordagem franca e sem qualquer tipo de proselitismo religioso, revela a origem espiritual da vida em forma racional. Espiritualidade levada a sério. Apresentação: Nelson Moraes e Marisa de Mello</desc>
@@ -1812,7 +1238,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712200000 -0300" stop="20150712210000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929226" series_key="">
+<programme start="20150726200000 -0300" stop="20150726210000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343922" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1829,7 +1255,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712210000 -0300" stop="20150712213000 -0300" channel="TV7" program_id="0000166419" event_id="00000000000099929227" series_key="">
+<programme start="20150726210000 -0300" stop="20150726213000 -0300" channel="TV7" program_id="0000166419" event_id="00000000000101343923" series_key="">
 <title lang="pt">TV+ Entrevista</title>
 <desc>Num clima intimista e descontraído, nossos entrevistadores tentam extrair dados sobre vida e carreira de profissionais dos mais variados segmentos da sociedade.</desc>
 <category lang="pt">Variedades</category>
@@ -1846,7 +1272,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712213000 -0300" stop="20150712233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929228" series_key="">
+<programme start="20150726213000 -0300" stop="20150726233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343924" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1863,7 +1289,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712233000 -0300" stop="20150712235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929229" series_key="">
+<programme start="20150726233000 -0300" stop="20150726235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343925" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -1882,7 +1308,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712235000 -0300" stop="20150713010000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929230" series_key="">
+<programme start="20150726235000 -0300" stop="20150727010000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343926" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1899,7 +1325,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713010000 -0300" stop="20150713014500 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929231" series_key="">
+<programme start="20150727010000 -0300" stop="20150727014500 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343927" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1916,7 +1342,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713014500 -0300" stop="20150713060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929232" series_key="">
+<programme start="20150727014500 -0300" stop="20150727060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343928" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1933,7 +1359,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713060000 -0300" stop="20150713120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929233" series_key="">
+<programme start="20150727060000 -0300" stop="20150727120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343929" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1950,7 +1376,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713120000 -0300" stop="20150713120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929234" series_key="">
+<programme start="20150727120000 -0300" stop="20150727120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343930" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1967,7 +1393,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713120300 -0300" stop="20150713130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929235" series_key="">
+<programme start="20150727120300 -0300" stop="20150727130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343931" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1984,7 +1410,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713130000 -0300" stop="20150713132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929236" series_key="">
+<programme start="20150727130000 -0300" stop="20150727132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343932" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -2003,7 +1429,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713132000 -0300" stop="20150713180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929237" series_key="">
+<programme start="20150727132000 -0300" stop="20150727180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343933" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2020,7 +1446,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713180000 -0300" stop="20150713180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929238" series_key="">
+<programme start="20150727180000 -0300" stop="20150727180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343934" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2037,7 +1463,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713180300 -0300" stop="20150713233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929239" series_key="">
+<programme start="20150727180300 -0300" stop="20150727233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343935" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2054,7 +1480,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713233000 -0300" stop="20150713235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929240" series_key="">
+<programme start="20150727233000 -0300" stop="20150727235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343936" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -2073,7 +1499,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713235000 -0300" stop="20150714060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929241" series_key="">
+<programme start="20150727235000 -0300" stop="20150728060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343937" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2090,7 +1516,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714060000 -0300" stop="20150714120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929242" series_key="">
+<programme start="20150728060000 -0300" stop="20150728120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343938" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2107,7 +1533,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714120000 -0300" stop="20150714120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929243" series_key="">
+<programme start="20150728120000 -0300" stop="20150728120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343939" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2124,7 +1550,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714120300 -0300" stop="20150714130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929244" series_key="">
+<programme start="20150728120300 -0300" stop="20150728130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343940" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2141,7 +1567,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714130000 -0300" stop="20150714132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929245" series_key="">
+<programme start="20150728130000 -0300" stop="20150728132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343941" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -2160,7 +1586,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714132000 -0300" stop="20150714180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929246" series_key="">
+<programme start="20150728132000 -0300" stop="20150728180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343942" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2177,7 +1603,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714180000 -0300" stop="20150714180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929247" series_key="">
+<programme start="20150728180000 -0300" stop="20150728180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343943" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2194,7 +1620,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714180300 -0300" stop="20150714223000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929248" series_key="">
+<programme start="20150728180300 -0300" stop="20150728223000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343944" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2211,7 +1637,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714223000 -0300" stop="20150714231500 -0300" channel="TV7" program_id="0000166416" event_id="00000000000099929249" series_key="">
+<programme start="20150728223000 -0300" stop="20150728231500 -0300" channel="TV7" program_id="0000166416" event_id="00000000000101343945" series_key="">
 <title lang="pt">Show Business</title>
 <desc>Entrevistas exclusivas com empresários, personalidades e autoridades com debates de assuntos atuais em economia, negócios e variedades. Apresentação: João Doria Jr.</desc>
 <category lang="pt">Variedades</category>
@@ -2228,7 +1654,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714231500 -0300" stop="20150714233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929250" series_key="">
+<programme start="20150728231500 -0300" stop="20150728233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343946" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2245,7 +1671,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714233000 -0300" stop="20150714235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929251" series_key="">
+<programme start="20150728233000 -0300" stop="20150728235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343947" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -2264,7 +1690,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714235000 -0300" stop="20150715060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929252" series_key="">
+<programme start="20150728235000 -0300" stop="20150729060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343948" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2281,7 +1707,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715060000 -0300" stop="20150715120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929253" series_key="">
+<programme start="20150729060000 -0300" stop="20150729120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343949" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2298,7 +1724,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715120000 -0300" stop="20150715120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929254" series_key="">
+<programme start="20150729120000 -0300" stop="20150729120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343950" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2315,7 +1741,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715120300 -0300" stop="20150715130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929255" series_key="">
+<programme start="20150729120300 -0300" stop="20150729130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343951" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2332,7 +1758,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715130000 -0300" stop="20150715132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929256" series_key="">
+<programme start="20150729130000 -0300" stop="20150729132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343952" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -2351,7 +1777,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715132000 -0300" stop="20150715180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929257" series_key="">
+<programme start="20150729132000 -0300" stop="20150729180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343953" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2368,7 +1794,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715180000 -0300" stop="20150715180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929258" series_key="">
+<programme start="20150729180000 -0300" stop="20150729180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343954" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2385,7 +1811,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715180300 -0300" stop="20150715233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929259" series_key="">
+<programme start="20150729180300 -0300" stop="20150729233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343955" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2402,7 +1828,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715233000 -0300" stop="20150715235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929260" series_key="">
+<programme start="20150729233000 -0300" stop="20150729235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343956" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -2421,7 +1847,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715235000 -0300" stop="20150716000000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929261" series_key="">
+<programme start="20150729235000 -0300" stop="20150730000000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343957" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2438,7 +1864,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716000000 -0300" stop="20150716010000 -0300" channel="TV7" program_id="0000236328" event_id="00000000000099929262" series_key="">
+<programme start="20150730000000 -0300" stop="20150730010000 -0300" channel="TV7" program_id="0000236328" event_id="00000000000101343958" series_key="">
 <title lang="pt">Toquinho, Violão e Futebol</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2455,7 +1881,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716010000 -0300" stop="20150716013000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929264" series_key="">
+<programme start="20150730010000 -0300" stop="20150730013000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343959" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2472,7 +1898,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716013000 -0300" stop="20150716060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929265" series_key="">
+<programme start="20150730013000 -0300" stop="20150730060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343960" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2489,7 +1915,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716060000 -0300" stop="20150716120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929267" series_key="">
+<programme start="20150730060000 -0300" stop="20150730120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343961" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2506,7 +1932,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716120000 -0300" stop="20150716120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929268" series_key="">
+<programme start="20150730120000 -0300" stop="20150730120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343962" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2523,7 +1949,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716120300 -0300" stop="20150716130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929269" series_key="">
+<programme start="20150730120300 -0300" stop="20150730130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343963" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2540,7 +1966,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716130000 -0300" stop="20150716132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929271" series_key="">
+<programme start="20150730130000 -0300" stop="20150730132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343964" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -2559,7 +1985,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716132000 -0300" stop="20150716180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929272" series_key="">
+<programme start="20150730132000 -0300" stop="20150730180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343965" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2576,7 +2002,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716180000 -0300" stop="20150716180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929274" series_key="">
+<programme start="20150730180000 -0300" stop="20150730180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343966" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2593,7 +2019,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716180300 -0300" stop="20150716233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929275" series_key="">
+<programme start="20150730180300 -0300" stop="20150730233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343967" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2610,7 +2036,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716233000 -0300" stop="20150716235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929277" series_key="">
+<programme start="20150730233000 -0300" stop="20150730235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343968" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -2629,7 +2055,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716235000 -0300" stop="20150717060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929278" series_key="">
+<programme start="20150730235000 -0300" stop="20150731060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343969" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2646,7 +2072,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717060000 -0300" stop="20150717120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929280" series_key="">
+<programme start="20150731060000 -0300" stop="20150731120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343970" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2663,7 +2089,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717120000 -0300" stop="20150717120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929281" series_key="">
+<programme start="20150731120000 -0300" stop="20150731120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343971" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2680,7 +2106,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717120300 -0300" stop="20150717130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929282" series_key="">
+<programme start="20150731120300 -0300" stop="20150731130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343972" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2697,7 +2123,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717130000 -0300" stop="20150717132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929284" series_key="">
+<programme start="20150731130000 -0300" stop="20150731132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343973" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -2716,7 +2142,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717132000 -0300" stop="20150717180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929285" series_key="">
+<programme start="20150731132000 -0300" stop="20150731180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343974" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2733,7 +2159,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717180000 -0300" stop="20150717180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000099929287" series_key="">
+<programme start="20150731180000 -0300" stop="20150731180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343975" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2750,7 +2176,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717180300 -0300" stop="20150717233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929288" series_key="">
+<programme start="20150731180300 -0300" stop="20150731233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343976" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2767,7 +2193,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717233000 -0300" stop="20150717235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000099929289" series_key="">
+<programme start="20150731233000 -0300" stop="20150731235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343977" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -2786,7 +2212,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717235000 -0300" stop="20150718060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000099929290" series_key="">
+<programme start="20150731235000 -0300" stop="20150801060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343978" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2803,7 +2229,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718060000 -0300" stop="20150718120000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861519" series_key="">
+<programme start="20150801060000 -0300" stop="20150801120000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343979" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2820,7 +2246,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718120000 -0300" stop="20150718120300 -0300" channel="TV7" program_id="0000166417" event_id="000000104861521" series_key="">
+<programme start="20150801120000 -0300" stop="20150801120300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343980" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2837,7 +2263,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718120300 -0300" stop="20150718130000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861523" series_key="">
+<programme start="20150801120300 -0300" stop="20150801130000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343981" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2854,7 +2280,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718130000 -0300" stop="20150718132000 -0300" channel="TV7" program_id="0000126534" event_id="000000104861527" series_key="">
+<programme start="20150801130000 -0300" stop="20150801132000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343982" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -2873,7 +2299,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718132000 -0300" stop="20150718180000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861528" series_key="">
+<programme start="20150801132000 -0300" stop="20150801180000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343983" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2890,7 +2316,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718180000 -0300" stop="20150718180300 -0300" channel="TV7" program_id="0000166417" event_id="000000104861531" series_key="">
+<programme start="20150801180000 -0300" stop="20150801180300 -0300" channel="TV7" program_id="0000166417" event_id="00000000000101343984" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2907,7 +2333,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718180300 -0300" stop="20150718233000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861533" series_key="">
+<programme start="20150801180300 -0300" stop="20150801233000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343985" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2924,7 +2350,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718233000 -0300" stop="20150718235000 -0300" channel="TV7" program_id="0000126534" event_id="000000104861536" series_key="">
+<programme start="20150801233000 -0300" stop="20150801235000 -0300" channel="TV7" program_id="0000126534" event_id="00000000000101343986" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -2943,7 +2369,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718235000 -0300" stop="20150719060000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861539" series_key="">
+<programme start="20150801235000 -0300" stop="20150802060000 -0300" channel="TV7" program_id="0000207848" event_id="00000000000101343987" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2960,7 +2386,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719060000 -0300" stop="20150719120000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861541" series_key="">
+<programme start="20150802060000 -0300" stop="20150802120000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619300" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2977,7 +2403,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719120000 -0300" stop="20150719120300 -0300" channel="TV7" program_id="0000166417" event_id="000000104861544" series_key="">
+<programme start="20150802120000 -0300" stop="20150802120300 -0300" channel="TV7" program_id="0000166417" event_id="000000107619301" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2994,7 +2420,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719120300 -0300" stop="20150719130000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861547" series_key="">
+<programme start="20150802120300 -0300" stop="20150802130000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619302" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3011,7 +2437,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719130000 -0300" stop="20150719132000 -0300" channel="TV7" program_id="0000126534" event_id="000000104861549" series_key="">
+<programme start="20150802130000 -0300" stop="20150802132000 -0300" channel="TV7" program_id="0000126534" event_id="000000107619303" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -3030,7 +2456,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719132000 -0300" stop="20150719140000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861552" series_key="">
+<programme start="20150802132000 -0300" stop="20150802140000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619304" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3047,7 +2473,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719140000 -0300" stop="20150719143000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861554" series_key="">
+<programme start="20150802140000 -0300" stop="20150802143000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619305" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3064,7 +2490,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719143000 -0300" stop="20150719180000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861557" series_key="">
+<programme start="20150802143000 -0300" stop="20150802180000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619307" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3081,7 +2507,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719180000 -0300" stop="20150719180300 -0300" channel="TV7" program_id="0000166417" event_id="000000104861560" series_key="">
+<programme start="20150802180000 -0300" stop="20150802180300 -0300" channel="TV7" program_id="0000166417" event_id="000000107619313" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3098,7 +2524,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719180300 -0300" stop="20150719190000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861562" series_key="">
+<programme start="20150802180300 -0300" stop="20150802190000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619316" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3115,7 +2541,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719190000 -0300" stop="20150719200000 -0300" channel="TV7" program_id="0000070813" event_id="000000104861565" series_key="">
+<programme start="20150802190000 -0300" stop="20150802200000 -0300" channel="TV7" program_id="0000070813" event_id="000000107619320" series_key="">
 <title lang="pt">Momentos de Sabedoria</title>
 <title lang="en">Momentos de Sabedoria</title>
 <desc>Abordagem franca e sem qualquer tipo de proselitismo religioso, revela a origem espiritual da vida em forma racional. Espiritualidade levada a sério. Apresentação: Nelson Moraes e Marisa de Mello</desc>
@@ -3133,7 +2559,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719200000 -0300" stop="20150719210000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861567" series_key="">
+<programme start="20150802200000 -0300" stop="20150802210000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619324" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3150,7 +2576,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719210000 -0300" stop="20150719213000 -0300" channel="TV7" program_id="0000166419" event_id="000000104861570" series_key="">
+<programme start="20150802210000 -0300" stop="20150802213000 -0300" channel="TV7" program_id="0000166419" event_id="000000107619330" series_key="">
 <title lang="pt">TV+ Entrevista</title>
 <desc>Num clima intimista e descontraído, nossos entrevistadores tentam extrair dados sobre vida e carreira de profissionais dos mais variados segmentos da sociedade.</desc>
 <category lang="pt">Variedades</category>
@@ -3167,7 +2593,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719213000 -0300" stop="20150719233000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861572" series_key="">
+<programme start="20150802213000 -0300" stop="20150802233000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619331" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3184,7 +2610,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719233000 -0300" stop="20150719235000 -0300" channel="TV7" program_id="0000126534" event_id="000000104861575" series_key="">
+<programme start="20150802233000 -0300" stop="20150802235000 -0300" channel="TV7" program_id="0000126534" event_id="000000107619332" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -3203,7 +2629,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719235000 -0300" stop="20150720010000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861577" series_key="">
+<programme start="20150802235000 -0300" stop="20150803010000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619333" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3220,7 +2646,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720010000 -0300" stop="20150720014500 -0300" channel="TV7" program_id="0000207848" event_id="000000104861580" series_key="">
+<programme start="20150803010000 -0300" stop="20150803014500 -0300" channel="TV7" program_id="0000207848" event_id="000000107619334" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3237,7 +2663,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720014500 -0300" stop="20150720060000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861582" series_key="">
+<programme start="20150803014500 -0300" stop="20150803060000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619335" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3254,7 +2680,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720060000 -0300" stop="20150720120000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861585" series_key="">
+<programme start="20150803060000 -0300" stop="20150803120000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619336" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3271,7 +2697,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720120000 -0300" stop="20150720120300 -0300" channel="TV7" program_id="0000166417" event_id="000000104861588" series_key="">
+<programme start="20150803120000 -0300" stop="20150803120300 -0300" channel="TV7" program_id="0000166417" event_id="000000107619337" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3288,7 +2714,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720120300 -0300" stop="20150720130000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861590" series_key="">
+<programme start="20150803120300 -0300" stop="20150803130000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619338" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3305,7 +2731,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720130000 -0300" stop="20150720132000 -0300" channel="TV7" program_id="0000126534" event_id="000000104861593" series_key="">
+<programme start="20150803130000 -0300" stop="20150803132000 -0300" channel="TV7" program_id="0000126534" event_id="000000107619339" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -3324,7 +2750,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720132000 -0300" stop="20150720180000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861595" series_key="">
+<programme start="20150803132000 -0300" stop="20150803180000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619340" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3341,7 +2767,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720180000 -0300" stop="20150720180300 -0300" channel="TV7" program_id="0000166417" event_id="000000104861597" series_key="">
+<programme start="20150803180000 -0300" stop="20150803180300 -0300" channel="TV7" program_id="0000166417" event_id="000000107619341" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3358,7 +2784,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720180300 -0300" stop="20150720233000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861599" series_key="">
+<programme start="20150803180300 -0300" stop="20150803233000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619342" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3375,7 +2801,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720233000 -0300" stop="20150720235000 -0300" channel="TV7" program_id="0000126534" event_id="000000104861602" series_key="">
+<programme start="20150803233000 -0300" stop="20150803235000 -0300" channel="TV7" program_id="0000126534" event_id="000000107619343" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -3394,7 +2820,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720235000 -0300" stop="20150721060000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861604" series_key="">
+<programme start="20150803235000 -0300" stop="20150804060000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619344" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3411,7 +2837,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721060000 -0300" stop="20150721120000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861607" series_key="">
+<programme start="20150804060000 -0300" stop="20150804120000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619345" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3428,7 +2854,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721120000 -0300" stop="20150721120300 -0300" channel="TV7" program_id="0000166417" event_id="000000104861609" series_key="">
+<programme start="20150804120000 -0300" stop="20150804120300 -0300" channel="TV7" program_id="0000166417" event_id="000000107619346" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3445,7 +2871,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721120300 -0300" stop="20150721130000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861612" series_key="">
+<programme start="20150804120300 -0300" stop="20150804130000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619347" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3462,7 +2888,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721130000 -0300" stop="20150721132000 -0300" channel="TV7" program_id="0000126534" event_id="000000104861615" series_key="">
+<programme start="20150804130000 -0300" stop="20150804132000 -0300" channel="TV7" program_id="0000126534" event_id="000000107619348" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -3481,7 +2907,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721132000 -0300" stop="20150721180000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861617" series_key="">
+<programme start="20150804132000 -0300" stop="20150804180000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619349" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3498,7 +2924,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721180000 -0300" stop="20150721180300 -0300" channel="TV7" program_id="0000166417" event_id="000000104861620" series_key="">
+<programme start="20150804180000 -0300" stop="20150804180300 -0300" channel="TV7" program_id="0000166417" event_id="000000107619350" series_key="">
 <title lang="pt">Ave Maria</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3515,7 +2941,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721180300 -0300" stop="20150721223000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861622" series_key="">
+<programme start="20150804180300 -0300" stop="20150804223000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619351" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3532,7 +2958,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721223000 -0300" stop="20150721231500 -0300" channel="TV7" program_id="0000166416" event_id="000000104861624" series_key="">
+<programme start="20150804223000 -0300" stop="20150804231500 -0300" channel="TV7" program_id="0000166416" event_id="000000107619352" series_key="">
 <title lang="pt">Show Business</title>
 <desc>Entrevistas exclusivas com empresários, personalidades e autoridades com debates de assuntos atuais em economia, negócios e variedades. Apresentação: João Doria Jr.</desc>
 <category lang="pt">Variedades</category>
@@ -3549,7 +2975,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721231500 -0300" stop="20150721233000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861628" series_key="">
+<programme start="20150804231500 -0300" stop="20150804233000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619353" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3566,7 +2992,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721233000 -0300" stop="20150721235000 -0300" channel="TV7" program_id="0000126534" event_id="000000104861629" series_key="">
+<programme start="20150804233000 -0300" stop="20150804235000 -0300" channel="TV7" program_id="0000126534" event_id="000000107619354" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -3585,7 +3011,529 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721235000 -0300" stop="20150722060000 -0300" channel="TV7" program_id="0000207848" event_id="000000104861632" series_key="">
+<programme start="20150804235000 -0300" stop="20150805060000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619356" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805060000 -0300" stop="20150805120000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619359" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805120000 -0300" stop="20150805120300 -0300" channel="TV7" program_id="0000166417" event_id="000000107619363" series_key="">
+<title lang="pt">Ave Maria</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000166417.jpg</image_name>
+<image_broadcast>0000166417</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805120300 -0300" stop="20150805130000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619366" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805130000 -0300" stop="20150805132000 -0300" channel="TV7" program_id="0000126534" event_id="000000107619369" series_key="">
+<title lang="pt">TV+ Acontece</title>
+<title lang="en">TV+ Acontece</title>
+<desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000126534.jpg</image_name>
+<image_broadcast>0000126534</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805132000 -0300" stop="20150805180000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619373" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805180000 -0300" stop="20150805180300 -0300" channel="TV7" program_id="0000166417" event_id="000000107619378" series_key="">
+<title lang="pt">Ave Maria</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000166417.jpg</image_name>
+<image_broadcast>0000166417</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805180300 -0300" stop="20150805233000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619381" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805233000 -0300" stop="20150805235000 -0300" channel="TV7" program_id="0000126534" event_id="000000107619382" series_key="">
+<title lang="pt">TV+ Acontece</title>
+<title lang="en">TV+ Acontece</title>
+<desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000126534.jpg</image_name>
+<image_broadcast>0000126534</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805235000 -0300" stop="20150806000000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619383" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806000000 -0300" stop="20150806010000 -0300" channel="TV7" program_id="0000236328" event_id="000000107619384" series_key="">
+<title lang="pt">Toquinho, Violão e Futebol</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000236328.jpg</image_name>
+<image_broadcast>0000236328</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806010000 -0300" stop="20150806013000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619385" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806013000 -0300" stop="20150806060000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619386" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806060000 -0300" stop="20150806120000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619387" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806120000 -0300" stop="20150806120300 -0300" channel="TV7" program_id="0000166417" event_id="000000107619388" series_key="">
+<title lang="pt">Ave Maria</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000166417.jpg</image_name>
+<image_broadcast>0000166417</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806120300 -0300" stop="20150806130000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619389" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806130000 -0300" stop="20150806132000 -0300" channel="TV7" program_id="0000126534" event_id="000000107619390" series_key="">
+<title lang="pt">TV+ Acontece</title>
+<title lang="en">TV+ Acontece</title>
+<desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000126534.jpg</image_name>
+<image_broadcast>0000126534</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806132000 -0300" stop="20150806180000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619391" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806180000 -0300" stop="20150806180300 -0300" channel="TV7" program_id="0000166417" event_id="000000107619392" series_key="">
+<title lang="pt">Ave Maria</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000166417.jpg</image_name>
+<image_broadcast>0000166417</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806180300 -0300" stop="20150806233000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619393" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806233000 -0300" stop="20150806235000 -0300" channel="TV7" program_id="0000126534" event_id="000000107619394" series_key="">
+<title lang="pt">TV+ Acontece</title>
+<title lang="en">TV+ Acontece</title>
+<desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000126534.jpg</image_name>
+<image_broadcast>0000126534</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806235000 -0300" stop="20150807060000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619395" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807060000 -0300" stop="20150807120000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619396" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807120000 -0300" stop="20150807120300 -0300" channel="TV7" program_id="0000166417" event_id="000000107619397" series_key="">
+<title lang="pt">Ave Maria</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000166417.jpg</image_name>
+<image_broadcast>0000166417</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807120300 -0300" stop="20150807130000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619398" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807130000 -0300" stop="20150807132000 -0300" channel="TV7" program_id="0000126534" event_id="000000107619399" series_key="">
+<title lang="pt">TV+ Acontece</title>
+<title lang="en">TV+ Acontece</title>
+<desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000126534.jpg</image_name>
+<image_broadcast>0000126534</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807132000 -0300" stop="20150807180000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619400" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807180000 -0300" stop="20150807180300 -0300" channel="TV7" program_id="0000166417" event_id="000000107619401" series_key="">
+<title lang="pt">Ave Maria</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Religião</category>
+<image>
+<image_name position="1">0000166417.jpg</image_name>
+<image_broadcast>0000166417</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807180300 -0300" stop="20150807233000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619402" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807233000 -0300" stop="20150807235000 -0300" channel="TV7" program_id="0000126534" event_id="000000107619403" series_key="">
+<title lang="pt">TV+ Acontece</title>
+<title lang="en">TV+ Acontece</title>
+<desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000126534.jpg</image_name>
+<image_broadcast>0000126534</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807235000 -0300" stop="20150808060000 -0300" channel="TV7" program_id="0000207848" event_id="000000107619404" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>

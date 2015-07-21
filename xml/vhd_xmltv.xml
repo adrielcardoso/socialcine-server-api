@@ -4,7 +4,7 @@
 <display-name lang="pt">Vh1 HD</display-name>
 <icon src="vhd.gif" />
 </channel>
-<programme start="20150703010000 -0300" stop="20150703040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000097347927" series_key="">
+<programme start="20150720010000 -0300" stop="20150720040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946421" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -27,7 +27,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703040000 -0300" stop="20150703070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097347929" series_key="">
+<programme start="20150720040000 -0300" stop="20150720070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946422" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -50,7 +50,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703070000 -0300" stop="20150703100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000097347931" series_key="">
+<programme start="20150720070000 -0300" stop="20150720100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946423" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -73,7 +73,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703100000 -0300" stop="20150703130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097347933" series_key="">
+<programme start="20150720100000 -0300" stop="20150720130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946424" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -96,7 +96,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703130000 -0300" stop="20150703150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000097347935" series_key="">
+<programme start="20150720130000 -0300" stop="20150720150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946425" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -119,7 +119,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703150000 -0300" stop="20150703160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097347937" series_key="">
+<programme start="20150720150000 -0300" stop="20150720160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946426" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -142,94 +142,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703160000 -0300" stop="20150703170000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000097347939" series_key="">
-<title lang="pt">VH1 HD World Stage</title>
-<title lang="en">Vh1 Hd World Stage</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000442575.jpg</image_name>
-<image_broadcast>0000442575</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150703170000 -0300" stop="20150703190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097347941" series_key="">
-<title lang="pt">Top Hits</title>
-<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320563.jpg</image_name>
-<image_broadcast>0000320563</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150703190000 -0300" stop="20150703210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000097347943" series_key="">
-<title lang="pt">Music Box</title>
-<desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320529.jpg</image_name>
-<image_broadcast>0000320529</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150703210000 -0300" stop="20150703220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097347945" series_key="">
-<title lang="pt">Top Hits</title>
-<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320563.jpg</image_name>
-<image_broadcast>0000320563</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150703220000 -0300" stop="20150703230000 -0300" channel="VHD" program_id="0000442571" event_id="00000000000097347947" series_key="">
+<programme start="20150720160000 -0300" stop="20150720170000 -0300" channel="VHD" program_id="0000442571" event_id="00000000000099946427" series_key="">
 <title lang="pt">VH1 Live</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -246,7 +159,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703230000 -0300" stop="20150704010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097347949" series_key="">
+<programme start="20150720170000 -0300" stop="20150720190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946428" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -269,7 +182,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704010000 -0300" stop="20150704040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000097347951" series_key="">
+<programme start="20150720190000 -0300" stop="20150720210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946429" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -292,7 +205,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704040000 -0300" stop="20150704070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097347953" series_key="">
+<programme start="20150720210000 -0300" stop="20150720220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946430" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -315,185 +228,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704070000 -0300" stop="20150704100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000097347955" series_key="">
-<title lang="pt">Music Box</title>
-<desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320529.jpg</image_name>
-<image_broadcast>0000320529</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704100000 -0300" stop="20150704130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097347957" series_key="">
-<title lang="pt">Top Hits</title>
-<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320563.jpg</image_name>
-<image_broadcast>0000320563</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704130000 -0300" stop="20150704150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000097347959" series_key="">
-<title lang="pt">Music Box</title>
-<desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320529.jpg</image_name>
-<image_broadcast>0000320529</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704150000 -0300" stop="20150704160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097347961" series_key="">
-<title lang="pt">Top Hits</title>
-<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320563.jpg</image_name>
-<image_broadcast>0000320563</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704160000 -0300" stop="20150704170000 -0300" channel="VHD" program_id="0000442571" event_id="00000000000097347963" series_key="">
-<title lang="pt">VH1 Live</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000442571.jpg</image_name>
-<image_broadcast>0000442571</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704170000 -0300" stop="20150704190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097347965" series_key="">
-<title lang="pt">Top Hits</title>
-<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320563.jpg</image_name>
-<image_broadcast>0000320563</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704190000 -0300" stop="20150704210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000097347967" series_key="">
-<title lang="pt">Music Box</title>
-<desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320529.jpg</image_name>
-<image_broadcast>0000320529</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704210000 -0300" stop="20150704220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097347969" series_key="">
-<title lang="pt">Top Hits</title>
-<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320563.jpg</image_name>
-<image_broadcast>0000320563</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704220000 -0300" stop="20150704230000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000097347971" series_key="">
+<programme start="20150720220000 -0300" stop="20150720230000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000099946431" series_key="">
 <title lang="pt">VH1 HD World Stage</title>
 <title lang="en">Vh1 Hd World Stage</title>
 <desc></desc>
@@ -511,7 +246,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704230000 -0300" stop="20150705010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097347973" series_key="">
+<programme start="20150720230000 -0300" stop="20150721010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946432" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -534,7 +269,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705010000 -0300" stop="20150705040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000097347975" series_key="">
+<programme start="20150721010000 -0300" stop="20150721040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946433" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -557,7 +292,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705040000 -0300" stop="20150705070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097347977" series_key="">
+<programme start="20150721040000 -0300" stop="20150721070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946434" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -580,7 +315,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705070000 -0300" stop="20150705100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000097347979" series_key="">
+<programme start="20150721070000 -0300" stop="20150721100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946435" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -603,7 +338,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705100000 -0300" stop="20150705130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097347981" series_key="">
+<programme start="20150721100000 -0300" stop="20150721130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946436" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -626,7 +361,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705130000 -0300" stop="20150705150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000097347983" series_key="">
+<programme start="20150721130000 -0300" stop="20150721150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946437" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -649,7 +384,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705150000 -0300" stop="20150705160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097347985" series_key="">
+<programme start="20150721150000 -0300" stop="20150721160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946438" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -672,7 +407,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705160000 -0300" stop="20150705170000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000097347987" series_key="">
+<programme start="20150721160000 -0300" stop="20150721170000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000099946439" series_key="">
 <title lang="pt">VH1 HD World Stage</title>
 <title lang="en">Vh1 Hd World Stage</title>
 <desc></desc>
@@ -690,7 +425,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705170000 -0300" stop="20150705190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097347989" series_key="">
+<programme start="20150721170000 -0300" stop="20150721190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946440" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -713,7 +448,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705190000 -0300" stop="20150705210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000097347991" series_key="">
+<programme start="20150721190000 -0300" stop="20150721210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946441" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -736,7 +471,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705210000 -0300" stop="20150705220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097347993" series_key="">
+<programme start="20150721210000 -0300" stop="20150721220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946442" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -759,537 +494,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705220000 -0300" stop="20150705230000 -0300" channel="VHD" program_id="0000442571" event_id="00000000000097347995" series_key="">
-<title lang="pt">VH1 Live</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000442571.jpg</image_name>
-<image_broadcast>0000442571</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705230000 -0300" stop="20150706010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097347997" series_key="">
-<title lang="pt">Top Hits</title>
-<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320563.jpg</image_name>
-<image_broadcast>0000320563</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706010000 -0300" stop="20150706040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000097347999" series_key="">
-<title lang="pt">Music Box</title>
-<desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320529.jpg</image_name>
-<image_broadcast>0000320529</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706040000 -0300" stop="20150706070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097348001" series_key="">
-<title lang="pt">Top Hits</title>
-<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320563.jpg</image_name>
-<image_broadcast>0000320563</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706070000 -0300" stop="20150706100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000097348003" series_key="">
-<title lang="pt">Music Box</title>
-<desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320529.jpg</image_name>
-<image_broadcast>0000320529</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706100000 -0300" stop="20150706130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097348005" series_key="">
-<title lang="pt">Top Hits</title>
-<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320563.jpg</image_name>
-<image_broadcast>0000320563</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706130000 -0300" stop="20150706150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000097348007" series_key="">
-<title lang="pt">Music Box</title>
-<desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320529.jpg</image_name>
-<image_broadcast>0000320529</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706150000 -0300" stop="20150706160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097348009" series_key="">
-<title lang="pt">Top Hits</title>
-<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320563.jpg</image_name>
-<image_broadcast>0000320563</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706160000 -0300" stop="20150706170000 -0300" channel="VHD" program_id="0000442571" event_id="00000000000097348011" series_key="">
-<title lang="pt">VH1 Live</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000442571.jpg</image_name>
-<image_broadcast>0000442571</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706170000 -0300" stop="20150706190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097348013" series_key="">
-<title lang="pt">Top Hits</title>
-<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320563.jpg</image_name>
-<image_broadcast>0000320563</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706190000 -0300" stop="20150706210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000097348015" series_key="">
-<title lang="pt">Music Box</title>
-<desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320529.jpg</image_name>
-<image_broadcast>0000320529</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706210000 -0300" stop="20150706220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097348017" series_key="">
-<title lang="pt">Top Hits</title>
-<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320563.jpg</image_name>
-<image_broadcast>0000320563</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706220000 -0300" stop="20150706230000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000097348019" series_key="">
-<title lang="pt">VH1 HD World Stage</title>
-<title lang="en">Vh1 Hd World Stage</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000442575.jpg</image_name>
-<image_broadcast>0000442575</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706230000 -0300" stop="20150707010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097348021" series_key="">
-<title lang="pt">Top Hits</title>
-<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320563.jpg</image_name>
-<image_broadcast>0000320563</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707010000 -0300" stop="20150707040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000097348023" series_key="">
-<title lang="pt">Music Box</title>
-<desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320529.jpg</image_name>
-<image_broadcast>0000320529</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707040000 -0300" stop="20150707070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097348025" series_key="">
-<title lang="pt">Top Hits</title>
-<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320563.jpg</image_name>
-<image_broadcast>0000320563</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707070000 -0300" stop="20150707100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000097348027" series_key="">
-<title lang="pt">Music Box</title>
-<desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320529.jpg</image_name>
-<image_broadcast>0000320529</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707100000 -0300" stop="20150707130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097348029" series_key="">
-<title lang="pt">Top Hits</title>
-<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320563.jpg</image_name>
-<image_broadcast>0000320563</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707130000 -0300" stop="20150707150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000097348031" series_key="">
-<title lang="pt">Music Box</title>
-<desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320529.jpg</image_name>
-<image_broadcast>0000320529</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707150000 -0300" stop="20150707160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097348033" series_key="">
-<title lang="pt">Top Hits</title>
-<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320563.jpg</image_name>
-<image_broadcast>0000320563</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707160000 -0300" stop="20150707170000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000097348035" series_key="">
-<title lang="pt">VH1 HD World Stage</title>
-<title lang="en">Vh1 Hd World Stage</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000442575.jpg</image_name>
-<image_broadcast>0000442575</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707170000 -0300" stop="20150707190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097348037" series_key="">
-<title lang="pt">Top Hits</title>
-<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320563.jpg</image_name>
-<image_broadcast>0000320563</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707190000 -0300" stop="20150707210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000097348039" series_key="">
-<title lang="pt">Music Box</title>
-<desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320529.jpg</image_name>
-<image_broadcast>0000320529</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707210000 -0300" stop="20150707220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097348041" series_key="">
-<title lang="pt">Top Hits</title>
-<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
-<credits>
-<director>Anna Buttler</director>
-<director>Anna Buttler</director>
-</credits>
-<date>2014</date>
-<category lang="pt">Variedades</category>
-<category lang="pt">Musical</category>
-<image>
-<image_name position="1">0000320563.jpg</image_name>
-<image_broadcast>0000320563</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>EUA</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707220000 -0300" stop="20150707230000 -0300" channel="VHD" program_id="0000251511" event_id="00000000000097348043" series_key="00000000068734000000">
+<programme start="20150721220000 -0300" stop="20150721230000 -0300" channel="VHD" program_id="0000251511" event_id="00000000000099946443" series_key="00000000068734000000">
 <title lang="pt">Storytellers</title>
 <desc></desc>
 <category lang="pt">Séries</category>
@@ -1306,7 +511,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150707230000 -0300" stop="20150708010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097348045" series_key="">
+<programme start="20150721230000 -0300" stop="20150722010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946444" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1329,7 +534,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708010000 -0300" stop="20150708040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000097348047" series_key="">
+<programme start="20150722010000 -0300" stop="20150722040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946445" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1352,7 +557,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708040000 -0300" stop="20150708070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097348049" series_key="">
+<programme start="20150722040000 -0300" stop="20150722070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946446" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1375,7 +580,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708070000 -0300" stop="20150708100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000097348051" series_key="">
+<programme start="20150722070000 -0300" stop="20150722100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946447" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1398,7 +603,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708100000 -0300" stop="20150708130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097348053" series_key="">
+<programme start="20150722100000 -0300" stop="20150722130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946448" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1421,7 +626,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708130000 -0300" stop="20150708150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000097348055" series_key="">
+<programme start="20150722130000 -0300" stop="20150722150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946449" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1444,7 +649,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708150000 -0300" stop="20150708160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097348057" series_key="">
+<programme start="20150722150000 -0300" stop="20150722160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946450" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1467,7 +672,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708160000 -0300" stop="20150708170000 -0300" channel="VHD" program_id="0000251511" event_id="00000000000097348059" series_key="00000000068734000000">
+<programme start="20150722160000 -0300" stop="20150722170000 -0300" channel="VHD" program_id="0000251511" event_id="00000000000099946451" series_key="00000000068734000000">
 <title lang="pt">Storytellers</title>
 <desc></desc>
 <category lang="pt">Séries</category>
@@ -1484,7 +689,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150708170000 -0300" stop="20150708190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097348061" series_key="">
+<programme start="20150722170000 -0300" stop="20150722190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946452" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1507,7 +712,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708190000 -0300" stop="20150708210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000097348063" series_key="">
+<programme start="20150722190000 -0300" stop="20150722210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946453" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1530,7 +735,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708210000 -0300" stop="20150708220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097348065" series_key="">
+<programme start="20150722210000 -0300" stop="20150722220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946454" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1553,7 +758,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708220000 -0300" stop="20150708230000 -0300" channel="VHD" program_id="0000279160" event_id="00000000000097348067" series_key="00000000067636000000">
+<programme start="20150722220000 -0300" stop="20150722230000 -0300" channel="VHD" program_id="0000279160" event_id="00000000000099946455" series_key="00000000067636000000">
 <title lang="pt">Música.Doc</title>
 <desc>Música.doc mostra o dia a dia e os bastidores da rotina de grandes nomes da atual música brasileira, além de contar um pouco sobre suas trajetórias.</desc>
 <category lang="pt">Séries</category>
@@ -1570,7 +775,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150708230000 -0300" stop="20150709010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000097348069" series_key="">
+<programme start="20150722230000 -0300" stop="20150723010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946456" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1593,7 +798,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709010000 -0300" stop="20150709040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098061943" series_key="">
+<programme start="20150723010000 -0300" stop="20150723040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946457" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1616,7 +821,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709040000 -0300" stop="20150709070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098061945" series_key="">
+<programme start="20150723040000 -0300" stop="20150723070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946458" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1639,7 +844,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709070000 -0300" stop="20150709100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098061947" series_key="">
+<programme start="20150723070000 -0300" stop="20150723100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946459" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1662,7 +867,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709100000 -0300" stop="20150709130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098061949" series_key="">
+<programme start="20150723100000 -0300" stop="20150723130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946460" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1685,7 +890,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709130000 -0300" stop="20150709150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098061951" series_key="">
+<programme start="20150723130000 -0300" stop="20150723150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946461" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1708,7 +913,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709150000 -0300" stop="20150709160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098061952" series_key="">
+<programme start="20150723150000 -0300" stop="20150723160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946462" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1731,7 +936,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709160000 -0300" stop="20150709170000 -0300" channel="VHD" program_id="0000279160" event_id="00000000000098061954" series_key="00000000067636000000">
+<programme start="20150723160000 -0300" stop="20150723170000 -0300" channel="VHD" program_id="0000279160" event_id="00000000000099946463" series_key="00000000067636000000">
 <title lang="pt">Música.Doc</title>
 <desc>Música.doc mostra o dia a dia e os bastidores da rotina de grandes nomes da atual música brasileira, além de contar um pouco sobre suas trajetórias.</desc>
 <category lang="pt">Séries</category>
@@ -1748,7 +953,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150709170000 -0300" stop="20150709190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098061956" series_key="">
+<programme start="20150723170000 -0300" stop="20150723190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946464" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1771,7 +976,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709190000 -0300" stop="20150709210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098061958" series_key="">
+<programme start="20150723190000 -0300" stop="20150723210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946465" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1794,7 +999,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709210000 -0300" stop="20150709220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098061960" series_key="">
+<programme start="20150723210000 -0300" stop="20150723220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946466" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1817,7 +1022,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709220000 -0300" stop="20150709230000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000098061962" series_key="">
+<programme start="20150723220000 -0300" stop="20150723230000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000099946467" series_key="">
 <title lang="pt">VH1 HD World Stage</title>
 <title lang="en">Vh1 Hd World Stage</title>
 <desc></desc>
@@ -1835,7 +1040,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709230000 -0300" stop="20150710010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098061964" series_key="">
+<programme start="20150723230000 -0300" stop="20150724010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946468" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1858,7 +1063,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710010000 -0300" stop="20150710040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098143892" series_key="">
+<programme start="20150724010000 -0300" stop="20150724040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946469" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1881,7 +1086,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710040000 -0300" stop="20150710070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098143893" series_key="">
+<programme start="20150724040000 -0300" stop="20150724070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946470" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1904,7 +1109,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710070000 -0300" stop="20150710100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098143894" series_key="">
+<programme start="20150724070000 -0300" stop="20150724100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946471" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1927,7 +1132,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710100000 -0300" stop="20150710130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098143895" series_key="">
+<programme start="20150724100000 -0300" stop="20150724130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946472" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1950,7 +1155,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710130000 -0300" stop="20150710150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098143896" series_key="">
+<programme start="20150724130000 -0300" stop="20150724150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946473" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1973,7 +1178,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710150000 -0300" stop="20150710160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098143897" series_key="">
+<programme start="20150724150000 -0300" stop="20150724160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946474" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -1996,7 +1201,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710160000 -0300" stop="20150710170000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000098143898" series_key="">
+<programme start="20150724160000 -0300" stop="20150724170000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000099946475" series_key="">
 <title lang="pt">VH1 HD World Stage</title>
 <title lang="en">Vh1 Hd World Stage</title>
 <desc></desc>
@@ -2014,7 +1219,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710170000 -0300" stop="20150710190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098143899" series_key="">
+<programme start="20150724170000 -0300" stop="20150724190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946476" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2037,7 +1242,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710190000 -0300" stop="20150710210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098143900" series_key="">
+<programme start="20150724190000 -0300" stop="20150724210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946477" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2060,7 +1265,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710210000 -0300" stop="20150710220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098143901" series_key="">
+<programme start="20150724210000 -0300" stop="20150724220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946478" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2083,7 +1288,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710220000 -0300" stop="20150710230000 -0300" channel="VHD" program_id="0000442571" event_id="00000000000098143902" series_key="">
+<programme start="20150724220000 -0300" stop="20150724230000 -0300" channel="VHD" program_id="0000442571" event_id="00000000000099946479" series_key="">
 <title lang="pt">VH1 Live</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2100,7 +1305,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710230000 -0300" stop="20150711010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098143903" series_key="">
+<programme start="20150724230000 -0300" stop="20150725010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946480" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2123,7 +1328,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711010000 -0300" stop="20150711040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098190911" series_key="">
+<programme start="20150725010000 -0300" stop="20150725040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946481" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2146,7 +1351,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711040000 -0300" stop="20150711070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098190912" series_key="">
+<programme start="20150725040000 -0300" stop="20150725070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946482" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2169,7 +1374,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711070000 -0300" stop="20150711100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098190913" series_key="">
+<programme start="20150725070000 -0300" stop="20150725100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946483" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2192,7 +1397,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711100000 -0300" stop="20150711130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098190914" series_key="">
+<programme start="20150725100000 -0300" stop="20150725130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946484" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2215,7 +1420,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711130000 -0300" stop="20150711150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098190915" series_key="">
+<programme start="20150725130000 -0300" stop="20150725150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946485" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2238,7 +1443,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711150000 -0300" stop="20150711160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098190916" series_key="">
+<programme start="20150725150000 -0300" stop="20150725160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946486" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2261,7 +1466,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711160000 -0300" stop="20150711170000 -0300" channel="VHD" program_id="0000442571" event_id="00000000000098190917" series_key="">
+<programme start="20150725160000 -0300" stop="20150725170000 -0300" channel="VHD" program_id="0000442571" event_id="00000000000099946487" series_key="">
 <title lang="pt">VH1 Live</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2278,7 +1483,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711170000 -0300" stop="20150711190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098190918" series_key="">
+<programme start="20150725170000 -0300" stop="20150725190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946488" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2301,7 +1506,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711190000 -0300" stop="20150711210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098190919" series_key="">
+<programme start="20150725190000 -0300" stop="20150725210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946489" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2324,7 +1529,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711210000 -0300" stop="20150711220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098190920" series_key="">
+<programme start="20150725210000 -0300" stop="20150725220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946490" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2347,7 +1552,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711220000 -0300" stop="20150711230000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000098190921" series_key="">
+<programme start="20150725220000 -0300" stop="20150725230000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000099946491" series_key="">
 <title lang="pt">VH1 HD World Stage</title>
 <title lang="en">Vh1 Hd World Stage</title>
 <desc></desc>
@@ -2365,7 +1570,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711230000 -0300" stop="20150712010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098190922" series_key="">
+<programme start="20150725230000 -0300" stop="20150726010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946492" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2388,7 +1593,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712010000 -0300" stop="20150712040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098266052" series_key="">
+<programme start="20150726010000 -0300" stop="20150726040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946493" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2411,7 +1616,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712040000 -0300" stop="20150712070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098266053" series_key="">
+<programme start="20150726040000 -0300" stop="20150726070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946494" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2434,7 +1639,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712070000 -0300" stop="20150712100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098266054" series_key="">
+<programme start="20150726070000 -0300" stop="20150726100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946495" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2457,7 +1662,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712100000 -0300" stop="20150712130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098266055" series_key="">
+<programme start="20150726100000 -0300" stop="20150726130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946496" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2480,7 +1685,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712130000 -0300" stop="20150712150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098266056" series_key="">
+<programme start="20150726130000 -0300" stop="20150726150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946497" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2503,7 +1708,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712150000 -0300" stop="20150712160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098266057" series_key="">
+<programme start="20150726150000 -0300" stop="20150726160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946498" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2526,7 +1731,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712160000 -0300" stop="20150712170000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000098266058" series_key="">
+<programme start="20150726160000 -0300" stop="20150726170000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000099946499" series_key="">
 <title lang="pt">VH1 HD World Stage</title>
 <title lang="en">Vh1 Hd World Stage</title>
 <desc></desc>
@@ -2544,7 +1749,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712170000 -0300" stop="20150712190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098266059" series_key="">
+<programme start="20150726170000 -0300" stop="20150726190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946500" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2567,7 +1772,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712190000 -0300" stop="20150712210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098266060" series_key="">
+<programme start="20150726190000 -0300" stop="20150726210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946501" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2590,7 +1795,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712210000 -0300" stop="20150712220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098266061" series_key="">
+<programme start="20150726210000 -0300" stop="20150726220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946502" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2613,7 +1818,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712220000 -0300" stop="20150712230000 -0300" channel="VHD" program_id="0000442571" event_id="00000000000098266062" series_key="">
+<programme start="20150726220000 -0300" stop="20150726230000 -0300" channel="VHD" program_id="0000442571" event_id="00000000000099946503" series_key="">
 <title lang="pt">VH1 Live</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2630,7 +1835,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712230000 -0300" stop="20150713010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098266063" series_key="">
+<programme start="20150726230000 -0300" stop="20150727010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946504" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2653,7 +1858,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713010000 -0300" stop="20150713040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098344600" series_key="">
+<programme start="20150727010000 -0300" stop="20150727040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946505" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2676,7 +1881,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713040000 -0300" stop="20150713070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098344602" series_key="">
+<programme start="20150727040000 -0300" stop="20150727070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946506" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2699,7 +1904,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713070000 -0300" stop="20150713100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098344604" series_key="">
+<programme start="20150727070000 -0300" stop="20150727100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946507" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2722,7 +1927,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713100000 -0300" stop="20150713130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098344606" series_key="">
+<programme start="20150727100000 -0300" stop="20150727130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946508" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2745,7 +1950,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713130000 -0300" stop="20150713150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098344608" series_key="">
+<programme start="20150727130000 -0300" stop="20150727150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946509" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2768,7 +1973,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713150000 -0300" stop="20150713160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098344610" series_key="">
+<programme start="20150727150000 -0300" stop="20150727160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946510" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2791,7 +1996,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713160000 -0300" stop="20150713170000 -0300" channel="VHD" program_id="0000442571" event_id="00000000000098344612" series_key="">
+<programme start="20150727160000 -0300" stop="20150727170000 -0300" channel="VHD" program_id="0000442571" event_id="00000000000099946511" series_key="">
 <title lang="pt">VH1 Live</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2808,7 +2013,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713170000 -0300" stop="20150713190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098344614" series_key="">
+<programme start="20150727170000 -0300" stop="20150727190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946512" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2831,7 +2036,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713190000 -0300" stop="20150713210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098344615" series_key="">
+<programme start="20150727190000 -0300" stop="20150727210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946513" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2854,7 +2059,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713210000 -0300" stop="20150713220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098344616" series_key="">
+<programme start="20150727210000 -0300" stop="20150727220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946514" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2877,7 +2082,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713220000 -0300" stop="20150713230000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000098344617" series_key="">
+<programme start="20150727220000 -0300" stop="20150727230000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000099946515" series_key="">
 <title lang="pt">VH1 HD World Stage</title>
 <title lang="en">Vh1 Hd World Stage</title>
 <desc></desc>
@@ -2895,7 +2100,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713230000 -0300" stop="20150714010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098344618" series_key="">
+<programme start="20150727230000 -0300" stop="20150728010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946516" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2918,7 +2123,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714010000 -0300" stop="20150714040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098453100" series_key="">
+<programme start="20150728010000 -0300" stop="20150728040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946517" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2941,7 +2146,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714040000 -0300" stop="20150714070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098453104" series_key="">
+<programme start="20150728040000 -0300" stop="20150728070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946518" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2964,7 +2169,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714070000 -0300" stop="20150714100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098453108" series_key="">
+<programme start="20150728070000 -0300" stop="20150728100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946519" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -2987,7 +2192,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714100000 -0300" stop="20150714130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098453112" series_key="">
+<programme start="20150728100000 -0300" stop="20150728130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946520" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3010,7 +2215,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714130000 -0300" stop="20150714150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098453116" series_key="">
+<programme start="20150728130000 -0300" stop="20150728150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946521" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3033,7 +2238,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714150000 -0300" stop="20150714160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098453120" series_key="">
+<programme start="20150728150000 -0300" stop="20150728160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946522" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3056,7 +2261,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714160000 -0300" stop="20150714170000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000098453124" series_key="">
+<programme start="20150728160000 -0300" stop="20150728170000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000099946523" series_key="">
 <title lang="pt">VH1 HD World Stage</title>
 <title lang="en">Vh1 Hd World Stage</title>
 <desc></desc>
@@ -3074,7 +2279,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714170000 -0300" stop="20150714190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098453129" series_key="">
+<programme start="20150728170000 -0300" stop="20150728190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946524" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3097,7 +2302,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714190000 -0300" stop="20150714210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098453134" series_key="">
+<programme start="20150728190000 -0300" stop="20150728210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946525" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3120,7 +2325,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714210000 -0300" stop="20150714220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098453138" series_key="">
+<programme start="20150728210000 -0300" stop="20150728220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946526" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3143,7 +2348,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714220000 -0300" stop="20150714230000 -0300" channel="VHD" program_id="0000251511" event_id="00000000000098453142" series_key="00000000068734000000">
+<programme start="20150728220000 -0300" stop="20150728230000 -0300" channel="VHD" program_id="0000251511" event_id="00000000000099946527" series_key="00000000068734000000">
 <title lang="pt">Storytellers</title>
 <desc></desc>
 <category lang="pt">Séries</category>
@@ -3160,7 +2365,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150714230000 -0300" stop="20150715010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098453146" series_key="">
+<programme start="20150728230000 -0300" stop="20150729010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946528" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3183,7 +2388,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715010000 -0300" stop="20150715040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098453152" series_key="">
+<programme start="20150729010000 -0300" stop="20150729040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946529" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3206,7 +2411,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715040000 -0300" stop="20150715070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098453156" series_key="">
+<programme start="20150729040000 -0300" stop="20150729070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946530" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3229,7 +2434,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715070000 -0300" stop="20150715100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098453161" series_key="">
+<programme start="20150729070000 -0300" stop="20150729100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946531" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3252,7 +2457,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715100000 -0300" stop="20150715130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098453165" series_key="">
+<programme start="20150729100000 -0300" stop="20150729130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946532" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3275,7 +2480,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715130000 -0300" stop="20150715150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098453170" series_key="">
+<programme start="20150729130000 -0300" stop="20150729150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946533" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3298,7 +2503,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715150000 -0300" stop="20150715160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098453173" series_key="">
+<programme start="20150729150000 -0300" stop="20150729160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946534" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3321,7 +2526,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715160000 -0300" stop="20150715170000 -0300" channel="VHD" program_id="0000251511" event_id="00000000000098453175" series_key="00000000068734000000">
+<programme start="20150729160000 -0300" stop="20150729170000 -0300" channel="VHD" program_id="0000251511" event_id="00000000000099946535" series_key="00000000068734000000">
 <title lang="pt">Storytellers</title>
 <desc></desc>
 <category lang="pt">Séries</category>
@@ -3338,7 +2543,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150715170000 -0300" stop="20150715190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098453178" series_key="">
+<programme start="20150729170000 -0300" stop="20150729190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946536" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3361,7 +2566,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715190000 -0300" stop="20150715210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098453182" series_key="">
+<programme start="20150729190000 -0300" stop="20150729210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946537" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3384,7 +2589,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715210000 -0300" stop="20150715220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098453186" series_key="">
+<programme start="20150729210000 -0300" stop="20150729220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946538" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3407,7 +2612,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715220000 -0300" stop="20150715230000 -0300" channel="VHD" program_id="0000279160" event_id="00000000000098453190" series_key="00000000067636000000">
+<programme start="20150729220000 -0300" stop="20150729230000 -0300" channel="VHD" program_id="0000279160" event_id="00000000000099946539" series_key="00000000067636000000">
 <title lang="pt">Música.Doc</title>
 <desc>Música.doc mostra o dia a dia e os bastidores da rotina de grandes nomes da atual música brasileira, além de contar um pouco sobre suas trajetórias.</desc>
 <category lang="pt">Séries</category>
@@ -3424,7 +2629,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150715230000 -0300" stop="20150716010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098453196" series_key="">
+<programme start="20150729230000 -0300" stop="20150730010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946540" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3447,7 +2652,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716010000 -0300" stop="20150716040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098453199" series_key="">
+<programme start="20150730010000 -0300" stop="20150730040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946541" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3470,7 +2675,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716040000 -0300" stop="20150716070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098453203" series_key="">
+<programme start="20150730040000 -0300" stop="20150730070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946542" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3493,7 +2698,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716070000 -0300" stop="20150716100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098453208" series_key="">
+<programme start="20150730070000 -0300" stop="20150730100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946543" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3516,7 +2721,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716100000 -0300" stop="20150716130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098453212" series_key="">
+<programme start="20150730100000 -0300" stop="20150730130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946544" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3539,7 +2744,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716130000 -0300" stop="20150716150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098453216" series_key="">
+<programme start="20150730130000 -0300" stop="20150730150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946545" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3562,7 +2767,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716150000 -0300" stop="20150716160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098453220" series_key="">
+<programme start="20150730150000 -0300" stop="20150730160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946546" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3585,7 +2790,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716160000 -0300" stop="20150716170000 -0300" channel="VHD" program_id="0000279160" event_id="00000000000098453224" series_key="00000000067636000000">
+<programme start="20150730160000 -0300" stop="20150730170000 -0300" channel="VHD" program_id="0000279160" event_id="00000000000099946547" series_key="00000000067636000000">
 <title lang="pt">Música.Doc</title>
 <desc>Música.doc mostra o dia a dia e os bastidores da rotina de grandes nomes da atual música brasileira, além de contar um pouco sobre suas trajetórias.</desc>
 <category lang="pt">Séries</category>
@@ -3602,7 +2807,7 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150716170000 -0300" stop="20150716190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098453228" series_key="">
+<programme start="20150730170000 -0300" stop="20150730190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946548" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3625,7 +2830,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716190000 -0300" stop="20150716210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098453232" series_key="">
+<programme start="20150730190000 -0300" stop="20150730210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946549" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3648,7 +2853,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716210000 -0300" stop="20150716220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098453236" series_key="">
+<programme start="20150730210000 -0300" stop="20150730220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946550" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3671,7 +2876,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716220000 -0300" stop="20150716230000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000098453240" series_key="">
+<programme start="20150730220000 -0300" stop="20150730230000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000099946551" series_key="">
 <title lang="pt">VH1 HD World Stage</title>
 <title lang="en">Vh1 Hd World Stage</title>
 <desc></desc>
@@ -3689,7 +2894,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716230000 -0300" stop="20150717010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098453244" series_key="">
+<programme start="20150730230000 -0300" stop="20150731010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946552" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3712,7 +2917,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717010000 -0300" stop="20150717040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098533449" series_key="">
+<programme start="20150731010000 -0300" stop="20150731040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946553" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3735,7 +2940,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717040000 -0300" stop="20150717070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098533450" series_key="">
+<programme start="20150731040000 -0300" stop="20150731070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946554" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3758,7 +2963,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717070000 -0300" stop="20150717100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098533451" series_key="">
+<programme start="20150731070000 -0300" stop="20150731100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946555" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3781,7 +2986,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717100000 -0300" stop="20150717130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098533452" series_key="">
+<programme start="20150731100000 -0300" stop="20150731130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946556" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3804,7 +3009,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717130000 -0300" stop="20150717150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098533453" series_key="">
+<programme start="20150731130000 -0300" stop="20150731150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946557" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3827,7 +3032,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717150000 -0300" stop="20150717160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098533454" series_key="">
+<programme start="20150731150000 -0300" stop="20150731160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946558" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3850,7 +3055,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717160000 -0300" stop="20150717170000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000098533455" series_key="">
+<programme start="20150731160000 -0300" stop="20150731170000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000099946559" series_key="">
 <title lang="pt">VH1 HD World Stage</title>
 <title lang="en">Vh1 Hd World Stage</title>
 <desc></desc>
@@ -3868,7 +3073,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717170000 -0300" stop="20150717190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098533456" series_key="">
+<programme start="20150731170000 -0300" stop="20150731190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946560" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3891,7 +3096,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717190000 -0300" stop="20150717210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098533457" series_key="">
+<programme start="20150731190000 -0300" stop="20150731210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946561" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3914,7 +3119,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717210000 -0300" stop="20150717220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098533458" series_key="">
+<programme start="20150731210000 -0300" stop="20150731220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946562" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3937,7 +3142,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717220000 -0300" stop="20150717230000 -0300" channel="VHD" program_id="0000442571" event_id="00000000000098533459" series_key="">
+<programme start="20150731220000 -0300" stop="20150731230000 -0300" channel="VHD" program_id="0000442571" event_id="00000000000099946563" series_key="">
 <title lang="pt">VH1 Live</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -3954,7 +3159,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717230000 -0300" stop="20150718010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098533460" series_key="">
+<programme start="20150731230000 -0300" stop="20150801010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946564" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -3977,7 +3182,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718010000 -0300" stop="20150718040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098597312" series_key="">
+<programme start="20150801010000 -0300" stop="20150801040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946565" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4000,7 +3205,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718040000 -0300" stop="20150718070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098597313" series_key="">
+<programme start="20150801040000 -0300" stop="20150801070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946566" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4023,7 +3228,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718070000 -0300" stop="20150718100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098597314" series_key="">
+<programme start="20150801070000 -0300" stop="20150801100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946567" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4046,7 +3251,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718100000 -0300" stop="20150718130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098597315" series_key="">
+<programme start="20150801100000 -0300" stop="20150801130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946568" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4069,7 +3274,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718130000 -0300" stop="20150718150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098597316" series_key="">
+<programme start="20150801130000 -0300" stop="20150801150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946569" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4092,7 +3297,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718150000 -0300" stop="20150718160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098597317" series_key="">
+<programme start="20150801150000 -0300" stop="20150801160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946570" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4115,7 +3320,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718160000 -0300" stop="20150718170000 -0300" channel="VHD" program_id="0000442571" event_id="00000000000098597318" series_key="">
+<programme start="20150801160000 -0300" stop="20150801170000 -0300" channel="VHD" program_id="0000442571" event_id="00000000000099946571" series_key="">
 <title lang="pt">VH1 Live</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -4132,7 +3337,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718170000 -0300" stop="20150718190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098597319" series_key="">
+<programme start="20150801170000 -0300" stop="20150801190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946572" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4155,7 +3360,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718190000 -0300" stop="20150718210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098597320" series_key="">
+<programme start="20150801190000 -0300" stop="20150801210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946573" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4178,7 +3383,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718210000 -0300" stop="20150718220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098597321" series_key="">
+<programme start="20150801210000 -0300" stop="20150801220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946574" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4201,7 +3406,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718220000 -0300" stop="20150718230000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000098597322" series_key="">
+<programme start="20150801220000 -0300" stop="20150801230000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000099946575" series_key="">
 <title lang="pt">VH1 HD World Stage</title>
 <title lang="en">Vh1 Hd World Stage</title>
 <desc></desc>
@@ -4219,7 +3424,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718230000 -0300" stop="20150719010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098597323" series_key="">
+<programme start="20150801230000 -0300" stop="20150802010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946576" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4242,7 +3447,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719010000 -0300" stop="20150719040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098675122" series_key="">
+<programme start="20150802010000 -0300" stop="20150802040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946577" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4265,7 +3470,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719040000 -0300" stop="20150719070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098675123" series_key="">
+<programme start="20150802040000 -0300" stop="20150802070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946578" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4288,7 +3493,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719070000 -0300" stop="20150719100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098675124" series_key="">
+<programme start="20150802070000 -0300" stop="20150802100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946579" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4311,7 +3516,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719100000 -0300" stop="20150719130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098675125" series_key="">
+<programme start="20150802100000 -0300" stop="20150802130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946580" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4334,7 +3539,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719130000 -0300" stop="20150719150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098675126" series_key="">
+<programme start="20150802130000 -0300" stop="20150802150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946581" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4357,7 +3562,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719150000 -0300" stop="20150719160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098675127" series_key="">
+<programme start="20150802150000 -0300" stop="20150802160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946582" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4380,7 +3585,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719160000 -0300" stop="20150719170000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000098675128" series_key="">
+<programme start="20150802160000 -0300" stop="20150802170000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000099946583" series_key="">
 <title lang="pt">VH1 HD World Stage</title>
 <title lang="en">Vh1 Hd World Stage</title>
 <desc></desc>
@@ -4398,7 +3603,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719170000 -0300" stop="20150719190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098675129" series_key="">
+<programme start="20150802170000 -0300" stop="20150802190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946584" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4421,7 +3626,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719190000 -0300" stop="20150719210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098675131" series_key="">
+<programme start="20150802190000 -0300" stop="20150802210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946585" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4444,7 +3649,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719210000 -0300" stop="20150719220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098675133" series_key="">
+<programme start="20150802210000 -0300" stop="20150802220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946586" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4467,7 +3672,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719220000 -0300" stop="20150719230000 -0300" channel="VHD" program_id="0000442571" event_id="00000000000098675135" series_key="">
+<programme start="20150802220000 -0300" stop="20150802230000 -0300" channel="VHD" program_id="0000442571" event_id="00000000000099946587" series_key="">
 <title lang="pt">VH1 Live</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -4484,7 +3689,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719230000 -0300" stop="20150720010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098675137" series_key="">
+<programme start="20150802230000 -0300" stop="20150803010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946588" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4507,7 +3712,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720010000 -0300" stop="20150720040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098776983" series_key="">
+<programme start="20150803010000 -0300" stop="20150803040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946589" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4530,7 +3735,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720040000 -0300" stop="20150720070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098776984" series_key="">
+<programme start="20150803040000 -0300" stop="20150803070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946590" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4553,7 +3758,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720070000 -0300" stop="20150720100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098776985" series_key="">
+<programme start="20150803070000 -0300" stop="20150803100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946591" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4576,7 +3781,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720100000 -0300" stop="20150720130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098776986" series_key="">
+<programme start="20150803100000 -0300" stop="20150803130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946592" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4599,7 +3804,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720130000 -0300" stop="20150720150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098776987" series_key="">
+<programme start="20150803130000 -0300" stop="20150803150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946593" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4622,7 +3827,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720150000 -0300" stop="20150720160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098776988" series_key="">
+<programme start="20150803150000 -0300" stop="20150803160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946594" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4645,7 +3850,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720160000 -0300" stop="20150720170000 -0300" channel="VHD" program_id="0000442571" event_id="00000000000098776989" series_key="">
+<programme start="20150803160000 -0300" stop="20150803170000 -0300" channel="VHD" program_id="0000442571" event_id="00000000000099946595" series_key="">
 <title lang="pt">VH1 Live</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -4662,7 +3867,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720170000 -0300" stop="20150720190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098776990" series_key="">
+<programme start="20150803170000 -0300" stop="20150803190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946596" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4685,7 +3890,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720190000 -0300" stop="20150720210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098776991" series_key="">
+<programme start="20150803190000 -0300" stop="20150803210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946597" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4708,7 +3913,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720210000 -0300" stop="20150720220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098776992" series_key="">
+<programme start="20150803210000 -0300" stop="20150803220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946598" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4731,7 +3936,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720220000 -0300" stop="20150720230000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000098776993" series_key="">
+<programme start="20150803220000 -0300" stop="20150803230000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000099946599" series_key="">
 <title lang="pt">VH1 HD World Stage</title>
 <title lang="en">Vh1 Hd World Stage</title>
 <desc></desc>
@@ -4749,7 +3954,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720230000 -0300" stop="20150721010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098776994" series_key="">
+<programme start="20150803230000 -0300" stop="20150804010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946600" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4772,7 +3977,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721010000 -0300" stop="20150721040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098900934" series_key="">
+<programme start="20150804010000 -0300" stop="20150804040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946601" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4795,7 +4000,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721040000 -0300" stop="20150721070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098900937" series_key="">
+<programme start="20150804040000 -0300" stop="20150804070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946602" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4818,7 +4023,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721070000 -0300" stop="20150721100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098900939" series_key="">
+<programme start="20150804070000 -0300" stop="20150804100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946603" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4841,7 +4046,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721100000 -0300" stop="20150721130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098900941" series_key="">
+<programme start="20150804100000 -0300" stop="20150804130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946604" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4864,7 +4069,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721130000 -0300" stop="20150721150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098900942" series_key="">
+<programme start="20150804130000 -0300" stop="20150804150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946605" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4887,7 +4092,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721150000 -0300" stop="20150721160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098900943" series_key="">
+<programme start="20150804150000 -0300" stop="20150804160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946606" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4910,7 +4115,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721160000 -0300" stop="20150721170000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000098900944" series_key="">
+<programme start="20150804160000 -0300" stop="20150804170000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000099946607" series_key="">
 <title lang="pt">VH1 HD World Stage</title>
 <title lang="en">Vh1 Hd World Stage</title>
 <desc></desc>
@@ -4928,7 +4133,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721170000 -0300" stop="20150721190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098900946" series_key="">
+<programme start="20150804170000 -0300" stop="20150804190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946608" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4951,7 +4156,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721190000 -0300" stop="20150721210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000098900949" series_key="">
+<programme start="20150804190000 -0300" stop="20150804210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946609" series_key="">
 <title lang="pt">Music Box</title>
 <desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4974,7 +4179,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721210000 -0300" stop="20150721220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098900952" series_key="">
+<programme start="20150804210000 -0300" stop="20150804220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946610" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>
@@ -4997,7 +4202,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721220000 -0300" stop="20150721230000 -0300" channel="VHD" program_id="0000251511" event_id="00000000000098900955" series_key="00000000068734000000">
+<programme start="20150804220000 -0300" stop="20150804230000 -0300" channel="VHD" program_id="0000251511" event_id="00000000000099946611" series_key="00000000068734000000">
 <title lang="pt">Storytellers</title>
 <desc></desc>
 <category lang="pt">Séries</category>
@@ -5014,7 +4219,801 @@
 <value>Programa impróprio para menores de 12 anos</value>
 </rating>
 </programme>
-<programme start="20150721230000 -0300" stop="20150722010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000098900958" series_key="">
+<programme start="20150804230000 -0300" stop="20150805010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946612" series_key="">
+<title lang="pt">Top Hits</title>
+<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320563.jpg</image_name>
+<image_broadcast>0000320563</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805010000 -0300" stop="20150805040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946613" series_key="">
+<title lang="pt">Music Box</title>
+<desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320529.jpg</image_name>
+<image_broadcast>0000320529</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805040000 -0300" stop="20150805070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946614" series_key="">
+<title lang="pt">Top Hits</title>
+<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320563.jpg</image_name>
+<image_broadcast>0000320563</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805070000 -0300" stop="20150805100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946615" series_key="">
+<title lang="pt">Music Box</title>
+<desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320529.jpg</image_name>
+<image_broadcast>0000320529</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805100000 -0300" stop="20150805130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946616" series_key="">
+<title lang="pt">Top Hits</title>
+<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320563.jpg</image_name>
+<image_broadcast>0000320563</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805130000 -0300" stop="20150805150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946617" series_key="">
+<title lang="pt">Music Box</title>
+<desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320529.jpg</image_name>
+<image_broadcast>0000320529</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805150000 -0300" stop="20150805160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946618" series_key="">
+<title lang="pt">Top Hits</title>
+<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320563.jpg</image_name>
+<image_broadcast>0000320563</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805160000 -0300" stop="20150805170000 -0300" channel="VHD" program_id="0000251511" event_id="00000000000099946619" series_key="00000000068734000000">
+<title lang="pt">Storytellers</title>
+<desc></desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Biografia</category>
+<image>
+<image_name position="1">00000000068734.jpg</image_name>
+<image_broadcast>00000000068734</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150805170000 -0300" stop="20150805190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946620" series_key="">
+<title lang="pt">Top Hits</title>
+<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320563.jpg</image_name>
+<image_broadcast>0000320563</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805190000 -0300" stop="20150805210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946621" series_key="">
+<title lang="pt">Music Box</title>
+<desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320529.jpg</image_name>
+<image_broadcast>0000320529</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805210000 -0300" stop="20150805220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946622" series_key="">
+<title lang="pt">Top Hits</title>
+<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320563.jpg</image_name>
+<image_broadcast>0000320563</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805220000 -0300" stop="20150805230000 -0300" channel="VHD" program_id="0000279160" event_id="00000000000099946623" series_key="00000000067636000000">
+<title lang="pt">Música.Doc</title>
+<desc>Música.doc mostra o dia a dia e os bastidores da rotina de grandes nomes da atual música brasileira, além de contar um pouco sobre suas trajetórias.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Biografia</category>
+<image>
+<image_name position="1">00000000067636.jpg</image_name>
+<image_broadcast>00000000067636</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150805230000 -0300" stop="20150806010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946624" series_key="">
+<title lang="pt">Top Hits</title>
+<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320563.jpg</image_name>
+<image_broadcast>0000320563</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806010000 -0300" stop="20150806040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946625" series_key="">
+<title lang="pt">Music Box</title>
+<desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320529.jpg</image_name>
+<image_broadcast>0000320529</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806040000 -0300" stop="20150806070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946626" series_key="">
+<title lang="pt">Top Hits</title>
+<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320563.jpg</image_name>
+<image_broadcast>0000320563</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806070000 -0300" stop="20150806100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946627" series_key="">
+<title lang="pt">Music Box</title>
+<desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320529.jpg</image_name>
+<image_broadcast>0000320529</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806100000 -0300" stop="20150806130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946628" series_key="">
+<title lang="pt">Top Hits</title>
+<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320563.jpg</image_name>
+<image_broadcast>0000320563</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806130000 -0300" stop="20150806150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946629" series_key="">
+<title lang="pt">Music Box</title>
+<desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320529.jpg</image_name>
+<image_broadcast>0000320529</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806150000 -0300" stop="20150806160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946630" series_key="">
+<title lang="pt">Top Hits</title>
+<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320563.jpg</image_name>
+<image_broadcast>0000320563</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806160000 -0300" stop="20150806170000 -0300" channel="VHD" program_id="0000279160" event_id="00000000000099946631" series_key="00000000067636000000">
+<title lang="pt">Música.Doc</title>
+<desc>Música.doc mostra o dia a dia e os bastidores da rotina de grandes nomes da atual música brasileira, além de contar um pouco sobre suas trajetórias.</desc>
+<category lang="pt">Séries</category>
+<category lang="pt">Biografia</category>
+<image>
+<image_name position="1">00000000067636.jpg</image_name>
+<image_broadcast>00000000067636</image_broadcast>
+<image_copyright>Image supplied by Brocadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa impróprio para menores de 12 anos</value>
+</rating>
+</programme>
+<programme start="20150806170000 -0300" stop="20150806190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946632" series_key="">
+<title lang="pt">Top Hits</title>
+<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320563.jpg</image_name>
+<image_broadcast>0000320563</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806190000 -0300" stop="20150806210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946633" series_key="">
+<title lang="pt">Music Box</title>
+<desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320529.jpg</image_name>
+<image_broadcast>0000320529</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806210000 -0300" stop="20150806220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946634" series_key="">
+<title lang="pt">Top Hits</title>
+<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320563.jpg</image_name>
+<image_broadcast>0000320563</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806220000 -0300" stop="20150806230000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000099946635" series_key="">
+<title lang="pt">VH1 HD World Stage</title>
+<title lang="en">Vh1 Hd World Stage</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000442575.jpg</image_name>
+<image_broadcast>0000442575</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806230000 -0300" stop="20150807010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946636" series_key="">
+<title lang="pt">Top Hits</title>
+<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320563.jpg</image_name>
+<image_broadcast>0000320563</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807010000 -0300" stop="20150807040000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946637" series_key="">
+<title lang="pt">Music Box</title>
+<desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320529.jpg</image_name>
+<image_broadcast>0000320529</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807040000 -0300" stop="20150807070000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946638" series_key="">
+<title lang="pt">Top Hits</title>
+<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320563.jpg</image_name>
+<image_broadcast>0000320563</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807070000 -0300" stop="20150807100000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946639" series_key="">
+<title lang="pt">Music Box</title>
+<desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320529.jpg</image_name>
+<image_broadcast>0000320529</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807100000 -0300" stop="20150807130000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946640" series_key="">
+<title lang="pt">Top Hits</title>
+<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320563.jpg</image_name>
+<image_broadcast>0000320563</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807130000 -0300" stop="20150807150000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946641" series_key="">
+<title lang="pt">Music Box</title>
+<desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320529.jpg</image_name>
+<image_broadcast>0000320529</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807150000 -0300" stop="20150807160000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946642" series_key="">
+<title lang="pt">Top Hits</title>
+<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320563.jpg</image_name>
+<image_broadcast>0000320563</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807160000 -0300" stop="20150807170000 -0300" channel="VHD" program_id="0000442575" event_id="00000000000099946643" series_key="">
+<title lang="pt">VH1 HD World Stage</title>
+<title lang="en">Vh1 Hd World Stage</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000442575.jpg</image_name>
+<image_broadcast>0000442575</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807170000 -0300" stop="20150807190000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946644" series_key="">
+<title lang="pt">Top Hits</title>
+<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320563.jpg</image_name>
+<image_broadcast>0000320563</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807190000 -0300" stop="20150807210000 -0300" channel="VHD" program_id="0000320529" event_id="00000000000099946645" series_key="">
+<title lang="pt">Music Box</title>
+<desc>Music Box apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320529.jpg</image_name>
+<image_broadcast>0000320529</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807210000 -0300" stop="20150807220000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946646" series_key="">
+<title lang="pt">Top Hits</title>
+<desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
+<credits>
+<director>Anna Buttler</director>
+<director>Anna Buttler</director>
+</credits>
+<date>2014</date>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000320563.jpg</image_name>
+<image_broadcast>0000320563</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>EUA</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807220000 -0300" stop="20150807230000 -0300" channel="VHD" program_id="0000442571" event_id="00000000000099946647" series_key="">
+<title lang="pt">VH1 Live</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Musical</category>
+<image>
+<image_name position="1">0000442571.jpg</image_name>
+<image_broadcast>0000442571</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807230000 -0300" stop="20150808010000 -0300" channel="VHD" program_id="0000320563" event_id="00000000000099946648" series_key="">
 <title lang="pt">Top Hits</title>
 <desc>Top hits apresenta a melhor seleção de clipes em alta definição.</desc>
 <credits>

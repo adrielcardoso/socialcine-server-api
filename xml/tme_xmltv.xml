@@ -4,7 +4,7 @@
 <display-name lang="pt">Tv+2 Americana - Canal 13</display-name>
 <icon src="tme.gif" />
 </channel>
-<programme start="20150703000000 -0300" stop="20150703130000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924559" series_key="">
+<programme start="20150720000000 -0300" stop="20150720060000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339539" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -21,7 +21,24 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703130000 -0300" stop="20150703132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924560" series_key="">
+<programme start="20150720060000 -0300" stop="20150720130000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339540" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150720130000 -0300" stop="20150720132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000101339541" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -40,7 +57,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703132000 -0300" stop="20150703190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924561" series_key="">
+<programme start="20150720132000 -0300" stop="20150720190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339542" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -57,7 +74,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703190000 -0300" stop="20150703192000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924562" series_key="">
+<programme start="20150720190000 -0300" stop="20150720192000 -0300" channel="TME" program_id="0000126534" event_id="00000000000101339543" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -76,7 +93,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703192000 -0300" stop="20150703233000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924563" series_key="">
+<programme start="20150720192000 -0300" stop="20150720233000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339544" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -93,7 +110,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703233000 -0300" stop="20150704000000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924564" series_key="">
+<programme start="20150720233000 -0300" stop="20150721000000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339545" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -110,7 +127,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704000000 -0300" stop="20150704130000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924565" series_key="">
+<programme start="20150721000000 -0300" stop="20150721130000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339546" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -127,7 +144,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704130000 -0300" stop="20150704132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924566" series_key="">
+<programme start="20150721130000 -0300" stop="20150721132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000101339547" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -146,7 +163,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704132000 -0300" stop="20150704190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924567" series_key="">
+<programme start="20150721132000 -0300" stop="20150721190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339548" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -163,7 +180,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704190000 -0300" stop="20150704192000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924568" series_key="">
+<programme start="20150721190000 -0300" stop="20150721192000 -0300" channel="TME" program_id="0000126534" event_id="00000000000101339549" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -182,7 +199,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704192000 -0300" stop="20150704200000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924569" series_key="">
+<programme start="20150721192000 -0300" stop="20150721210000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339550" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -199,392 +216,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704200000 -0300" stop="20150704203000 -0300" channel="TME" program_id="0000172743" event_id="00000000000099924570" series_key="">
-<title lang="pt">Personalidade+</title>
-<desc>Além de apresentar trajetórias profissionais bem-sucedidas, há espaço para algumas curiosidades sobre vida pessoal. As grandes questões da atualidade também têm vez com a exposição dos mais diversos pontos de vista dos convidados.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">0000172743.jpg</image_name>
-<image_broadcast>0000172743</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704203000 -0300" stop="20150704210000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924571" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704210000 -0300" stop="20150704213000 -0300" channel="TME" program_id="0000166419" event_id="00000000000099924572" series_key="">
-<title lang="pt">TV+ Entrevista</title>
-<desc>Num clima intimista e descontraído, nossos entrevistadores tentam extrair dados sobre vida e carreira de profissionais dos mais variados segmentos da sociedade.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Entrevista</category>
-<image>
-<image_name position="1">0000166419.jpg</image_name>
-<image_broadcast>0000166419</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704213000 -0300" stop="20150705123000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924573" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705123000 -0300" stop="20150705130000 -0300" channel="TME" program_id="0000088610" event_id="00000000000099924574" series_key="">
-<title lang="pt">Casas Espetaculares</title>
-<desc>O programa é a primeira atração sobre arquitetura e decoração na tv aberta. O cenário é sempre um projeto arquitetônico e as entrevistas exploram todos os aspectos do imóvel visitado.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000088610.jpg</image_name>
-<image_broadcast>0000088610</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705130000 -0300" stop="20150705132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924575" series_key="">
-<title lang="pt">TV+ Acontece</title>
-<title lang="en">TV+ Acontece</title>
-<desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000126534.jpg</image_name>
-<image_broadcast>0000126534</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705132000 -0300" stop="20150705190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924576" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705190000 -0300" stop="20150705200000 -0300" channel="TME" program_id="0000070813" event_id="00000000000099924577" series_key="">
-<title lang="pt">Momentos de Sabedoria</title>
-<title lang="en">Momentos de Sabedoria</title>
-<desc>Abordagem franca e sem qualquer tipo de proselitismo religioso, revela a origem espiritual da vida em forma racional. Espiritualidade levada a sério. Apresentação: Nelson Moraes e Marisa de Mello</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000070813.jpg</image_name>
-<image_broadcast>0000070813</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705200000 -0300" stop="20150705233000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924578" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705233000 -0300" stop="20150706000000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924579" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706000000 -0300" stop="20150706060000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924580" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706060000 -0300" stop="20150706130000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924581" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706130000 -0300" stop="20150706132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924582" series_key="">
-<title lang="pt">TV+ Acontece</title>
-<title lang="en">TV+ Acontece</title>
-<desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000126534.jpg</image_name>
-<image_broadcast>0000126534</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706132000 -0300" stop="20150706190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924583" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706190000 -0300" stop="20150706192000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924584" series_key="">
-<title lang="pt">TV+ Acontece</title>
-<title lang="en">TV+ Acontece</title>
-<desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000126534.jpg</image_name>
-<image_broadcast>0000126534</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706192000 -0300" stop="20150706233000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924585" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706233000 -0300" stop="20150707000000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924586" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707000000 -0300" stop="20150707130000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924587" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707130000 -0300" stop="20150707132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924588" series_key="">
-<title lang="pt">TV+ Acontece</title>
-<title lang="en">TV+ Acontece</title>
-<desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000126534.jpg</image_name>
-<image_broadcast>0000126534</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707132000 -0300" stop="20150707190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924589" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707190000 -0300" stop="20150707192000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924590" series_key="">
-<title lang="pt">TV+ Acontece</title>
-<title lang="en">TV+ Acontece</title>
-<desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000126534.jpg</image_name>
-<image_broadcast>0000126534</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707192000 -0300" stop="20150707210000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924591" series_key="">
-<title lang="pt">Programação de Ofertas</title>
-<desc></desc>
-<category lang="pt">Variedades</category>
-<category lang="pt">Diversos</category>
-<image>
-<image_name position="1">0000207848.jpg</image_name>
-<image_broadcast>0000207848</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707210000 -0300" stop="20150707214500 -0300" channel="TME" program_id="0000016557" event_id="00000000000099924592" series_key="00000000066261000000">
+<programme start="20150721210000 -0300" stop="20150721214500 -0300" channel="TME" program_id="0000016557" event_id="00000000000101339551" series_key="00000000066261000000">
 <title lang="pt">Show Business</title>
 <desc>Um programa de entrevistas e informações, comandado por João Doria Jr. traz matérias voltadas para o debate econômico em âmbito empresarial.</desc>
 <category lang="pt">Jornalismo</category>
@@ -602,7 +234,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707214500 -0300" stop="20150707233000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924593" series_key="">
+<programme start="20150721214500 -0300" stop="20150721233000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339552" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -619,7 +251,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707233000 -0300" stop="20150708000000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924594" series_key="">
+<programme start="20150721233000 -0300" stop="20150722000000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339553" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -636,7 +268,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708000000 -0300" stop="20150708003000 -0300" channel="TME" program_id="0000281398" event_id="00000000000099924595" series_key="">
+<programme start="20150722000000 -0300" stop="20150722003000 -0300" channel="TME" program_id="0000281398" event_id="00000000000101339554" series_key="">
 <title lang="pt">Maloik</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -653,7 +285,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708003000 -0300" stop="20150708130000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924596" series_key="">
+<programme start="20150722003000 -0300" stop="20150722130000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339555" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -670,7 +302,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708130000 -0300" stop="20150708132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924597" series_key="">
+<programme start="20150722130000 -0300" stop="20150722132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000101339556" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -689,7 +321,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708132000 -0300" stop="20150708190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924598" series_key="">
+<programme start="20150722132000 -0300" stop="20150722190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339557" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -706,7 +338,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708190000 -0300" stop="20150708192000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924599" series_key="">
+<programme start="20150722190000 -0300" stop="20150722192000 -0300" channel="TME" program_id="0000126534" event_id="00000000000101339558" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -725,7 +357,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708192000 -0300" stop="20150708233000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924600" series_key="">
+<programme start="20150722192000 -0300" stop="20150722233000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339559" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -742,7 +374,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708233000 -0300" stop="20150709000000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924601" series_key="">
+<programme start="20150722233000 -0300" stop="20150723000000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339560" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -759,7 +391,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709000000 -0300" stop="20150709130000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924602" series_key="">
+<programme start="20150723000000 -0300" stop="20150723130000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339561" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -776,7 +408,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709130000 -0300" stop="20150709132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924603" series_key="">
+<programme start="20150723130000 -0300" stop="20150723132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000101339562" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -795,7 +427,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709132000 -0300" stop="20150709190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924604" series_key="">
+<programme start="20150723132000 -0300" stop="20150723190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339563" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -812,7 +444,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709190000 -0300" stop="20150709192000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924605" series_key="">
+<programme start="20150723190000 -0300" stop="20150723192000 -0300" channel="TME" program_id="0000126534" event_id="00000000000101339564" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -831,7 +463,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709192000 -0300" stop="20150709233000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924606" series_key="">
+<programme start="20150723192000 -0300" stop="20150723233000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339565" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -848,7 +480,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709233000 -0300" stop="20150710000000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924607" series_key="">
+<programme start="20150723233000 -0300" stop="20150724000000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339566" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -865,7 +497,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710000000 -0300" stop="20150710130000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924608" series_key="">
+<programme start="20150724000000 -0300" stop="20150724130000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339567" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -882,7 +514,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710130000 -0300" stop="20150710132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924609" series_key="">
+<programme start="20150724130000 -0300" stop="20150724132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000101339568" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -901,7 +533,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710132000 -0300" stop="20150710190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924610" series_key="">
+<programme start="20150724132000 -0300" stop="20150724190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339569" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -918,7 +550,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710190000 -0300" stop="20150710192000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924611" series_key="">
+<programme start="20150724190000 -0300" stop="20150724192000 -0300" channel="TME" program_id="0000126534" event_id="00000000000101339570" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -937,7 +569,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710192000 -0300" stop="20150710233000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924612" series_key="">
+<programme start="20150724192000 -0300" stop="20150724233000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339571" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -954,7 +586,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710233000 -0300" stop="20150711000000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924613" series_key="">
+<programme start="20150724233000 -0300" stop="20150725000000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339572" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -971,7 +603,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711000000 -0300" stop="20150711130000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924614" series_key="">
+<programme start="20150725000000 -0300" stop="20150725130000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339573" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -988,7 +620,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711130000 -0300" stop="20150711132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924615" series_key="">
+<programme start="20150725130000 -0300" stop="20150725132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000101339574" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -1007,7 +639,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711132000 -0300" stop="20150711190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924616" series_key="">
+<programme start="20150725132000 -0300" stop="20150725190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339575" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1024,7 +656,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711190000 -0300" stop="20150711192000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924617" series_key="">
+<programme start="20150725190000 -0300" stop="20150725192000 -0300" channel="TME" program_id="0000126534" event_id="00000000000101339576" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -1043,7 +675,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711192000 -0300" stop="20150711200000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924618" series_key="">
+<programme start="20150725192000 -0300" stop="20150725200000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339577" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1060,7 +692,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711200000 -0300" stop="20150711203000 -0300" channel="TME" program_id="0000172743" event_id="00000000000099924619" series_key="">
+<programme start="20150725200000 -0300" stop="20150725203000 -0300" channel="TME" program_id="0000172743" event_id="00000000000101339578" series_key="">
 <title lang="pt">Personalidade+</title>
 <desc>Além de apresentar trajetórias profissionais bem-sucedidas, há espaço para algumas curiosidades sobre vida pessoal. As grandes questões da atualidade também têm vez com a exposição dos mais diversos pontos de vista dos convidados.</desc>
 <category lang="pt">Variedades</category>
@@ -1077,7 +709,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711203000 -0300" stop="20150711210000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924620" series_key="">
+<programme start="20150725203000 -0300" stop="20150725210000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339579" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1094,7 +726,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711210000 -0300" stop="20150711213000 -0300" channel="TME" program_id="0000166419" event_id="00000000000099924621" series_key="">
+<programme start="20150725210000 -0300" stop="20150725213000 -0300" channel="TME" program_id="0000166419" event_id="00000000000101339580" series_key="">
 <title lang="pt">TV+ Entrevista</title>
 <desc>Num clima intimista e descontraído, nossos entrevistadores tentam extrair dados sobre vida e carreira de profissionais dos mais variados segmentos da sociedade.</desc>
 <category lang="pt">Variedades</category>
@@ -1111,7 +743,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711213000 -0300" stop="20150712123000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924622" series_key="">
+<programme start="20150725213000 -0300" stop="20150726123000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339581" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1128,7 +760,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712123000 -0300" stop="20150712130000 -0300" channel="TME" program_id="0000088610" event_id="00000000000099924623" series_key="">
+<programme start="20150726123000 -0300" stop="20150726130000 -0300" channel="TME" program_id="0000088610" event_id="00000000000101339582" series_key="">
 <title lang="pt">Casas Espetaculares</title>
 <desc>O programa é a primeira atração sobre arquitetura e decoração na tv aberta. O cenário é sempre um projeto arquitetônico e as entrevistas exploram todos os aspectos do imóvel visitado.</desc>
 <category lang="pt">Variedades</category>
@@ -1145,7 +777,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712130000 -0300" stop="20150712132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924624" series_key="">
+<programme start="20150726130000 -0300" stop="20150726132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000101339583" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -1164,7 +796,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712132000 -0300" stop="20150712190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924625" series_key="">
+<programme start="20150726132000 -0300" stop="20150726190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339584" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1181,7 +813,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712190000 -0300" stop="20150712200000 -0300" channel="TME" program_id="0000070813" event_id="00000000000099924626" series_key="">
+<programme start="20150726190000 -0300" stop="20150726200000 -0300" channel="TME" program_id="0000070813" event_id="00000000000101339585" series_key="">
 <title lang="pt">Momentos de Sabedoria</title>
 <title lang="en">Momentos de Sabedoria</title>
 <desc>Abordagem franca e sem qualquer tipo de proselitismo religioso, revela a origem espiritual da vida em forma racional. Espiritualidade levada a sério. Apresentação: Nelson Moraes e Marisa de Mello</desc>
@@ -1199,7 +831,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712200000 -0300" stop="20150712233000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924627" series_key="">
+<programme start="20150726200000 -0300" stop="20150726233000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339586" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1216,7 +848,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712233000 -0300" stop="20150713000000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924628" series_key="">
+<programme start="20150726233000 -0300" stop="20150727000000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339587" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1233,7 +865,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713000000 -0300" stop="20150713060000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924629" series_key="">
+<programme start="20150727000000 -0300" stop="20150727060000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339588" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1250,7 +882,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713060000 -0300" stop="20150713130000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924630" series_key="">
+<programme start="20150727060000 -0300" stop="20150727130000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339589" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1267,7 +899,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713130000 -0300" stop="20150713132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924631" series_key="">
+<programme start="20150727130000 -0300" stop="20150727132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000101339590" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -1286,7 +918,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713132000 -0300" stop="20150713190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924632" series_key="">
+<programme start="20150727132000 -0300" stop="20150727190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339591" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1303,7 +935,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713190000 -0300" stop="20150713192000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924633" series_key="">
+<programme start="20150727190000 -0300" stop="20150727192000 -0300" channel="TME" program_id="0000126534" event_id="00000000000101339592" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -1322,7 +954,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713192000 -0300" stop="20150713233000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924634" series_key="">
+<programme start="20150727192000 -0300" stop="20150727233000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339593" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1339,7 +971,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713233000 -0300" stop="20150714000000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924635" series_key="">
+<programme start="20150727233000 -0300" stop="20150728000000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339594" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1356,7 +988,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714000000 -0300" stop="20150714130000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924636" series_key="">
+<programme start="20150728000000 -0300" stop="20150728130000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339595" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1373,7 +1005,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714130000 -0300" stop="20150714132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924637" series_key="">
+<programme start="20150728130000 -0300" stop="20150728132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000101339596" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -1392,7 +1024,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714132000 -0300" stop="20150714190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924638" series_key="">
+<programme start="20150728132000 -0300" stop="20150728190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339597" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1409,7 +1041,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714190000 -0300" stop="20150714192000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924639" series_key="">
+<programme start="20150728190000 -0300" stop="20150728192000 -0300" channel="TME" program_id="0000126534" event_id="00000000000101339598" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -1428,7 +1060,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714192000 -0300" stop="20150714210000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924640" series_key="">
+<programme start="20150728192000 -0300" stop="20150728210000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339599" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1445,7 +1077,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714210000 -0300" stop="20150714214500 -0300" channel="TME" program_id="0000016557" event_id="00000000000099924641" series_key="00000000066261000000">
+<programme start="20150728210000 -0300" stop="20150728214500 -0300" channel="TME" program_id="0000016557" event_id="00000000000101339600" series_key="00000000066261000000">
 <title lang="pt">Show Business</title>
 <desc>Um programa de entrevistas e informações, comandado por João Doria Jr. traz matérias voltadas para o debate econômico em âmbito empresarial.</desc>
 <category lang="pt">Jornalismo</category>
@@ -1463,7 +1095,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714214500 -0300" stop="20150714233000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924642" series_key="">
+<programme start="20150728214500 -0300" stop="20150728233000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339601" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1480,7 +1112,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714233000 -0300" stop="20150715000000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924643" series_key="">
+<programme start="20150728233000 -0300" stop="20150729000000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339602" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1497,7 +1129,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715000000 -0300" stop="20150715003000 -0300" channel="TME" program_id="0000281398" event_id="00000000000099924644" series_key="">
+<programme start="20150729000000 -0300" stop="20150729003000 -0300" channel="TME" program_id="0000281398" event_id="00000000000101339603" series_key="">
 <title lang="pt">Maloik</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1514,7 +1146,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715003000 -0300" stop="20150715130000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924645" series_key="">
+<programme start="20150729003000 -0300" stop="20150729130000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339604" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1531,7 +1163,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715130000 -0300" stop="20150715132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924646" series_key="">
+<programme start="20150729130000 -0300" stop="20150729132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000101339605" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -1550,7 +1182,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715132000 -0300" stop="20150715190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924647" series_key="">
+<programme start="20150729132000 -0300" stop="20150729190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339606" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1567,7 +1199,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715190000 -0300" stop="20150715192000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924648" series_key="">
+<programme start="20150729190000 -0300" stop="20150729192000 -0300" channel="TME" program_id="0000126534" event_id="00000000000101339607" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -1586,7 +1218,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715192000 -0300" stop="20150715233000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924649" series_key="">
+<programme start="20150729192000 -0300" stop="20150729233000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339608" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1603,7 +1235,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715233000 -0300" stop="20150716000000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924650" series_key="">
+<programme start="20150729233000 -0300" stop="20150730000000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339609" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1620,7 +1252,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716000000 -0300" stop="20150716130000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924651" series_key="">
+<programme start="20150730000000 -0300" stop="20150730130000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339610" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1637,7 +1269,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716130000 -0300" stop="20150716132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924652" series_key="">
+<programme start="20150730130000 -0300" stop="20150730132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000101339611" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -1656,7 +1288,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716132000 -0300" stop="20150716190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924653" series_key="">
+<programme start="20150730132000 -0300" stop="20150730190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339612" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1673,7 +1305,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716190000 -0300" stop="20150716192000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924654" series_key="">
+<programme start="20150730190000 -0300" stop="20150730192000 -0300" channel="TME" program_id="0000126534" event_id="00000000000101339613" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -1692,7 +1324,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716192000 -0300" stop="20150716233000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924655" series_key="">
+<programme start="20150730192000 -0300" stop="20150730233000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339614" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1709,7 +1341,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716233000 -0300" stop="20150717000000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924656" series_key="">
+<programme start="20150730233000 -0300" stop="20150731000000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339615" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1726,7 +1358,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717000000 -0300" stop="20150717130000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924657" series_key="">
+<programme start="20150731000000 -0300" stop="20150731130000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339616" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1743,7 +1375,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717130000 -0300" stop="20150717132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924658" series_key="">
+<programme start="20150731130000 -0300" stop="20150731132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000101339617" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -1762,7 +1394,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717132000 -0300" stop="20150717190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924659" series_key="">
+<programme start="20150731132000 -0300" stop="20150731190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339618" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1779,7 +1411,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717190000 -0300" stop="20150717192000 -0300" channel="TME" program_id="0000126534" event_id="00000000000099924660" series_key="">
+<programme start="20150731190000 -0300" stop="20150731192000 -0300" channel="TME" program_id="0000126534" event_id="00000000000101339619" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -1798,7 +1430,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717192000 -0300" stop="20150717233000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924661" series_key="">
+<programme start="20150731192000 -0300" stop="20150731233000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339620" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1815,7 +1447,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717233000 -0300" stop="20150718000000 -0300" channel="TME" program_id="0000207848" event_id="00000000000099924662" series_key="">
+<programme start="20150731233000 -0300" stop="20150801000000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339621" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1832,7 +1464,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718000000 -0300" stop="20150718130000 -0300" channel="TME" program_id="0000207848" event_id="000000104850259" series_key="">
+<programme start="20150801000000 -0300" stop="20150801130000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339622" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1849,7 +1481,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718130000 -0300" stop="20150718132000 -0300" channel="TME" program_id="0000126534" event_id="000000104850260" series_key="">
+<programme start="20150801130000 -0300" stop="20150801132000 -0300" channel="TME" program_id="0000126534" event_id="00000000000101339623" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -1868,7 +1500,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718132000 -0300" stop="20150718190000 -0300" channel="TME" program_id="0000207848" event_id="000000104850261" series_key="">
+<programme start="20150801132000 -0300" stop="20150801190000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339624" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1885,7 +1517,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718190000 -0300" stop="20150718192000 -0300" channel="TME" program_id="0000126534" event_id="000000104850262" series_key="">
+<programme start="20150801190000 -0300" stop="20150801192000 -0300" channel="TME" program_id="0000126534" event_id="00000000000101339625" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -1904,7 +1536,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718192000 -0300" stop="20150718200000 -0300" channel="TME" program_id="0000207848" event_id="000000104850263" series_key="">
+<programme start="20150801192000 -0300" stop="20150801200000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339626" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1921,7 +1553,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718200000 -0300" stop="20150718203000 -0300" channel="TME" program_id="0000172743" event_id="000000104850264" series_key="">
+<programme start="20150801200000 -0300" stop="20150801203000 -0300" channel="TME" program_id="0000172743" event_id="00000000000101339627" series_key="">
 <title lang="pt">Personalidade+</title>
 <desc>Além de apresentar trajetórias profissionais bem-sucedidas, há espaço para algumas curiosidades sobre vida pessoal. As grandes questões da atualidade também têm vez com a exposição dos mais diversos pontos de vista dos convidados.</desc>
 <category lang="pt">Variedades</category>
@@ -1938,7 +1570,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718203000 -0300" stop="20150718210000 -0300" channel="TME" program_id="0000207848" event_id="000000104850265" series_key="">
+<programme start="20150801203000 -0300" stop="20150801210000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339628" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1955,7 +1587,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718210000 -0300" stop="20150718213000 -0300" channel="TME" program_id="0000166419" event_id="000000104850266" series_key="">
+<programme start="20150801210000 -0300" stop="20150801213000 -0300" channel="TME" program_id="0000166419" event_id="00000000000101339629" series_key="">
 <title lang="pt">TV+ Entrevista</title>
 <desc>Num clima intimista e descontraído, nossos entrevistadores tentam extrair dados sobre vida e carreira de profissionais dos mais variados segmentos da sociedade.</desc>
 <category lang="pt">Variedades</category>
@@ -1972,7 +1604,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718213000 -0300" stop="20150719123000 -0300" channel="TME" program_id="0000207848" event_id="000000104850267" series_key="">
+<programme start="20150801213000 -0300" stop="20150802123000 -0300" channel="TME" program_id="0000207848" event_id="00000000000101339630" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -1989,7 +1621,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719123000 -0300" stop="20150719130000 -0300" channel="TME" program_id="0000088610" event_id="000000104850268" series_key="">
+<programme start="20150802123000 -0300" stop="20150802130000 -0300" channel="TME" program_id="0000088610" event_id="000000107614622" series_key="">
 <title lang="pt">Casas Espetaculares</title>
 <desc>O programa é a primeira atração sobre arquitetura e decoração na tv aberta. O cenário é sempre um projeto arquitetônico e as entrevistas exploram todos os aspectos do imóvel visitado.</desc>
 <category lang="pt">Variedades</category>
@@ -2006,7 +1638,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719130000 -0300" stop="20150719132000 -0300" channel="TME" program_id="0000126534" event_id="000000104850269" series_key="">
+<programme start="20150802130000 -0300" stop="20150802132000 -0300" channel="TME" program_id="0000126534" event_id="000000107614623" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -2025,7 +1657,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719132000 -0300" stop="20150719190000 -0300" channel="TME" program_id="0000207848" event_id="000000104850270" series_key="">
+<programme start="20150802132000 -0300" stop="20150802190000 -0300" channel="TME" program_id="0000207848" event_id="000000107614624" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2042,7 +1674,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719190000 -0300" stop="20150719200000 -0300" channel="TME" program_id="0000070813" event_id="000000104850271" series_key="">
+<programme start="20150802190000 -0300" stop="20150802200000 -0300" channel="TME" program_id="0000070813" event_id="000000107614625" series_key="">
 <title lang="pt">Momentos de Sabedoria</title>
 <title lang="en">Momentos de Sabedoria</title>
 <desc>Abordagem franca e sem qualquer tipo de proselitismo religioso, revela a origem espiritual da vida em forma racional. Espiritualidade levada a sério. Apresentação: Nelson Moraes e Marisa de Mello</desc>
@@ -2060,7 +1692,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719200000 -0300" stop="20150719233000 -0300" channel="TME" program_id="0000207848" event_id="000000104850272" series_key="">
+<programme start="20150802200000 -0300" stop="20150802233000 -0300" channel="TME" program_id="0000207848" event_id="000000107614626" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2077,7 +1709,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719233000 -0300" stop="20150720000000 -0300" channel="TME" program_id="0000207848" event_id="000000104850273" series_key="">
+<programme start="20150802233000 -0300" stop="20150803000000 -0300" channel="TME" program_id="0000207848" event_id="000000107614627" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2094,7 +1726,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720000000 -0300" stop="20150720060000 -0300" channel="TME" program_id="0000207848" event_id="000000104850274" series_key="">
+<programme start="20150803000000 -0300" stop="20150803060000 -0300" channel="TME" program_id="0000207848" event_id="000000107614628" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2111,7 +1743,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720060000 -0300" stop="20150720130000 -0300" channel="TME" program_id="0000207848" event_id="000000104850275" series_key="">
+<programme start="20150803060000 -0300" stop="20150803130000 -0300" channel="TME" program_id="0000207848" event_id="000000107614629" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2128,7 +1760,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720130000 -0300" stop="20150720132000 -0300" channel="TME" program_id="0000126534" event_id="000000104850276" series_key="">
+<programme start="20150803130000 -0300" stop="20150803132000 -0300" channel="TME" program_id="0000126534" event_id="000000107614630" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -2147,7 +1779,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720132000 -0300" stop="20150720190000 -0300" channel="TME" program_id="0000207848" event_id="000000104850277" series_key="">
+<programme start="20150803132000 -0300" stop="20150803190000 -0300" channel="TME" program_id="0000207848" event_id="000000107614631" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2164,7 +1796,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720190000 -0300" stop="20150720192000 -0300" channel="TME" program_id="0000126534" event_id="000000104850278" series_key="">
+<programme start="20150803190000 -0300" stop="20150803192000 -0300" channel="TME" program_id="0000126534" event_id="000000107614632" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -2183,7 +1815,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720192000 -0300" stop="20150720233000 -0300" channel="TME" program_id="0000207848" event_id="000000104850279" series_key="">
+<programme start="20150803192000 -0300" stop="20150803233000 -0300" channel="TME" program_id="0000207848" event_id="000000107614633" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2200,7 +1832,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720233000 -0300" stop="20150721000000 -0300" channel="TME" program_id="0000207848" event_id="000000104850280" series_key="">
+<programme start="20150803233000 -0300" stop="20150804000000 -0300" channel="TME" program_id="0000207848" event_id="000000107614634" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2217,7 +1849,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721000000 -0300" stop="20150721130000 -0300" channel="TME" program_id="0000207848" event_id="000000104850281" series_key="">
+<programme start="20150804000000 -0300" stop="20150804130000 -0300" channel="TME" program_id="0000207848" event_id="000000107614635" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2234,7 +1866,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721130000 -0300" stop="20150721132000 -0300" channel="TME" program_id="0000126534" event_id="000000104850282" series_key="">
+<programme start="20150804130000 -0300" stop="20150804132000 -0300" channel="TME" program_id="0000126534" event_id="000000107614636" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -2253,7 +1885,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721132000 -0300" stop="20150721190000 -0300" channel="TME" program_id="0000207848" event_id="000000104850283" series_key="">
+<programme start="20150804132000 -0300" stop="20150804190000 -0300" channel="TME" program_id="0000207848" event_id="000000107614637" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2270,7 +1902,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721190000 -0300" stop="20150721192000 -0300" channel="TME" program_id="0000126534" event_id="000000104850284" series_key="">
+<programme start="20150804190000 -0300" stop="20150804192000 -0300" channel="TME" program_id="0000126534" event_id="000000107614638" series_key="">
 <title lang="pt">TV+ Acontece</title>
 <title lang="en">TV+ Acontece</title>
 <desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
@@ -2289,7 +1921,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721192000 -0300" stop="20150721210000 -0300" channel="TME" program_id="0000207848" event_id="000000104850285" series_key="">
+<programme start="20150804192000 -0300" stop="20150804210000 -0300" channel="TME" program_id="0000207848" event_id="000000107614639" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2306,7 +1938,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721210000 -0300" stop="20150721214500 -0300" channel="TME" program_id="0000016557" event_id="000000104850286" series_key="00000000066261000000">
+<programme start="20150804210000 -0300" stop="20150804214500 -0300" channel="TME" program_id="0000016557" event_id="000000107614640" series_key="00000000066261000000">
 <title lang="pt">Show Business</title>
 <desc>Um programa de entrevistas e informações, comandado por João Doria Jr. traz matérias voltadas para o debate econômico em âmbito empresarial.</desc>
 <category lang="pt">Jornalismo</category>
@@ -2324,7 +1956,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721214500 -0300" stop="20150721233000 -0300" channel="TME" program_id="0000207848" event_id="000000104850287" series_key="">
+<programme start="20150804214500 -0300" stop="20150804233000 -0300" channel="TME" program_id="0000207848" event_id="000000107614641" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>
@@ -2341,7 +1973,342 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721233000 -0300" stop="20150722000000 -0300" channel="TME" program_id="0000207848" event_id="000000104850288" series_key="">
+<programme start="20150804233000 -0300" stop="20150805000000 -0300" channel="TME" program_id="0000207848" event_id="000000107614642" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805000000 -0300" stop="20150805003000 -0300" channel="TME" program_id="0000281398" event_id="000000107614643" series_key="">
+<title lang="pt">Maloik</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000281398.jpg</image_name>
+<image_broadcast>0000281398</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805003000 -0300" stop="20150805130000 -0300" channel="TME" program_id="0000207848" event_id="000000107614644" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805130000 -0300" stop="20150805132000 -0300" channel="TME" program_id="0000126534" event_id="000000107614645" series_key="">
+<title lang="pt">TV+ Acontece</title>
+<title lang="en">TV+ Acontece</title>
+<desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000126534.jpg</image_name>
+<image_broadcast>0000126534</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805132000 -0300" stop="20150805190000 -0300" channel="TME" program_id="0000207848" event_id="000000107614646" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805190000 -0300" stop="20150805192000 -0300" channel="TME" program_id="0000126534" event_id="000000107614647" series_key="">
+<title lang="pt">TV+ Acontece</title>
+<title lang="en">TV+ Acontece</title>
+<desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000126534.jpg</image_name>
+<image_broadcast>0000126534</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805192000 -0300" stop="20150805233000 -0300" channel="TME" program_id="0000207848" event_id="000000107614648" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150805233000 -0300" stop="20150806000000 -0300" channel="TME" program_id="0000207848" event_id="000000107614649" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806000000 -0300" stop="20150806130000 -0300" channel="TME" program_id="0000207848" event_id="000000107614650" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806130000 -0300" stop="20150806132000 -0300" channel="TME" program_id="0000126534" event_id="000000107614651" series_key="">
+<title lang="pt">TV+ Acontece</title>
+<title lang="en">TV+ Acontece</title>
+<desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000126534.jpg</image_name>
+<image_broadcast>0000126534</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806132000 -0300" stop="20150806190000 -0300" channel="TME" program_id="0000207848" event_id="000000107614652" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806190000 -0300" stop="20150806192000 -0300" channel="TME" program_id="0000126534" event_id="000000107614653" series_key="">
+<title lang="pt">TV+ Acontece</title>
+<title lang="en">TV+ Acontece</title>
+<desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000126534.jpg</image_name>
+<image_broadcast>0000126534</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806192000 -0300" stop="20150806233000 -0300" channel="TME" program_id="0000207848" event_id="000000107614654" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150806233000 -0300" stop="20150807000000 -0300" channel="TME" program_id="0000207848" event_id="000000107614655" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807000000 -0300" stop="20150807130000 -0300" channel="TME" program_id="0000207848" event_id="000000107614656" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807130000 -0300" stop="20150807132000 -0300" channel="TME" program_id="0000126534" event_id="000000107614657" series_key="">
+<title lang="pt">TV+ Acontece</title>
+<title lang="en">TV+ Acontece</title>
+<desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000126534.jpg</image_name>
+<image_broadcast>0000126534</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807132000 -0300" stop="20150807190000 -0300" channel="TME" program_id="0000207848" event_id="000000107614658" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807190000 -0300" stop="20150807192000 -0300" channel="TME" program_id="0000126534" event_id="000000107614659" series_key="">
+<title lang="pt">TV+ Acontece</title>
+<title lang="en">TV+ Acontece</title>
+<desc>Uma galeria de apresentadores, atentos aos agitos mais importantes, mostra os eventos e festas mais badalados da região.</desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000126534.jpg</image_name>
+<image_broadcast>0000126534</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<country>Brasil</country>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807192000 -0300" stop="20150807233000 -0300" channel="TME" program_id="0000207848" event_id="000000107614660" series_key="">
+<title lang="pt">Programação de Ofertas</title>
+<desc></desc>
+<category lang="pt">Variedades</category>
+<category lang="pt">Diversos</category>
+<image>
+<image_name position="1">0000207848.jpg</image_name>
+<image_broadcast>0000207848</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150807233000 -0300" stop="20150808000000 -0300" channel="TME" program_id="0000207848" event_id="000000107614661" series_key="">
 <title lang="pt">Programação de Ofertas</title>
 <desc></desc>
 <category lang="pt">Variedades</category>

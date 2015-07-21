@@ -4,7 +4,7 @@
 <display-name lang="pt">PFC 9 - Mediaroom Vivo</display-name>
 <icon src="9a2.gif" />
 </channel>
-<programme start="20150703010000 -0300" stop="20150703040000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692902" series_key="">
+<programme start="20150720010000 -0300" stop="20150720040000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483749" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -21,7 +21,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703040000 -0300" stop="20150703070000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692903" series_key="">
+<programme start="20150720040000 -0300" stop="20150720070000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483750" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -38,7 +38,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703070000 -0300" stop="20150703100000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692904" series_key="">
+<programme start="20150720070000 -0300" stop="20150720100000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483751" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -55,7 +55,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703100000 -0300" stop="20150703130000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692905" series_key="">
+<programme start="20150720100000 -0300" stop="20150720130000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483752" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -72,7 +72,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703130000 -0300" stop="20150703160000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692906" series_key="">
+<programme start="20150720130000 -0300" stop="20150720160000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483753" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -89,7 +89,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703160000 -0300" stop="20150703183000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692907" series_key="">
+<programme start="20150720160000 -0300" stop="20150720190000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483754" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -106,77 +106,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703183000 -0300" stop="20150703213500 -0300" channel="9A2" program_id="0000155318" event_id="000000104692908" series_key="">
-<title lang="pt">Paraná x Criciúma</title>
-<title lang="en">Paraná x Criciúma</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000155318.jpg</image_name>
-<image_broadcast>0000155318</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150703213500 -0300" stop="20150703214500 -0300" channel="9A2" program_id="0000243091" event_id="000000104692909" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150703214500 -0300" stop="20150704003000 -0300" channel="9A2" program_id="0000449231" event_id="000000104692910" series_key="">
-<title lang="pt">Botafogo x Sampaio Corrêa</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000449231.jpg</image_name>
-<image_broadcast>0000449231</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704003000 -0300" stop="20150704011000 -0300" channel="9A2" program_id="0000243091" event_id="000000104692911" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704011000 -0300" stop="20150704133000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692912" series_key="">
+<programme start="20150720190000 -0300" stop="20150720220000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483755" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -193,94 +123,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704133000 -0300" stop="20150704144000 -0300" channel="9A2" program_id="0000448684" event_id="000000104692913" series_key="00000000073854000000">
-<title lang="pt">Nação Coxa Branca - Ep. 70</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">00000000073854.jpg</image_name>
-<image_broadcast>00000000073854</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704144000 -0300" stop="20150704173000 -0300" channel="9A2" program_id="0000448682" event_id="000000104692914" series_key="">
-<title lang="pt">Coritiba x Joinville</title>
-<title lang="en">Coritiba x Internacional</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000448682.jpg</image_name>
-<image_broadcast>0000448682</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704173000 -0300" stop="20150704193000 -0300" channel="9A2" program_id="0000243091" event_id="000000104692915" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704193000 -0300" stop="20150704204000 -0300" channel="9A2" program_id="0000448678" event_id="000000104692916" series_key="00000000076744000000">
-<title lang="pt">Vasco TV - Ep. 14</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">00000000076744.jpg</image_name>
-<image_broadcast>00000000076744</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704204000 -0300" stop="20150704233000 -0300" channel="9A2" program_id="0000449499" event_id="000000104692917" series_key="">
-<title lang="pt">Chapecoense x Vasco</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000449499.jpg</image_name>
-<image_broadcast>0000449499</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704233000 -0300" stop="20150705070000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692918" series_key="">
+<programme start="20150720220000 -0300" stop="20150721010000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483756" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -297,7 +140,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705070000 -0300" stop="20150705100000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692919" series_key="">
+<programme start="20150721010000 -0300" stop="20150721040000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483757" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -314,7 +157,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705100000 -0300" stop="20150705135000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692920" series_key="">
+<programme start="20150721040000 -0300" stop="20150721070000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483758" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -331,15 +174,15 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705135000 -0300" stop="20150705145000 -0300" channel="9A2" program_id="0000446644" event_id="000000104692921" series_key="00000000073862000000">
-<title lang="pt">FLU TV - Ep. 43</title>
-<desc></desc>
+<programme start="20150721070000 -0300" stop="20150721100000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483759" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Futebol</category>
 <image>
-<image_name position="1">00000000073862.jpg</image_name>
-<image_broadcast>00000000073862</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
 <colour>yes</colour>
@@ -348,7 +191,75 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705145000 -0300" stop="20150705150000 -0300" channel="9A2" program_id="0000243091" event_id="000000104692922" series_key="">
+<programme start="20150721100000 -0300" stop="20150721130000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483760" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150721130000 -0300" stop="20150721160000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483761" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150721160000 -0300" stop="20150721190000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483762" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150721190000 -0300" stop="20150721213000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483763" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150721213000 -0300" stop="20150722010000 -0300" channel="9A2" program_id="0000243091" event_id="000000107483764" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -365,35 +276,16 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705150000 -0300" stop="20150705154000 -0300" channel="9A2" program_id="0000448672" event_id="000000104692923" series_key="00000000073855000000">
-<title lang="pt">São Paulinos - Ep. 60</title>
-<desc></desc>
+<programme start="20150722010000 -0300" stop="20150722040000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483765" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Futebol</category>
 <image>
-<image_name position="1">00000000073855.jpg</image_name>
-<image_broadcast>00000000073855</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705154000 -0300" stop="20150705181000 -0300" channel="9A2" program_id="0000004036" event_id="000000104692924" series_key="">
-<title lang="pt">São Paulo x Fluminense</title>
-<title lang="en">São Paulo x Fluminense</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000004036.jpg</image_name>
-<image_broadcast>0000004036</image_broadcast>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
-<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -401,7 +293,364 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705181000 -0300" stop="20150705182000 -0300" channel="9A2" program_id="0000243091" event_id="000000104692925" series_key="">
+<programme start="20150722040000 -0300" stop="20150722070000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483766" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150722070000 -0300" stop="20150722100000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483767" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150722100000 -0300" stop="20150722130000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483768" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150722130000 -0300" stop="20150722160000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483769" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150722160000 -0300" stop="20150722190000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483770" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150722190000 -0300" stop="20150722220000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483771" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150722220000 -0300" stop="20150723010000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483772" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150723010000 -0300" stop="20150723040000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483773" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150723040000 -0300" stop="20150723070000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483774" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150723070000 -0300" stop="20150723100000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483775" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150723100000 -0300" stop="20150723130000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483776" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150723130000 -0300" stop="20150723160000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483777" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150723160000 -0300" stop="20150723190000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483778" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150723190000 -0300" stop="20150723220000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483779" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150723220000 -0300" stop="20150724010000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483780" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150724010000 -0300" stop="20150724040000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483781" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150724040000 -0300" stop="20150724070000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483782" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150724070000 -0300" stop="20150724100000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483783" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150724100000 -0300" stop="20150724130000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483784" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150724130000 -0300" stop="20150724160000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483785" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150724160000 -0300" stop="20150724183000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483786" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150724183000 -0300" stop="20150724200000 -0300" channel="9A2" program_id="0000243091" event_id="000000107483787" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -418,26 +667,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705182000 -0300" stop="20150705204000 -0300" channel="9A2" program_id="0000087943" event_id="000000104692926" series_key="">
-<title lang="pt">Ponte Preta x Palmeiras</title>
-<title lang="en">Ponte Preta x Palmeiras</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000087943.jpg</image_name>
-<image_broadcast>0000087943</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705204000 -0300" stop="20150705204500 -0300" channel="9A2" program_id="0000243091" event_id="000000104692927" series_key="">
+<programme start="20150724200000 -0300" stop="20150724233000 -0300" channel="9A2" program_id="0000243091" event_id="000000107483788" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -454,296 +684,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705204500 -0300" stop="20150705214500 -0300" channel="9A2" program_id="0000448671" event_id="000000104692928" series_key="00000000073863000000">
-<title lang="pt">Palmeiras na TV - Ep. 79</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">00000000073863.jpg</image_name>
-<image_broadcast>00000000073863</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705214500 -0300" stop="20150706010000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692929" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706010000 -0300" stop="20150706040000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692930" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706040000 -0300" stop="20150706070000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692931" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706070000 -0300" stop="20150706100000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692932" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706100000 -0300" stop="20150706130000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692933" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706130000 -0300" stop="20150706160000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692934" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706160000 -0300" stop="20150706190000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692935" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706190000 -0300" stop="20150706220000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692936" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150706220000 -0300" stop="20150707010000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692937" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707010000 -0300" stop="20150707040000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692938" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707040000 -0300" stop="20150707070000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692939" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707070000 -0300" stop="20150707100000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692940" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707100000 -0300" stop="20150707130000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692941" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707130000 -0300" stop="20150707160000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692942" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707160000 -0300" stop="20150707190000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692943" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707190000 -0300" stop="20150707213000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692944" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150707213000 -0300" stop="20150708010000 -0300" channel="9A2" program_id="0000243091" event_id="000000104692945" series_key="">
+<programme start="20150724233000 -0300" stop="20150725000000 -0300" channel="9A2" program_id="0000243091" event_id="000000107483789" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -760,381 +701,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708010000 -0300" stop="20150708040000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692946" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150708040000 -0300" stop="20150708070000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692947" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150708070000 -0300" stop="20150708100000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692948" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150708100000 -0300" stop="20150708130000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692949" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150708130000 -0300" stop="20150708160000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692950" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150708160000 -0300" stop="20150708190000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692952" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150708190000 -0300" stop="20150708220000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692954" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150708220000 -0300" stop="20150709010000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692956" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150709010000 -0300" stop="20150709040000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692958" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150709040000 -0300" stop="20150709070000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692960" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150709070000 -0300" stop="20150709100000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692962" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150709100000 -0300" stop="20150709130000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692964" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150709130000 -0300" stop="20150709160000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692966" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150709160000 -0300" stop="20150709190000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692968" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150709190000 -0300" stop="20150709220000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692970" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150709220000 -0300" stop="20150710010000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692971" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150710010000 -0300" stop="20150710040000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692973" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150710040000 -0300" stop="20150710070000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692975" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150710070000 -0300" stop="20150710100000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692977" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150710100000 -0300" stop="20150710130000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692979" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150710130000 -0300" stop="20150710160000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692981" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150710160000 -0300" stop="20150710183000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692984" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150710183000 -0300" stop="20150710200000 -0300" channel="9A2" program_id="0000243091" event_id="000000104692986" series_key="">
+<programme start="20150725000000 -0300" stop="20150725001000 -0300" channel="9A2" program_id="0000243091" event_id="000000107483790" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1151,7 +718,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710200000 -0300" stop="20150710233000 -0300" channel="9A2" program_id="0000243091" event_id="000000104692987" series_key="">
+<programme start="20150725001000 -0300" stop="20150725011000 -0300" channel="9A2" program_id="0000243091" event_id="000000107483791" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1168,7 +735,41 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710233000 -0300" stop="20150711000000 -0300" channel="9A2" program_id="0000243091" event_id="000000104692989" series_key="">
+<programme start="20150725011000 -0300" stop="20150725070000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483792" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150725070000 -0300" stop="20150725143000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483793" series_key="">
+<title lang="pt">Premiere 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
+<category lang="pt">Esporte</category>
+<category lang="pt">Futebol</category>
+<image>
+<image_name position="1">0000338764.jpg</image_name>
+<image_broadcast>0000338764</image_broadcast>
+<image_copyright>Image supplied by Broadcasters</image_copyright>
+</image>
+<video>
+<colour>yes</colour>
+</video>
+<rating system="Advisory">
+<value>Programa livre para todas as idades</value>
+</rating>
+</programme>
+<programme start="20150725143000 -0300" stop="20150725154000 -0300" channel="9A2" program_id="0000243091" event_id="000000107483794" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1185,7 +786,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711000000 -0300" stop="20150711001000 -0300" channel="9A2" program_id="0000243091" event_id="000000104692990" series_key="">
+<programme start="20150725154000 -0300" stop="20150725183000 -0300" channel="9A2" program_id="0000243091" event_id="000000107483795" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1202,7 +803,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711001000 -0300" stop="20150711011000 -0300" channel="9A2" program_id="0000243091" event_id="000000104692991" series_key="">
+<programme start="20150725183000 -0300" stop="20150725210000 -0300" channel="9A2" program_id="0000243091" event_id="000000107483796" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1219,7 +820,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711011000 -0300" stop="20150711070000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692992" series_key="">
+<programme start="20150725210000 -0300" stop="20150726010000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483797" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1236,7 +837,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711070000 -0300" stop="20150711143000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692993" series_key="">
+<programme start="20150726010000 -0300" stop="20150726040000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483798" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1253,58 +854,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711143000 -0300" stop="20150711154000 -0300" channel="9A2" program_id="0000243091" event_id="000000104692994" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150711154000 -0300" stop="20150711183000 -0300" channel="9A2" program_id="0000243091" event_id="000000104692995" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150711183000 -0300" stop="20150711210000 -0300" channel="9A2" program_id="0000243091" event_id="000000104692996" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150711210000 -0300" stop="20150712010000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692997" series_key="">
+<programme start="20150726040000 -0300" stop="20150726070000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483799" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1321,7 +871,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712010000 -0300" stop="20150712040000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692998" series_key="">
+<programme start="20150726070000 -0300" stop="20150726100000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483800" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1338,7 +888,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712040000 -0300" stop="20150712070000 -0300" channel="9A2" program_id="0000338764" event_id="000000104692999" series_key="">
+<programme start="20150726100000 -0300" stop="20150726135000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483801" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1355,41 +905,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712070000 -0300" stop="20150712100000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693000" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150712100000 -0300" stop="20150712135000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693001" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150712135000 -0300" stop="20150712145000 -0300" channel="9A2" program_id="0000243091" event_id="000000104693002" series_key="">
+<programme start="20150726135000 -0300" stop="20150726145000 -0300" channel="9A2" program_id="0000243091" event_id="000000107483802" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1406,7 +922,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712145000 -0300" stop="20150712150000 -0300" channel="9A2" program_id="0000243091" event_id="000000104693003" series_key="">
+<programme start="20150726145000 -0300" stop="20150726150000 -0300" channel="9A2" program_id="0000243091" event_id="000000107483803" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1423,7 +939,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712150000 -0300" stop="20150712154000 -0300" channel="9A2" program_id="0000243091" event_id="000000104693004" series_key="">
+<programme start="20150726150000 -0300" stop="20150726154000 -0300" channel="9A2" program_id="0000243091" event_id="000000107483804" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1440,7 +956,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712154000 -0300" stop="20150712181000 -0300" channel="9A2" program_id="0000243091" event_id="000000104693005" series_key="">
+<programme start="20150726154000 -0300" stop="20150726181000 -0300" channel="9A2" program_id="0000243091" event_id="000000107483805" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1457,7 +973,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712181000 -0300" stop="20150712182000 -0300" channel="9A2" program_id="0000243091" event_id="000000104693006" series_key="">
+<programme start="20150726181000 -0300" stop="20150726182000 -0300" channel="9A2" program_id="0000243091" event_id="000000107483806" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1474,7 +990,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712182000 -0300" stop="20150712204000 -0300" channel="9A2" program_id="0000243091" event_id="000000104693007" series_key="">
+<programme start="20150726182000 -0300" stop="20150726204000 -0300" channel="9A2" program_id="0000243091" event_id="000000107483807" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1491,7 +1007,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712204000 -0300" stop="20150712204500 -0300" channel="9A2" program_id="0000243091" event_id="000000104693008" series_key="">
+<programme start="20150726204000 -0300" stop="20150726204500 -0300" channel="9A2" program_id="0000243091" event_id="000000107483808" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1508,7 +1024,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712204500 -0300" stop="20150712214500 -0300" channel="9A2" program_id="0000243091" event_id="000000104693009" series_key="">
+<programme start="20150726204500 -0300" stop="20150726214500 -0300" channel="9A2" program_id="0000243091" event_id="000000107483809" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1525,7 +1041,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712214500 -0300" stop="20150713010000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693010" series_key="">
+<programme start="20150726214500 -0300" stop="20150727010000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483810" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1542,7 +1058,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713010000 -0300" stop="20150713040000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693011" series_key="">
+<programme start="20150727010000 -0300" stop="20150727040000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483811" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1559,7 +1075,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713040000 -0300" stop="20150713070000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693012" series_key="">
+<programme start="20150727040000 -0300" stop="20150727070000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483812" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1576,7 +1092,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713070000 -0300" stop="20150713100000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693013" series_key="">
+<programme start="20150727070000 -0300" stop="20150727100000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483813" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1593,7 +1109,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713100000 -0300" stop="20150713130000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693014" series_key="">
+<programme start="20150727100000 -0300" stop="20150727130000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483814" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1610,7 +1126,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713130000 -0300" stop="20150713160000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693015" series_key="">
+<programme start="20150727130000 -0300" stop="20150727160000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483815" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1627,7 +1143,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713160000 -0300" stop="20150713190000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693016" series_key="">
+<programme start="20150727160000 -0300" stop="20150727190000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483816" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1644,7 +1160,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713190000 -0300" stop="20150713220000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693017" series_key="">
+<programme start="20150727190000 -0300" stop="20150727220000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483817" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1661,7 +1177,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713220000 -0300" stop="20150714010000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693018" series_key="">
+<programme start="20150727220000 -0300" stop="20150728010000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483818" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1678,7 +1194,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714010000 -0300" stop="20150714040000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693019" series_key="">
+<programme start="20150728010000 -0300" stop="20150728040000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483819" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1695,7 +1211,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714040000 -0300" stop="20150714070000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693020" series_key="">
+<programme start="20150728040000 -0300" stop="20150728070000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483820" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1712,7 +1228,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714070000 -0300" stop="20150714100000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693021" series_key="">
+<programme start="20150728070000 -0300" stop="20150728100000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483821" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1729,7 +1245,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714100000 -0300" stop="20150714130000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693022" series_key="">
+<programme start="20150728100000 -0300" stop="20150728130000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483822" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1746,7 +1262,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714130000 -0300" stop="20150714160000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693023" series_key="">
+<programme start="20150728130000 -0300" stop="20150728160000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483823" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1763,7 +1279,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714160000 -0300" stop="20150714190000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693024" series_key="">
+<programme start="20150728160000 -0300" stop="20150728190000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483824" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1780,7 +1296,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714190000 -0300" stop="20150714213000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693025" series_key="">
+<programme start="20150728190000 -0300" stop="20150728213000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483825" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1797,7 +1313,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714213000 -0300" stop="20150715010000 -0300" channel="9A2" program_id="0000243091" event_id="000000104693026" series_key="">
+<programme start="20150728213000 -0300" stop="20150729010000 -0300" channel="9A2" program_id="0000243091" event_id="000000107483826" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1814,7 +1330,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715010000 -0300" stop="20150715040000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693027" series_key="">
+<programme start="20150729010000 -0300" stop="20150729040000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483827" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1831,7 +1347,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715040000 -0300" stop="20150715070000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693028" series_key="">
+<programme start="20150729040000 -0300" stop="20150729070000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483828" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1848,7 +1364,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715070000 -0300" stop="20150715100000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693029" series_key="">
+<programme start="20150729070000 -0300" stop="20150729100000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483829" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1865,7 +1381,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715100000 -0300" stop="20150715130000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693030" series_key="">
+<programme start="20150729100000 -0300" stop="20150729130000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483830" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1882,7 +1398,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715130000 -0300" stop="20150715160000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693031" series_key="">
+<programme start="20150729130000 -0300" stop="20150729160000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483831" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1899,7 +1415,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715160000 -0300" stop="20150715190000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693032" series_key="">
+<programme start="20150729160000 -0300" stop="20150729190000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483832" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1916,7 +1432,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715190000 -0300" stop="20150715220000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693033" series_key="">
+<programme start="20150729190000 -0300" stop="20150729220000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483833" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1933,7 +1449,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715220000 -0300" stop="20150716010000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693034" series_key="">
+<programme start="20150729220000 -0300" stop="20150730010000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483834" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1950,7 +1466,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716010000 -0300" stop="20150716040000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693035" series_key="">
+<programme start="20150730010000 -0300" stop="20150730040000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483835" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1967,7 +1483,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716040000 -0300" stop="20150716070000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693036" series_key="">
+<programme start="20150730040000 -0300" stop="20150730070000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483836" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1984,7 +1500,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716070000 -0300" stop="20150716100000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693037" series_key="">
+<programme start="20150730070000 -0300" stop="20150730100000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483837" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2001,7 +1517,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716100000 -0300" stop="20150716130000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693038" series_key="">
+<programme start="20150730100000 -0300" stop="20150730130000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483838" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2018,7 +1534,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716130000 -0300" stop="20150716160000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693039" series_key="">
+<programme start="20150730130000 -0300" stop="20150730160000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483839" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2035,7 +1551,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716160000 -0300" stop="20150716190000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693040" series_key="">
+<programme start="20150730160000 -0300" stop="20150730190000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483840" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2052,7 +1568,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716190000 -0300" stop="20150716220000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693041" series_key="">
+<programme start="20150730190000 -0300" stop="20150730220000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483841" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2069,7 +1585,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716220000 -0300" stop="20150717010000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693042" series_key="">
+<programme start="20150730220000 -0300" stop="20150731010000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483842" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2086,7 +1602,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717010000 -0300" stop="20150717040000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693043" series_key="">
+<programme start="20150731010000 -0300" stop="20150731040000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483843" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2103,7 +1619,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717040000 -0300" stop="20150717070000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693044" series_key="">
+<programme start="20150731040000 -0300" stop="20150731070000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483844" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2120,7 +1636,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717070000 -0300" stop="20150717100000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693045" series_key="">
+<programme start="20150731070000 -0300" stop="20150731100000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483845" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2137,7 +1653,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717100000 -0300" stop="20150717130000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693046" series_key="">
+<programme start="20150731100000 -0300" stop="20150731130000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483846" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2154,7 +1670,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717130000 -0300" stop="20150717160000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693047" series_key="">
+<programme start="20150731130000 -0300" stop="20150731160000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483847" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2171,7 +1687,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717160000 -0300" stop="20150717183000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693048" series_key="">
+<programme start="20150731160000 -0300" stop="20150731183000 -0300" channel="9A2" program_id="0000338764" event_id="000000107483848" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2188,7 +1704,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717183000 -0300" stop="20150717200000 -0300" channel="9A2" program_id="0000243091" event_id="000000104693049" series_key="">
+<programme start="20150731183000 -0300" stop="20150731200000 -0300" channel="9A2" program_id="0000243091" event_id="000000107483849" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2205,7 +1721,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717200000 -0300" stop="20150717233000 -0300" channel="9A2" program_id="0000243091" event_id="000000104693050" series_key="">
+<programme start="20150731200000 -0300" stop="20150731233000 -0300" channel="9A2" program_id="0000243091" event_id="000000107483850" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2222,636 +1738,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717233000 -0300" stop="20150718000000 -0300" channel="9A2" program_id="0000243091" event_id="000000104693051" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150718000000 -0300" stop="20150718001000 -0300" channel="9A2" program_id="0000243091" event_id="000000104693052" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150718001000 -0300" stop="20150718011000 -0300" channel="9A2" program_id="0000243091" event_id="000000104693053" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150718011000 -0300" stop="20150718070000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693054" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150718070000 -0300" stop="20150718143000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693055" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150718143000 -0300" stop="20150718154000 -0300" channel="9A2" program_id="0000243091" event_id="000000104693056" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150718154000 -0300" stop="20150718183000 -0300" channel="9A2" program_id="0000243091" event_id="000000104693057" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150718183000 -0300" stop="20150718210000 -0300" channel="9A2" program_id="0000243091" event_id="000000104693058" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150718210000 -0300" stop="20150719010000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693059" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150719010000 -0300" stop="20150719040000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693060" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150719040000 -0300" stop="20150719070000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693061" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150719070000 -0300" stop="20150719100000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693062" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150719100000 -0300" stop="20150719135000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693063" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150719135000 -0300" stop="20150719145000 -0300" channel="9A2" program_id="0000243091" event_id="000000104693064" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150719145000 -0300" stop="20150719150000 -0300" channel="9A2" program_id="0000243091" event_id="000000104693065" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150719150000 -0300" stop="20150719154000 -0300" channel="9A2" program_id="0000243091" event_id="000000104693066" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150719154000 -0300" stop="20150719181000 -0300" channel="9A2" program_id="0000243091" event_id="000000104693067" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150719181000 -0300" stop="20150719182000 -0300" channel="9A2" program_id="0000243091" event_id="000000104693068" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150719182000 -0300" stop="20150719204000 -0300" channel="9A2" program_id="0000243091" event_id="000000104693069" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150719204000 -0300" stop="20150719204500 -0300" channel="9A2" program_id="0000243091" event_id="000000104693070" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150719204500 -0300" stop="20150719214500 -0300" channel="9A2" program_id="0000243091" event_id="000000104693071" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000243091.jpg</image_name>
-<image_broadcast>0000243091</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150719214500 -0300" stop="20150720010000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693072" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150720010000 -0300" stop="20150720040000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693073" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150720040000 -0300" stop="20150720070000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693074" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150720070000 -0300" stop="20150720100000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693075" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150720100000 -0300" stop="20150720130000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693076" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150720130000 -0300" stop="20150720160000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693077" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150720160000 -0300" stop="20150720190000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693078" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150720190000 -0300" stop="20150720220000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693079" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150720220000 -0300" stop="20150721010000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693080" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150721010000 -0300" stop="20150721040000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693081" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150721040000 -0300" stop="20150721070000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693082" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150721070000 -0300" stop="20150721100000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693083" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150721100000 -0300" stop="20150721130000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693084" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150721130000 -0300" stop="20150721160000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693085" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150721160000 -0300" stop="20150721190000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693086" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150721190000 -0300" stop="20150721213000 -0300" channel="9A2" program_id="0000338764" event_id="000000104693087" series_key="">
-<title lang="pt">Premiere 2</title>
-<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000338764.jpg</image_name>
-<image_broadcast>0000338764</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150721213000 -0300" stop="20150722010000 -0300" channel="9A2" program_id="0000243091" event_id="000000104693088" series_key="">
+<programme start="20150731233000 -0300" stop="20150801000000 -0300" channel="9A2" program_id="0000243091" event_id="000000107483851" series_key="">
 <title lang="pt">Premiere 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>

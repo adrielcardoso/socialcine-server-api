@@ -4,7 +4,7 @@
 <display-name lang="pt">Premiere FC 1 GVT</display-name>
 <icon src="651.gif" />
 </channel>
-<programme start="20150703010000 -0300" stop="20150703040000 -0300" channel="651" program_id="0000286977" event_id="00000000000098537656" series_key="">
+<programme start="20150720010000 -0300" stop="20150720040000 -0300" channel="651" program_id="0000286977" event_id="000000107471489" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -21,7 +21,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703040000 -0300" stop="20150703070000 -0300" channel="651" program_id="0000286977" event_id="00000000000098537657" series_key="">
+<programme start="20150720040000 -0300" stop="20150720070000 -0300" channel="651" program_id="0000286977" event_id="000000107471490" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -38,7 +38,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703070000 -0300" stop="20150703100000 -0300" channel="651" program_id="0000286977" event_id="00000000000098537658" series_key="">
+<programme start="20150720070000 -0300" stop="20150720100000 -0300" channel="651" program_id="0000286977" event_id="000000107471491" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -55,7 +55,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703100000 -0300" stop="20150703130000 -0300" channel="651" program_id="0000286977" event_id="00000000000098537659" series_key="">
+<programme start="20150720100000 -0300" stop="20150720130000 -0300" channel="651" program_id="0000286977" event_id="000000107471492" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -72,7 +72,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703130000 -0300" stop="20150703160000 -0300" channel="651" program_id="0000286977" event_id="00000000000098537660" series_key="">
+<programme start="20150720130000 -0300" stop="20150720160000 -0300" channel="651" program_id="0000286977" event_id="000000107471493" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -89,7 +89,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703160000 -0300" stop="20150703192400 -0300" channel="651" program_id="0000286977" event_id="00000000000098537661" series_key="">
+<programme start="20150720160000 -0300" stop="20150720190000 -0300" channel="651" program_id="0000286977" event_id="000000107471494" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -106,33 +106,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703192400 -0300" stop="20150703214000 -0300" channel="651" program_id="0000449232" event_id="000000104676328" series_key="">
-<title lang="pt">VT - Fluminense x Santos</title>
-<title lang="en">VT - Fluminense x Santos</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000449232.jpg</image_name>
-<image_broadcast>0000449232</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150703214000 -0300" stop="20150703214400 -0300" channel="651" program_id="0000254663" event_id="000000104676329" series_key="">
+<programme start="20150720190000 -0300" stop="20150720220000 -0300" channel="651" program_id="0000286977" event_id="000000107471495" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000254663.jpg</image_name>
-<image_broadcast>0000254663</image_broadcast>
+<image_name position="1">0000286977.jpg</image_name>
+<image_broadcast>0000286977</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <video>
@@ -142,18 +123,16 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703214400 -0300" stop="20150704000000 -0300" channel="651" program_id="0000449232" event_id="000000104676330" series_key="">
-<title lang="pt">VT - Fluminense x Santos</title>
-<title lang="en">VT - Fluminense x Santos</title>
-<desc></desc>
+<programme start="20150720220000 -0300" stop="20150721010000 -0300" channel="651" program_id="0000286977" event_id="000000107471496" series_key="">
+<title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
+<desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000449232.jpg</image_name>
-<image_broadcast>0000449232</image_broadcast>
+<image_name position="1">0000286977.jpg</image_name>
+<image_broadcast>0000286977</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
-<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -161,7 +140,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704000000 -0300" stop="20150704040000 -0300" channel="651" program_id="0000286977" event_id="000000104676331" series_key="">
+<programme start="20150721010000 -0300" stop="20150721040000 -0300" channel="651" program_id="0000286977" event_id="000000107471497" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -178,7 +157,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704040000 -0300" stop="20150704070000 -0300" channel="651" program_id="0000286977" event_id="000000104676332" series_key="">
+<programme start="20150721040000 -0300" stop="20150721070000 -0300" channel="651" program_id="0000286977" event_id="000000107471498" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -195,7 +174,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704070000 -0300" stop="20150704100000 -0300" channel="651" program_id="0000286977" event_id="000000104676333" series_key="">
+<programme start="20150721070000 -0300" stop="20150721100000 -0300" channel="651" program_id="0000286977" event_id="000000107471499" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -212,7 +191,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704100000 -0300" stop="20150704130000 -0300" channel="651" program_id="0000286977" event_id="000000104676334" series_key="">
+<programme start="20150721100000 -0300" stop="20150721130000 -0300" channel="651" program_id="0000286977" event_id="000000107471500" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -229,7 +208,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704130000 -0300" stop="20150704160000 -0300" channel="651" program_id="0000286977" event_id="000000104676335" series_key="">
+<programme start="20150721130000 -0300" stop="20150721160000 -0300" channel="651" program_id="0000286977" event_id="000000107471501" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -246,7 +225,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704160000 -0300" stop="20150704205400 -0300" channel="651" program_id="0000286977" event_id="000000104676336" series_key="">
+<programme start="20150721160000 -0300" stop="20150721190000 -0300" channel="651" program_id="0000286977" event_id="000000107471502" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -263,18 +242,16 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704205400 -0300" stop="20150704231000 -0300" channel="651" program_id="0000449507" event_id="000000104676337" series_key="">
-<title lang="pt">VT - Corinthians x Ponte Preta</title>
-<title lang="en">VT - Corinthians x Ponte Preta</title>
-<desc></desc>
+<programme start="20150721190000 -0300" stop="20150721220000 -0300" channel="651" program_id="0000286977" event_id="000000107471503" series_key="">
+<title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
+<desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000449507.jpg</image_name>
-<image_broadcast>0000449507</image_broadcast>
+<image_name position="1">0000286977.jpg</image_name>
+<image_broadcast>0000286977</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
-<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -282,7 +259,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704231000 -0300" stop="20150705010000 -0300" channel="651" program_id="0000286977" event_id="000000104676338" series_key="">
+<programme start="20150721220000 -0300" stop="20150722010000 -0300" channel="651" program_id="0000286977" event_id="000000107471504" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -299,7 +276,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705010000 -0300" stop="20150705040000 -0300" channel="651" program_id="0000286977" event_id="000000104676339" series_key="">
+<programme start="20150722010000 -0300" stop="20150722040000 -0300" channel="651" program_id="0000286977" event_id="000000107471505" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -316,7 +293,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705040000 -0300" stop="20150705070000 -0300" channel="651" program_id="0000286977" event_id="000000104676340" series_key="">
+<programme start="20150722040000 -0300" stop="20150722070000 -0300" channel="651" program_id="0000286977" event_id="000000107471506" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -333,7 +310,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705070000 -0300" stop="20150705100000 -0300" channel="651" program_id="0000286977" event_id="000000104676341" series_key="">
+<programme start="20150722070000 -0300" stop="20150722100000 -0300" channel="651" program_id="0000286977" event_id="000000107471507" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -350,7 +327,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705100000 -0300" stop="20150705130000 -0300" channel="651" program_id="0000286977" event_id="000000104676342" series_key="">
+<programme start="20150722100000 -0300" stop="20150722130000 -0300" channel="651" program_id="0000286977" event_id="000000107471508" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -367,7 +344,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705130000 -0300" stop="20150705182400 -0300" channel="651" program_id="0000286977" event_id="000000104676343" series_key="">
+<programme start="20150722130000 -0300" stop="20150722160000 -0300" channel="651" program_id="0000286977" event_id="000000107471509" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -384,18 +361,16 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705182400 -0300" stop="20150705204000 -0300" channel="651" program_id="0000405655" event_id="000000104676344" series_key="">
-<title lang="pt">VT - São Paulo x Fluminense</title>
-<title lang="en">VT - São Paulo x Fluminense</title>
-<desc></desc>
+<programme start="20150722160000 -0300" stop="20150722190000 -0300" channel="651" program_id="0000286977" event_id="000000107471510" series_key="">
+<title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
+<desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000405655.jpg</image_name>
-<image_broadcast>0000405655</image_broadcast>
+<image_name position="1">0000286977.jpg</image_name>
+<image_broadcast>0000286977</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
-<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -403,7 +378,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705204000 -0300" stop="20150705220000 -0300" channel="651" program_id="0000286977" event_id="000000104676345" series_key="">
+<programme start="20150722190000 -0300" stop="20150722220000 -0300" channel="651" program_id="0000286977" event_id="000000107471511" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -420,7 +395,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705220000 -0300" stop="20150706010000 -0300" channel="651" program_id="0000286977" event_id="000000104676346" series_key="">
+<programme start="20150722220000 -0300" stop="20150723010000 -0300" channel="651" program_id="0000286977" event_id="000000107471512" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -437,7 +412,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706010000 -0300" stop="20150706040000 -0300" channel="651" program_id="0000286977" event_id="000000104676347" series_key="">
+<programme start="20150723010000 -0300" stop="20150723040000 -0300" channel="651" program_id="0000286977" event_id="000000107471513" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -454,7 +429,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706040000 -0300" stop="20150706070000 -0300" channel="651" program_id="0000286977" event_id="000000104676348" series_key="">
+<programme start="20150723040000 -0300" stop="20150723070000 -0300" channel="651" program_id="0000286977" event_id="000000107471514" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -471,7 +446,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706070000 -0300" stop="20150706100000 -0300" channel="651" program_id="0000286977" event_id="000000104676349" series_key="">
+<programme start="20150723070000 -0300" stop="20150723100000 -0300" channel="651" program_id="0000286977" event_id="000000107471515" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -488,7 +463,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706100000 -0300" stop="20150706130000 -0300" channel="651" program_id="0000286977" event_id="000000104676350" series_key="">
+<programme start="20150723100000 -0300" stop="20150723130000 -0300" channel="651" program_id="0000286977" event_id="000000107471516" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -505,7 +480,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706130000 -0300" stop="20150706160000 -0300" channel="651" program_id="0000286977" event_id="000000104676351" series_key="">
+<programme start="20150723130000 -0300" stop="20150723160000 -0300" channel="651" program_id="0000286977" event_id="000000107471517" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -522,7 +497,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706160000 -0300" stop="20150706190000 -0300" channel="651" program_id="0000286977" event_id="000000104676352" series_key="">
+<programme start="20150723160000 -0300" stop="20150723190000 -0300" channel="651" program_id="0000286977" event_id="000000107471518" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -539,7 +514,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706190000 -0300" stop="20150706220000 -0300" channel="651" program_id="0000286977" event_id="000000104676353" series_key="">
+<programme start="20150723190000 -0300" stop="20150723220000 -0300" channel="651" program_id="0000286977" event_id="000000107471519" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -556,7 +531,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706220000 -0300" stop="20150707010000 -0300" channel="651" program_id="0000286977" event_id="000000104676354" series_key="">
+<programme start="20150723220000 -0300" stop="20150724010000 -0300" channel="651" program_id="0000286977" event_id="000000107471520" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -573,7 +548,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707010000 -0300" stop="20150707040000 -0300" channel="651" program_id="0000286977" event_id="000000104676355" series_key="">
+<programme start="20150724010000 -0300" stop="20150724040000 -0300" channel="651" program_id="0000286977" event_id="000000107471521" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -590,7 +565,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707040000 -0300" stop="20150707070000 -0300" channel="651" program_id="0000286977" event_id="000000104676356" series_key="">
+<programme start="20150724040000 -0300" stop="20150724070000 -0300" channel="651" program_id="0000286977" event_id="000000107471522" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -607,7 +582,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707070000 -0300" stop="20150707100000 -0300" channel="651" program_id="0000286977" event_id="000000104676357" series_key="">
+<programme start="20150724070000 -0300" stop="20150724100000 -0300" channel="651" program_id="0000286977" event_id="000000107471523" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -624,7 +599,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707100000 -0300" stop="20150707130000 -0300" channel="651" program_id="0000286977" event_id="000000104676358" series_key="">
+<programme start="20150724100000 -0300" stop="20150724130000 -0300" channel="651" program_id="0000286977" event_id="000000107471524" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -641,7 +616,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707130000 -0300" stop="20150707160000 -0300" channel="651" program_id="0000286977" event_id="000000104676359" series_key="">
+<programme start="20150724130000 -0300" stop="20150724160000 -0300" channel="651" program_id="0000286977" event_id="000000107471525" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -658,7 +633,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707160000 -0300" stop="20150707190000 -0300" channel="651" program_id="0000286977" event_id="000000104676360" series_key="">
+<programme start="20150724160000 -0300" stop="20150724190000 -0300" channel="651" program_id="0000286977" event_id="000000107471526" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -675,7 +650,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707190000 -0300" stop="20150707220000 -0300" channel="651" program_id="0000286977" event_id="000000104676361" series_key="">
+<programme start="20150724190000 -0300" stop="20150724220000 -0300" channel="651" program_id="0000286977" event_id="000000107471527" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -692,7 +667,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707220000 -0300" stop="20150708010000 -0300" channel="651" program_id="0000286977" event_id="000000104676362" series_key="">
+<programme start="20150724220000 -0300" stop="20150725010000 -0300" channel="651" program_id="0000286977" event_id="000000107471528" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -709,7 +684,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708010000 -0300" stop="20150708040000 -0300" channel="651" program_id="0000286977" event_id="000000104676363" series_key="">
+<programme start="20150725010000 -0300" stop="20150725040000 -0300" channel="651" program_id="0000286977" event_id="000000107471529" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -726,7 +701,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708040000 -0300" stop="20150708070000 -0300" channel="651" program_id="0000286977" event_id="000000104676364" series_key="">
+<programme start="20150725040000 -0300" stop="20150725070000 -0300" channel="651" program_id="0000286977" event_id="000000107471530" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -743,7 +718,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708070000 -0300" stop="20150708100000 -0300" channel="651" program_id="0000286977" event_id="000000104676365" series_key="">
+<programme start="20150725070000 -0300" stop="20150725100000 -0300" channel="651" program_id="0000286977" event_id="000000107471531" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -760,7 +735,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708100000 -0300" stop="20150708130000 -0300" channel="651" program_id="0000286977" event_id="000000104676366" series_key="">
+<programme start="20150725100000 -0300" stop="20150725130000 -0300" channel="651" program_id="0000286977" event_id="000000107471532" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -777,7 +752,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708130000 -0300" stop="20150708160000 -0300" channel="651" program_id="0000286977" event_id="000000104676367" series_key="">
+<programme start="20150725130000 -0300" stop="20150725160000 -0300" channel="651" program_id="0000286977" event_id="000000107471533" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -794,7 +769,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708160000 -0300" stop="20150708190000 -0300" channel="651" program_id="0000286977" event_id="000000104676368" series_key="">
+<programme start="20150725160000 -0300" stop="20150725190000 -0300" channel="651" program_id="0000286977" event_id="000000107471534" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -811,7 +786,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708190000 -0300" stop="20150708220000 -0300" channel="651" program_id="0000286977" event_id="000000104676369" series_key="">
+<programme start="20150725190000 -0300" stop="20150725220000 -0300" channel="651" program_id="0000286977" event_id="000000107471535" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -828,7 +803,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708220000 -0300" stop="20150709010000 -0300" channel="651" program_id="0000286977" event_id="000000104676370" series_key="">
+<programme start="20150725220000 -0300" stop="20150726010000 -0300" channel="651" program_id="0000286977" event_id="000000107471536" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -845,7 +820,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709010000 -0300" stop="20150709040000 -0300" channel="651" program_id="0000286977" event_id="000000104676371" series_key="">
+<programme start="20150726010000 -0300" stop="20150726040000 -0300" channel="651" program_id="0000286977" event_id="000000107471537" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -862,7 +837,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709040000 -0300" stop="20150709070000 -0300" channel="651" program_id="0000286977" event_id="000000104676372" series_key="">
+<programme start="20150726040000 -0300" stop="20150726070000 -0300" channel="651" program_id="0000286977" event_id="000000107471538" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -879,7 +854,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709070000 -0300" stop="20150709100000 -0300" channel="651" program_id="0000286977" event_id="000000104676373" series_key="">
+<programme start="20150726070000 -0300" stop="20150726100000 -0300" channel="651" program_id="0000286977" event_id="000000107471539" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -896,7 +871,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709100000 -0300" stop="20150709130000 -0300" channel="651" program_id="0000286977" event_id="000000104676374" series_key="">
+<programme start="20150726100000 -0300" stop="20150726130000 -0300" channel="651" program_id="0000286977" event_id="000000107471540" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -913,7 +888,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709130000 -0300" stop="20150709160000 -0300" channel="651" program_id="0000286977" event_id="000000104676375" series_key="">
+<programme start="20150726130000 -0300" stop="20150726160000 -0300" channel="651" program_id="0000286977" event_id="000000107471541" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -930,7 +905,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709160000 -0300" stop="20150709190000 -0300" channel="651" program_id="0000286977" event_id="000000104676376" series_key="">
+<programme start="20150726160000 -0300" stop="20150726190000 -0300" channel="651" program_id="0000286977" event_id="000000107471542" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -947,7 +922,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709190000 -0300" stop="20150709220000 -0300" channel="651" program_id="0000286977" event_id="000000104676377" series_key="">
+<programme start="20150726190000 -0300" stop="20150726220000 -0300" channel="651" program_id="0000286977" event_id="000000107471543" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -964,7 +939,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709220000 -0300" stop="20150710010000 -0300" channel="651" program_id="0000286977" event_id="000000104676378" series_key="">
+<programme start="20150726220000 -0300" stop="20150727010000 -0300" channel="651" program_id="0000286977" event_id="000000107471544" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -981,7 +956,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710010000 -0300" stop="20150710040000 -0300" channel="651" program_id="0000286977" event_id="000000104676379" series_key="">
+<programme start="20150727010000 -0300" stop="20150727040000 -0300" channel="651" program_id="0000286977" event_id="000000107471545" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -998,7 +973,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710040000 -0300" stop="20150710070000 -0300" channel="651" program_id="0000286977" event_id="000000104676380" series_key="">
+<programme start="20150727040000 -0300" stop="20150727070000 -0300" channel="651" program_id="0000286977" event_id="000000107471546" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1015,7 +990,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710070000 -0300" stop="20150710100000 -0300" channel="651" program_id="0000286977" event_id="000000104676381" series_key="">
+<programme start="20150727070000 -0300" stop="20150727100000 -0300" channel="651" program_id="0000286977" event_id="000000107471547" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1032,7 +1007,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710100000 -0300" stop="20150710130000 -0300" channel="651" program_id="0000286977" event_id="000000104676382" series_key="">
+<programme start="20150727100000 -0300" stop="20150727130000 -0300" channel="651" program_id="0000286977" event_id="000000107471548" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1049,7 +1024,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710130000 -0300" stop="20150710160000 -0300" channel="651" program_id="0000286977" event_id="000000104676383" series_key="">
+<programme start="20150727130000 -0300" stop="20150727160000 -0300" channel="651" program_id="0000286977" event_id="000000107471549" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1066,7 +1041,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710160000 -0300" stop="20150710190000 -0300" channel="651" program_id="0000286977" event_id="000000104676384" series_key="">
+<programme start="20150727160000 -0300" stop="20150727190000 -0300" channel="651" program_id="0000286977" event_id="000000107471550" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1083,7 +1058,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710190000 -0300" stop="20150710220000 -0300" channel="651" program_id="0000286977" event_id="000000104676385" series_key="">
+<programme start="20150727190000 -0300" stop="20150727220000 -0300" channel="651" program_id="0000286977" event_id="000000107471551" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1100,7 +1075,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710220000 -0300" stop="20150711010000 -0300" channel="651" program_id="0000286977" event_id="000000104676386" series_key="">
+<programme start="20150727220000 -0300" stop="20150728010000 -0300" channel="651" program_id="0000286977" event_id="000000107471552" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1117,7 +1092,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711010000 -0300" stop="20150711040000 -0300" channel="651" program_id="0000286977" event_id="000000104676387" series_key="">
+<programme start="20150728010000 -0300" stop="20150728040000 -0300" channel="651" program_id="0000286977" event_id="000000107471553" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1134,7 +1109,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711040000 -0300" stop="20150711070000 -0300" channel="651" program_id="0000286977" event_id="000000104676388" series_key="">
+<programme start="20150728040000 -0300" stop="20150728070000 -0300" channel="651" program_id="0000286977" event_id="000000107471554" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1151,7 +1126,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711070000 -0300" stop="20150711100000 -0300" channel="651" program_id="0000286977" event_id="000000104676389" series_key="">
+<programme start="20150728070000 -0300" stop="20150728100000 -0300" channel="651" program_id="0000286977" event_id="000000107471555" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1168,7 +1143,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711100000 -0300" stop="20150711130000 -0300" channel="651" program_id="0000286977" event_id="000000104676390" series_key="">
+<programme start="20150728100000 -0300" stop="20150728130000 -0300" channel="651" program_id="0000286977" event_id="000000107471556" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1185,7 +1160,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711130000 -0300" stop="20150711160000 -0300" channel="651" program_id="0000286977" event_id="000000104676391" series_key="">
+<programme start="20150728130000 -0300" stop="20150728160000 -0300" channel="651" program_id="0000286977" event_id="000000107471557" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1202,7 +1177,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711160000 -0300" stop="20150711190000 -0300" channel="651" program_id="0000286977" event_id="000000104676392" series_key="">
+<programme start="20150728160000 -0300" stop="20150728190000 -0300" channel="651" program_id="0000286977" event_id="000000107471558" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1219,7 +1194,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711190000 -0300" stop="20150711220000 -0300" channel="651" program_id="0000286977" event_id="000000104676393" series_key="">
+<programme start="20150728190000 -0300" stop="20150728220000 -0300" channel="651" program_id="0000286977" event_id="000000107471559" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1236,7 +1211,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711220000 -0300" stop="20150712010000 -0300" channel="651" program_id="0000286977" event_id="000000104676394" series_key="">
+<programme start="20150728220000 -0300" stop="20150729010000 -0300" channel="651" program_id="0000286977" event_id="000000107471560" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1253,7 +1228,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712010000 -0300" stop="20150712040000 -0300" channel="651" program_id="0000286977" event_id="000000104676395" series_key="">
+<programme start="20150729010000 -0300" stop="20150729040000 -0300" channel="651" program_id="0000286977" event_id="000000107471561" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1270,7 +1245,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712040000 -0300" stop="20150712070000 -0300" channel="651" program_id="0000286977" event_id="000000104676396" series_key="">
+<programme start="20150729040000 -0300" stop="20150729070000 -0300" channel="651" program_id="0000286977" event_id="000000107471562" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1287,7 +1262,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712070000 -0300" stop="20150712100000 -0300" channel="651" program_id="0000286977" event_id="000000104676397" series_key="">
+<programme start="20150729070000 -0300" stop="20150729100000 -0300" channel="651" program_id="0000286977" event_id="000000107471563" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1304,7 +1279,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712100000 -0300" stop="20150712130000 -0300" channel="651" program_id="0000286977" event_id="000000104676398" series_key="">
+<programme start="20150729100000 -0300" stop="20150729130000 -0300" channel="651" program_id="0000286977" event_id="000000107471564" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1321,7 +1296,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712130000 -0300" stop="20150712160000 -0300" channel="651" program_id="0000286977" event_id="000000104676399" series_key="">
+<programme start="20150729130000 -0300" stop="20150729160000 -0300" channel="651" program_id="0000286977" event_id="000000107471565" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1338,7 +1313,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712160000 -0300" stop="20150712190000 -0300" channel="651" program_id="0000286977" event_id="000000104676400" series_key="">
+<programme start="20150729160000 -0300" stop="20150729190000 -0300" channel="651" program_id="0000286977" event_id="000000107471566" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1355,7 +1330,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712190000 -0300" stop="20150712220000 -0300" channel="651" program_id="0000286977" event_id="000000104676401" series_key="">
+<programme start="20150729190000 -0300" stop="20150729220000 -0300" channel="651" program_id="0000286977" event_id="000000107471567" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1372,7 +1347,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712220000 -0300" stop="20150713010000 -0300" channel="651" program_id="0000286977" event_id="000000104676402" series_key="">
+<programme start="20150729220000 -0300" stop="20150730010000 -0300" channel="651" program_id="0000286977" event_id="000000107471568" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1389,7 +1364,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713010000 -0300" stop="20150713040000 -0300" channel="651" program_id="0000286977" event_id="000000104676403" series_key="">
+<programme start="20150730010000 -0300" stop="20150730040000 -0300" channel="651" program_id="0000286977" event_id="000000107471569" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1406,7 +1381,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713040000 -0300" stop="20150713070000 -0300" channel="651" program_id="0000286977" event_id="000000104676404" series_key="">
+<programme start="20150730040000 -0300" stop="20150730070000 -0300" channel="651" program_id="0000286977" event_id="000000107471570" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1423,7 +1398,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713070000 -0300" stop="20150713100000 -0300" channel="651" program_id="0000286977" event_id="000000104676405" series_key="">
+<programme start="20150730070000 -0300" stop="20150730100000 -0300" channel="651" program_id="0000286977" event_id="000000107471571" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1440,7 +1415,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713100000 -0300" stop="20150713130000 -0300" channel="651" program_id="0000286977" event_id="000000104676406" series_key="">
+<programme start="20150730100000 -0300" stop="20150730130000 -0300" channel="651" program_id="0000286977" event_id="000000107471572" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1457,7 +1432,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713130000 -0300" stop="20150713160000 -0300" channel="651" program_id="0000286977" event_id="000000104676407" series_key="">
+<programme start="20150730130000 -0300" stop="20150730160000 -0300" channel="651" program_id="0000286977" event_id="000000107471573" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1474,7 +1449,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713160000 -0300" stop="20150713190000 -0300" channel="651" program_id="0000286977" event_id="000000104676408" series_key="">
+<programme start="20150730160000 -0300" stop="20150730190000 -0300" channel="651" program_id="0000286977" event_id="000000107471574" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1491,7 +1466,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713190000 -0300" stop="20150713220000 -0300" channel="651" program_id="0000286977" event_id="000000104676409" series_key="">
+<programme start="20150730190000 -0300" stop="20150730220000 -0300" channel="651" program_id="0000286977" event_id="000000107471575" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1508,7 +1483,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713220000 -0300" stop="20150714010000 -0300" channel="651" program_id="0000286977" event_id="000000104676410" series_key="">
+<programme start="20150730220000 -0300" stop="20150731010000 -0300" channel="651" program_id="0000286977" event_id="000000107471576" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1525,7 +1500,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714010000 -0300" stop="20150714040000 -0300" channel="651" program_id="0000286977" event_id="000000104676411" series_key="">
+<programme start="20150731010000 -0300" stop="20150731040000 -0300" channel="651" program_id="0000286977" event_id="000000107471577" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1542,7 +1517,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714040000 -0300" stop="20150714070000 -0300" channel="651" program_id="0000286977" event_id="000000104676412" series_key="">
+<programme start="20150731040000 -0300" stop="20150731070000 -0300" channel="651" program_id="0000286977" event_id="000000107471578" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1559,7 +1534,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714070000 -0300" stop="20150714100000 -0300" channel="651" program_id="0000286977" event_id="000000104676413" series_key="">
+<programme start="20150731070000 -0300" stop="20150731100000 -0300" channel="651" program_id="0000286977" event_id="000000107471579" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1576,7 +1551,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714100000 -0300" stop="20150714130000 -0300" channel="651" program_id="0000286977" event_id="000000104676414" series_key="">
+<programme start="20150731100000 -0300" stop="20150731130000 -0300" channel="651" program_id="0000286977" event_id="000000107471580" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1593,7 +1568,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714130000 -0300" stop="20150714160000 -0300" channel="651" program_id="0000286977" event_id="000000104676415" series_key="">
+<programme start="20150731130000 -0300" stop="20150731160000 -0300" channel="651" program_id="0000286977" event_id="000000107471581" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1610,7 +1585,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714160000 -0300" stop="20150714190000 -0300" channel="651" program_id="0000286977" event_id="000000104676416" series_key="">
+<programme start="20150731160000 -0300" stop="20150731190000 -0300" channel="651" program_id="0000286977" event_id="000000107471582" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1627,7 +1602,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714190000 -0300" stop="20150714220000 -0300" channel="651" program_id="0000286977" event_id="000000104676417" series_key="">
+<programme start="20150731190000 -0300" stop="20150731220000 -0300" channel="651" program_id="0000286977" event_id="000000107471583" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1644,7 +1619,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714220000 -0300" stop="20150715010000 -0300" channel="651" program_id="0000286977" event_id="000000104676418" series_key="">
+<programme start="20150731220000 -0300" stop="20150801010000 -0300" channel="651" program_id="0000286977" event_id="000000107471584" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1661,7 +1636,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715010000 -0300" stop="20150715040000 -0300" channel="651" program_id="0000286977" event_id="000000104676419" series_key="">
+<programme start="20150801010000 -0300" stop="20150801040000 -0300" channel="651" program_id="0000286977" event_id="000000107471585" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1678,7 +1653,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715040000 -0300" stop="20150715070000 -0300" channel="651" program_id="0000286977" event_id="000000104676420" series_key="">
+<programme start="20150801040000 -0300" stop="20150801070000 -0300" channel="651" program_id="0000286977" event_id="000000107471586" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1695,7 +1670,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715070000 -0300" stop="20150715100000 -0300" channel="651" program_id="0000286977" event_id="000000104676421" series_key="">
+<programme start="20150801070000 -0300" stop="20150801100000 -0300" channel="651" program_id="0000286977" event_id="000000107471587" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1712,7 +1687,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715100000 -0300" stop="20150715130000 -0300" channel="651" program_id="0000286977" event_id="000000104676422" series_key="">
+<programme start="20150801100000 -0300" stop="20150801130000 -0300" channel="651" program_id="0000286977" event_id="000000107471588" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1729,7 +1704,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715130000 -0300" stop="20150715160000 -0300" channel="651" program_id="0000286977" event_id="000000104676423" series_key="">
+<programme start="20150801130000 -0300" stop="20150801160000 -0300" channel="651" program_id="0000286977" event_id="000000107471589" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1746,7 +1721,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715160000 -0300" stop="20150715190000 -0300" channel="651" program_id="0000286977" event_id="000000104676424" series_key="">
+<programme start="20150801160000 -0300" stop="20150801190000 -0300" channel="651" program_id="0000286977" event_id="000000107471590" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1763,7 +1738,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715190000 -0300" stop="20150715220000 -0300" channel="651" program_id="0000286977" event_id="000000104676425" series_key="">
+<programme start="20150801190000 -0300" stop="20150801220000 -0300" channel="651" program_id="0000286977" event_id="000000107471591" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1780,7 +1755,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715220000 -0300" stop="20150716010000 -0300" channel="651" program_id="0000286977" event_id="000000104676426" series_key="">
+<programme start="20150801220000 -0300" stop="20150802010000 -0300" channel="651" program_id="0000286977" event_id="000000107471592" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1797,7 +1772,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716010000 -0300" stop="20150716040000 -0300" channel="651" program_id="0000286977" event_id="000000104676427" series_key="">
+<programme start="20150802010000 -0300" stop="20150802040000 -0300" channel="651" program_id="0000286977" event_id="000000107471593" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1814,7 +1789,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716040000 -0300" stop="20150716070000 -0300" channel="651" program_id="0000286977" event_id="000000104676428" series_key="">
+<programme start="20150802040000 -0300" stop="20150802070000 -0300" channel="651" program_id="0000286977" event_id="000000107471594" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1831,7 +1806,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716070000 -0300" stop="20150716100000 -0300" channel="651" program_id="0000286977" event_id="000000104676429" series_key="">
+<programme start="20150802070000 -0300" stop="20150802100000 -0300" channel="651" program_id="0000286977" event_id="000000107471595" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1848,7 +1823,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716100000 -0300" stop="20150716130000 -0300" channel="651" program_id="0000286977" event_id="000000104676430" series_key="">
+<programme start="20150802100000 -0300" stop="20150802130000 -0300" channel="651" program_id="0000286977" event_id="000000107471596" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1865,7 +1840,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716130000 -0300" stop="20150716160000 -0300" channel="651" program_id="0000286977" event_id="000000104676431" series_key="">
+<programme start="20150802130000 -0300" stop="20150802160000 -0300" channel="651" program_id="0000286977" event_id="000000107471597" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1882,7 +1857,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716160000 -0300" stop="20150716190000 -0300" channel="651" program_id="0000286977" event_id="000000104676432" series_key="">
+<programme start="20150802160000 -0300" stop="20150802190000 -0300" channel="651" program_id="0000286977" event_id="000000107471598" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1899,7 +1874,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716190000 -0300" stop="20150716220000 -0300" channel="651" program_id="0000286977" event_id="000000104676433" series_key="">
+<programme start="20150802190000 -0300" stop="20150802220000 -0300" channel="651" program_id="0000286977" event_id="000000107471599" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1916,7 +1891,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716220000 -0300" stop="20150717010000 -0300" channel="651" program_id="0000286977" event_id="000000104676434" series_key="">
+<programme start="20150802220000 -0300" stop="20150803010000 -0300" channel="651" program_id="0000286977" event_id="000000107471600" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1933,7 +1908,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717010000 -0300" stop="20150717040000 -0300" channel="651" program_id="0000286977" event_id="000000104676435" series_key="">
+<programme start="20150803010000 -0300" stop="20150803040000 -0300" channel="651" program_id="0000286977" event_id="000000107471601" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1950,7 +1925,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717040000 -0300" stop="20150717070000 -0300" channel="651" program_id="0000286977" event_id="000000104676436" series_key="">
+<programme start="20150803040000 -0300" stop="20150803070000 -0300" channel="651" program_id="0000286977" event_id="000000107471602" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1967,7 +1942,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717070000 -0300" stop="20150717100000 -0300" channel="651" program_id="0000286977" event_id="000000104676437" series_key="">
+<programme start="20150803070000 -0300" stop="20150803100000 -0300" channel="651" program_id="0000286977" event_id="000000107471603" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1984,7 +1959,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717100000 -0300" stop="20150717130000 -0300" channel="651" program_id="0000286977" event_id="000000104676438" series_key="">
+<programme start="20150803100000 -0300" stop="20150803130000 -0300" channel="651" program_id="0000286977" event_id="000000107471604" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2001,7 +1976,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717130000 -0300" stop="20150717160000 -0300" channel="651" program_id="0000286977" event_id="000000104676439" series_key="">
+<programme start="20150803130000 -0300" stop="20150803160000 -0300" channel="651" program_id="0000286977" event_id="000000107471605" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2018,7 +1993,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717160000 -0300" stop="20150717190000 -0300" channel="651" program_id="0000286977" event_id="000000104676440" series_key="">
+<programme start="20150803160000 -0300" stop="20150803190000 -0300" channel="651" program_id="0000286977" event_id="000000107471606" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2035,7 +2010,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717190000 -0300" stop="20150717220000 -0300" channel="651" program_id="0000286977" event_id="000000104676441" series_key="">
+<programme start="20150803190000 -0300" stop="20150803220000 -0300" channel="651" program_id="0000286977" event_id="000000107471607" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2052,7 +2027,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717220000 -0300" stop="20150718010000 -0300" channel="651" program_id="0000286977" event_id="000000104676442" series_key="">
+<programme start="20150803220000 -0300" stop="20150804010000 -0300" channel="651" program_id="0000286977" event_id="000000107471608" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2069,7 +2044,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718010000 -0300" stop="20150718040000 -0300" channel="651" program_id="0000286977" event_id="000000104676443" series_key="">
+<programme start="20150804010000 -0300" stop="20150804040000 -0300" channel="651" program_id="0000286977" event_id="000000107471609" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2086,7 +2061,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718040000 -0300" stop="20150718070000 -0300" channel="651" program_id="0000286977" event_id="000000104676444" series_key="">
+<programme start="20150804040000 -0300" stop="20150804070000 -0300" channel="651" program_id="0000286977" event_id="000000107471610" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2103,7 +2078,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718070000 -0300" stop="20150718100000 -0300" channel="651" program_id="0000286977" event_id="000000104676445" series_key="">
+<programme start="20150804070000 -0300" stop="20150804100000 -0300" channel="651" program_id="0000286977" event_id="000000107471611" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2120,7 +2095,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718100000 -0300" stop="20150718130000 -0300" channel="651" program_id="0000286977" event_id="000000104676446" series_key="">
+<programme start="20150804100000 -0300" stop="20150804130000 -0300" channel="651" program_id="0000286977" event_id="000000107471612" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2137,7 +2112,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718130000 -0300" stop="20150718160000 -0300" channel="651" program_id="0000286977" event_id="000000104676447" series_key="">
+<programme start="20150804130000 -0300" stop="20150804160000 -0300" channel="651" program_id="0000286977" event_id="000000107471613" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2154,7 +2129,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718160000 -0300" stop="20150718190000 -0300" channel="651" program_id="0000286977" event_id="000000104676448" series_key="">
+<programme start="20150804160000 -0300" stop="20150804190000 -0300" channel="651" program_id="0000286977" event_id="000000107471614" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2171,7 +2146,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718190000 -0300" stop="20150718220000 -0300" channel="651" program_id="0000286977" event_id="000000104676449" series_key="">
+<programme start="20150804190000 -0300" stop="20150804220000 -0300" channel="651" program_id="0000286977" event_id="000000107471615" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2188,7 +2163,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718220000 -0300" stop="20150719010000 -0300" channel="651" program_id="0000286977" event_id="000000104676450" series_key="">
+<programme start="20150804220000 -0300" stop="20150805010000 -0300" channel="651" program_id="0000286977" event_id="000000107471616" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2205,7 +2180,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719010000 -0300" stop="20150719040000 -0300" channel="651" program_id="0000286977" event_id="000000104676451" series_key="">
+<programme start="20150805010000 -0300" stop="20150805040000 -0300" channel="651" program_id="0000286977" event_id="000000107471617" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2222,7 +2197,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719040000 -0300" stop="20150719070000 -0300" channel="651" program_id="0000286977" event_id="000000104676452" series_key="">
+<programme start="20150805040000 -0300" stop="20150805070000 -0300" channel="651" program_id="0000286977" event_id="000000107471618" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2239,7 +2214,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719070000 -0300" stop="20150719100000 -0300" channel="651" program_id="0000286977" event_id="000000104676453" series_key="">
+<programme start="20150805070000 -0300" stop="20150805100000 -0300" channel="651" program_id="0000286977" event_id="000000107471619" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2256,7 +2231,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719100000 -0300" stop="20150719130000 -0300" channel="651" program_id="0000286977" event_id="000000104676454" series_key="">
+<programme start="20150805100000 -0300" stop="20150805130000 -0300" channel="651" program_id="0000286977" event_id="000000107471620" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2273,7 +2248,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719130000 -0300" stop="20150719160000 -0300" channel="651" program_id="0000286977" event_id="000000104676455" series_key="">
+<programme start="20150805130000 -0300" stop="20150805160000 -0300" channel="651" program_id="0000286977" event_id="000000107471621" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2290,7 +2265,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719160000 -0300" stop="20150719190000 -0300" channel="651" program_id="0000286977" event_id="000000104676456" series_key="">
+<programme start="20150805160000 -0300" stop="20150805190000 -0300" channel="651" program_id="0000286977" event_id="000000107471622" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2307,7 +2282,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719190000 -0300" stop="20150719220000 -0300" channel="651" program_id="0000286977" event_id="000000104676457" series_key="">
+<programme start="20150805190000 -0300" stop="20150805220000 -0300" channel="651" program_id="0000286977" event_id="000000107471623" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2324,7 +2299,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719220000 -0300" stop="20150720010000 -0300" channel="651" program_id="0000286977" event_id="000000104676458" series_key="">
+<programme start="20150805220000 -0300" stop="20150806010000 -0300" channel="651" program_id="0000286977" event_id="000000107471624" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2341,7 +2316,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720010000 -0300" stop="20150720040000 -0300" channel="651" program_id="0000286977" event_id="000000104676459" series_key="">
+<programme start="20150806010000 -0300" stop="20150806040000 -0300" channel="651" program_id="0000286977" event_id="000000107471625" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2358,7 +2333,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720040000 -0300" stop="20150720070000 -0300" channel="651" program_id="0000286977" event_id="000000104676460" series_key="">
+<programme start="20150806040000 -0300" stop="20150806070000 -0300" channel="651" program_id="0000286977" event_id="000000107471626" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2375,7 +2350,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720070000 -0300" stop="20150720100000 -0300" channel="651" program_id="0000286977" event_id="000000104676461" series_key="">
+<programme start="20150806070000 -0300" stop="20150806100000 -0300" channel="651" program_id="0000286977" event_id="000000107471627" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2392,7 +2367,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720100000 -0300" stop="20150720130000 -0300" channel="651" program_id="0000286977" event_id="000000104676462" series_key="">
+<programme start="20150806100000 -0300" stop="20150806130000 -0300" channel="651" program_id="0000286977" event_id="000000107471628" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2409,7 +2384,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720130000 -0300" stop="20150720160000 -0300" channel="651" program_id="0000286977" event_id="000000104676463" series_key="">
+<programme start="20150806130000 -0300" stop="20150806160000 -0300" channel="651" program_id="0000286977" event_id="000000107471629" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2426,7 +2401,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720160000 -0300" stop="20150720190000 -0300" channel="651" program_id="0000286977" event_id="000000104676464" series_key="">
+<programme start="20150806160000 -0300" stop="20150806190000 -0300" channel="651" program_id="0000286977" event_id="000000107471630" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2443,7 +2418,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720190000 -0300" stop="20150720220000 -0300" channel="651" program_id="0000286977" event_id="000000104676465" series_key="">
+<programme start="20150806190000 -0300" stop="20150806220000 -0300" channel="651" program_id="0000286977" event_id="000000107471631" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2460,7 +2435,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720220000 -0300" stop="20150721010000 -0300" channel="651" program_id="0000286977" event_id="000000104676466" series_key="">
+<programme start="20150806220000 -0300" stop="20150807010000 -0300" channel="651" program_id="0000286977" event_id="000000107471632" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2477,7 +2452,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721010000 -0300" stop="20150721040000 -0300" channel="651" program_id="0000286977" event_id="000000104676467" series_key="">
+<programme start="20150807010000 -0300" stop="20150807040000 -0300" channel="651" program_id="0000286977" event_id="000000107471633" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2494,7 +2469,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721040000 -0300" stop="20150721070000 -0300" channel="651" program_id="0000286977" event_id="000000104676468" series_key="">
+<programme start="20150807040000 -0300" stop="20150807070000 -0300" channel="651" program_id="0000286977" event_id="000000107471634" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2511,7 +2486,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721070000 -0300" stop="20150721100000 -0300" channel="651" program_id="0000286977" event_id="000000104676469" series_key="">
+<programme start="20150807070000 -0300" stop="20150807100000 -0300" channel="651" program_id="0000286977" event_id="000000107471635" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2528,7 +2503,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721100000 -0300" stop="20150721130000 -0300" channel="651" program_id="0000286977" event_id="000000104676470" series_key="">
+<programme start="20150807100000 -0300" stop="20150807130000 -0300" channel="651" program_id="0000286977" event_id="000000107471636" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2545,7 +2520,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721130000 -0300" stop="20150721160000 -0300" channel="651" program_id="0000286977" event_id="000000104676471" series_key="">
+<programme start="20150807130000 -0300" stop="20150807160000 -0300" channel="651" program_id="0000286977" event_id="000000107471637" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2562,7 +2537,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721160000 -0300" stop="20150721190000 -0300" channel="651" program_id="0000286977" event_id="000000104676472" series_key="">
+<programme start="20150807160000 -0300" stop="20150807190000 -0300" channel="651" program_id="0000286977" event_id="000000107471638" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2579,7 +2554,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721190000 -0300" stop="20150721220000 -0300" channel="651" program_id="0000286977" event_id="000000104676473" series_key="">
+<programme start="20150807190000 -0300" stop="20150807220000 -0300" channel="651" program_id="0000286977" event_id="000000107471639" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2596,7 +2571,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721220000 -0300" stop="20150722010000 -0300" channel="651" program_id="0000286977" event_id="000000104676474" series_key="">
+<programme start="20150807220000 -0300" stop="20150808010000 -0300" channel="651" program_id="0000286977" event_id="000000107471640" series_key="">
 <title lang="pt">Não é assinante Premiere? Ligue 106 25</title>
 <desc>Canal dedicado à transmissão de jogos dos Campeonatos Estaduais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>

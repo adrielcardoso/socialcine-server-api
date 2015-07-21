@@ -4,7 +4,7 @@
 <display-name lang="pt">PFC HD2 - VIVO FIBRA</display-name>
 <icon src="959.gif" />
 </channel>
-<programme start="20150703010000 -0300" stop="20150703040000 -0300" channel="959" program_id="0000323301" event_id="00000000000098548574" series_key="">
+<programme start="20150720010000 -0300" stop="20150720040000 -0300" channel="959" program_id="0000323301" event_id="000000107482813" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -22,7 +22,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703040000 -0300" stop="20150703070000 -0300" channel="959" program_id="0000323301" event_id="00000000000098548575" series_key="">
+<programme start="20150720040000 -0300" stop="20150720070000 -0300" channel="959" program_id="0000323301" event_id="000000107482814" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -40,7 +40,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703070000 -0300" stop="20150703100000 -0300" channel="959" program_id="0000323301" event_id="00000000000098548576" series_key="">
+<programme start="20150720070000 -0300" stop="20150720100000 -0300" channel="959" program_id="0000323301" event_id="000000107482815" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -58,7 +58,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703100000 -0300" stop="20150703130000 -0300" channel="959" program_id="0000323301" event_id="00000000000098548577" series_key="">
+<programme start="20150720100000 -0300" stop="20150720130000 -0300" channel="959" program_id="0000323301" event_id="000000107482816" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -76,7 +76,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703130000 -0300" stop="20150703160000 -0300" channel="959" program_id="0000323301" event_id="00000000000098548578" series_key="">
+<programme start="20150720130000 -0300" stop="20150720160000 -0300" channel="959" program_id="0000323301" event_id="000000107482817" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -94,7 +94,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703160000 -0300" stop="20150703183000 -0300" channel="959" program_id="0000323301" event_id="00000000000098548579" series_key="">
+<programme start="20150720160000 -0300" stop="20150720190000 -0300" channel="959" program_id="0000323301" event_id="000000107482818" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -112,15 +112,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703183000 -0300" stop="20150703213500 -0300" channel="959" program_id="0000155318" event_id="000000104691800" series_key="">
-<title lang="pt">Paraná x Criciúma</title>
-<title lang="en">Paraná x Criciúma</title>
-<desc></desc>
+<programme start="20150720190000 -0300" stop="20150720220000 -0300" channel="959" program_id="0000323301" event_id="000000107482819" series_key="">
+<title lang="pt">Premiere HD 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000155318.jpg</image_name>
-<image_broadcast>0000155318</image_broadcast>
+<image_name position="1">0000323301.jpg</image_name>
+<image_broadcast>0000323301</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <country>Brasil</country>
@@ -131,33 +130,17 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150703213500 -0300" stop="20150703214500 -0300" channel="959" program_id="0000288059" event_id="000000104691801" series_key="">
+<programme start="20150720220000 -0300" stop="20150721010000 -0300" channel="959" program_id="0000323301" event_id="000000107482820" series_key="">
 <title lang="pt">Premiere HD 2</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">0000288059.jpg</image_name>
-<image_broadcast>0000288059</image_broadcast>
-<image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150703214500 -0300" stop="20150704003000 -0300" channel="959" program_id="0000449231" event_id="000000104691802" series_key="">
-<title lang="pt">Botafogo x Sampaio Corrêa</title>
-<desc></desc>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000449231.jpg</image_name>
-<image_broadcast>0000449231</image_broadcast>
+<image_name position="1">0000323301.jpg</image_name>
+<image_broadcast>0000323301</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
+<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -165,7 +148,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704003000 -0300" stop="20150704040000 -0300" channel="959" program_id="0000323301" event_id="000000104691803" series_key="">
+<programme start="20150721010000 -0300" stop="20150721040000 -0300" channel="959" program_id="0000323301" event_id="000000107482821" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -183,7 +166,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704040000 -0300" stop="20150704070000 -0300" channel="959" program_id="0000323301" event_id="000000104691804" series_key="">
+<programme start="20150721040000 -0300" stop="20150721070000 -0300" channel="959" program_id="0000323301" event_id="000000107482822" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -201,7 +184,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704070000 -0300" stop="20150704133000 -0300" channel="959" program_id="0000323301" event_id="000000104691805" series_key="">
+<programme start="20150721070000 -0300" stop="20150721100000 -0300" channel="959" program_id="0000323301" event_id="000000107482823" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -212,23 +195,6 @@
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704133000 -0300" stop="20150704144000 -0300" channel="959" program_id="0000448684" event_id="000000104691806" series_key="00000000073854000000">
-<title lang="pt">Nação Coxa Branca - Ep. 70</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">00000000073854.jpg</image_name>
-<image_broadcast>00000000073854</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
 <video>
 <colour>yes</colour>
 </video>
@@ -236,15 +202,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704144000 -0300" stop="20150704173000 -0300" channel="959" program_id="0000448682" event_id="000000104691807" series_key="">
-<title lang="pt">Coritiba x Joinville</title>
-<title lang="en">Coritiba x Internacional</title>
-<desc></desc>
+<programme start="20150721100000 -0300" stop="20150721130000 -0300" channel="959" program_id="0000323301" event_id="000000107482824" series_key="">
+<title lang="pt">Premiere HD 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000448682.jpg</image_name>
-<image_broadcast>0000448682</image_broadcast>
+<image_name position="1">0000323301.jpg</image_name>
+<image_broadcast>0000323301</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <country>Brasil</country>
@@ -255,7 +220,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704173000 -0300" stop="20150704193000 -0300" channel="959" program_id="0000323301" event_id="000000104691808" series_key="">
+<programme start="20150721130000 -0300" stop="20150721160000 -0300" channel="959" program_id="0000323301" event_id="000000107482825" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -266,23 +231,6 @@
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150704193000 -0300" stop="20150704204000 -0300" channel="959" program_id="0000448678" event_id="000000104691809" series_key="00000000076744000000">
-<title lang="pt">Vasco TV - Ep. 14</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">00000000076744.jpg</image_name>
-<image_broadcast>00000000076744</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
 <video>
 <colour>yes</colour>
 </video>
@@ -290,16 +238,17 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704204000 -0300" stop="20150704233000 -0300" channel="959" program_id="0000449499" event_id="000000104691810" series_key="">
-<title lang="pt">Chapecoense x Vasco</title>
-<desc></desc>
+<programme start="20150721160000 -0300" stop="20150721190000 -0300" channel="959" program_id="0000323301" event_id="000000107482826" series_key="">
+<title lang="pt">Premiere HD 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000449499.jpg</image_name>
-<image_broadcast>0000449499</image_broadcast>
+<image_name position="1">0000323301.jpg</image_name>
+<image_broadcast>0000323301</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
+<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -307,7 +256,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150704233000 -0300" stop="20150705010000 -0300" channel="959" program_id="0000323301" event_id="000000104691811" series_key="">
+<programme start="20150721190000 -0300" stop="20150721220000 -0300" channel="959" program_id="0000323301" event_id="000000107482827" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -325,7 +274,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705010000 -0300" stop="20150705040000 -0300" channel="959" program_id="0000323301" event_id="000000104691812" series_key="">
+<programme start="20150721220000 -0300" stop="20150722010000 -0300" channel="959" program_id="0000323301" event_id="000000107482828" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -343,7 +292,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705040000 -0300" stop="20150705070000 -0300" channel="959" program_id="0000323301" event_id="000000104691813" series_key="">
+<programme start="20150722010000 -0300" stop="20150722040000 -0300" channel="959" program_id="0000323301" event_id="000000107482829" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -361,7 +310,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705070000 -0300" stop="20150705135000 -0300" channel="959" program_id="0000323301" event_id="000000104691814" series_key="">
+<programme start="20150722040000 -0300" stop="20150722070000 -0300" channel="959" program_id="0000323301" event_id="000000107482830" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -372,23 +321,6 @@
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705135000 -0300" stop="20150705145000 -0300" channel="959" program_id="0000446644" event_id="000000104691815" series_key="00000000073862000000">
-<title lang="pt">FLU TV - Ep. 43</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">00000000073862.jpg</image_name>
-<image_broadcast>00000000073862</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
 <video>
 <colour>yes</colour>
 </video>
@@ -396,33 +328,17 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705145000 -0300" stop="20150705150000 -0300" channel="959" program_id="0000288059" event_id="000000104691816" series_key="">
+<programme start="20150722070000 -0300" stop="20150722100000 -0300" channel="959" program_id="0000323301" event_id="000000107482831" series_key="">
 <title lang="pt">Premiere HD 2</title>
-<desc></desc>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000288059.jpg</image_name>
-<image_broadcast>0000288059</image_broadcast>
+<image_name position="1">0000323301.jpg</image_name>
+<image_broadcast>0000323301</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
-</image>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705150000 -0300" stop="20150705154000 -0300" channel="959" program_id="0000448672" event_id="000000104691817" series_key="00000000073855000000">
-<title lang="pt">São Paulinos - Ep. 60</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">00000000073855.jpg</image_name>
-<image_broadcast>00000000073855</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
 </image>
+<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -430,15 +346,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705154000 -0300" stop="20150705181000 -0300" channel="959" program_id="0000004036" event_id="000000104691818" series_key="">
-<title lang="pt">São Paulo x Fluminense</title>
-<title lang="en">São Paulo x Fluminense</title>
-<desc></desc>
+<programme start="20150722100000 -0300" stop="20150722130000 -0300" channel="959" program_id="0000323301" event_id="000000107482832" series_key="">
+<title lang="pt">Premiere HD 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000004036.jpg</image_name>
-<image_broadcast>0000004036</image_broadcast>
+<image_name position="1">0000323301.jpg</image_name>
+<image_broadcast>0000323301</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <country>Brasil</country>
@@ -449,16 +364,17 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705181000 -0300" stop="20150705182000 -0300" channel="959" program_id="0000288059" event_id="000000104691819" series_key="">
+<programme start="20150722130000 -0300" stop="20150722160000 -0300" channel="959" program_id="0000323301" event_id="000000107482833" series_key="">
 <title lang="pt">Premiere HD 2</title>
-<desc></desc>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000288059.jpg</image_name>
-<image_broadcast>0000288059</image_broadcast>
+<image_name position="1">0000323301.jpg</image_name>
+<image_broadcast>0000323301</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
+<country>Brasil</country>
 <video>
 <colour>yes</colour>
 </video>
@@ -466,15 +382,14 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705182000 -0300" stop="20150705204000 -0300" channel="959" program_id="0000087943" event_id="000000104691820" series_key="">
-<title lang="pt">Ponte Preta x Palmeiras</title>
-<title lang="en">Ponte Preta x Palmeiras</title>
-<desc></desc>
+<programme start="20150722160000 -0300" stop="20150722190000 -0300" channel="959" program_id="0000323301" event_id="000000107482834" series_key="">
+<title lang="pt">Premiere HD 2</title>
+<desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
 <category lang="pt">Futebol</category>
 <image>
-<image_name position="1">0000087943.jpg</image_name>
-<image_broadcast>0000087943</image_broadcast>
+<image_name position="1">0000323301.jpg</image_name>
+<image_broadcast>0000323301</image_broadcast>
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <country>Brasil</country>
@@ -485,7 +400,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705204000 -0300" stop="20150705204500 -0300" channel="959" program_id="0000323301" event_id="000000104691821" series_key="">
+<programme start="20150722190000 -0300" stop="20150722220000 -0300" channel="959" program_id="0000323301" event_id="000000107482835" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -496,23 +411,6 @@
 <image_copyright>Image supplied by Broadcasters</image_copyright>
 </image>
 <country>Brasil</country>
-<video>
-<colour>yes</colour>
-</video>
-<rating system="Advisory">
-<value>Programa livre para todas as idades</value>
-</rating>
-</programme>
-<programme start="20150705204500 -0300" stop="20150705214500 -0300" channel="959" program_id="0000448671" event_id="000000104691822" series_key="00000000073863000000">
-<title lang="pt">Palmeiras na TV - Ep. 79</title>
-<desc></desc>
-<category lang="pt">Esporte</category>
-<category lang="pt">Futebol</category>
-<image>
-<image_name position="1">00000000073863.jpg</image_name>
-<image_broadcast>00000000073863</image_broadcast>
-<image_copyright>Image supplied by Brocadcasters</image_copyright>
-</image>
 <video>
 <colour>yes</colour>
 </video>
@@ -520,7 +418,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150705214500 -0300" stop="20150706010000 -0300" channel="959" program_id="0000323301" event_id="000000104691823" series_key="">
+<programme start="20150722220000 -0300" stop="20150723010000 -0300" channel="959" program_id="0000323301" event_id="000000107482836" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -538,7 +436,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706010000 -0300" stop="20150706040000 -0300" channel="959" program_id="0000323301" event_id="000000104691824" series_key="">
+<programme start="20150723010000 -0300" stop="20150723040000 -0300" channel="959" program_id="0000323301" event_id="000000107482837" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -556,7 +454,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706040000 -0300" stop="20150706070000 -0300" channel="959" program_id="0000323301" event_id="000000104691825" series_key="">
+<programme start="20150723040000 -0300" stop="20150723070000 -0300" channel="959" program_id="0000323301" event_id="000000107482838" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -574,7 +472,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706070000 -0300" stop="20150706100000 -0300" channel="959" program_id="0000323301" event_id="000000104691826" series_key="">
+<programme start="20150723070000 -0300" stop="20150723100000 -0300" channel="959" program_id="0000323301" event_id="000000107482839" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -592,7 +490,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706100000 -0300" stop="20150706130000 -0300" channel="959" program_id="0000323301" event_id="000000104691827" series_key="">
+<programme start="20150723100000 -0300" stop="20150723130000 -0300" channel="959" program_id="0000323301" event_id="000000107482840" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -610,7 +508,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706130000 -0300" stop="20150706160000 -0300" channel="959" program_id="0000323301" event_id="000000104691828" series_key="">
+<programme start="20150723130000 -0300" stop="20150723160000 -0300" channel="959" program_id="0000323301" event_id="000000107482841" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -628,7 +526,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706160000 -0300" stop="20150706190000 -0300" channel="959" program_id="0000323301" event_id="000000104691829" series_key="">
+<programme start="20150723160000 -0300" stop="20150723190000 -0300" channel="959" program_id="0000323301" event_id="000000107482842" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -646,7 +544,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706190000 -0300" stop="20150706220000 -0300" channel="959" program_id="0000323301" event_id="000000104691830" series_key="">
+<programme start="20150723190000 -0300" stop="20150723220000 -0300" channel="959" program_id="0000323301" event_id="000000107482843" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -664,7 +562,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150706220000 -0300" stop="20150707010000 -0300" channel="959" program_id="0000323301" event_id="000000104691831" series_key="">
+<programme start="20150723220000 -0300" stop="20150724010000 -0300" channel="959" program_id="0000323301" event_id="000000107482844" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -682,7 +580,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707010000 -0300" stop="20150707040000 -0300" channel="959" program_id="0000323301" event_id="000000104691832" series_key="">
+<programme start="20150724010000 -0300" stop="20150724040000 -0300" channel="959" program_id="0000323301" event_id="000000107482845" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -700,7 +598,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707040000 -0300" stop="20150707070000 -0300" channel="959" program_id="0000323301" event_id="000000104691833" series_key="">
+<programme start="20150724040000 -0300" stop="20150724070000 -0300" channel="959" program_id="0000323301" event_id="000000107482846" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -718,7 +616,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707070000 -0300" stop="20150707100000 -0300" channel="959" program_id="0000323301" event_id="000000104691834" series_key="">
+<programme start="20150724070000 -0300" stop="20150724100000 -0300" channel="959" program_id="0000323301" event_id="000000107482847" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -736,7 +634,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707100000 -0300" stop="20150707130000 -0300" channel="959" program_id="0000323301" event_id="000000104691835" series_key="">
+<programme start="20150724100000 -0300" stop="20150724130000 -0300" channel="959" program_id="0000323301" event_id="000000107482848" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -754,7 +652,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707130000 -0300" stop="20150707160000 -0300" channel="959" program_id="0000323301" event_id="000000104691836" series_key="">
+<programme start="20150724130000 -0300" stop="20150724160000 -0300" channel="959" program_id="0000323301" event_id="000000107482849" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -772,7 +670,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707160000 -0300" stop="20150707190000 -0300" channel="959" program_id="0000323301" event_id="000000104691837" series_key="">
+<programme start="20150724160000 -0300" stop="20150724190000 -0300" channel="959" program_id="0000323301" event_id="000000107482850" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -790,7 +688,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707190000 -0300" stop="20150707220000 -0300" channel="959" program_id="0000323301" event_id="000000104691838" series_key="">
+<programme start="20150724190000 -0300" stop="20150724220000 -0300" channel="959" program_id="0000323301" event_id="000000107482851" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -808,7 +706,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150707220000 -0300" stop="20150708010000 -0300" channel="959" program_id="0000323301" event_id="000000104691839" series_key="">
+<programme start="20150724220000 -0300" stop="20150725010000 -0300" channel="959" program_id="0000323301" event_id="000000107482852" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -826,7 +724,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708010000 -0300" stop="20150708040000 -0300" channel="959" program_id="0000323301" event_id="000000104691840" series_key="">
+<programme start="20150725010000 -0300" stop="20150725040000 -0300" channel="959" program_id="0000323301" event_id="000000107482853" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -844,7 +742,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708040000 -0300" stop="20150708070000 -0300" channel="959" program_id="0000323301" event_id="000000104691841" series_key="">
+<programme start="20150725040000 -0300" stop="20150725070000 -0300" channel="959" program_id="0000323301" event_id="000000107482854" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -862,7 +760,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708070000 -0300" stop="20150708100000 -0300" channel="959" program_id="0000323301" event_id="000000104691842" series_key="">
+<programme start="20150725070000 -0300" stop="20150725100000 -0300" channel="959" program_id="0000323301" event_id="000000107482855" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -880,7 +778,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708100000 -0300" stop="20150708130000 -0300" channel="959" program_id="0000323301" event_id="000000104691843" series_key="">
+<programme start="20150725100000 -0300" stop="20150725130000 -0300" channel="959" program_id="0000323301" event_id="000000107482856" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -898,7 +796,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708130000 -0300" stop="20150708160000 -0300" channel="959" program_id="0000323301" event_id="000000104691844" series_key="">
+<programme start="20150725130000 -0300" stop="20150725160000 -0300" channel="959" program_id="0000323301" event_id="000000107482857" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -916,7 +814,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708160000 -0300" stop="20150708190000 -0300" channel="959" program_id="0000323301" event_id="000000104691845" series_key="">
+<programme start="20150725160000 -0300" stop="20150725190000 -0300" channel="959" program_id="0000323301" event_id="000000107482858" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -934,7 +832,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708190000 -0300" stop="20150708220000 -0300" channel="959" program_id="0000323301" event_id="000000104691846" series_key="">
+<programme start="20150725190000 -0300" stop="20150725220000 -0300" channel="959" program_id="0000323301" event_id="000000107482859" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -952,7 +850,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150708220000 -0300" stop="20150709010000 -0300" channel="959" program_id="0000323301" event_id="000000104691847" series_key="">
+<programme start="20150725220000 -0300" stop="20150726010000 -0300" channel="959" program_id="0000323301" event_id="000000107482860" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -970,7 +868,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709010000 -0300" stop="20150709040000 -0300" channel="959" program_id="0000323301" event_id="000000104691848" series_key="">
+<programme start="20150726010000 -0300" stop="20150726040000 -0300" channel="959" program_id="0000323301" event_id="000000107482861" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -988,7 +886,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709040000 -0300" stop="20150709070000 -0300" channel="959" program_id="0000323301" event_id="000000104691849" series_key="">
+<programme start="20150726040000 -0300" stop="20150726070000 -0300" channel="959" program_id="0000323301" event_id="000000107482862" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1006,7 +904,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709070000 -0300" stop="20150709100000 -0300" channel="959" program_id="0000323301" event_id="000000104691850" series_key="">
+<programme start="20150726070000 -0300" stop="20150726100000 -0300" channel="959" program_id="0000323301" event_id="000000107482863" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1024,7 +922,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709100000 -0300" stop="20150709130000 -0300" channel="959" program_id="0000323301" event_id="000000104691851" series_key="">
+<programme start="20150726100000 -0300" stop="20150726130000 -0300" channel="959" program_id="0000323301" event_id="000000107482864" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1042,7 +940,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709130000 -0300" stop="20150709160000 -0300" channel="959" program_id="0000323301" event_id="000000104691852" series_key="">
+<programme start="20150726130000 -0300" stop="20150726160000 -0300" channel="959" program_id="0000323301" event_id="000000107482865" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1060,7 +958,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709160000 -0300" stop="20150709190000 -0300" channel="959" program_id="0000323301" event_id="000000104691853" series_key="">
+<programme start="20150726160000 -0300" stop="20150726190000 -0300" channel="959" program_id="0000323301" event_id="000000107482866" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1078,7 +976,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709190000 -0300" stop="20150709220000 -0300" channel="959" program_id="0000323301" event_id="000000104691854" series_key="">
+<programme start="20150726190000 -0300" stop="20150726220000 -0300" channel="959" program_id="0000323301" event_id="000000107482867" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1096,7 +994,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150709220000 -0300" stop="20150710010000 -0300" channel="959" program_id="0000323301" event_id="000000104691855" series_key="">
+<programme start="20150726220000 -0300" stop="20150727010000 -0300" channel="959" program_id="0000323301" event_id="000000107482868" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1114,7 +1012,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710010000 -0300" stop="20150710040000 -0300" channel="959" program_id="0000323301" event_id="000000104691856" series_key="">
+<programme start="20150727010000 -0300" stop="20150727040000 -0300" channel="959" program_id="0000323301" event_id="000000107482869" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1132,7 +1030,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710040000 -0300" stop="20150710070000 -0300" channel="959" program_id="0000323301" event_id="000000104691857" series_key="">
+<programme start="20150727040000 -0300" stop="20150727070000 -0300" channel="959" program_id="0000323301" event_id="000000107482870" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1150,7 +1048,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710070000 -0300" stop="20150710100000 -0300" channel="959" program_id="0000323301" event_id="000000104691858" series_key="">
+<programme start="20150727070000 -0300" stop="20150727100000 -0300" channel="959" program_id="0000323301" event_id="000000107482871" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1168,7 +1066,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710100000 -0300" stop="20150710130000 -0300" channel="959" program_id="0000323301" event_id="000000104691859" series_key="">
+<programme start="20150727100000 -0300" stop="20150727130000 -0300" channel="959" program_id="0000323301" event_id="000000107482872" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1186,7 +1084,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710130000 -0300" stop="20150710160000 -0300" channel="959" program_id="0000323301" event_id="000000104691860" series_key="">
+<programme start="20150727130000 -0300" stop="20150727160000 -0300" channel="959" program_id="0000323301" event_id="000000107482873" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1204,7 +1102,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710160000 -0300" stop="20150710190000 -0300" channel="959" program_id="0000323301" event_id="000000104691861" series_key="">
+<programme start="20150727160000 -0300" stop="20150727190000 -0300" channel="959" program_id="0000323301" event_id="000000107482874" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1222,7 +1120,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710190000 -0300" stop="20150710220000 -0300" channel="959" program_id="0000323301" event_id="000000104691862" series_key="">
+<programme start="20150727190000 -0300" stop="20150727220000 -0300" channel="959" program_id="0000323301" event_id="000000107482875" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1240,7 +1138,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150710220000 -0300" stop="20150711010000 -0300" channel="959" program_id="0000323301" event_id="000000104691863" series_key="">
+<programme start="20150727220000 -0300" stop="20150728010000 -0300" channel="959" program_id="0000323301" event_id="000000107482876" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1258,7 +1156,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711010000 -0300" stop="20150711040000 -0300" channel="959" program_id="0000323301" event_id="000000104691864" series_key="">
+<programme start="20150728010000 -0300" stop="20150728040000 -0300" channel="959" program_id="0000323301" event_id="000000107482877" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1276,7 +1174,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711040000 -0300" stop="20150711070000 -0300" channel="959" program_id="0000323301" event_id="000000104691865" series_key="">
+<programme start="20150728040000 -0300" stop="20150728070000 -0300" channel="959" program_id="0000323301" event_id="000000107482878" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1294,7 +1192,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711070000 -0300" stop="20150711100000 -0300" channel="959" program_id="0000323301" event_id="000000104691866" series_key="">
+<programme start="20150728070000 -0300" stop="20150728100000 -0300" channel="959" program_id="0000323301" event_id="000000107482879" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1312,7 +1210,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711100000 -0300" stop="20150711130000 -0300" channel="959" program_id="0000323301" event_id="000000104691867" series_key="">
+<programme start="20150728100000 -0300" stop="20150728130000 -0300" channel="959" program_id="0000323301" event_id="000000107482880" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1330,7 +1228,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711130000 -0300" stop="20150711160000 -0300" channel="959" program_id="0000323301" event_id="000000104691868" series_key="">
+<programme start="20150728130000 -0300" stop="20150728160000 -0300" channel="959" program_id="0000323301" event_id="000000107482881" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1348,7 +1246,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711160000 -0300" stop="20150711190000 -0300" channel="959" program_id="0000323301" event_id="000000104691869" series_key="">
+<programme start="20150728160000 -0300" stop="20150728190000 -0300" channel="959" program_id="0000323301" event_id="000000107482882" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1366,7 +1264,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711190000 -0300" stop="20150711220000 -0300" channel="959" program_id="0000323301" event_id="000000104691870" series_key="">
+<programme start="20150728190000 -0300" stop="20150728220000 -0300" channel="959" program_id="0000323301" event_id="000000107482883" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1384,7 +1282,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150711220000 -0300" stop="20150712010000 -0300" channel="959" program_id="0000323301" event_id="000000104691871" series_key="">
+<programme start="20150728220000 -0300" stop="20150729010000 -0300" channel="959" program_id="0000323301" event_id="000000107482884" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1402,7 +1300,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712010000 -0300" stop="20150712040000 -0300" channel="959" program_id="0000323301" event_id="000000104691872" series_key="">
+<programme start="20150729010000 -0300" stop="20150729040000 -0300" channel="959" program_id="0000323301" event_id="000000107482885" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1420,7 +1318,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712040000 -0300" stop="20150712070000 -0300" channel="959" program_id="0000323301" event_id="000000104691873" series_key="">
+<programme start="20150729040000 -0300" stop="20150729070000 -0300" channel="959" program_id="0000323301" event_id="000000107482886" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1438,7 +1336,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712070000 -0300" stop="20150712100000 -0300" channel="959" program_id="0000323301" event_id="000000104691874" series_key="">
+<programme start="20150729070000 -0300" stop="20150729100000 -0300" channel="959" program_id="0000323301" event_id="000000107482887" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1456,7 +1354,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712100000 -0300" stop="20150712130000 -0300" channel="959" program_id="0000323301" event_id="000000104691875" series_key="">
+<programme start="20150729100000 -0300" stop="20150729130000 -0300" channel="959" program_id="0000323301" event_id="000000107482888" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1474,7 +1372,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712130000 -0300" stop="20150712160000 -0300" channel="959" program_id="0000323301" event_id="000000104691876" series_key="">
+<programme start="20150729130000 -0300" stop="20150729160000 -0300" channel="959" program_id="0000323301" event_id="000000107482889" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1492,7 +1390,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712160000 -0300" stop="20150712190000 -0300" channel="959" program_id="0000323301" event_id="000000104691877" series_key="">
+<programme start="20150729160000 -0300" stop="20150729190000 -0300" channel="959" program_id="0000323301" event_id="000000107482890" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1510,7 +1408,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712190000 -0300" stop="20150712220000 -0300" channel="959" program_id="0000323301" event_id="000000104691878" series_key="">
+<programme start="20150729190000 -0300" stop="20150729220000 -0300" channel="959" program_id="0000323301" event_id="000000107482891" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1528,7 +1426,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150712220000 -0300" stop="20150713010000 -0300" channel="959" program_id="0000323301" event_id="000000104691879" series_key="">
+<programme start="20150729220000 -0300" stop="20150730010000 -0300" channel="959" program_id="0000323301" event_id="000000107482892" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1546,7 +1444,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713010000 -0300" stop="20150713040000 -0300" channel="959" program_id="0000323301" event_id="000000104691880" series_key="">
+<programme start="20150730010000 -0300" stop="20150730040000 -0300" channel="959" program_id="0000323301" event_id="000000107482893" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1564,7 +1462,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713040000 -0300" stop="20150713070000 -0300" channel="959" program_id="0000323301" event_id="000000104691881" series_key="">
+<programme start="20150730040000 -0300" stop="20150730070000 -0300" channel="959" program_id="0000323301" event_id="000000107482894" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1582,7 +1480,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713070000 -0300" stop="20150713100000 -0300" channel="959" program_id="0000323301" event_id="000000104691882" series_key="">
+<programme start="20150730070000 -0300" stop="20150730100000 -0300" channel="959" program_id="0000323301" event_id="000000107482895" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1600,7 +1498,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713100000 -0300" stop="20150713130000 -0300" channel="959" program_id="0000323301" event_id="000000104691883" series_key="">
+<programme start="20150730100000 -0300" stop="20150730130000 -0300" channel="959" program_id="0000323301" event_id="000000107482896" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1618,7 +1516,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713130000 -0300" stop="20150713160000 -0300" channel="959" program_id="0000323301" event_id="000000104691884" series_key="">
+<programme start="20150730130000 -0300" stop="20150730160000 -0300" channel="959" program_id="0000323301" event_id="000000107482897" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1636,7 +1534,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713160000 -0300" stop="20150713190000 -0300" channel="959" program_id="0000323301" event_id="000000104691885" series_key="">
+<programme start="20150730160000 -0300" stop="20150730190000 -0300" channel="959" program_id="0000323301" event_id="000000107482898" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1654,7 +1552,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713190000 -0300" stop="20150713220000 -0300" channel="959" program_id="0000323301" event_id="000000104691886" series_key="">
+<programme start="20150730190000 -0300" stop="20150730220000 -0300" channel="959" program_id="0000323301" event_id="000000107482899" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1672,7 +1570,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150713220000 -0300" stop="20150714010000 -0300" channel="959" program_id="0000323301" event_id="000000104691887" series_key="">
+<programme start="20150730220000 -0300" stop="20150731010000 -0300" channel="959" program_id="0000323301" event_id="000000107482900" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1690,7 +1588,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714010000 -0300" stop="20150714040000 -0300" channel="959" program_id="0000323301" event_id="000000104691888" series_key="">
+<programme start="20150731010000 -0300" stop="20150731040000 -0300" channel="959" program_id="0000323301" event_id="000000107482901" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1708,7 +1606,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714040000 -0300" stop="20150714070000 -0300" channel="959" program_id="0000323301" event_id="000000104691889" series_key="">
+<programme start="20150731040000 -0300" stop="20150731070000 -0300" channel="959" program_id="0000323301" event_id="000000107482902" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1726,7 +1624,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714070000 -0300" stop="20150714100000 -0300" channel="959" program_id="0000323301" event_id="000000104691890" series_key="">
+<programme start="20150731070000 -0300" stop="20150731100000 -0300" channel="959" program_id="0000323301" event_id="000000107482903" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1744,7 +1642,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714100000 -0300" stop="20150714130000 -0300" channel="959" program_id="0000323301" event_id="000000104691891" series_key="">
+<programme start="20150731100000 -0300" stop="20150731130000 -0300" channel="959" program_id="0000323301" event_id="000000107482904" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1762,7 +1660,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714130000 -0300" stop="20150714160000 -0300" channel="959" program_id="0000323301" event_id="000000104691892" series_key="">
+<programme start="20150731130000 -0300" stop="20150731160000 -0300" channel="959" program_id="0000323301" event_id="000000107482905" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1780,7 +1678,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714160000 -0300" stop="20150714190000 -0300" channel="959" program_id="0000323301" event_id="000000104691893" series_key="">
+<programme start="20150731160000 -0300" stop="20150731190000 -0300" channel="959" program_id="0000323301" event_id="000000107482906" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1798,7 +1696,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714190000 -0300" stop="20150714220000 -0300" channel="959" program_id="0000323301" event_id="000000104691894" series_key="">
+<programme start="20150731190000 -0300" stop="20150731220000 -0300" channel="959" program_id="0000323301" event_id="000000107482907" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1816,7 +1714,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150714220000 -0300" stop="20150715010000 -0300" channel="959" program_id="0000323301" event_id="000000104691895" series_key="">
+<programme start="20150731220000 -0300" stop="20150801010000 -0300" channel="959" program_id="0000323301" event_id="000000107482908" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1834,7 +1732,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715010000 -0300" stop="20150715040000 -0300" channel="959" program_id="0000323301" event_id="000000104691896" series_key="">
+<programme start="20150801010000 -0300" stop="20150801040000 -0300" channel="959" program_id="0000323301" event_id="000000107482909" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1852,7 +1750,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715040000 -0300" stop="20150715070000 -0300" channel="959" program_id="0000323301" event_id="000000104691897" series_key="">
+<programme start="20150801040000 -0300" stop="20150801070000 -0300" channel="959" program_id="0000323301" event_id="000000107482910" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1870,7 +1768,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715070000 -0300" stop="20150715100000 -0300" channel="959" program_id="0000323301" event_id="000000104691898" series_key="">
+<programme start="20150801070000 -0300" stop="20150801100000 -0300" channel="959" program_id="0000323301" event_id="000000107482911" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1888,7 +1786,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715100000 -0300" stop="20150715130000 -0300" channel="959" program_id="0000323301" event_id="000000104691899" series_key="">
+<programme start="20150801100000 -0300" stop="20150801130000 -0300" channel="959" program_id="0000323301" event_id="000000107482912" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1906,7 +1804,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715130000 -0300" stop="20150715160000 -0300" channel="959" program_id="0000323301" event_id="000000104691900" series_key="">
+<programme start="20150801130000 -0300" stop="20150801160000 -0300" channel="959" program_id="0000323301" event_id="000000107482913" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1924,7 +1822,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715160000 -0300" stop="20150715190000 -0300" channel="959" program_id="0000323301" event_id="000000104691901" series_key="">
+<programme start="20150801160000 -0300" stop="20150801190000 -0300" channel="959" program_id="0000323301" event_id="000000107482914" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1942,7 +1840,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715190000 -0300" stop="20150715220000 -0300" channel="959" program_id="0000323301" event_id="000000104691902" series_key="">
+<programme start="20150801190000 -0300" stop="20150801220000 -0300" channel="959" program_id="0000323301" event_id="000000107482915" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1960,7 +1858,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150715220000 -0300" stop="20150716010000 -0300" channel="959" program_id="0000323301" event_id="000000104691903" series_key="">
+<programme start="20150801220000 -0300" stop="20150802010000 -0300" channel="959" program_id="0000323301" event_id="000000107482916" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1978,7 +1876,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716010000 -0300" stop="20150716040000 -0300" channel="959" program_id="0000323301" event_id="000000104691904" series_key="">
+<programme start="20150802010000 -0300" stop="20150802040000 -0300" channel="959" program_id="0000323301" event_id="000000107482917" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -1996,7 +1894,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716040000 -0300" stop="20150716070000 -0300" channel="959" program_id="0000323301" event_id="000000104691905" series_key="">
+<programme start="20150802040000 -0300" stop="20150802070000 -0300" channel="959" program_id="0000323301" event_id="000000107482918" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2014,7 +1912,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716070000 -0300" stop="20150716100000 -0300" channel="959" program_id="0000323301" event_id="000000104691906" series_key="">
+<programme start="20150802070000 -0300" stop="20150802100000 -0300" channel="959" program_id="0000323301" event_id="000000107482919" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2032,7 +1930,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716100000 -0300" stop="20150716130000 -0300" channel="959" program_id="0000323301" event_id="000000104691907" series_key="">
+<programme start="20150802100000 -0300" stop="20150802130000 -0300" channel="959" program_id="0000323301" event_id="000000107482920" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2050,7 +1948,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716130000 -0300" stop="20150716160000 -0300" channel="959" program_id="0000323301" event_id="000000104691908" series_key="">
+<programme start="20150802130000 -0300" stop="20150802160000 -0300" channel="959" program_id="0000323301" event_id="000000107482921" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2068,7 +1966,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716160000 -0300" stop="20150716190000 -0300" channel="959" program_id="0000323301" event_id="000000104691909" series_key="">
+<programme start="20150802160000 -0300" stop="20150802190000 -0300" channel="959" program_id="0000323301" event_id="000000107482922" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2086,7 +1984,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716190000 -0300" stop="20150716220000 -0300" channel="959" program_id="0000323301" event_id="000000104691910" series_key="">
+<programme start="20150802190000 -0300" stop="20150802220000 -0300" channel="959" program_id="0000323301" event_id="000000107482923" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2104,7 +2002,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150716220000 -0300" stop="20150717010000 -0300" channel="959" program_id="0000323301" event_id="000000104691911" series_key="">
+<programme start="20150802220000 -0300" stop="20150803010000 -0300" channel="959" program_id="0000323301" event_id="000000107482924" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2122,7 +2020,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717010000 -0300" stop="20150717040000 -0300" channel="959" program_id="0000323301" event_id="000000104691912" series_key="">
+<programme start="20150803010000 -0300" stop="20150803040000 -0300" channel="959" program_id="0000323301" event_id="000000107482925" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2140,7 +2038,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717040000 -0300" stop="20150717070000 -0300" channel="959" program_id="0000323301" event_id="000000104691913" series_key="">
+<programme start="20150803040000 -0300" stop="20150803070000 -0300" channel="959" program_id="0000323301" event_id="000000107482926" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2158,7 +2056,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717070000 -0300" stop="20150717100000 -0300" channel="959" program_id="0000323301" event_id="000000104691914" series_key="">
+<programme start="20150803070000 -0300" stop="20150803100000 -0300" channel="959" program_id="0000323301" event_id="000000107482927" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2176,7 +2074,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717100000 -0300" stop="20150717130000 -0300" channel="959" program_id="0000323301" event_id="000000104691915" series_key="">
+<programme start="20150803100000 -0300" stop="20150803130000 -0300" channel="959" program_id="0000323301" event_id="000000107482928" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2194,7 +2092,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717130000 -0300" stop="20150717160000 -0300" channel="959" program_id="0000323301" event_id="000000104691916" series_key="">
+<programme start="20150803130000 -0300" stop="20150803160000 -0300" channel="959" program_id="0000323301" event_id="000000107482929" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2212,7 +2110,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717160000 -0300" stop="20150717190000 -0300" channel="959" program_id="0000323301" event_id="000000104691917" series_key="">
+<programme start="20150803160000 -0300" stop="20150803190000 -0300" channel="959" program_id="0000323301" event_id="000000107482930" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2230,7 +2128,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717190000 -0300" stop="20150717220000 -0300" channel="959" program_id="0000323301" event_id="000000104691918" series_key="">
+<programme start="20150803190000 -0300" stop="20150803220000 -0300" channel="959" program_id="0000323301" event_id="000000107482931" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2248,7 +2146,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150717220000 -0300" stop="20150718010000 -0300" channel="959" program_id="0000323301" event_id="000000104691919" series_key="">
+<programme start="20150803220000 -0300" stop="20150804010000 -0300" channel="959" program_id="0000323301" event_id="000000107482932" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2266,7 +2164,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718010000 -0300" stop="20150718040000 -0300" channel="959" program_id="0000323301" event_id="000000104691920" series_key="">
+<programme start="20150804010000 -0300" stop="20150804040000 -0300" channel="959" program_id="0000323301" event_id="000000107482933" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2284,7 +2182,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718040000 -0300" stop="20150718070000 -0300" channel="959" program_id="0000323301" event_id="000000104691921" series_key="">
+<programme start="20150804040000 -0300" stop="20150804070000 -0300" channel="959" program_id="0000323301" event_id="000000107482934" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2302,7 +2200,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718070000 -0300" stop="20150718100000 -0300" channel="959" program_id="0000323301" event_id="000000104691922" series_key="">
+<programme start="20150804070000 -0300" stop="20150804100000 -0300" channel="959" program_id="0000323301" event_id="000000107482935" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2320,7 +2218,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718100000 -0300" stop="20150718130000 -0300" channel="959" program_id="0000323301" event_id="000000104691923" series_key="">
+<programme start="20150804100000 -0300" stop="20150804130000 -0300" channel="959" program_id="0000323301" event_id="000000107482936" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2338,7 +2236,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718130000 -0300" stop="20150718160000 -0300" channel="959" program_id="0000323301" event_id="000000104691924" series_key="">
+<programme start="20150804130000 -0300" stop="20150804160000 -0300" channel="959" program_id="0000323301" event_id="000000107482937" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2356,7 +2254,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718160000 -0300" stop="20150718190000 -0300" channel="959" program_id="0000323301" event_id="000000104691925" series_key="">
+<programme start="20150804160000 -0300" stop="20150804190000 -0300" channel="959" program_id="0000323301" event_id="000000107482938" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2374,7 +2272,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718190000 -0300" stop="20150718220000 -0300" channel="959" program_id="0000323301" event_id="000000104691926" series_key="">
+<programme start="20150804190000 -0300" stop="20150804220000 -0300" channel="959" program_id="0000323301" event_id="000000107482939" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2392,7 +2290,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150718220000 -0300" stop="20150719010000 -0300" channel="959" program_id="0000323301" event_id="000000104691927" series_key="">
+<programme start="20150804220000 -0300" stop="20150805010000 -0300" channel="959" program_id="0000323301" event_id="000000107482940" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2410,7 +2308,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719010000 -0300" stop="20150719040000 -0300" channel="959" program_id="0000323301" event_id="000000104691928" series_key="">
+<programme start="20150805010000 -0300" stop="20150805040000 -0300" channel="959" program_id="0000323301" event_id="000000107482941" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2428,7 +2326,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719040000 -0300" stop="20150719070000 -0300" channel="959" program_id="0000323301" event_id="000000104691929" series_key="">
+<programme start="20150805040000 -0300" stop="20150805070000 -0300" channel="959" program_id="0000323301" event_id="000000107482942" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2446,7 +2344,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719070000 -0300" stop="20150719100000 -0300" channel="959" program_id="0000323301" event_id="000000104691930" series_key="">
+<programme start="20150805070000 -0300" stop="20150805100000 -0300" channel="959" program_id="0000323301" event_id="000000107482943" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2464,7 +2362,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719100000 -0300" stop="20150719130000 -0300" channel="959" program_id="0000323301" event_id="000000104691931" series_key="">
+<programme start="20150805100000 -0300" stop="20150805130000 -0300" channel="959" program_id="0000323301" event_id="000000107482944" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2482,7 +2380,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719130000 -0300" stop="20150719160000 -0300" channel="959" program_id="0000323301" event_id="000000104691932" series_key="">
+<programme start="20150805130000 -0300" stop="20150805160000 -0300" channel="959" program_id="0000323301" event_id="000000107482945" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2500,7 +2398,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719160000 -0300" stop="20150719190000 -0300" channel="959" program_id="0000323301" event_id="000000104691933" series_key="">
+<programme start="20150805160000 -0300" stop="20150805190000 -0300" channel="959" program_id="0000323301" event_id="000000107482946" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2518,7 +2416,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719190000 -0300" stop="20150719220000 -0300" channel="959" program_id="0000323301" event_id="000000104691934" series_key="">
+<programme start="20150805190000 -0300" stop="20150805220000 -0300" channel="959" program_id="0000323301" event_id="000000107482947" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2536,7 +2434,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150719220000 -0300" stop="20150720010000 -0300" channel="959" program_id="0000323301" event_id="000000104691935" series_key="">
+<programme start="20150805220000 -0300" stop="20150806010000 -0300" channel="959" program_id="0000323301" event_id="000000107482948" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2554,7 +2452,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720010000 -0300" stop="20150720040000 -0300" channel="959" program_id="0000323301" event_id="000000104691936" series_key="">
+<programme start="20150806010000 -0300" stop="20150806040000 -0300" channel="959" program_id="0000323301" event_id="000000107482949" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2572,7 +2470,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720040000 -0300" stop="20150720070000 -0300" channel="959" program_id="0000323301" event_id="000000104691937" series_key="">
+<programme start="20150806040000 -0300" stop="20150806070000 -0300" channel="959" program_id="0000323301" event_id="000000107482950" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2590,7 +2488,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720070000 -0300" stop="20150720100000 -0300" channel="959" program_id="0000323301" event_id="000000104691938" series_key="">
+<programme start="20150806070000 -0300" stop="20150806100000 -0300" channel="959" program_id="0000323301" event_id="000000107482951" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2608,7 +2506,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720100000 -0300" stop="20150720130000 -0300" channel="959" program_id="0000323301" event_id="000000104691939" series_key="">
+<programme start="20150806100000 -0300" stop="20150806130000 -0300" channel="959" program_id="0000323301" event_id="000000107482952" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2626,7 +2524,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720130000 -0300" stop="20150720160000 -0300" channel="959" program_id="0000323301" event_id="000000104691940" series_key="">
+<programme start="20150806130000 -0300" stop="20150806160000 -0300" channel="959" program_id="0000323301" event_id="000000107482953" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2644,7 +2542,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720160000 -0300" stop="20150720190000 -0300" channel="959" program_id="0000323301" event_id="000000104691941" series_key="">
+<programme start="20150806160000 -0300" stop="20150806190000 -0300" channel="959" program_id="0000323301" event_id="000000107482954" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2662,7 +2560,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720190000 -0300" stop="20150720220000 -0300" channel="959" program_id="0000323301" event_id="000000104691942" series_key="">
+<programme start="20150806190000 -0300" stop="20150806220000 -0300" channel="959" program_id="0000323301" event_id="000000107482955" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2680,7 +2578,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150720220000 -0300" stop="20150721010000 -0300" channel="959" program_id="0000323301" event_id="000000104691943" series_key="">
+<programme start="20150806220000 -0300" stop="20150807010000 -0300" channel="959" program_id="0000323301" event_id="000000107482956" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2698,7 +2596,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721010000 -0300" stop="20150721040000 -0300" channel="959" program_id="0000323301" event_id="000000104691944" series_key="">
+<programme start="20150807010000 -0300" stop="20150807040000 -0300" channel="959" program_id="0000323301" event_id="000000107482957" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2716,7 +2614,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721040000 -0300" stop="20150721070000 -0300" channel="959" program_id="0000323301" event_id="000000104691945" series_key="">
+<programme start="20150807040000 -0300" stop="20150807070000 -0300" channel="959" program_id="0000323301" event_id="000000107482958" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2734,7 +2632,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721070000 -0300" stop="20150721100000 -0300" channel="959" program_id="0000323301" event_id="000000104691946" series_key="">
+<programme start="20150807070000 -0300" stop="20150807100000 -0300" channel="959" program_id="0000323301" event_id="000000107482959" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2752,7 +2650,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721100000 -0300" stop="20150721130000 -0300" channel="959" program_id="0000323301" event_id="000000104691947" series_key="">
+<programme start="20150807100000 -0300" stop="20150807130000 -0300" channel="959" program_id="0000323301" event_id="000000107482960" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2770,7 +2668,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721130000 -0300" stop="20150721160000 -0300" channel="959" program_id="0000323301" event_id="000000104691948" series_key="">
+<programme start="20150807130000 -0300" stop="20150807160000 -0300" channel="959" program_id="0000323301" event_id="000000107482961" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2788,7 +2686,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721160000 -0300" stop="20150721190000 -0300" channel="959" program_id="0000323301" event_id="000000104691949" series_key="">
+<programme start="20150807160000 -0300" stop="20150807190000 -0300" channel="959" program_id="0000323301" event_id="000000107482962" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2806,7 +2704,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721190000 -0300" stop="20150721220000 -0300" channel="959" program_id="0000323301" event_id="000000104691950" series_key="">
+<programme start="20150807190000 -0300" stop="20150807220000 -0300" channel="959" program_id="0000323301" event_id="000000107482963" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
@@ -2824,7 +2722,7 @@
 <value>Programa livre para todas as idades</value>
 </rating>
 </programme>
-<programme start="20150721220000 -0300" stop="20150722010000 -0300" channel="959" program_id="0000323301" event_id="000000104691951" series_key="">
+<programme start="20150807220000 -0300" stop="20150808010000 -0300" channel="959" program_id="0000323301" event_id="000000107482964" series_key="">
 <title lang="pt">Premiere HD 2</title>
 <desc>Canal dedicado a transmissão de jogos dos Campeonatos Regionais e Campeonato Brasileiro Série A e Série B.</desc>
 <category lang="pt">Esporte</category>
