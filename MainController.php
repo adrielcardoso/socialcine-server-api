@@ -29,70 +29,26 @@ Class MainController {
             );
         }
 
-//        foreach ($obj as $value) {
-//
-//            foreach ($value['obj'] as $single) {
-//
-//                $data = date('YmdHis');
-//
-//                if ($single['start_controll'] <= $data && $single['stop_controll'] >= $data) {
-//
-//                    $single['canal'] = $value['canal'];
-//                    $single['percentual'] = self::parsePersentual($single['start_controll'], $single['stop_controll']);
-//                    
-//                    //'percentual' => self::parsePersentual(self::xml_attribute($item, 'start'), self::xml_attribute($item, 'stop')),
-//
-//                    $agora_na_tv[] = $single;
-//
-//                    break;
-//                }
-//            }
-//        }
+        foreach ($obj as $value) {
 
-        $agora_na_tv = Array(0 => Array(
-                "titulo_pt" => "Cruzada",
-                "start" => "20h05 10/07/2015",
-                "stop" => "22h30 10/07/2015",
-                "channel" => "cfx",
-                "subTitulo" => "askjdhajksdhjkasd",
-                "programacaoId" => "565645646",
-                "descricao" => "Um homem comum lançado em uma guerra. Estranho em terra estranha, ele serve a um rei maldito, se apaixona por uma rainha e se torna um cavaleiro. Ele deve proteger um povo, enquanto tenta manter uma paz cada vez mais frágil.",
-                "canal" => "cfx",
-                "percentual" => "20",
-            ),
-            1 => Array(
-                "titulo_pt" => "Os Simpsons",
-                "start" => "22h00 10/07/2015",
-                "stop" => "22h30 10/07/2015",
-                "channel" => "fox",
-                "subTitulo" => "Temp. 10 - Ep. 3",
-                "programacaoId" => "565645646",
-                "descricao" => "Lisa se arrepende de ter colado em uma prova. Homer acredita que irá economizar uma fortuna criando sua própria lagosta.",
-                "canal" => "fox",
-                "percentual" => "70",)
-            ,
-            2 => Array(
-                "titulo_pt" => "Os Simpsons",
-                "start" => "22h00 10/07/2015",
-                "stop" => "22h30 10/07/2015",
-                "channel" => "fox",
-                "subTitulo" => "Temp. 10 - Ep. 3",
-                "programacaoId" => "565645646",
-                "descricao" => "Lisa se arrepende de ter colado em uma prova. Homer acredita que irá economizar uma fortuna criando sua própria lagosta.",
-                "canal" => "fox",
-                "percentual" => "70",)
-            ,
-            3 => Array(
-                "titulo_pt" => "Os Simpsons",
-                "start" => "22h00 10/07/2015",
-                "stop" => "22h30 10/07/2015",
-                "channel" => "fox",
-                "subTitulo" => "Temp. 10 - Ep. 3",
-                "programacaoId" => "565645646",
-                "descricao" => "Lisa se arrepende de ter colado em uma prova. Homer acredita que irá economizar uma fortuna criando sua própria lagosta.",
-                "canal" => "fox",
-                "percentual" => "70",)
-        );
+            foreach ($value['obj'] as $single) {
+
+                $data = date('YmdHis');
+//
+                if ($single['start_controll'] <= $data && $single['stop_controll'] >= $data) {
+//
+                    $single['canal'] = $value['canal'];
+                    $single['percentual'] = self::parsePersentual($single['start_controll'], $single['stop_controll']);
+//                    
+                    'percentual' => self::parsePersentual(self::xml_attribute($item, 'start'), self::xml_attribute($item, 'stop')),
+
+                    $agora_na_tv[] = $single;
+//
+                    break;
+                }
+            }
+        }
+
 
         echo json_encode($agora_na_tv);
     }
